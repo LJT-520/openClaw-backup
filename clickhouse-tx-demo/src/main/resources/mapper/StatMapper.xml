@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.clickhouse.mapper.StatMapper">
+
+    <!-- ClickHouse 风格的删除 -->
+    <delete id="alterDelete">
+        ALTER TABLE tb_stat DELETE WHERE id = #{id}
+    </delete>
+
+    <!-- ClickHouse 风格的更新 -->
+    <!-- 注意：不能更新排序键字段 (stat_date, region, group) -->
+    <update id="alterUpdate">
+        ALTER TABLE tb_stat 
+        UPDATE 
+            yesterday = #{yesterday},
+            today = #{today}
+        WHERE id = #{id}
+    </update>
+
+</mapper>

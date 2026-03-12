@@ -1,0 +1,7 @@
+D:\OpenClaw\workspace\clickhouse-tx-demo\src\main\java\com\example\clickhouse\controller\StatController.java
+D:\OpenClaw\workspace\clickhouse-tx-demo\src\main\java\com\example\clickhouse\mapper\StatMapper.java
+D:\OpenClaw\workspace\clickhouse-tx-demo\src\main\java\com\example\clickhouse\entity\Stat.java
+D:\OpenClaw\workspace\clickhouse-tx-demo\src\main\java\com\example\clickhouse\config\DruidConfig.java
+D:\OpenClaw\workspace\clickhouse-tx-demo\src\main\java\com\example\clickhouse\ClickHouseTxDemoApplication.java
+D:\OpenClaw\workspace\clickhouse-tx-demo\src\main\java\com\example\clickhouse\service\impl\StatServiceImpl.java
+D:\OpenClaw\workspace\clickhouse-tx-demo\src\main\java\com\example\clickhouse\service\IStatService.java
