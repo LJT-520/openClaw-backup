@@ -1,0 +1,8 @@
+node_modules/
+.openclaw/
+.clawhub/
+BACKUPS/
+.git/
+__pycache__/
+*.pyc
+.DS_Store
