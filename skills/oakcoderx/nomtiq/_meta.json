@@ -1,0 +1,17 @@
+{
+  "owner": "oakcoderx",
+  "slug": "nomtiq",
+  "displayName": "Nomtiq",
+  "latest": {
+    "version": "0.4.5",
+    "publishedAt": 1772023186753,
+    "commit": "https://github.com/openclaw/skills/commit/ca218a7ba7aa7661c2d8607651e2f99621e06cce"
+  },
+  "history": [
+    {
+      "version": "0.4.2",
+      "publishedAt": 1771911338573,
+      "commit": "https://github.com/openclaw/skills/commit/721bc371491064266e7d6d4f193d9660f4bd90a9"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "dragon015",
+  "slug": "dragon-wechat-mcp",
+  "displayName": "微信MCP",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772352565748,
+    "commit": "https://github.com/openclaw/skills/commit/825ddfa6cde2e9fa53ceb8c7ebe928914491fa91"
+  },
+  "history": []
+}

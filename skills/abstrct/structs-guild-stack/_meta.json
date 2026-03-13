@@ -1,0 +1,11 @@
+{
+  "owner": "abstrct",
+  "slug": "structs-guild-stack",
+  "displayName": "Structs Guild Stack",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772479271248,
+    "commit": "https://github.com/openclaw/skills/commit/e72b577b7a9b2f90cddfbc157da0e605c196a910"
+  },
+  "history": []
+}

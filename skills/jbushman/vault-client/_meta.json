@@ -1,0 +1,11 @@
+{
+  "owner": "jbushman",
+  "slug": "vault-client",
+  "displayName": "Vault Client",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772539996190,
+    "commit": "https://github.com/openclaw/skills/commit/56e6a6920b37fbd09210c349e21d129dbdfffbb9"
+  },
+  "history": []
+}

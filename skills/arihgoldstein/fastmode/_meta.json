@@ -1,0 +1,17 @@
+{
+  "owner": "arihgoldstein",
+  "slug": "fastmode",
+  "displayName": "FastMode CMS - Host, Deploy, Manage Websites for Free",
+  "latest": {
+    "version": "1.5.3",
+    "publishedAt": 1771867268636,
+    "commit": "https://github.com/openclaw/skills/commit/0c1608f8753c76f5ca719fd29b053672e92d362d"
+  },
+  "history": [
+    {
+      "version": "1.4.2",
+      "publishedAt": 1771483943217,
+      "commit": "https://github.com/openclaw/skills/commit/cc0c89ac4673240ff819213bbcb413a059517bba"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "furoxr",
+  "slug": "taco",
+  "displayName": "Taco Connector",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772613998890,
+    "commit": "https://github.com/openclaw/skills/commit/33600abb72f3d4ab4108ee96aef3e4dd9e0a448f"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ok-james-01",
+  "slug": "okx-onchain-gateway",
+  "displayName": "Okx Onchain Gateway",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772534140660,
+    "commit": "https://github.com/openclaw/skills/commit/cb2ec312ff07d054c69f5b22e66bfbd3d861d013"
+  },
+  "history": []
+}

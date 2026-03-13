@@ -1,0 +1,11 @@
+{
+  "owner": "bigedsherer-ctrl",
+  "slug": "market-structure-scan",
+  "displayName": "Market Structure Scan",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772203856460,
+    "commit": "https://github.com/openclaw/skills/commit/571a1fc512804288e14ae99e8ebe22867204b315"
+  },
+  "history": []
+}

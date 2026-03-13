@@ -1,0 +1,11 @@
+{
+  "owner": "camopel",
+  "slug": "privateapp",
+  "displayName": "Private Web App (PWA)",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771809459798,
+    "commit": "https://github.com/openclaw/skills/commit/6ff9c4790a14ff711cc02e35b8c122bc2d33912e"
+  },
+  "history": []
+}

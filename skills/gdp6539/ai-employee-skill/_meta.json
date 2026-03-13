@@ -1,0 +1,11 @@
+{
+  "owner": "gdp6539",
+  "slug": "ai-employee-skill",
+  "displayName": "AI员工协作技能包",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772462804099,
+    "commit": "https://github.com/openclaw/skills/commit/1af830ba0baf8258cea15d3480bd8e26d52fe857"
+  },
+  "history": []
+}

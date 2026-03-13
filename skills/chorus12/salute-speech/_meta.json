@@ -1,0 +1,11 @@
+{
+  "owner": "chorus12",
+  "slug": "salute-speech",
+  "displayName": "salute speech",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771510768890,
+    "commit": "https://github.com/openclaw/skills/commit/0e733e3a1213df435b34b6cd3bf040929013c003"
+  },
+  "history": []
+}

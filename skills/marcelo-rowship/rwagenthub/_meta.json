@@ -1,0 +1,22 @@
+{
+  "owner": "marcelo-rowship",
+  "slug": "rwagenthub",
+  "displayName": "Agenthub",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772660999886,
+    "commit": "https://github.com/openclaw/skills/commit/cdf87812affec4277819f04abe81b4872e8a6212"
+  },
+  "history": [
+    {
+      "version": "1.5.5",
+      "publishedAt": 1772637141156,
+      "commit": "https://github.com/openclaw/skills/commit/a74c2e97b0ab2f5285cfdc82011b7af7f56e5114"
+    },
+    {
+      "version": "1.5.4",
+      "publishedAt": 1772634446339,
+      "commit": "https://github.com/openclaw/skills/commit/b2b5990e46bb15936f8956b7dc886a490c6293bb"
+    }
+  ]
+}

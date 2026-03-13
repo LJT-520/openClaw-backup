@@ -1,0 +1,11 @@
+{
+  "owner": "linglin6",
+  "slug": "agent-evolution",
+  "displayName": "Agent Evolution",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772334705849,
+    "commit": "https://github.com/openclaw/skills/commit/31ba003d90a210ecba00b4e68670f1221d501421"
+  },
+  "history": []
+}

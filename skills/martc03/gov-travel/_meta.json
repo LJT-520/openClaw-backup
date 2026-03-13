@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-travel",
+  "displayName": "Gov Travel",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772211281374,
+    "commit": "https://github.com/openclaw/skills/commit/bfe062f5984e45b69b6b69ff4e85d5254621f375"
+  },
+  "history": []
+}

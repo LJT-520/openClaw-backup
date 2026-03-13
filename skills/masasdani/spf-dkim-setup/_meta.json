@@ -1,0 +1,11 @@
+{
+  "owner": "masasdani",
+  "slug": "spf-dkim-setup",
+  "displayName": "SPF DKIM Setup",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771830782838,
+    "commit": "https://github.com/openclaw/skills/commit/ee6d51fdb48394d33eab936d56f6e2394502caf8"
+  },
+  "history": []
+}

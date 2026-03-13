@@ -1,0 +1,11 @@
+{
+  "owner": "0x5446",
+  "slug": "ohmytoken",
+  "displayName": "ohmytoken",
+  "latest": {
+    "version": "2.0.3",
+    "publishedAt": 1772168923368,
+    "commit": "https://github.com/openclaw/skills/commit/95d1126db54f769c0dcde3dd94b1551878ba2f8c"
+  },
+  "history": []
+}

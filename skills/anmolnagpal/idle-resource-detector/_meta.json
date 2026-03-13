@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "idle-resource-detector",
+  "displayName": "Idle Resource Detector",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772341741558,
+    "commit": "https://github.com/openclaw/skills/commit/3b87d31af5eda1e056041d536e3a2eadc66c3175"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "boston",
+  "displayName": "Boston",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771541529785,
+    "commit": "https://github.com/openclaw/skills/commit/c8606439cfaedd71cf554ce0c68eb65fec7d9d86"
+  },
+  "history": []
+}

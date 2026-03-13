@@ -1,0 +1,11 @@
+{
+  "owner": "alexpolonsky",
+  "slug": "libby-book-monitor",
+  "displayName": "libby-book-monitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771625722029,
+    "commit": "https://github.com/openclaw/skills/commit/b830721e4c3fa1261c4b4ad725af0fd8edc7f332"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "lava-chen",
+  "slug": "bili-summary",
+  "displayName": "Bili Summary",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772118835670,
+    "commit": "https://github.com/openclaw/skills/commit/6e64015e04bd292b410348a7b26b65bb655c8164"
+  },
+  "history": []
+}

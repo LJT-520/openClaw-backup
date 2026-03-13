@@ -1,0 +1,11 @@
+{
+  "owner": "dragon015",
+  "slug": "dragon-content-gen",
+  "displayName": "内容生成技能包",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772352542113,
+    "commit": "https://github.com/openclaw/skills/commit/cba04b4921cc71591c5ea156c678ccb753b2fa63"
+  },
+  "history": []
+}

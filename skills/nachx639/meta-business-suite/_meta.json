@@ -1,0 +1,17 @@
+{
+  "owner": "nachx639",
+  "slug": "meta-business-suite",
+  "displayName": "Meta Business Suite",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1771801505005,
+    "commit": "https://github.com/openclaw/skills/commit/e3a7b283e35c7ea6eccaa6ad27fa88f4736dd90a"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771796684205,
+      "commit": "https://github.com/openclaw/skills/commit/25071c5179ef4fa94192c69d214817540bd3c60a"
+    }
+  ]
+}

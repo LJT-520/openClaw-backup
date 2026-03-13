@@ -1,0 +1,11 @@
+{
+  "owner": "evolinkai",
+  "slug": "evolink-music",
+  "displayName": "Evolink Music — AI Music Generation (Suno v4/v4.5/v5)",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772129819295,
+    "commit": "https://github.com/openclaw/skills/commit/ed035bab7529b1d55e4c652d0018e3b6fd310c05"
+  },
+  "history": []
+}

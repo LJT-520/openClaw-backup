@@ -1,0 +1,11 @@
+{
+  "owner": "broedkrummen",
+  "slug": "danish-news-feeds",
+  "displayName": "Danish News Feeds",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772631878941,
+    "commit": "https://github.com/openclaw/skills/commit/4ee5704f0fc24a71148e1cf7a751d242b9718010"
+  },
+  "history": []
+}

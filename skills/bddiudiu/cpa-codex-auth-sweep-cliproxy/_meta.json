@@ -1,0 +1,17 @@
+{
+  "owner": "bddiudiu",
+  "slug": "cpa-codex-auth-sweep-cliproxy",
+  "displayName": "cpa-codex-auth-sweep-cliproxy",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772602594687,
+    "commit": "https://github.com/openclaw/skills/commit/1e367654abb282d7fa89d65e5d76b557e7ba19e4"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772507256698,
+      "commit": "https://github.com/openclaw/skills/commit/764f86b7db6fee1912d598acc39e9aa3850786a0"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "bosn",
+  "slug": "zero",
+  "displayName": "Zero TiDB(Deprecated)",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772253686538,
+    "commit": "https://github.com/openclaw/skills/commit/e2fa7ea34a7b48073d7c76499a65f9ba7b83ed39"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771819475252,
+      "commit": "https://github.com/openclaw/skills/commit/d0ccb9009f56006f46871704ddc5cef9d36abac7"
+    }
+  ]
+}

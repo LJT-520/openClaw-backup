@@ -1,0 +1,11 @@
+{
+  "owner": "donovanpankratz-del",
+  "slug": "workspace-organization",
+  "displayName": "Workspace Organization - Automated Health Checks",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771998671151,
+    "commit": "https://github.com/openclaw/skills/commit/3dc201c29368dde801ab1c7dd19db1f02af31e44"
+  },
+  "history": []
+}

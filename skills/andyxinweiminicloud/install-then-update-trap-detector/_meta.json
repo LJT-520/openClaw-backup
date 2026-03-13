@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "install-then-update-trap-detector",
+  "displayName": "Install Then Update Trap Detector",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771988649978,
+    "commit": "https://github.com/openclaw/skills/commit/f9c55958e830e2e9fe7f242ce0a75d8f1dde3a11"
+  },
+  "history": []
+}

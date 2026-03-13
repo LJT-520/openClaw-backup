@@ -1,0 +1,17 @@
+{
+  "owner": "cwyhkyochen-a11y",
+  "slug": "content-ops",
+  "displayName": "Content Ops",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772353464152,
+    "commit": "https://github.com/openclaw/skills/commit/b54fa99c474b52e6ea51bafcf27d24cc10cc347c"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772353159865,
+      "commit": "https://github.com/openclaw/skills/commit/0a4bb809b6ad139fe2016a06b92a6fa6c88695ab"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "davincievans",
+  "slug": "bilibili-subtitle-download-skill",
+  "displayName": "Bilibili Subtitle Downloader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771605379570,
+    "commit": "https://github.com/openclaw/skills/commit/f9c78124b405c8dba80afb7c127ac1a75a56c579"
+  },
+  "history": []
+}

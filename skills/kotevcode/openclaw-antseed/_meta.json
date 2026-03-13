@@ -1,0 +1,11 @@
+{
+  "owner": "kotevcode",
+  "slug": "openclaw-antseed",
+  "displayName": "OpenClaw AntSeed",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772120643547,
+    "commit": "https://github.com/openclaw/skills/commit/b3bcb58f537883296c3b4044739442b3abf53e1f"
+  },
+  "history": []
+}

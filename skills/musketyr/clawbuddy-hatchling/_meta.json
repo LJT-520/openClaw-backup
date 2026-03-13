@@ -1,0 +1,27 @@
+{
+  "owner": "musketyr",
+  "slug": "clawbuddy-hatchling",
+  "displayName": "ClawBuddy Hatchling",
+  "latest": {
+    "version": "3.0.4",
+    "publishedAt": 1772255580872,
+    "commit": "https://github.com/openclaw/skills/commit/85dc589530e4544c9bce052f7bbc350fcb2d0b3e"
+  },
+  "history": [
+    {
+      "version": "3.0.1",
+      "publishedAt": 1772039123094,
+      "commit": "https://github.com/openclaw/skills/commit/77ed88dea01310fbaadccac04e3fcee250b20cd0"
+    },
+    {
+      "version": "2.0.7",
+      "publishedAt": 1771772832216,
+      "commit": "https://github.com/openclaw/skills/commit/c66c945ce293acfca76dd7574bb3707c02d75eb0"
+    },
+    {
+      "version": "2.0.4",
+      "publishedAt": 1771743621019,
+      "commit": "https://github.com/openclaw/skills/commit/60fd26a82b95c89023e12f036747b3d4c3be4532"
+    }
+  ]
+}

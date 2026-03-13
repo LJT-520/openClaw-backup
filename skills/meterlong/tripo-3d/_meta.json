@@ -1,0 +1,11 @@
+{
+  "owner": "meterlong",
+  "slug": "tripo-3d",
+  "displayName": "Tripo 3d",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1772347145003,
+    "commit": "https://github.com/openclaw/skills/commit/c112179514dd38e9212e0eac6dae276b39ff00c9"
+  },
+  "history": []
+}

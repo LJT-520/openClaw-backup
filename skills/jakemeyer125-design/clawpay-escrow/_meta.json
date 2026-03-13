@@ -1,0 +1,11 @@
+{
+  "owner": "jakemeyer125-design",
+  "slug": "clawpay-escrow",
+  "displayName": "ClawPay Escrow",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771786241528,
+    "commit": "https://github.com/openclaw/skills/commit/a73c67b6ca0e37d5785d5969395b9fb2794e1e96"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "angelstreet",
+  "slug": "clawsgames",
+  "displayName": "ClawsGames",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772435821845,
+    "commit": "https://github.com/openclaw/skills/commit/8e93edbcb1820ae22fae9bb9c89a356842fc8304"
+  },
+  "history": []
+}

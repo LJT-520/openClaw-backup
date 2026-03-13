@@ -1,0 +1,32 @@
+{
+  "owner": "jonathanjing",
+  "slug": "glass2claw",
+  "displayName": "glass2claw",
+  "latest": {
+    "version": "2.3.3",
+    "publishedAt": 1772586362824,
+    "commit": "https://github.com/openclaw/skills/commit/cf3fa1f2e82b444b18768e788abd9abded430097"
+  },
+  "history": [
+    {
+      "version": "2.3.1",
+      "publishedAt": 1772253423198,
+      "commit": "https://github.com/openclaw/skills/commit/7f22f752e520a8e6c6ca44edbcb4d2a779b54895"
+    },
+    {
+      "version": "2.3.0",
+      "publishedAt": 1772253399697,
+      "commit": "https://github.com/openclaw/skills/commit/dbba7b09ce3a1b7677bd96dc193776437207aeda"
+    },
+    {
+      "version": "1.5.0",
+      "publishedAt": 1771723762536,
+      "commit": "https://github.com/openclaw/skills/commit/f38e323f908e5fd3069984424bb3f599894e2ec7"
+    },
+    {
+      "version": "1.4.3",
+      "publishedAt": 1771561353125,
+      "commit": "https://github.com/openclaw/skills/commit/58f79ab74af06d850e4a26e548d385df5fc54e10"
+    }
+  ]
+}

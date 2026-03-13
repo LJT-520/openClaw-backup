@@ -1,0 +1,11 @@
+{
+  "owner": "gpiox",
+  "slug": "paper-pdf-two-pass-review",
+  "displayName": "PaperRead-Skills",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772347194030,
+    "commit": "https://github.com/openclaw/skills/commit/7e7112f33d47c708bce8406074c278ebf1d32d88"
+  },
+  "history": []
+}

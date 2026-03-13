@@ -1,0 +1,11 @@
+{
+  "owner": "guoway",
+  "slug": "redmine-issue",
+  "displayName": "Redmine Issue",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771592241399,
+    "commit": "https://github.com/openclaw/skills/commit/56f79053913d885df3c5f0044f58d391cf066f23"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "neuralshift1",
+  "slug": "iblai-openclaw-router",
+  "displayName": "Iblai Openclaw Router",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771574949109,
+    "commit": "https://github.com/openclaw/skills/commit/1720c3197beb54ceda6d99151779b8fc5c048b1b"
+  },
+  "history": []
+}

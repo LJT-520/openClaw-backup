@@ -1,0 +1,11 @@
+{
+  "owner": "luis2404123",
+  "slug": "google-maps-leads",
+  "displayName": "Google Maps Leads",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772555550421,
+    "commit": "https://github.com/openclaw/skills/commit/244db80f404208f01c4d2abdba94f76720a31cb8"
+  },
+  "history": []
+}

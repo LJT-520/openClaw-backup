@@ -1,0 +1,11 @@
+{
+  "owner": "cowtamer",
+  "slug": "automatic-website-builder",
+  "displayName": "Build Websites while you Sleep",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772355415496,
+    "commit": "https://github.com/openclaw/skills/commit/83badf0fc946f26b713684115f97596395fc1e93"
+  },
+  "history": []
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "kernel1983",
+  "slug": "w3connect",
+  "displayName": "W3connect",
+  "latest": {
+    "version": "0.3.0",
+    "publishedAt": 1772117356485,
+    "commit": "https://github.com/openclaw/skills/commit/5ea0e74666d245b6df4f4ba910838a300949e047"
+  },
+  "history": [
+    {
+      "version": "0.2.0",
+      "publishedAt": 1771942856838,
+      "commit": "https://github.com/openclaw/skills/commit/a56504c89ba346ab0cee444e309c809dfcd15985"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771478567199,
+      "commit": "https://github.com/openclaw/skills/commit/d14dcca540ab3476ff70347cafdbfb00d8b99e03"
+    }
+  ]
+}

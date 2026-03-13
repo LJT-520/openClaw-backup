@@ -1,0 +1,17 @@
+{
+  "owner": "launchthatbot",
+  "slug": "launchthatbot-git-team-ops",
+  "displayName": "Launchthatbot Git Team Ops",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772041010346,
+    "commit": "https://github.com/openclaw/skills/commit/4fbb0fe783397610acfcb56f5d649e40515f07b7"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771984056057,
+      "commit": "https://github.com/openclaw/skills/commit/fc8b79cdc16854b99e810812713f5c75b4f71fe5"
+    }
+  ]
+}

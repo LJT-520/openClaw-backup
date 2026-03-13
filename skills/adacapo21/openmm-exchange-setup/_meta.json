@@ -1,0 +1,11 @@
+{
+  "owner": "adacapo21",
+  "slug": "openmm-exchange-setup",
+  "displayName": "OpenMM Exchange Setup",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772037521360,
+    "commit": "https://github.com/openclaw/skills/commit/b1b9abd20fb6ed19153ba87fb444adc6ec566c59"
+  },
+  "history": []
+}

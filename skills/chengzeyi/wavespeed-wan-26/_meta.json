@@ -1,0 +1,11 @@
+{
+  "owner": "chengzeyi",
+  "slug": "wavespeed-wan-26",
+  "displayName": "WaveSpeedAI Wan 2.6 Video Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772421953712,
+    "commit": "https://github.com/openclaw/skills/commit/34f969b1e882f225b2cefdae5d8564a7344e2c54"
+  },
+  "history": []
+}

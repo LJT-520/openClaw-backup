@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-veterinary-practice",
+  "displayName": "Veterinary Practice Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772052337592,
+    "commit": "https://github.com/openclaw/skills/commit/f8fa46c76198f0d9e53e6fbb184ee1825a7489f7"
+  },
+  "history": []
+}

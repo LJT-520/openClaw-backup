@@ -1,0 +1,17 @@
+{
+  "owner": "heimo-he",
+  "slug": "feishu-chat",
+  "displayName": "Feishu Chat",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772526901191,
+    "commit": "https://github.com/openclaw/skills/commit/46ff4c5ad7c37e7c5bc1c908929181f519fe403f"
+  },
+  "history": [
+    {
+      "version": "1.0.8",
+      "publishedAt": 1772269931833,
+      "commit": "https://github.com/openclaw/skills/commit/43ca75835304b44b846bb1a47f35b3b7d3d7c173"
+    }
+  ]
+}

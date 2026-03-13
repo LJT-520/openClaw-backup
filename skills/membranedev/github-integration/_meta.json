@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "github-integration",
+  "displayName": "Github",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772585135857,
+    "commit": "https://github.com/openclaw/skills/commit/6fc2df0e53289061c1ccd2d8ed88fa0c270927c7"
+  },
+  "history": []
+}

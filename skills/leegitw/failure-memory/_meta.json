@@ -1,0 +1,27 @@
+{
+  "owner": "leegitw",
+  "slug": "failure-memory",
+  "displayName": "Failure Memory",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1771894024907,
+    "commit": "https://github.com/openclaw/skills/commit/2f0055ef9c89be19d21b211a827dc0e747c94e1f"
+  },
+  "history": [
+    {
+      "version": "1.4.0",
+      "publishedAt": 1771540457726,
+      "commit": "https://github.com/openclaw/skills/commit/b685751bcd7a8f27f108c9f9d2cc6d5a20594e85"
+    },
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771469586862,
+      "commit": "https://github.com/openclaw/skills/commit/140b14bb195af8a7997ff75832c0a48afc1c4fe7"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771456415629,
+      "commit": "https://github.com/openclaw/skills/commit/87223307eb2d5de231a1290d2457bfacc72045bf"
+    }
+  ]
+}

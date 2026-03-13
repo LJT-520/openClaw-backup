@@ -1,0 +1,47 @@
+{
+  "owner": "glitch003",
+  "slug": "vincent-brave-search",
+  "displayName": "Vincent - Brave Search",
+  "latest": {
+    "version": "1.0.62",
+    "publishedAt": 1772161550594,
+    "commit": "https://github.com/openclaw/skills/commit/ae5e9e6c4f2d251d937ed3fb8e52322b426ad078"
+  },
+  "history": [
+    {
+      "version": "1.0.60",
+      "publishedAt": 1771982084779,
+      "commit": "https://github.com/openclaw/skills/commit/efb4bf756eae081ceda35887f366666ec08afab5"
+    },
+    {
+      "version": "1.0.54",
+      "publishedAt": 1771729920623,
+      "commit": "https://github.com/openclaw/skills/commit/38a587ed27500803a590249830f16dc7599f25f5"
+    },
+    {
+      "version": "1.0.48",
+      "publishedAt": 1771670019256,
+      "commit": "https://github.com/openclaw/skills/commit/3c9521ad3df56951423940d1adc66b06e7d72673"
+    },
+    {
+      "version": "1.0.43",
+      "publishedAt": 1771471370561,
+      "commit": "https://github.com/openclaw/skills/commit/e7bc61a5e076182934c0dd67ac19315a8aeb3dd4"
+    },
+    {
+      "version": "1.0.42",
+      "publishedAt": 1771461642125,
+      "commit": "https://github.com/openclaw/skills/commit/3265d731b46e5b33aebd8f9cfdc5e39ee3c7381c"
+    },
+    {
+      "version": "1.0.40",
+      "publishedAt": 1771454122611,
+      "commit": "https://github.com/openclaw/skills/commit/f703b193d09e9131804d9616199b8febd0f5959d"
+    },
+    {
+      "version": "1.0.37",
+      "publishedAt": 1771196961481,
+      "commit": "https://github.com/openclaw/skills/commit/51fe3681a8af51ded44cf0e68352921037ced107"
+    }
+  ]
+}

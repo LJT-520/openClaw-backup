@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "attio-integration",
+  "displayName": "Attio",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772607714110,
+    "commit": "https://github.com/openclaw/skills/commit/c91787d907a1bb10bd12c1463576f8f30586fa42"
+  },
+  "history": []
+}

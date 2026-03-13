@@ -1,0 +1,11 @@
+{
+  "owner": "jiachenz",
+  "slug": "huaweicloud-skill",
+  "displayName": "Huaweicloud",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771947742281,
+    "commit": "https://github.com/openclaw/skills/commit/841b5a224837125e623f5cb834759b4f8d37cc04"
+  },
+  "history": []
+}

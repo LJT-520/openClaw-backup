@@ -1,0 +1,11 @@
+{
+  "owner": "honeybee1130",
+  "slug": "openclaw-janitor",
+  "displayName": "Janitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771922721561,
+    "commit": "https://github.com/openclaw/skills/commit/87c2ff79ccaf5f987338864a0a2e196dec6038a5"
+  },
+  "history": []
+}

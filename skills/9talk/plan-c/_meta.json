@@ -1,0 +1,17 @@
+{
+  "owner": "9talk",
+  "slug": "plan-c",
+  "displayName": "Plan C",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772533310651,
+    "commit": "https://github.com/openclaw/skills/commit/d7bc7105a4643b8e07d0e914e5320b7ef1ee1381"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772519830901,
+      "commit": "https://github.com/openclaw/skills/commit/cfdd6ca7e01e91e3e572866f733ad14eec12f88d"
+    }
+  ]
+}

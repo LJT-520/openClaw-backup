@@ -1,0 +1,11 @@
+{
+  "owner": "donovanpankratz-del",
+  "slug": "intent-engineering",
+  "displayName": "Intent Engineering - Make Agents Optimize for What You Actually Want",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772003176003,
+    "commit": "https://github.com/openclaw/skills/commit/9cb176de8be682f7486909857ea751c660c39160"
+  },
+  "history": []
+}

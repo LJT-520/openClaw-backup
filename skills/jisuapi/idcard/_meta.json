@@ -1,0 +1,11 @@
+{
+  "owner": "jisuapi",
+  "slug": "idcard",
+  "displayName": "身份证号码归属地查询 - Chinese ID Card Number Origin Query",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772604111462,
+    "commit": "https://github.com/openclaw/skills/commit/7934a61c7309bad394f8ec4d1c641ab277345302"
+  },
+  "history": []
+}

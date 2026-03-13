@@ -1,0 +1,11 @@
+{
+  "owner": "eyedark",
+  "slug": "gemini-painter",
+  "displayName": "Gemini Painter",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771923020470,
+    "commit": "https://github.com/openclaw/skills/commit/4449776eae900b24d85eedc5021a974cddc34967"
+  },
+  "history": []
+}

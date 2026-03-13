@@ -1,0 +1,11 @@
+{
+  "owner": "ian-at",
+  "slug": "memori-extension",
+  "displayName": "memori-extension",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772435260400,
+    "commit": "https://github.com/openclaw/skills/commit/eeb8218edb572184f2754fc59904dacdfa901c2b"
+  },
+  "history": []
+}

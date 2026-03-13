@@ -1,0 +1,11 @@
+{
+  "owner": "casperaiassist",
+  "slug": "postwall",
+  "displayName": "Postwall",
+  "latest": {
+    "version": "1.7.0",
+    "publishedAt": 1771666878752,
+    "commit": "https://github.com/openclaw/skills/commit/43cc0b81dbdbbf54a7ba650fa9858ceba60b804a"
+  },
+  "history": []
+}

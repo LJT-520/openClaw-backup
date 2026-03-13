@@ -1,0 +1,11 @@
+{
+  "owner": "diankourenxia",
+  "slug": "wodeapp-ai",
+  "displayName": "WodeApp AI Engine",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772630549970,
+    "commit": "https://github.com/openclaw/skills/commit/c544245a4a5d4c8368bfbd2e7208d124bcf600a2"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "brorlandi",
+  "slug": "openclaw-youtube-upload",
+  "displayName": "OpenClaw YouTube Upload",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772304534577,
+    "commit": "https://github.com/openclaw/skills/commit/93b6b3c39f0772a748b6e0a974b154f913b59975"
+  },
+  "history": []
+}

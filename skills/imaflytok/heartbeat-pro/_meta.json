@@ -1,0 +1,17 @@
+{
+  "owner": "imaflytok",
+  "slug": "heartbeat-pro",
+  "displayName": "Heartbeat Pro",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772384516136,
+    "commit": "https://github.com/openclaw/skills/commit/b163564bd8dc036fb9dfd57cd712b2cde4ddf462"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772378553073,
+      "commit": "https://github.com/openclaw/skills/commit/c75e2633019788e8916a1f74097d0fc8bbb59d07"
+    }
+  ]
+}

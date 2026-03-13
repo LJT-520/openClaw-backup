@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "fastapi-studio-template",
+  "displayName": "Fastapi Studio Template",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772145088903,
+    "commit": "https://github.com/openclaw/skills/commit/3c609312bd26c0b3f3ec0b483c45a2c316fb4c70"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "brainsoft-raxat",
+  "slug": "stravacli",
+  "displayName": "Strava CLI Skill",
+  "latest": {
+    "version": "2.2.98",
+    "publishedAt": 1772447036226,
+    "commit": "https://github.com/openclaw/skills/commit/ad899e91d52ce176c09f980d4c151d9519a043ca"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771684650312,
+      "commit": "https://github.com/openclaw/skills/commit/92b548f44f6c6ababd6a8f5058954e299bc32b70"
+    }
+  ]
+}

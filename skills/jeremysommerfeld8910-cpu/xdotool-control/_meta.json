@@ -1,0 +1,11 @@
+{
+  "owner": "jeremysommerfeld8910-cpu",
+  "slug": "xdotool-control",
+  "displayName": "Xdotool Control",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771804875074,
+    "commit": "https://github.com/openclaw/skills/commit/bda5094022a4861746cd163c7f4f682dc4dbe1fd"
+  },
+  "history": []
+}

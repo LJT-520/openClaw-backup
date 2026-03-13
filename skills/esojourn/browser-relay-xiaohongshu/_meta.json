@@ -1,0 +1,11 @@
+{
+  "owner": "esojourn",
+  "slug": "browser-relay-xiaohongshu",
+  "displayName": "Browser Relay",
+  "latest": {
+    "version": "0.2.2",
+    "publishedAt": 1771510026099,
+    "commit": "https://github.com/openclaw/skills/commit/1610939c13347ced156dd95c13a5ac07c4b6f281"
+  },
+  "history": []
+}

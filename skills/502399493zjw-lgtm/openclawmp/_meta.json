@@ -1,0 +1,11 @@
+{
+  "owner": "502399493zjw-lgtm",
+  "slug": "openclawmp",
+  "displayName": "OpenClawMP",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1771891002676,
+    "commit": "https://github.com/openclaw/skills/commit/6d3bd11ee80d30f8040286e36f1b2fd97e8eb4f8"
+  },
+  "history": []
+}

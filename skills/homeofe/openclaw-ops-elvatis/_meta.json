@@ -1,0 +1,11 @@
+{
+  "owner": "homeofe",
+  "slug": "openclaw-ops-elvatis",
+  "displayName": "OpenClaw Ops",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1772282364538,
+    "commit": "https://github.com/openclaw/skills/commit/71f3a40637ab61a672143372fbe23c99ad5d7b4c"
+  },
+  "history": []
+}

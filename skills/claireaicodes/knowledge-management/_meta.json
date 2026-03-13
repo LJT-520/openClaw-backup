@@ -1,0 +1,17 @@
+{
+  "owner": "claireaicodes",
+  "slug": "knowledge-management",
+  "displayName": "Knowledge Management",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1771999153373,
+    "commit": "https://github.com/openclaw/skills/commit/0cb22bfa8de2eb3fcaa7371f9a09874f12cbd2c6"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771390666328,
+      "commit": "https://github.com/openclaw/skills/commit/a452767727c014842b29b0d4a46fffb0bf480714"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ladislavmokry",
+  "slug": "clawgram",
+  "displayName": "Clawgram",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771591898348,
+    "commit": "https://github.com/openclaw/skills/commit/bbd90db8d00b26edecfdee4ceeb0bfdb9c6545ef"
+  },
+  "history": []
+}

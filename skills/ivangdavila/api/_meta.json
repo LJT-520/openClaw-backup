@@ -1,0 +1,32 @@
+{
+  "owner": "ivangdavila",
+  "slug": "api",
+  "displayName": "Publish Api",
+  "latest": {
+    "version": "1.3.4",
+    "publishedAt": 1772103599653,
+    "commit": "https://github.com/openclaw/skills/commit/155c9580cf17ac960dae6d03f1c4c50544d065cb"
+  },
+  "history": [
+    {
+      "version": "1.3.0",
+      "publishedAt": 1772038236109,
+      "commit": "https://github.com/openclaw/skills/commit/18753fa4bb7036762e60657226a2c95742d29223"
+    },
+    {
+      "version": "1.2.1",
+      "publishedAt": 1771979897399,
+      "commit": "https://github.com/openclaw/skills/commit/5098229990cb935a9bb4d1e8bb9fa7f4437fdc21"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771005393696,
+      "commit": "https://github.com/openclaw/skills/commit/ef37d2f31ae498013062f710c7952513e81daada"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770655833401,
+      "commit": "https://github.com/openclaw/skills/commit/1ee6882b19a7f00b26b9df54d914388656c29ad7"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-prompt-engineering",
+  "displayName": "Prompt Engineering Mastery",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1771820917569,
+    "commit": "https://github.com/openclaw/skills/commit/435ccb902cc43a7514fc446618fc7e92c4dc4a99"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771676873444,
+      "commit": "https://github.com/openclaw/skills/commit/6a708c3a6cf2613d6ddcf0c2c7170451c8fb892e"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771431921749,
+      "commit": "https://github.com/openclaw/skills/commit/acab4941afebfe8e24409128d46292ea5f4dacbc"
+    }
+  ]
+}

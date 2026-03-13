@@ -1,0 +1,11 @@
+{
+  "owner": "aipoch-ai",
+  "slug": "survival-analysis-km",
+  "displayName": "Survival Analysis (KM)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772261117614,
+    "commit": "https://github.com/openclaw/skills/commit/44f3d718724d5ca0389ff76c9b81f17913508855"
+  },
+  "history": []
+}

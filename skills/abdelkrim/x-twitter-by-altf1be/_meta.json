@@ -1,0 +1,17 @@
+{
+  "owner": "abdelkrim",
+  "slug": "x-twitter-by-altf1be",
+  "displayName": "x-twitter-by-altf1be",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772495488546,
+    "commit": "https://github.com/openclaw/skills/commit/6d2082fe089ddaa6385ce7b1b372af8504ed0b27"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771892379255,
+      "commit": "https://github.com/openclaw/skills/commit/d2ee7e33b6b50112b86ee6d1120104b4a27d1c24"
+    }
+  ]
+}

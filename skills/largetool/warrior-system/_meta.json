@@ -1,0 +1,11 @@
+{
+  "owner": "largetool",
+  "slug": "warrior-system",
+  "displayName": "Warrior System",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771985552170,
+    "commit": "https://github.com/openclaw/skills/commit/53d786e5f7009fb7a79f86665429505eeb40b130"
+  },
+  "history": []
+}

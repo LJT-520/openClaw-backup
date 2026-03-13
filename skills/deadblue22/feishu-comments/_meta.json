@@ -1,0 +1,17 @@
+{
+  "owner": "deadblue22",
+  "slug": "feishu-comments",
+  "displayName": "Feishu Comments",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772605597563,
+    "commit": "https://github.com/openclaw/skills/commit/7978ef61682d5225720a3d7f5b8a7be7bf7a8ef4"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772471595971,
+      "commit": "https://github.com/openclaw/skills/commit/b047f7a49cef98b3e169219931b55a749e0cd349"
+    }
+  ]
+}

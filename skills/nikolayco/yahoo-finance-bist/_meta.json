@@ -1,0 +1,11 @@
+{
+  "owner": "nikolayco",
+  "slug": "yahoo-finance-bist",
+  "displayName": "yahoo-finance-bist",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772395566940,
+    "commit": "https://github.com/openclaw/skills/commit/6ba5008530bda305ff375b2d2dd7d09f34455859"
+  },
+  "history": []
+}

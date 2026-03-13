@@ -1,0 +1,11 @@
+{
+  "owner": "claudiodrusus",
+  "slug": "shelly-landing-gen",
+  "displayName": "Landing Page Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771807662775,
+    "commit": "https://github.com/openclaw/skills/commit/9e4e958f5dcf57ea4a9b557bcbb490f8a0abcf99"
+  },
+  "history": []
+}

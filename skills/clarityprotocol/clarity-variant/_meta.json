@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-variant",
+  "displayName": "Clarity Variant",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772055692124,
+    "commit": "https://github.com/openclaw/skills/commit/d24dc68d4268dd2b39fa0f50dc28e5d7f786aa09"
+  },
+  "history": []
+}

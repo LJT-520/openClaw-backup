@@ -1,0 +1,11 @@
+{
+  "owner": "alexpolonsky",
+  "slug": "maccabi-pharm-search",
+  "displayName": "maccabi-pharm-search",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771625719001,
+    "commit": "https://github.com/openclaw/skills/commit/51ea52e70110861a93d2bb6b340e562af97c5fd5"
+  },
+  "history": []
+}

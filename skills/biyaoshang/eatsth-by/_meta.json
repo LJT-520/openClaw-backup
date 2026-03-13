@@ -1,0 +1,17 @@
+{
+  "owner": "biyaoshang",
+  "slug": "eatsth-by",
+  "displayName": "eatsth-by",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771981295556,
+    "commit": "https://github.com/openclaw/skills/commit/6d9ca6af16a3684d73e78cae6429d6a6c17eaa29"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771903914522,
+      "commit": "https://github.com/openclaw/skills/commit/883a8414a69238ab4a91059c15adf3c5b83eac60"
+    }
+  ]
+}

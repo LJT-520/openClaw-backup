@@ -1,0 +1,11 @@
+{
+  "owner": "happyfee",
+  "slug": "openclaw-browser-auto",
+  "displayName": "OpenClaw浏览器自动化配置",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771682306828,
+    "commit": "https://github.com/openclaw/skills/commit/54c7109a0d7bf6405a3c0d2836cc13de8f8d0eb6"
+  },
+  "history": []
+}

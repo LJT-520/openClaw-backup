@@ -1,0 +1,11 @@
+{
+  "owner": "jackwener",
+  "slug": "wechat-article-to-markdown",
+  "displayName": "WeChat Article to Markdown",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772641684048,
+    "commit": "https://github.com/openclaw/skills/commit/8138cf266db891e81f16ad9582a900e63feb4beb"
+  },
+  "history": []
+}

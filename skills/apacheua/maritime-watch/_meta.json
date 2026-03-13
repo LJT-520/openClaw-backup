@@ -1,0 +1,11 @@
+{
+  "owner": "apacheua",
+  "slug": "maritime-watch",
+  "displayName": "Maritime Watch",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771844136956,
+    "commit": "https://github.com/openclaw/skills/commit/3dcafbc32623b0b0be9ee1d4bcf7769b30b5905c"
+  },
+  "history": []
+}

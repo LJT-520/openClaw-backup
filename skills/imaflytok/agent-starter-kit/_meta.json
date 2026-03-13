@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "agent-starter-kit",
+  "displayName": "Agent Starter Kit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772391987831,
+    "commit": "https://github.com/openclaw/skills/commit/a56e01d14ee97e8417ba582903a7080b328bf8c7"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "lngdao",
+  "slug": "agenthire",
+  "displayName": "AgentHire",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771862647623,
+    "commit": "https://github.com/openclaw/skills/commit/245bfa67b6540da865a901fbf4619a56e50f892e"
+  },
+  "history": []
+}

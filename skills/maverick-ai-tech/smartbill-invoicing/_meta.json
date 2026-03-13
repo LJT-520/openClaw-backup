@@ -1,0 +1,22 @@
+{
+  "owner": "maverick-ai-tech",
+  "slug": "smartbill-invoicing",
+  "displayName": "SmartBill Invoicing",
+  "latest": {
+    "version": "1.0.9",
+    "publishedAt": 1771745757433,
+    "commit": "https://github.com/openclaw/skills/commit/9c1fe5306fc827c55c85b1577e27b19dd0b953bd"
+  },
+  "history": [
+    {
+      "version": "1.0.8",
+      "publishedAt": 1771699933397,
+      "commit": "https://github.com/openclaw/skills/commit/274641675e5d0a9f63fa4efd0d0ddfd9bdd27fbf"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771667886212,
+      "commit": "https://github.com/openclaw/skills/commit/4ac4e6a5068392cb824b892734d29ac97bc55fa2"
+    }
+  ]
+}

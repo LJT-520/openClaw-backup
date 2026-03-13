@@ -1,0 +1,11 @@
+{
+  "owner": "nickconstantinou",
+  "slug": "counterclaw",
+  "displayName": "Counterclaw Core",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771537786784,
+    "commit": "https://github.com/openclaw/skills/commit/255dc9857c336288007931109e1ef3ebeb279b7a"
+  },
+  "history": []
+}

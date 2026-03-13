@@ -1,0 +1,11 @@
+{
+  "owner": "jimadara",
+  "slug": "operation-platform-enterprise-knowledge",
+  "displayName": "运营平台知识检索",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772421184185,
+    "commit": "https://github.com/openclaw/skills/commit/dc363442e36469f381a10a30113d954e7ca3a2fc"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "luis2404123",
+  "slug": "email-lead-extractor",
+  "displayName": "Email Lead Extractor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772631946506,
+    "commit": "https://github.com/openclaw/skills/commit/945ab244108eb95356aa489a9ad0827f7a7f8b53"
+  },
+  "history": []
+}

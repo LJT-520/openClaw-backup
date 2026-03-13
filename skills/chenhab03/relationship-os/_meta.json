@@ -1,0 +1,11 @@
+{
+  "owner": "chenhab03",
+  "slug": "relationship-os",
+  "displayName": "Relationship OS",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772625112300,
+    "commit": "https://github.com/openclaw/skills/commit/e3f7e22187600f9b780dca07713dd006f5ab8fac"
+  },
+  "history": []
+}

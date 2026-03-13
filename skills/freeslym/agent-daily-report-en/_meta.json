@@ -1,0 +1,11 @@
+{
+  "owner": "freeslym",
+  "slug": "agent-daily-report-en",
+  "displayName": "Agent Daily Report (EN)",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772033600426,
+    "commit": "https://github.com/openclaw/skills/commit/7fdbbdd1ba5ffaf5b93eb5170863a003a25a9ccb"
+  },
+  "history": []
+}

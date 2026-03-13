@@ -1,0 +1,11 @@
+{
+  "owner": "nerod9408",
+  "slug": "order-agent",
+  "displayName": "智能订单处理助手",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772600962009,
+    "commit": "https://github.com/openclaw/skills/commit/3ff91014c5c62a2f28d7d6df87e9a69cb462166d"
+  },
+  "history": []
+}

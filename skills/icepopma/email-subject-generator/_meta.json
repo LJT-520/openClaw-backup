@@ -1,0 +1,11 @@
+{
+  "owner": "icepopma",
+  "slug": "email-subject-generator",
+  "displayName": "Email Subject Generator",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772671987875,
+    "commit": "https://github.com/openclaw/skills/commit/af0d2c415e4b90575d0b5ef6e2eed81c6d325516"
+  },
+  "history": []
+}

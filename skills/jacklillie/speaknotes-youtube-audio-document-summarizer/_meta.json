@@ -1,0 +1,11 @@
+{
+  "owner": "jacklillie",
+  "slug": "speaknotes-youtube-audio-document-summarizer",
+  "displayName": "SpeakNotes: YouTube, Audio & Document Summaries",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772653580134,
+    "commit": "https://github.com/openclaw/skills/commit/691668294a5424fde1520e5c1353e92a90112a6b"
+  },
+  "history": []
+}

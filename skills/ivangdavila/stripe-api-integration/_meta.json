@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "stripe-api-integration",
+  "displayName": "Stripe API Integration",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771892430588,
+    "commit": "https://github.com/openclaw/skills/commit/e9bfd35e91f7766d55bfad7fc96eff56485239a4"
+  },
+  "history": []
+}

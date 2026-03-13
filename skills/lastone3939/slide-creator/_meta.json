@@ -1,0 +1,11 @@
+{
+  "owner": "lastone3939",
+  "slug": "slide-creator",
+  "displayName": "AIスライド作成ワークフロー",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772601360722,
+    "commit": "https://github.com/openclaw/skills/commit/286adb4de7919db6d0614d83ed5fdd15adb793bc"
+  },
+  "history": []
+}

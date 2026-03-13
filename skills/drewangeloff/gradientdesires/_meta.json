@@ -1,0 +1,22 @@
+{
+  "owner": "drewangeloff",
+  "slug": "gradientdesires",
+  "displayName": "GradientDesires",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772573616428,
+    "commit": "https://github.com/openclaw/skills/commit/340580525692800a7e8645a03ee44c3837ab5acb"
+  },
+  "history": [
+    {
+      "version": "1.0.11",
+      "publishedAt": 1771924527570,
+      "commit": "https://github.com/openclaw/skills/commit/87a7622a1e43fc510f9ace1da847a013ad51630f"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771307427120,
+      "commit": "https://github.com/openclaw/skills/commit/0065ad21dbfb1229d495655355573d9579c51af3"
+    }
+  ]
+}

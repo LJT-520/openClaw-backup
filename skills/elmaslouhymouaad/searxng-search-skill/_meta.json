@@ -1,0 +1,11 @@
+{
+  "owner": "elmaslouhymouaad",
+  "slug": "searxng-search-skill",
+  "displayName": "Advanced Searxng Search Skill",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772110191555,
+    "commit": "https://github.com/openclaw/skills/commit/bd6083b47e909e9c203c6b947a49798389e13ccc"
+  },
+  "history": []
+}

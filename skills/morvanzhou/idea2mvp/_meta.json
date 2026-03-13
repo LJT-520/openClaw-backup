@@ -1,0 +1,22 @@
+{
+  "owner": "morvanzhou",
+  "slug": "idea2mvp",
+  "displayName": "idea to product mvp",
+  "latest": {
+    "version": "1.0.16",
+    "publishedAt": 1772445822926,
+    "commit": "https://github.com/openclaw/skills/commit/ae018ceb7b4f947f4ee0dde43b027db546e57762"
+  },
+  "history": [
+    {
+      "version": "1.0.11",
+      "publishedAt": 1772334427554,
+      "commit": "https://github.com/openclaw/skills/commit/a3d16e1f8e87f095dcc2bd21d5de9e44f55017ce"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772278975740,
+      "commit": "https://github.com/openclaw/skills/commit/e95fc62d22deb8a9c0a899aba038e2b0cc36b74b"
+    }
+  ]
+}

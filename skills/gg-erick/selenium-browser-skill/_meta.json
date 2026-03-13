@@ -1,0 +1,11 @@
+{
+  "owner": "gg-erick",
+  "slug": "selenium-browser-skill",
+  "displayName": "Selenium Automation",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772508242684,
+    "commit": "https://github.com/openclaw/skills/commit/fbf3dcd040be4265ff983da25db2ca687542f56a"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "server-maintenance",
+  "displayName": "Server Maintenance",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772504438908,
+    "commit": "https://github.com/openclaw/skills/commit/ca37cb4fc0be3a1fc90522bb7f47834498bef5d3"
+  },
+  "history": []
+}

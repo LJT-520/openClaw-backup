@@ -1,0 +1,11 @@
+{
+  "owner": "banayou",
+  "slug": "qiniu-kodo",
+  "displayName": "Qiniu KODO Storage Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772407130599,
+    "commit": "https://github.com/openclaw/skills/commit/e2e9616a44160273bd8f9dc3708c10d20aea1415"
+  },
+  "history": []
+}

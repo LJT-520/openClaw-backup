@@ -1,0 +1,11 @@
+{
+  "owner": "a950701zz",
+  "slug": "xiaohongshu-assistant-operator",
+  "displayName": "Xiaohongshu Assistant Operator",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772254908274,
+    "commit": "https://github.com/openclaw/skills/commit/b111757cd66fb05a26f6dcdca2f947a402b9868d"
+  },
+  "history": []
+}

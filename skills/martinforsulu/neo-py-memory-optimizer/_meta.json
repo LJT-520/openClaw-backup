@@ -1,0 +1,11 @@
+{
+  "owner": "martinforsulu",
+  "slug": "neo-py-memory-optimizer",
+  "displayName": "Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771982889489,
+    "commit": "https://github.com/openclaw/skills/commit/e4af65dbb6ff56bee6cfebbfee0f9cae22d86222"
+  },
+  "history": []
+}

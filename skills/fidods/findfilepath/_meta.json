@@ -1,0 +1,11 @@
+{
+  "owner": "fidods",
+  "slug": "findfilepath",
+  "displayName": "findFilePath",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772613574820,
+    "commit": "https://github.com/openclaw/skills/commit/020fa1c81612a3409d852de13b264c7f776dedf7"
+  },
+  "history": []
+}

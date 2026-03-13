@@ -1,0 +1,11 @@
+{
+  "owner": "femto",
+  "slug": "mcp-chrome",
+  "displayName": "mcp-chrome",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771847474485,
+    "commit": "https://github.com/openclaw/skills/commit/225cb0c0f76bc9600c14351e9c573b051335b655"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "laiye-ai-repos",
+  "slug": "laiye-adp-doc-processing",
+  "displayName": "Laiye-doc-processing",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772596399514,
+    "commit": "https://github.com/openclaw/skills/commit/62a822d65309527907c1e07d5eea19e5205cd3fa"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772419443304,
+      "commit": "https://github.com/openclaw/skills/commit/f8dbbc1841abc2f8d31d09e118638a1b9b895b02"
+    }
+  ]
+}

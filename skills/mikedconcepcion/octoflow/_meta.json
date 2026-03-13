@@ -1,0 +1,27 @@
+{
+  "owner": "mikedconcepcion",
+  "slug": "octoflow",
+  "displayName": "Octoflow",
+  "latest": {
+    "version": "1.4.1",
+    "publishedAt": 1772419947258,
+    "commit": "https://github.com/openclaw/skills/commit/5ac37bc29fe7ce3ad13460cda821373c50ed501f"
+  },
+  "history": [
+    {
+      "version": "1.3.3",
+      "publishedAt": 1772276298079,
+      "commit": "https://github.com/openclaw/skills/commit/8b4a63b8e9e3198c09559417d20f08987c43f001"
+    },
+    {
+      "version": "1.2.2",
+      "publishedAt": 1772271050703,
+      "commit": "https://github.com/openclaw/skills/commit/42048286d0109f94e6458dc995c600fc9033a9b0"
+    },
+    {
+      "version": "1.2.1",
+      "publishedAt": 1772268765366,
+      "commit": "https://github.com/openclaw/skills/commit/75131991c11c6eb0821176e2675f4e69b7f02f81"
+    }
+  ]
+}

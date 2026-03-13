@@ -1,0 +1,11 @@
+{
+  "owner": "michaelwang11394",
+  "slug": "text-to-speech-heygen",
+  "displayName": "Text to Speech",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1772575216689,
+    "commit": "https://github.com/openclaw/skills/commit/f21c62e00aeb0f34ae655b3a480231e5dd4f1cd1"
+  },
+  "history": []
+}

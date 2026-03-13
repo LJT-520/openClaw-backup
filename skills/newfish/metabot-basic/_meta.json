@@ -1,0 +1,11 @@
+{
+  "owner": "newfish",
+  "slug": "metabot-basic",
+  "displayName": "metabot",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771272030041,
+    "commit": "https://github.com/openclaw/skills/commit/09a77af359b39fdea766931392a9d3b52a480641"
+  },
+  "history": []
+}

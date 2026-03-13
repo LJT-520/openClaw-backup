@@ -1,0 +1,11 @@
+{
+  "owner": "nickylin",
+  "slug": "whisper-stt",
+  "displayName": "Whisper STT",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772206234529,
+    "commit": "https://github.com/openclaw/skills/commit/138b40d212e22c62ea2db9fb3fbb24b7c665ae56"
+  },
+  "history": []
+}

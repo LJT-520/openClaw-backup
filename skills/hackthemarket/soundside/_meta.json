@@ -1,0 +1,11 @@
+{
+  "owner": "hackthemarket",
+  "slug": "soundside",
+  "displayName": "Soundside",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772511916815,
+    "commit": "https://github.com/openclaw/skills/commit/732c0c923e3231fb0cde999e6b0a8dbc563b8bf5"
+  },
+  "history": []
+}

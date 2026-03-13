@@ -1,0 +1,17 @@
+{
+  "owner": "krisclarkdev",
+  "slug": "zededa",
+  "displayName": "ZEDEDA",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1771781421634,
+    "commit": "https://github.com/openclaw/skills/commit/14312ce54be9aa8f401b0bdbaf4bcb6d2c2e9f17"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771697840385,
+      "commit": "https://github.com/openclaw/skills/commit/0c5d39511cf8cb336b745f55e0887eb7e1b47706"
+    }
+  ]
+}

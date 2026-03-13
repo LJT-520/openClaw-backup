@@ -1,0 +1,11 @@
+{
+  "owner": "guaiyu11",
+  "slug": "daily-standup-generator",
+  "displayName": "Daily Standup Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772628321554,
+    "commit": "https://github.com/openclaw/skills/commit/03aba098d94dff09f47e95be5a120fd1399141ec"
+  },
+  "history": []
+}

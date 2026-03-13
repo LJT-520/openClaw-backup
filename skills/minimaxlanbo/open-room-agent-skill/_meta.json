@@ -1,0 +1,11 @@
+{
+  "owner": "minimaxlanbo",
+  "slug": "open-room-agent-skill",
+  "displayName": "Open Room Agent Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771900688355,
+    "commit": "https://github.com/openclaw/skills/commit/374ccfab92cdd22edb8ccd1a3532423a163a0dbe"
+  },
+  "history": []
+}

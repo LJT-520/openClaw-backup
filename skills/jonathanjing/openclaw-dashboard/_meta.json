@@ -1,0 +1,32 @@
+{
+  "owner": "jonathanjing",
+  "slug": "openclaw-dashboard",
+  "displayName": "openclaw-dashboard",
+  "latest": {
+    "version": "1.7.3",
+    "publishedAt": 1772586083792,
+    "commit": "https://github.com/openclaw/skills/commit/1591550e5246c305365ef5332f5a296abcde71d7"
+  },
+  "history": [
+    {
+      "version": "1.7.1",
+      "publishedAt": 1772412307333,
+      "commit": "https://github.com/openclaw/skills/commit/5235f0deb6e404890adb69ef853c771881c6bba7"
+    },
+    {
+      "version": "1.5.1",
+      "publishedAt": 1772249904319,
+      "commit": "https://github.com/openclaw/skills/commit/370e2428b0ae63c948dc8e2493d5720a1934f8f8"
+    },
+    {
+      "version": "1.0.9",
+      "publishedAt": 1771967500268,
+      "commit": "https://github.com/openclaw/skills/commit/0764921174bc4fbd7bff96e867efe6a0950583b6"
+    },
+    {
+      "version": "1.4.0",
+      "publishedAt": 1771886005507,
+      "commit": "https://github.com/openclaw/skills/commit/e704219b358e1ca04850ce33792f223e306caa90"
+    }
+  ]
+}

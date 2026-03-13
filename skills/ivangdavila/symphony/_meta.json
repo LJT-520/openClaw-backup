@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "symphony",
+  "displayName": "OpenAI Symphony",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772653214400,
+    "commit": "https://github.com/openclaw/skills/commit/5c33c22c2a3cb020b1cb0731f3dcde7b25858791"
+  },
+  "history": []
+}

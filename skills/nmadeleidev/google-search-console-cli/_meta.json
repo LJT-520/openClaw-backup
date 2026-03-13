@@ -1,0 +1,11 @@
+{
+  "owner": "nmadeleidev",
+  "slug": "google-search-console-cli",
+  "displayName": "Google Search Console CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772087691381,
+    "commit": "https://github.com/openclaw/skills/commit/2aada8d27a2c07325e09cfd6afa38ca00e82422c"
+  },
+  "history": []
+}

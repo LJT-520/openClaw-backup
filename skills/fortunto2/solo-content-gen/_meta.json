@@ -1,0 +1,17 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-content-gen",
+  "displayName": "Content Gen",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771711568343,
+    "commit": "https://github.com/openclaw/skills/commit/df1113f00f37ecf24ace50fb947423c6c7571c78"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771537327315,
+      "commit": "https://github.com/openclaw/skills/commit/658bfdf3139eb3f73917910d7e44f4e9ab6ce8da"
+    }
+  ]
+}

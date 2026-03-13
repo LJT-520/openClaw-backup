@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "agent-session-cost",
+  "displayName": "Agent Session Cost",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772383068511,
+    "commit": "https://github.com/openclaw/skills/commit/91be9486c2209abe276dd13cd9caf6ac68b3f8c3"
+  },
+  "history": []
+}

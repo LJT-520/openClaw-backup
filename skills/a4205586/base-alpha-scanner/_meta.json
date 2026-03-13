@@ -1,0 +1,11 @@
+{
+  "owner": "a4205586",
+  "slug": "base-alpha-scanner",
+  "displayName": "Base Alpha Scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772313418549,
+    "commit": "https://github.com/openclaw/skills/commit/f32a42f84ef7e8590dd0a089a4f6812d35ceb8bd"
+  },
+  "history": []
+}

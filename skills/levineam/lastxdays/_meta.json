@@ -1,0 +1,17 @@
+{
+  "owner": "levineam",
+  "slug": "lastxdays",
+  "displayName": "lastXdays",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771695781669,
+    "commit": "https://github.com/openclaw/skills/commit/17ebca3c055d5c70f6a96bfd0270ddf6553047db"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771082300804,
+      "commit": "https://github.com/openclaw/skills/commit/01b70212c50b6b711969d4bb7b40633af5b8b986"
+    }
+  ]
+}

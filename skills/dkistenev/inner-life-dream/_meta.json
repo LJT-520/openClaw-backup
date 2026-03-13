@@ -1,0 +1,17 @@
+{
+  "owner": "dkistenev",
+  "slug": "inner-life-dream",
+  "displayName": "Inner Life Dream",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772297457853,
+    "commit": "https://github.com/openclaw/skills/commit/0a12743f3a6e31c2a9423d73ac1c4b9b5678bd33"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772208610131,
+      "commit": "https://github.com/openclaw/skills/commit/70a0dda7e81869d20f7b97237cc1beed4eb0791a"
+    }
+  ]
+}

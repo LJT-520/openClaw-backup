@@ -1,0 +1,11 @@
+{
+  "owner": "frank-bot07",
+  "slug": "openclaw-interchange",
+  "displayName": "@openclaw/interchange",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771576539542,
+    "commit": "https://github.com/openclaw/skills/commit/57b81c59fe0ddb85a4c52e7b45c0d4c0587fc035"
+  },
+  "history": []
+}

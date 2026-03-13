@@ -1,0 +1,11 @@
+{
+  "owner": "deepread001",
+  "slug": "deepread-form-fill",
+  "displayName": "DeepRead Form Fill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772120728696,
+    "commit": "https://github.com/openclaw/skills/commit/71252b02a4e385b10d117b5e6085c3a87d1b8bb5"
+  },
+  "history": []
+}

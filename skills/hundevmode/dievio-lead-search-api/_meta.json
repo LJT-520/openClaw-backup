@@ -1,0 +1,11 @@
+{
+  "owner": "hundevmode",
+  "slug": "dievio-lead-search-api",
+  "displayName": "Dievio Lead Search API",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772206633479,
+    "commit": "https://github.com/openclaw/skills/commit/5227f100e39121c70597fbfe3160501ab7d617d8"
+  },
+  "history": []
+}

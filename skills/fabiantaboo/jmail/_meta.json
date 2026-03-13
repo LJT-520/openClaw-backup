@@ -1,0 +1,11 @@
+{
+  "owner": "fabiantaboo",
+  "slug": "jmail",
+  "displayName": "Jmail World",
+  "latest": {
+    "version": "1.6.4",
+    "publishedAt": 1772207869825,
+    "commit": "https://github.com/openclaw/skills/commit/3ab7e7f38013580639753384a7fa5e38642a7f88"
+  },
+  "history": []
+}

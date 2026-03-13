@@ -1,0 +1,11 @@
+{
+  "owner": "luksoagent",
+  "slug": "stakingverse-lukso",
+  "displayName": "Stakingverse Lukso",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771513986999,
+    "commit": "https://github.com/openclaw/skills/commit/285d6751866d640228bb919e5ade26a80c310b86"
+  },
+  "history": []
+}

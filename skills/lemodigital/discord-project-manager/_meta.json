@@ -1,0 +1,11 @@
+{
+  "owner": "lemodigital",
+  "slug": "discord-project-manager",
+  "displayName": "Discord Project Manager",
+  "latest": {
+    "version": "2.1.6",
+    "publishedAt": 1772279474561,
+    "commit": "https://github.com/openclaw/skills/commit/e5996668f2a520599e6d8d78fa981af9c83f1db2"
+  },
+  "history": []
+}

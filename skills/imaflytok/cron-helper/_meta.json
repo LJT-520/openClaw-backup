@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "cron-helper",
+  "displayName": "Cron Helper",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772397608198,
+    "commit": "https://github.com/openclaw/skills/commit/0fe794913b095fcbe86411b5831f77115abea8c6"
+  },
+  "history": []
+}

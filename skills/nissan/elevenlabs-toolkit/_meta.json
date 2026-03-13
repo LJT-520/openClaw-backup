@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "elevenlabs-toolkit",
+  "displayName": "Elevenlabs Toolkit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772393345602,
+    "commit": "https://github.com/openclaw/skills/commit/d5945bffc1475a12ebf710004d8b82f765bc98b3"
+  },
+  "history": []
+}

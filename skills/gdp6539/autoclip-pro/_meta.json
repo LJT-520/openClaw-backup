@@ -1,0 +1,17 @@
+{
+  "owner": "gdp6539",
+  "slug": "autoclip-pro",
+  "displayName": "AutoClip Pro",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772598373503,
+    "commit": "https://github.com/openclaw/skills/commit/1249b8a8a6e62fb564bd43e144c9e1b2ee26e1ba"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772458982605,
+      "commit": "https://github.com/openclaw/skills/commit/82c0853ddd864e05ad674879d0c2312f5e41059a"
+    }
+  ]
+}

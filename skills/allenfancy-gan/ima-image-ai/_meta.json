@@ -1,0 +1,11 @@
+{
+  "owner": "allenfancy-gan",
+  "slug": "ima-image-ai",
+  "displayName": "IMA Studio Image Generation",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772300485835,
+    "commit": "https://github.com/openclaw/skills/commit/bd0e010bef925c659f1d74476fbc87021a84da72"
+  },
+  "history": []
+}

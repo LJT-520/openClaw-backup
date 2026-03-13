@@ -1,0 +1,11 @@
+{
+  "owner": "manojrammurthy",
+  "slug": "django-claw-skill",
+  "displayName": "Django Claw",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772084038761,
+    "commit": "https://github.com/openclaw/skills/commit/afb0da7cbd2af66fd951180ab23d6bdd10c59d8f"
+  },
+  "history": []
+}

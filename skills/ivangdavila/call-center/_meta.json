@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "call-center",
+  "displayName": "Call Center",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771637162076,
+    "commit": "https://github.com/openclaw/skills/commit/2eaaff9f9aa113ee5b222dbf3c2f345152abc6b4"
+  },
+  "history": []
+}

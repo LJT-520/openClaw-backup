@@ -1,0 +1,11 @@
+{
+  "owner": "discodaddy",
+  "slug": "agent-mail-guard",
+  "displayName": "Agent Mail Guard — Email Sanitizer for AI Agents",
+  "latest": {
+    "version": "1.4.0",
+    "publishedAt": 1772229832892,
+    "commit": "https://github.com/openclaw/skills/commit/291c79beb58a414a62bbbd7f6578885f98cabc5a"
+  },
+  "history": []
+}

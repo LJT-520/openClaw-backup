@@ -1,0 +1,11 @@
+{
+  "owner": "danyangliu-sandwichlab",
+  "slug": "campaign-retrospective-analyst",
+  "displayName": "Ads Campaign Review",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772503995076,
+    "commit": "https://github.com/openclaw/skills/commit/a3fc8842a449d0a6d8b41999a90fba573882c079"
+  },
+  "history": []
+}

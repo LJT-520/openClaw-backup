@@ -1,0 +1,17 @@
+{
+  "owner": "leocryptoflow",
+  "slug": "aixin",
+  "displayName": "Aixin-agentID-chat",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772528719127,
+    "commit": "https://github.com/openclaw/skills/commit/1ed79fd903f677295200ad27e5f12d3afe8f498c"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772275906076,
+      "commit": "https://github.com/openclaw/skills/commit/f4aad3d29717a0ca28bbb9a956b151f19740068b"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "godzff",
+  "slug": "feishu-media",
+  "displayName": "飞书媒体发送",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772125561014,
+    "commit": "https://github.com/openclaw/skills/commit/7ff94ba073921758f6c4834a1f7beeb193122563"
+  },
+  "history": []
+}

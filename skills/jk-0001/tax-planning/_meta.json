@@ -1,0 +1,17 @@
+{
+  "owner": "jk-0001",
+  "slug": "tax-planning",
+  "displayName": "Tax Planning",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772430654003,
+    "commit": "https://github.com/openclaw/skills/commit/952b985a0ff9dd173d9047727829bf904665072d"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770275608955,
+      "commit": "https://github.com/clawdbot/skills/commit/2719d243230edc746d356ebd59b68c2bfe0abcbf"
+    }
+  ]
+}

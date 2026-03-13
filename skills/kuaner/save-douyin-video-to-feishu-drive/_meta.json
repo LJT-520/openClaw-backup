@@ -1,0 +1,11 @@
+{
+  "owner": "kuaner",
+  "slug": "save-douyin-video-to-feishu-drive",
+  "displayName": "Save Douyin Video To Feishu Drive",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772498761310,
+    "commit": "https://github.com/openclaw/skills/commit/ee95ef8ea823a4256e700633391856c335adc043"
+  },
+  "history": []
+}

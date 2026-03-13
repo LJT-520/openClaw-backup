@@ -1,0 +1,11 @@
+{
+  "owner": "honestqiao",
+  "slug": "minimax-tts-v2",
+  "displayName": "Minimax Tts",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771694840616,
+    "commit": "https://github.com/openclaw/skills/commit/cd99eaa3250f3ebfa2cd7ed1645712cca471ba79"
+  },
+  "history": []
+}

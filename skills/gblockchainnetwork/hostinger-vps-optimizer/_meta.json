@@ -1,0 +1,11 @@
+{
+  "owner": "gblockchainnetwork",
+  "slug": "hostinger-vps-optimizer",
+  "displayName": "Hostinger VPS Optimizer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771598502832,
+    "commit": "https://github.com/openclaw/skills/commit/f4d3abcbbd2faaad2d31693210fdf83d5c43ec7b"
+  },
+  "history": []
+}

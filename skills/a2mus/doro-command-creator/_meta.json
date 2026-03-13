@@ -1,0 +1,11 @@
+{
+  "owner": "a2mus",
+  "slug": "doro-command-creator",
+  "displayName": "Doro Command Creator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772001714767,
+    "commit": "https://github.com/openclaw/skills/commit/8de1a8478ba4433b7e59adcf7178c67967cfa810"
+  },
+  "history": []
+}

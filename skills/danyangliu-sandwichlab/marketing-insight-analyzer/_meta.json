@@ -1,0 +1,11 @@
+{
+  "owner": "danyangliu-sandwichlab",
+  "slug": "marketing-insight-analyzer",
+  "displayName": "Ads Market Insights",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772594266255,
+    "commit": "https://github.com/openclaw/skills/commit/92b8d9b25baee4de1cdd6883d6c33bb1d65a7da1"
+  },
+  "history": []
+}

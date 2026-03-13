@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-environment",
+  "displayName": "Gov Environment",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772211292268,
+    "commit": "https://github.com/openclaw/skills/commit/11796256920a43dcfd8c371d3b86649112a8b495"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "shanghai",
+  "displayName": "Shanghai",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772321247932,
+    "commit": "https://github.com/openclaw/skills/commit/83d02b3b839a512f09394e5bcf90dd0c47bbbbc6"
+  },
+  "history": []
+}

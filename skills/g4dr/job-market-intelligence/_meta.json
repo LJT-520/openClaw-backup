@@ -1,0 +1,11 @@
+{
+  "owner": "g4dr",
+  "slug": "job-market-intelligence",
+  "displayName": "Job Market Intelligence & Career Tracker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772160506152,
+    "commit": "https://github.com/openclaw/skills/commit/d251b2466debd0e7d291a3285906952ad6e8aa12"
+  },
+  "history": []
+}

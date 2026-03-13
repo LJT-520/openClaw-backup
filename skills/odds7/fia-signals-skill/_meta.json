@@ -1,0 +1,11 @@
+{
+  "owner": "odds7",
+  "slug": "fia-signals-skill",
+  "displayName": "Fía Signals",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1772310753777,
+    "commit": "https://github.com/openclaw/skills/commit/4733922966e08964f661899974869cec984ab2d2"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "ndtchan",
+  "slug": "vn-market-news-monitor",
+  "displayName": "Vn Market News Monitor",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771948708498,
+    "commit": "https://github.com/openclaw/skills/commit/a272f4de72747897106759953ef3cd5304f47ccd"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771841692142,
+      "commit": "https://github.com/openclaw/skills/commit/22b9bda52142744b367679cb9eaf8dff95b26aee"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "heisee",
+  "slug": "letsclarify",
+  "displayName": "Let's Clarify",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1771860108689,
+    "commit": "https://github.com/openclaw/skills/commit/4a63b6974b54e8eb641725c7511c457496b58b58"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771511009355,
+      "commit": "https://github.com/openclaw/skills/commit/13487189ef4061af46f31e66bc9d1ce9ee7ba1f3"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771501099461,
+      "commit": "https://github.com/openclaw/skills/commit/e08afb84358e1dc2134a3d5982f58321af01527b"
+    }
+  ]
+}

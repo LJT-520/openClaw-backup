@@ -1,0 +1,17 @@
+{
+  "owner": "lsa03",
+  "slug": "personify-memory",
+  "displayName": "Personify Memory",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772553009381,
+    "commit": "https://github.com/openclaw/skills/commit/d8337fc7aa4105d312f5cd82902cd237a49a1672"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772519903606,
+      "commit": "https://github.com/openclaw/skills/commit/8fb3df92ec88b9ca8c036951c9d4a9a982f5f02a"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "darkstards9",
+  "slug": "rpe-grafana",
+  "displayName": "rpe-grafana",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771705893818,
+    "commit": "https://github.com/openclaw/skills/commit/feec4feaf29eff31a5213ed08e7512cb74f8e9f8"
+  },
+  "history": []
+}

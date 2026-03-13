@@ -1,0 +1,17 @@
+{
+  "owner": "joncik91",
+  "slug": "decision-topology",
+  "displayName": "Decision Topology",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772448049160,
+    "commit": "https://github.com/openclaw/skills/commit/da3f1dd0df84a0fdce6b929f1472136842a66ce2"
+  },
+  "history": [
+    {
+      "version": "1.0.4",
+      "publishedAt": 1772445207693,
+      "commit": "https://github.com/openclaw/skills/commit/aca85eb854ec5a28eff8754f923046db793807af"
+    }
+  ]
+}

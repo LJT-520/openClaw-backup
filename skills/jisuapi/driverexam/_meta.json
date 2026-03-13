@@ -1,0 +1,11 @@
+{
+  "owner": "jisuapi",
+  "slug": "driverexam",
+  "displayName": "驾考题库 - Driver's License Exam",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772607195840,
+    "commit": "https://github.com/openclaw/skills/commit/7b66f6e5359e47aec16410a898d0f1e4ceb4de55"
+  },
+  "history": []
+}

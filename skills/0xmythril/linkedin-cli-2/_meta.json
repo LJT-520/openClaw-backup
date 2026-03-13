@@ -1,0 +1,11 @@
+{
+  "owner": "0xmythril",
+  "slug": "linkedin-cli-2",
+  "displayName": "Linkedin Cli",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772556370263,
+    "commit": "https://github.com/openclaw/skills/commit/b0acc84c34540a860674a4c3d42cb74b6b3b1e7b"
+  },
+  "history": []
+}

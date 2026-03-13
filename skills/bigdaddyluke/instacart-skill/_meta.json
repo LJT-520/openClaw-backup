@@ -1,0 +1,11 @@
+{
+  "owner": "bigdaddyluke",
+  "slug": "instacart-skill",
+  "displayName": "Instacart",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772401385167,
+    "commit": "https://github.com/openclaw/skills/commit/c96b1a7b37bc8ffecdddedd115b693cf59f1b7fc"
+  },
+  "history": []
+}

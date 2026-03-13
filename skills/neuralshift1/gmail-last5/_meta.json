@@ -1,0 +1,11 @@
+{
+  "owner": "neuralshift1",
+  "slug": "gmail-last5",
+  "displayName": "Gmail Last5",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771574954760,
+    "commit": "https://github.com/openclaw/skills/commit/1f586bf8ff7f20f2f0af569a5d9a9b536828e715"
+  },
+  "history": []
+}

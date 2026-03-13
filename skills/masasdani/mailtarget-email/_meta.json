@@ -1,0 +1,11 @@
+{
+  "owner": "masasdani",
+  "slug": "mailtarget-email",
+  "displayName": "Mailtarget Email",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771830791956,
+    "commit": "https://github.com/openclaw/skills/commit/e1da3548ce6e1753841808ce81c1870b1617a2be"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ingodibella",
+  "slug": "bigin",
+  "displayName": "Zoho Bigin CRM",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772546207652,
+    "commit": "https://github.com/openclaw/skills/commit/da029d238b3a6366d0f049a67be7c3a5fa1dd690"
+  },
+  "history": []
+}

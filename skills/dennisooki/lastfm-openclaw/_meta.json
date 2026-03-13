@@ -1,0 +1,11 @@
+{
+  "owner": "dennisooki",
+  "slug": "lastfm-openclaw",
+  "displayName": "Last.fm (OpenClaw)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772088157435,
+    "commit": "https://github.com/openclaw/skills/commit/f85dd84126a05e4c0110a35c1ed013aa04955c17"
+  },
+  "history": []
+}

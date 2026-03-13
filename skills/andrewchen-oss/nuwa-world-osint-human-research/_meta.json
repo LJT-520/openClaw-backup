@@ -1,0 +1,11 @@
+{
+  "owner": "andrewchen-oss",
+  "slug": "nuwa-world-osint-human-research",
+  "displayName": "Nuwa World - OSINT Human Research",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771820197396,
+    "commit": "https://github.com/openclaw/skills/commit/17b5fe840b0ad50b07321826c04838d2b9fb82e4"
+  },
+  "history": []
+}

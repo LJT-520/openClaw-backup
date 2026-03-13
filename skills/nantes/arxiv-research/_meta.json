@@ -1,0 +1,11 @@
+{
+  "owner": "nantes",
+  "slug": "arxiv-research",
+  "displayName": "ArXiv Research",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772044295425,
+    "commit": "https://github.com/openclaw/skills/commit/e5d0c19f0841a5d5765194126c7c153bc2d760ee"
+  },
+  "history": []
+}

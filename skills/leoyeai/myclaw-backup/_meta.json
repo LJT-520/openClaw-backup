@@ -1,0 +1,17 @@
+{
+  "owner": "leoyeai",
+  "slug": "myclaw-backup",
+  "displayName": "MyClaw Backup — Powered by MyClaw.ai",
+  "latest": {
+    "version": "1.7.0",
+    "publishedAt": 1772517770642,
+    "commit": "https://github.com/openclaw/skills/commit/b6fc08c9dc406aefdc8550067765e752fcaadf2f"
+  },
+  "history": [
+    {
+      "version": "1.6.2",
+      "publishedAt": 1772510230582,
+      "commit": "https://github.com/openclaw/skills/commit/311296d65556365ec947889bdef35cb5a96290c3"
+    }
+  ]
+}

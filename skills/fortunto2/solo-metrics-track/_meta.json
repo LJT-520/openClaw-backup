@@ -1,0 +1,17 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-metrics-track",
+  "displayName": "Metrics Track",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771711607616,
+    "commit": "https://github.com/openclaw/skills/commit/7feaf93cc0d8b81935f04e08f73a42ddd5a9ed6f"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771624029535,
+      "commit": "https://github.com/openclaw/skills/commit/cf4b9fb9bf2fb207e5aa1b63b97b4f09ebf9cc69"
+    }
+  ]
+}

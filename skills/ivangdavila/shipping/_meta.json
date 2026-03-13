@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "shipping",
+  "displayName": "Shipping Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772284652511,
+    "commit": "https://github.com/openclaw/skills/commit/3a0448e68cfbcd4845df851664d87b0806bed320"
+  },
+  "history": []
+}

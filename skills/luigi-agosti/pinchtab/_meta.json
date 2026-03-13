@@ -1,0 +1,47 @@
+{
+  "owner": "luigi-agosti",
+  "slug": "pinchtab",
+  "displayName": "Pinchtab",
+  "latest": {
+    "version": "0.7.6",
+    "publishedAt": 1772099715108,
+    "commit": "https://github.com/openclaw/skills/commit/bd4a4f3f4675f3d9dfc567026fcfd889bc8fec37"
+  },
+  "history": [
+    {
+      "version": "0.7.5",
+      "publishedAt": 1772072264758,
+      "commit": "https://github.com/openclaw/skills/commit/b3da054426bb420317adf06a2c185007e350de6e"
+    },
+    {
+      "version": "0.7.2",
+      "publishedAt": 1772065212000,
+      "commit": "https://github.com/openclaw/skills/commit/56ba02568451cef75ea7cc52b2d74f786df7a84d"
+    },
+    {
+      "version": "0.6.2",
+      "publishedAt": 1771801760687,
+      "commit": "https://github.com/openclaw/skills/commit/45d9a0298ba4ed52571556c15f5deb6213aa9a5c"
+    },
+    {
+      "version": "0.6.1",
+      "publishedAt": 1771684756807,
+      "commit": "https://github.com/openclaw/skills/commit/98908c551ffb6b0625daaa36d60cf25a124d837d"
+    },
+    {
+      "version": "0.5.1",
+      "publishedAt": 1771596607604,
+      "commit": "https://github.com/openclaw/skills/commit/a424dfad5affc04d18a1487c4293a034f6bd41bd"
+    },
+    {
+      "version": "0.4.0",
+      "publishedAt": 1771335446622,
+      "commit": "https://github.com/openclaw/skills/commit/5d049ca06879682a7d7fae8ac51ec4a0700a8b17"
+    },
+    {
+      "version": "0.3.0",
+      "publishedAt": 1771177984529,
+      "commit": "https://github.com/openclaw/skills/commit/d85440333485a39d52e372cdf624e118128a7e88"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "har1sh-k",
+  "slug": "xfire-security-review",
+  "displayName": "xfire Security PR Review",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772344823356,
+    "commit": "https://github.com/openclaw/skills/commit/d28b7a983da666d22109826aac3cf73590ae95e7"
+  },
+  "history": []
+}

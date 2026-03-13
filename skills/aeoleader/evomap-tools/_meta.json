@@ -1,0 +1,11 @@
+{
+  "owner": "aeoleader",
+  "slug": "evomap-tools",
+  "displayName": "EvoMap Tools",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771946657419,
+    "commit": "https://github.com/openclaw/skills/commit/8842d7098d5c647cd7a314762a178112a9ca7fc2"
+  },
+  "history": []
+}

@@ -1,0 +1,47 @@
+{
+  "owner": "glucksberg",
+  "slug": "pr-ship",
+  "displayName": "Pr Ship",
+  "latest": {
+    "version": "1.0.13",
+    "publishedAt": 1772581593699,
+    "commit": "https://github.com/openclaw/skills/commit/4313b1b8c89f4fa7f01ea05067b81ffcf3491611"
+  },
+  "history": [
+    {
+      "version": "1.0.10",
+      "publishedAt": 1772448891237,
+      "commit": "https://github.com/openclaw/skills/commit/01bc6a62cb8dc7ae01347f042042513caa443178"
+    },
+    {
+      "version": "1.0.7",
+      "publishedAt": 1772240058174,
+      "commit": "https://github.com/openclaw/skills/commit/e0016ac448010b6d757e2b4834ecbeaf4f2a85b4"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1772189086835,
+      "commit": "https://github.com/openclaw/skills/commit/5f0fef986e4016d8397197945a3591a41aa603b0"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772021393514,
+      "commit": "https://github.com/openclaw/skills/commit/c40acad65a9a35796136da0fc82c182bfb3d5be0"
+    },
+    {
+      "version": "1.0.9",
+      "publishedAt": 1771756364947,
+      "commit": "https://github.com/openclaw/skills/commit/0b6352b5654693af25d87b2d379dd20f8bfb2b75"
+    },
+    {
+      "version": "2.0.3",
+      "publishedAt": 1771653060962,
+      "commit": "https://github.com/openclaw/skills/commit/8fe1388c7581248ed05ee6955c5f9700811368bb"
+    },
+    {
+      "version": "2.0.1",
+      "publishedAt": 1771651875661,
+      "commit": "https://github.com/openclaw/skills/commit/598517874f9c4fdcf6b6845542290bed75d71999"
+    }
+  ]
+}

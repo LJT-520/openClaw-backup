@@ -1,0 +1,11 @@
+{
+  "owner": "byeolbit",
+  "slug": "gamer-news",
+  "displayName": "gamer-news-skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771430663011,
+    "commit": "https://github.com/openclaw/skills/commit/5ad970197852a4d192d3bfc8758774ee78e340e9"
+  },
+  "history": []
+}

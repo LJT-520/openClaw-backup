@@ -1,0 +1,17 @@
+{
+  "owner": "jarb02",
+  "slug": "lobsterguard",
+  "displayName": "LobsterGuard",
+  "latest": {
+    "version": "6.1.0",
+    "publishedAt": 1772024897948,
+    "commit": "https://github.com/openclaw/skills/commit/e301b14afb1d275402b1d422fd76e18f45e566b6"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771998996998,
+      "commit": "https://github.com/openclaw/skills/commit/6584ec86d9b1fd75cebdf14b8698595f19648b8a"
+    }
+  ]
+}

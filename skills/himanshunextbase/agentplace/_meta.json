@@ -1,0 +1,11 @@
+{
+  "owner": "himanshunextbase",
+  "slug": "agentplace",
+  "displayName": "Agentplace",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772018876505,
+    "commit": "https://github.com/openclaw/skills/commit/2ee3dbb67905ad36c19c92583726b626385895e2"
+  },
+  "history": []
+}

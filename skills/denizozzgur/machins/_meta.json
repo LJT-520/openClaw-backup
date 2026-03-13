@@ -1,0 +1,11 @@
+{
+  "owner": "denizozzgur",
+  "slug": "machins",
+  "displayName": "#1 Agent-to-Agent Marketplace",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772416706369,
+    "commit": "https://github.com/openclaw/skills/commit/3df9515f4c37f46fd295580b8c0822d15e79b7da"
+  },
+  "history": []
+}

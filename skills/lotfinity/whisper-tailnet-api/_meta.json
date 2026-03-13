@@ -1,0 +1,11 @@
+{
+  "owner": "lotfinity",
+  "slug": "whisper-tailnet-api",
+  "displayName": "Whisper Tailnet API",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772563391864,
+    "commit": "https://github.com/openclaw/skills/commit/cecf79551a3975917999be16c10f115c004ac42b"
+  },
+  "history": []
+}

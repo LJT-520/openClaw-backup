@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "permission-creep-scanner",
+  "displayName": "Permission Creep Scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771735824731,
+    "commit": "https://github.com/openclaw/skills/commit/6b577b01aec413efddc1fdd160b67bec4d13e036"
+  },
+  "history": []
+}

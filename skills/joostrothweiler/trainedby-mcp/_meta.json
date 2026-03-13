@@ -1,0 +1,11 @@
+{
+  "owner": "joostrothweiler",
+  "slug": "trainedby-mcp",
+  "displayName": "trainedby.ai MCP",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772523095763,
+    "commit": "https://github.com/openclaw/skills/commit/41c22c3bbf7f97e5e09c703ef6e0ac2793a52863"
+  },
+  "history": []
+}

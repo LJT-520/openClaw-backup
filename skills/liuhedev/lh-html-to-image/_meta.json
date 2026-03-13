@@ -1,0 +1,11 @@
+{
+  "owner": "liuhedev",
+  "slug": "lh-html-to-image",
+  "displayName": "LH HTML to Image",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772602473255,
+    "commit": "https://github.com/openclaw/skills/commit/dba08838c1774fd4fb55443d88a9f465b42fd0c0"
+  },
+  "history": []
+}

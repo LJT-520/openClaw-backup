@@ -1,0 +1,17 @@
+{
+  "owner": "mrhah",
+  "slug": "m365cli",
+  "displayName": "M365cli",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772635658996,
+    "commit": "https://github.com/openclaw/skills/commit/32c898873bb46f7669fab429017edadcdae4d423"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772635608277,
+      "commit": "https://github.com/openclaw/skills/commit/a8ba8fcddff0eba312ca5b71623b8a4c9c85da0c"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "moenassi",
+  "slug": "osv-scanner",
+  "displayName": "OSV Scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771509965390,
+    "commit": "https://github.com/openclaw/skills/commit/4948561435fa28966f32da19ffc7dcc14b4682a0"
+  },
+  "history": []
+}

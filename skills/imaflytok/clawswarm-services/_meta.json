@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "clawswarm-services",
+  "displayName": "ClawSwarm Services Marketplace",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772458930729,
+    "commit": "https://github.com/openclaw/skills/commit/2369ef57d76559286468f87bcac822401aba99e2"
+  },
+  "history": []
+}

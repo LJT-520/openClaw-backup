@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-auto-repair",
+  "displayName": "Auto Repair Shop Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772256071243,
+    "commit": "https://github.com/openclaw/skills/commit/1da1dec45448865dafe5584cc721e2b2104ffffc"
+  },
+  "history": []
+}

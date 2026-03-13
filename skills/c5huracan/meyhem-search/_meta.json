@@ -1,0 +1,11 @@
+{
+  "owner": "c5huracan",
+  "slug": "meyhem-search",
+  "displayName": "Meyhem Search",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1772466887057,
+    "commit": "https://github.com/openclaw/skills/commit/fe258cbcbc78a6fa0b0f77a531c5afb51a177192"
+  },
+  "history": []
+}

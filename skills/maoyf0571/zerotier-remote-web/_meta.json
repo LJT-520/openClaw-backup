@@ -1,0 +1,17 @@
+{
+  "owner": "maoyf0571",
+  "slug": "zerotier-remote-web",
+  "displayName": "ZeroTier Remote Web Access",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772612025661,
+    "commit": "https://github.com/openclaw/skills/commit/88840469e7e884dd893c5e8d850a9b0323388f5a"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772611132790,
+      "commit": "https://github.com/openclaw/skills/commit/2412a26c5ce5ecd3a03bc3ef56e65889483f386b"
+    }
+  ]
+}

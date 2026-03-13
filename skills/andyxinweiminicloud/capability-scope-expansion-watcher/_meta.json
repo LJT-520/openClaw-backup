@@ -1,0 +1,17 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "capability-scope-expansion-watcher",
+  "displayName": "Capability Scope Expansion Watcher",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771988601324,
+    "commit": "https://github.com/openclaw/skills/commit/413ff462bffc2b0d5b1979e095ae39dd3aeb0932"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771856844198,
+      "commit": "https://github.com/openclaw/skills/commit/89d324350c2c41ea8ff7adcb7c77d9d448191f28"
+    }
+  ]
+}

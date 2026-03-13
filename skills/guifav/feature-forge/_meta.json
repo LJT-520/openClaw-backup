@@ -1,0 +1,11 @@
+{
+  "owner": "guifav",
+  "slug": "feature-forge",
+  "displayName": "Feature Forge",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771446455958,
+    "commit": "https://github.com/openclaw/skills/commit/25feb1bff4de48b2d184bbd175a644cdfb5e0a56"
+  },
+  "history": []
+}

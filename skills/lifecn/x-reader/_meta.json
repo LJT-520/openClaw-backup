@@ -1,0 +1,11 @@
+{
+  "owner": "lifecn",
+  "slug": "x-reader",
+  "displayName": "X Reader",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772352805352,
+    "commit": "https://github.com/openclaw/skills/commit/deb4c25803cfa40fda7ef23efb81240d71659352"
+  },
+  "history": []
+}

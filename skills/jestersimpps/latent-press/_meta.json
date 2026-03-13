@@ -1,0 +1,27 @@
+{
+  "owner": "jestersimpps",
+  "slug": "latent-press",
+  "displayName": "Latent Press",
+  "latest": {
+    "version": "1.7.0",
+    "publishedAt": 1772051298950,
+    "commit": "https://github.com/openclaw/skills/commit/9f2fef2737703b7fb4a0e69c5ee60e783dde3239"
+  },
+  "history": [
+    {
+      "version": "1.6.0",
+      "publishedAt": 1771713769069,
+      "commit": "https://github.com/openclaw/skills/commit/fd2447a91e5c7600c6f173253788242a184aab12"
+    },
+    {
+      "version": "1.4.0",
+      "publishedAt": 1771688175544,
+      "commit": "https://github.com/openclaw/skills/commit/30e459da680ee7d141945563e66a1ea8a67cd98a"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771684043921,
+      "commit": "https://github.com/openclaw/skills/commit/2c8f721e0800208c033905a78d26500e77a4c880"
+    }
+  ]
+}

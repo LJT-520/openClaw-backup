@@ -1,0 +1,17 @@
+{
+  "owner": "hardik500",
+  "slug": "sleep-snooze",
+  "displayName": "Sleep Snooze",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772423479525,
+    "commit": "https://github.com/openclaw/skills/commit/281f8c3fd927ddc1c00155431d8c45ce9a953f91"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772350222914,
+      "commit": "https://github.com/openclaw/skills/commit/6ffed0f7a909a56388835d882f6bec5cacb0387e"
+    }
+  ]
+}

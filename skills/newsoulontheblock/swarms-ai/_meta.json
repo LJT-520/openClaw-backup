@@ -1,0 +1,11 @@
+{
+  "owner": "newsoulontheblock",
+  "slug": "swarms-ai",
+  "displayName": "openclaw skill for swarms ai",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772154427166,
+    "commit": "https://github.com/openclaw/skills/commit/a1a3cf1d4230737acf986868465d39cf272ea1e7"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "caddy-reverse-proxy",
+  "displayName": "Caddy Reverse Proxy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771989513357,
+    "commit": "https://github.com/openclaw/skills/commit/1d5aa1323ab03084ba8088e4dbc360dbb5dcf665"
+  },
+  "history": []
+}

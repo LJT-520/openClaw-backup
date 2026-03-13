@@ -1,0 +1,11 @@
+{
+  "owner": "binubmuse",
+  "slug": "medical-entity-extractor",
+  "displayName": "Medical Entity Extractor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772192877846,
+    "commit": "https://github.com/openclaw/skills/commit/02b074f17e4a9cd2247ea4c8a05c9215d4941d9e"
+  },
+  "history": []
+}

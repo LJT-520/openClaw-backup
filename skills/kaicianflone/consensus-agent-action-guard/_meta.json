@@ -1,0 +1,37 @@
+{
+  "owner": "kaicianflone",
+  "slug": "consensus-agent-action-guard",
+  "displayName": "consensus-agent-action-guard",
+  "latest": {
+    "version": "1.1.14",
+    "publishedAt": 1772479649508,
+    "commit": "https://github.com/openclaw/skills/commit/b4af7a81a207584c5c9c74f6e25dc232c434e535"
+  },
+  "history": [
+    {
+      "version": "1.1.13",
+      "publishedAt": 1772478610260,
+      "commit": "https://github.com/openclaw/skills/commit/c31b25e0e60ca5fa07a9f66f63c7b4336591157e"
+    },
+    {
+      "version": "1.1.12",
+      "publishedAt": 1772477202310,
+      "commit": "https://github.com/openclaw/skills/commit/cdf8efd07fea8e134cd21ded487d944cc9ec19e0"
+    },
+    {
+      "version": "1.1.11",
+      "publishedAt": 1772473051921,
+      "commit": "https://github.com/openclaw/skills/commit/86d857358b0debbbb7d93e02434b5ab0c3abbed1"
+    },
+    {
+      "version": "1.1.9",
+      "publishedAt": 1772343194655,
+      "commit": "https://github.com/openclaw/skills/commit/9272fe4138f3a02c9e9da086c14a677b94c15543"
+    },
+    {
+      "version": "1.1.4",
+      "publishedAt": 1772156323345,
+      "commit": "https://github.com/openclaw/skills/commit/9cf6f955f1976180683f90637610630583bf70e3"
+    }
+  ]
+}

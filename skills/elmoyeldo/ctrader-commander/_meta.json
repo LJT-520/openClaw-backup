@@ -1,0 +1,11 @@
+{
+  "owner": "elmoyeldo",
+  "slug": "ctrader-commander",
+  "displayName": "cTrader Commander",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772065133582,
+    "commit": "https://github.com/openclaw/skills/commit/7a6c9209a41286738e82af9e969c8b816677956e"
+  },
+  "history": []
+}

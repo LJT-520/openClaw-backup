@@ -1,0 +1,11 @@
+{
+  "owner": "gora050",
+  "slug": "microsoft-teams-integration",
+  "displayName": "Microsoft Teams",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772640173522,
+    "commit": "https://github.com/openclaw/skills/commit/fad014ffd45d8ee63547feea51545f0707da7a00"
+  },
+  "history": []
+}

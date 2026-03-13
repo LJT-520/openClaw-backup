@@ -1,0 +1,11 @@
+{
+  "owner": "mupengi-bot",
+  "slug": "mupeng-evolve",
+  "displayName": "Mupeng Evolve — God-Tier Agent Evolution Engine",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772325480740,
+    "commit": "https://github.com/openclaw/skills/commit/127ac3b7b9a56ba38f5070361bca4da61a0960ad"
+  },
+  "history": []
+}

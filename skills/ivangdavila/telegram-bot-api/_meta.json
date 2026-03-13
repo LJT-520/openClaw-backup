@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "telegram-bot-api",
+  "displayName": "Telegram Bot API",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771943965204,
+    "commit": "https://github.com/openclaw/skills/commit/fdc7d512a9386b1beefc8eae39369ff0ee6fd315"
+  },
+  "history": []
+}

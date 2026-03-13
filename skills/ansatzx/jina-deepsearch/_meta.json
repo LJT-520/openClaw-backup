@@ -1,0 +1,11 @@
+{
+  "owner": "ansatzx",
+  "slug": "jina-deepsearch",
+  "displayName": "jina-deepsearch",
+  "latest": {
+    "version": "0.0.3",
+    "publishedAt": 1772520544087,
+    "commit": "https://github.com/openclaw/skills/commit/d284e4bc7d964f18c6959b188eecaf6bac349596"
+  },
+  "history": []
+}

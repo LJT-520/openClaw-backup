@@ -1,0 +1,11 @@
+{
+  "owner": "madeinusmate",
+  "slug": "grvt-markets-agent-skill",
+  "displayName": "Grvt Markets",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771734921854,
+    "commit": "https://github.com/openclaw/skills/commit/82e8a53973d3a69c5ae5e28058cc0d0be1df8c3e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "liuhedev",
+  "slug": "lh-deepwiki",
+  "displayName": "LH DeepWiki",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772601619006,
+    "commit": "https://github.com/openclaw/skills/commit/e064aa3bb61bdccfcf208962cd89fe894c175e9c"
+  },
+  "history": []
+}

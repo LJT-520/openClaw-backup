@@ -1,0 +1,11 @@
+{
+  "owner": "elizabethsiegle",
+  "slug": "bayclub-gateway-booking",
+  "displayName": "Check and book Tennis and Pickleball Courts at Bay Club Gateway",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771557977202,
+    "commit": "https://github.com/openclaw/skills/commit/dfdfce9cddc8571c0ce43e9e3c76683d4305f4ea"
+  },
+  "history": []
+}

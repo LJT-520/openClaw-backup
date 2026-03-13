@@ -1,0 +1,11 @@
+{
+  "owner": "lumenclaw-cloud",
+  "slug": "filtrix-ai-image-gen",
+  "displayName": "Filtrix AI Image Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771921288496,
+    "commit": "https://github.com/openclaw/skills/commit/18bccbb3e8c9e4df32c2760fbe8d806d19ac18f0"
+  },
+  "history": []
+}

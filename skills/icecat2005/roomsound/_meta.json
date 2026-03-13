@@ -1,0 +1,17 @@
+{
+  "owner": "icecat2005",
+  "slug": "roomsound",
+  "displayName": "RoomSound",
+  "latest": {
+    "version": "0.1.5",
+    "publishedAt": 1771704600465,
+    "commit": "https://github.com/openclaw/skills/commit/d213f2d258b2beb76a9c13c8dc704d3cec06c381"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771678120573,
+      "commit": "https://github.com/openclaw/skills/commit/80abcffa4e6c1f670b2921fde653b0f9548775c3"
+    }
+  ]
+}

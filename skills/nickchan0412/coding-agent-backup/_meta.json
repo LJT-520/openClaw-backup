@@ -1,0 +1,11 @@
+{
+  "owner": "nickchan0412",
+  "slug": "coding-agent-backup",
+  "displayName": "Coding Agent Backup",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772104830179,
+    "commit": "https://github.com/openclaw/skills/commit/14e4469a89a297d9255ce51f41808c59c3bdf68e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "alessandropcostabr",
+  "slug": "openclaw-skill-debugger",
+  "displayName": "OpenClaw Skill Debugger",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771683722368,
+    "commit": "https://github.com/openclaw/skills/commit/38d4f89b07a48df6f2546848bc377566b36c2dd9"
+  },
+  "history": []
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "kelexine",
+  "slug": "moltbook-cli-tool",
+  "displayName": "MoltBook CLI",
+  "latest": {
+    "version": "0.7.10",
+    "publishedAt": 1771695286572,
+    "commit": "https://github.com/openclaw/skills/commit/79450bc3f3e05266f4d0719936484db8110c0fde"
+  },
+  "history": [
+    {
+      "version": "0.7.9",
+      "publishedAt": 1771511465762,
+      "commit": "https://github.com/openclaw/skills/commit/6831a86358d55d8df90046f9e474f15c17bdf19e"
+    },
+    {
+      "version": "0.7.8",
+      "publishedAt": 1771487812364,
+      "commit": "https://github.com/openclaw/skills/commit/06b8e34986acb7a9bb6e2f6b227188570c9585a6"
+    },
+    {
+      "version": "0.7.2",
+      "publishedAt": 1771262116118,
+      "commit": "https://github.com/openclaw/skills/commit/fbd7f541b965bafe6e0ae01e9eaf19a969110fb3"
+    }
+  ]
+}

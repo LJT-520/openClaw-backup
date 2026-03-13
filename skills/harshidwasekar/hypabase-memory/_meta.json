@@ -1,0 +1,11 @@
+{
+  "owner": "harshidwasekar",
+  "slug": "hypabase-memory",
+  "displayName": "Hypabase Memory",
+  "latest": {
+    "version": "0.2.4",
+    "publishedAt": 1772197617466,
+    "commit": "https://github.com/openclaw/skills/commit/200004b32f84fa4eb45fa247e83326d8fc60bb48"
+  },
+  "history": []
+}

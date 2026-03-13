@@ -1,0 +1,11 @@
+{
+  "owner": "jcoulaud",
+  "slug": "ship-my-token",
+  "displayName": "Ship My Token",
+  "latest": {
+    "version": "1.5.3",
+    "publishedAt": 1771776891423,
+    "commit": "https://github.com/openclaw/skills/commit/7c5576dfc195b499eca181e7c7a42a41b6a72523"
+  },
+  "history": []
+}

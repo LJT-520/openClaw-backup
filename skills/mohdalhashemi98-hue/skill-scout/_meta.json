@@ -1,0 +1,11 @@
+{
+  "owner": "mohdalhashemi98-hue",
+  "slug": "skill-scout",
+  "displayName": "Skill Scout",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772403430317,
+    "commit": "https://github.com/openclaw/skills/commit/e439f12a478926bf0b3f1d2c3c1f374032b42722"
+  },
+  "history": []
+}

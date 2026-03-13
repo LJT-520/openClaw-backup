@@ -1,0 +1,32 @@
+{
+  "owner": "lifeissea",
+  "slug": "korean-gov-programs",
+  "displayName": "Korean Gov Programs",
+  "latest": {
+    "version": "1.0.8",
+    "publishedAt": 1771978905411,
+    "commit": "https://github.com/openclaw/skills/commit/09b6749f14488d29fd29129ecda08b99cc51213a"
+  },
+  "history": [
+    {
+      "version": "1.0.7",
+      "publishedAt": 1771719304204,
+      "commit": "https://github.com/openclaw/skills/commit/2de04ef38686979514540c2d54cbd03ed8465084"
+    },
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771635890930,
+      "commit": "https://github.com/openclaw/skills/commit/a0cc15d15f472f6a0d2c84aa466f2b2829ba58a2"
+    },
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771510365376,
+      "commit": "https://github.com/openclaw/skills/commit/ef02daeb9f43465d6ea802ebeab4c2e890d3af84"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771494927268,
+      "commit": "https://github.com/openclaw/skills/commit/c9bee027641dab1411cc0f645c621f6380a9485a"
+    }
+  ]
+}

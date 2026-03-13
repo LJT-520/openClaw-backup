@@ -1,0 +1,17 @@
+{
+  "owner": "khaney64",
+  "slug": "baseball",
+  "displayName": "Baseball",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1771603483339,
+    "commit": "https://github.com/openclaw/skills/commit/22107643b0a38ca0c34d940d465266ba94ee61f9"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771553754218,
+      "commit": "https://github.com/openclaw/skills/commit/08bf043ea5d63037a6e3dc220853cac2d26162bb"
+    }
+  ]
+}

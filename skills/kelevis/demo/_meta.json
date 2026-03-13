@@ -1,0 +1,11 @@
+{
+  "owner": "kelevis",
+  "slug": "demo",
+  "displayName": "demo",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772612263675,
+    "commit": "https://github.com/openclaw/skills/commit/fe3723b49fb57713bb4b7f3795cd6cb2a8e775ec"
+  },
+  "history": []
+}

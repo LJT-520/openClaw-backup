@@ -1,0 +1,11 @@
+{
+  "owner": "mengwuzhi",
+  "slug": "clawhub-login",
+  "displayName": "ClawHub Login Helper",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772262536254,
+    "commit": "https://github.com/openclaw/skills/commit/03dba824a1d300219f5c5fae5eb261d28182897f"
+  },
+  "history": []
+}

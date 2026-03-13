@@ -1,0 +1,11 @@
+{
+  "owner": "guim4dev",
+  "slug": "caprover-ci-deploys",
+  "displayName": "Caprover CI Deployments",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772388353989,
+    "commit": "https://github.com/openclaw/skills/commit/0d3c5dc6e74037fcf5f7e0887b200d6e6082a352"
+  },
+  "history": []
+}

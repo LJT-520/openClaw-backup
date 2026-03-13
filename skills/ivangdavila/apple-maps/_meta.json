@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "apple-maps",
+  "displayName": "Apple Maps (MacOS)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772470119510,
+    "commit": "https://github.com/openclaw/skills/commit/b623f260267dc3a4aa8903113c37891e81318b50"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ionepub",
+  "slug": "openclaw-notion-api",
+  "displayName": "Openclaw Notion Api",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772037135570,
+    "commit": "https://github.com/openclaw/skills/commit/0b9d1cc4a8479d33730aef17d0caba8e36030bea"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "bo170814",
+  "slug": "feishu-img-tool",
+  "displayName": "Feishu Img Tool",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772516114336,
+    "commit": "https://github.com/openclaw/skills/commit/8b2aa56068e3dd9c08c34105fa82da2522476afb"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772446269892,
+      "commit": "https://github.com/openclaw/skills/commit/2d7e50132ec20c108b22581cefc5b1f5489f0dee"
+    }
+  ]
+}

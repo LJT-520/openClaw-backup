@@ -1,0 +1,11 @@
+{
+  "owner": "klicbot",
+  "slug": "klic-nederland",
+  "displayName": "KLIC Nederland",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771516700784,
+    "commit": "https://github.com/openclaw/skills/commit/85423a651f0901989866b16c1cad468378a5014e"
+  },
+  "history": []
+}

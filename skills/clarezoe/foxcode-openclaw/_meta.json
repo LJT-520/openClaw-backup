@@ -1,0 +1,11 @@
+{
+  "owner": "clarezoe",
+  "slug": "foxcode-openclaw",
+  "displayName": "Foxcode OpenClaw",
+  "latest": {
+    "version": "1.2.4",
+    "publishedAt": 1772320890904,
+    "commit": "https://github.com/openclaw/skills/commit/02b97761e820b3d9c8a1383cf290ea8f565a7214"
+  },
+  "history": []
+}

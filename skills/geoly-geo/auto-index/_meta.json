@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "auto-index",
+  "displayName": "Google SEO GEO Auto Index",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772529391379,
+    "commit": "https://github.com/openclaw/skills/commit/b45f65988d635eb4321d322ec9ed351e16ec2c29"
+  },
+  "history": []
+}

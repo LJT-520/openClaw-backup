@@ -1,0 +1,11 @@
+{
+  "owner": "cyberxuan-xbx",
+  "slug": "skill-sanitizer",
+  "displayName": "Clawhub Publish",
+  "latest": {
+    "version": "2.1.1",
+    "publishedAt": 1772312225449,
+    "commit": "https://github.com/openclaw/skills/commit/3e4d678f82b1f0ddc245fcbe406dcef66c7a6409"
+  },
+  "history": []
+}

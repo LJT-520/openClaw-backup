@@ -1,0 +1,11 @@
+{
+  "owner": "jini92",
+  "slug": "advisory-committee",
+  "displayName": "Advisory Committee",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772316583953,
+    "commit": "https://github.com/openclaw/skills/commit/87b5937f452c15bec31c112666ac72b7368a11e6"
+  },
+  "history": []
+}

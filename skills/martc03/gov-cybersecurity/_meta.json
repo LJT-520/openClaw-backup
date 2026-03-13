@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-cybersecurity",
+  "displayName": "Government Cybersecurity Vulnerability Intel",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772183761504,
+    "commit": "https://github.com/openclaw/skills/commit/dd7ab9b466f1102cc2655b0518bf7e74ffd650e8"
+  },
+  "history": []
+}

@@ -1,0 +1,32 @@
+{
+  "owner": "kaicianflone",
+  "slug": "consensus-permission-escalation-guard",
+  "displayName": "consensus-permission-escalation-guard",
+  "latest": {
+    "version": "0.1.13",
+    "publishedAt": 1772479673781,
+    "commit": "https://github.com/openclaw/skills/commit/2038b6de72186450ded2653fc980d10620b004dd"
+  },
+  "history": [
+    {
+      "version": "0.1.11",
+      "publishedAt": 1772478333453,
+      "commit": "https://github.com/openclaw/skills/commit/00a80fcd57f6dad55860dafac5c002625267d18f"
+    },
+    {
+      "version": "0.1.8",
+      "publishedAt": 1772473070389,
+      "commit": "https://github.com/openclaw/skills/commit/8a29bb3b83e45d46f6b255e545bedb9dee07d870"
+    },
+    {
+      "version": "0.1.7",
+      "publishedAt": 1772375466781,
+      "commit": "https://github.com/openclaw/skills/commit/c23914f98a86ac3a64e81cad6cf950ef4843027e"
+    },
+    {
+      "version": "0.1.6",
+      "publishedAt": 1772343207263,
+      "commit": "https://github.com/openclaw/skills/commit/4ecd641c0b83f9e227e478a7de7747e2486bbcff"
+    }
+  ]
+}

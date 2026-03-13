@@ -1,0 +1,11 @@
+{
+  "owner": "balkanblbn",
+  "slug": "moltpay",
+  "displayName": "MoltPay Core",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771969426130,
+    "commit": "https://github.com/openclaw/skills/commit/3f718682500e47c628151f683fef8570b833265d"
+  },
+  "history": []
+}

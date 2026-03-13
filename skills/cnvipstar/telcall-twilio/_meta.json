@@ -1,0 +1,11 @@
+{
+  "owner": "cnvipstar",
+  "slug": "telcall-twilio",
+  "displayName": "TelCall Twilio",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771844894091,
+    "commit": "https://github.com/openclaw/skills/commit/1fea48a3d90df5c7af4b68aa2cfdc5d59c99ddce"
+  },
+  "history": []
+}

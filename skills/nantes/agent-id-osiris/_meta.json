@@ -1,0 +1,11 @@
+{
+  "owner": "nantes",
+  "slug": "agent-id-osiris",
+  "displayName": "Agent Identity",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1771783981373,
+    "commit": "https://github.com/openclaw/skills/commit/cd65b18e1686083200f3af51d50a0c0bf3d0e399"
+  },
+  "history": []
+}

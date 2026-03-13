@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-billing",
+  "displayName": "ERPClaw-Billing",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772220527751,
+    "commit": "https://github.com/openclaw/skills/commit/f48395ff8b69ed04482f22b9db2ee4aae35061aa"
+  },
+  "history": []
+}

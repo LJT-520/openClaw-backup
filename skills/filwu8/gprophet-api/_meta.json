@@ -1,0 +1,17 @@
+{
+  "owner": "filwu8",
+  "slug": "gprophet-api",
+  "displayName": "Gprophet Api",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772632084126,
+    "commit": "https://github.com/openclaw/skills/commit/1c21b2b80ce4eca6127ef121ead6db2ea4fce77f"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772357870591,
+      "commit": "https://github.com/openclaw/skills/commit/f24a1ce7efc970490863b3748775a44b9b6137a8"
+    }
+  ]
+}

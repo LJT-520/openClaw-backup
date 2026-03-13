@@ -1,0 +1,11 @@
+{
+  "owner": "ahuserious",
+  "slug": "nautilus-trader",
+  "displayName": "Nautilus Trader",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772214050975,
+    "commit": "https://github.com/openclaw/skills/commit/b6832c66c377934d6eeb3268a0bb49d95ec8715d"
+  },
+  "history": []
+}

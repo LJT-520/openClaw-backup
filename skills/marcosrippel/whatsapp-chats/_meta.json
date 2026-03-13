@@ -1,0 +1,11 @@
+{
+  "owner": "marcosrippel",
+  "slug": "whatsapp-chats",
+  "displayName": "WhatsApp Chats",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771443651188,
+    "commit": "https://github.com/openclaw/skills/commit/eea570043ecc0dc81d7380e5bbb5c622ace88de2"
+  },
+  "history": []
+}

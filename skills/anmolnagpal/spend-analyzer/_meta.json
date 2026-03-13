@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "spend-analyzer",
+  "displayName": "Spend Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772359579920,
+    "commit": "https://github.com/openclaw/skills/commit/63e1c2a4cf7759b373509aad9cbc40087a7e9e53"
+  },
+  "history": []
+}

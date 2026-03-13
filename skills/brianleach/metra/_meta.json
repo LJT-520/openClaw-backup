@@ -1,0 +1,11 @@
+{
+  "owner": "brianleach",
+  "slug": "metra",
+  "displayName": "Metra Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771779553332,
+    "commit": "https://github.com/openclaw/skills/commit/f731b299a3376d38def4a9105f22dd37a07932d7"
+  },
+  "history": []
+}

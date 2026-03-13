@@ -1,0 +1,11 @@
+{
+  "owner": "iqiyidev-lgtm",
+  "slug": "dogeye-data",
+  "displayName": "DogEye Data",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1772563423648,
+    "commit": "https://github.com/openclaw/skills/commit/6ed1f51ed0b6cdf1b8f4afd3b2dd41ba3b90d204"
+  },
+  "history": []
+}

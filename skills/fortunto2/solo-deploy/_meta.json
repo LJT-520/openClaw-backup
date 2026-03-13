@@ -1,0 +1,17 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-deploy",
+  "displayName": "Deploy",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1771711574598,
+    "commit": "https://github.com/openclaw/skills/commit/9ba1126b428c562e1364a57084e4e09a70d69f90"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771616105232,
+      "commit": "https://github.com/openclaw/skills/commit/a28713d184e1c92cb44f4141cf2bfb7ad8aca632"
+    }
+  ]
+}

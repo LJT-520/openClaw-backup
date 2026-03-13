@@ -1,0 +1,11 @@
+{
+  "owner": "chuddyrudd",
+  "slug": "clawsentinel",
+  "displayName": "ClawSentinel",
+  "latest": {
+    "version": "2.3.5",
+    "publishedAt": 1772282761675,
+    "commit": "https://github.com/openclaw/skills/commit/d152eee18ec9958c53f16efe0f6ce81d3341e044"
+  },
+  "history": []
+}

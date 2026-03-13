@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "airtag",
+  "displayName": "AirTag",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772324535019,
+    "commit": "https://github.com/openclaw/skills/commit/0bd60a998bdc868b105433906fd6facc4cf438b1"
+  },
+  "history": []
+}

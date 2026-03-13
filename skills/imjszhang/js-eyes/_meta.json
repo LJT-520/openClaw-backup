@@ -1,0 +1,17 @@
+{
+  "owner": "imjszhang",
+  "slug": "js-eyes",
+  "displayName": "JS Eyes",
+  "latest": {
+    "version": "1.4.3",
+    "publishedAt": 1772027181864,
+    "commit": "https://github.com/openclaw/skills/commit/9aeacaa08fde3e4ea094ea82a29bb65c0a6b5883"
+  },
+  "history": [
+    {
+      "version": "1.4.2",
+      "publishedAt": 1772018515835,
+      "commit": "https://github.com/openclaw/skills/commit/bda67da347ad5a0c949761438ac49d37c05441f8"
+    }
+  ]
+}

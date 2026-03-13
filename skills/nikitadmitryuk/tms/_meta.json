@@ -1,0 +1,22 @@
+{
+  "owner": "nikitadmitryuk",
+  "slug": "tms",
+  "displayName": "TMS (Telegram Media Server)",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772372827971,
+    "commit": "https://github.com/openclaw/skills/commit/f988f4819bd689831da1f0e79823a507fc142731"
+  },
+  "history": [
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771799810352,
+      "commit": "https://github.com/openclaw/skills/commit/10b1ddd80168a1b8378fe14965c337c413eacdcb"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771796288930,
+      "commit": "https://github.com/openclaw/skills/commit/c4f76c77e8eb9c37535b3635edae96fb562beeef"
+    }
+  ]
+}

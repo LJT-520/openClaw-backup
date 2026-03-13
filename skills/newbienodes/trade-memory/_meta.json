@@ -1,0 +1,11 @@
+{
+  "owner": "newbienodes",
+  "slug": "trade-memory",
+  "displayName": "Trade Memory",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771784948352,
+    "commit": "https://github.com/openclaw/skills/commit/37fde4a5fe07f67495d2c66120557e5889760cdc"
+  },
+  "history": []
+}

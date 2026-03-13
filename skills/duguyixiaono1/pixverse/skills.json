@@ -1,0 +1,148 @@
+{
+  "skills": [
+    {
+      "name": "gen-video",
+      "command": "node dist/gen-video.js",
+      "description": "Generate video from text prompt",
+      "parameters": [
+        {
+          "name": "prompt",
+          "description": "Text description of the video to generate",
+          "required": true
+        },
+        {
+          "name": "aspect_ratio",
+          "description": "Video aspect ratio (16:9, 9:16, 1:1, 4:3, 3:4)",
+          "required": false,
+          "default": "16:9"
+        },
+        {
+          "name": "duration",
+          "description": "Video duration in seconds (5 or 8)",
+          "required": false,
+          "default": "5"
+        },
+        {
+          "name": "resolution",
+          "description": "Video resolution (360p, 540p, 720p, 1080p)",
+          "required": false,
+          "default": "720p"
+        },
+        {
+          "name": "model",
+          "description": "AI model version (v4.5 or v5)",
+          "required": false,
+          "default": "v4.5"
+        },
+        {
+          "name": "motion_mode",
+          "description": "Motion speed (normal or fast)",
+          "required": false,
+          "default": "normal"
+        },
+        {
+          "name": "negative_prompt",
+          "description": "Elements to exclude from the video",
+          "required": false
+        }
+      ]
+    },
+    {
+      "name": "img2video",
+      "command": "node dist/img2video.js",
+      "description": "Generate video from image",
+      "parameters": [
+        {
+          "name": "image",
+          "description": "Path to image file or URL",
+          "required": true
+        },
+        {
+          "name": "prompt",
+          "description": "Text description of motion/animation",
+          "required": false
+        },
+        {
+          "name": "motion_mode",
+          "description": "Motion mode (normal or fast)",
+          "required": false,
+          "default": "normal"
+        },
+        {
+          "name": "duration",
+          "description": "Video duration in seconds (5 or 8)",
+          "required": false,
+          "default": "5"
+        },
+        {
+          "name": "aspect_ratio",
+          "description": "Video aspect ratio (16:9, 9:16, 1:1, 4:3, 3:4)",
+          "required": false,
+          "default": "16:9"
+        },
+        {
+          "name": "resolution",
+          "description": "Video resolution (360p, 540p, 720p, 1080p)",
+          "required": false,
+          "default": "720p"
+        },
+        {
+          "name": "model",
+          "description": "AI model version (v4.5 or v5)",
+          "required": false,
+          "default": "v4.5"
+        }
+      ]
+    },
+    {
+      "name": "extend-video",
+      "command": "node dist/extend-video.js",
+      "description": "Extend existing video duration",
+      "parameters": [
+        {
+          "name": "video",
+          "description": "Path to video file (optional if video_id provided)",
+          "required": false
+        },
+        {
+          "name": "video_id",
+          "description": "Video ID from previous generation (optional if video provided)",
+          "required": false
+        },
+        {
+          "name": "extend_seconds",
+          "description": "Seconds to extend (5 or 8)",
+          "required": false,
+          "default": "5"
+        },
+        {
+          "name": "prompt",
+          "description": "Optional prompt to guide extension",
+          "required": false
+        },
+        {
+          "name": "aspect_ratio",
+          "description": "Video aspect ratio (16:9, 9:16, 1:1, 4:3, 3:4)",
+          "required": false
+        },
+        {
+          "name": "resolution",
+          "description": "Video resolution (360p, 540p, 720p, 1080p)",
+          "required": false,
+          "default": "720p"
+        },
+        {
+          "name": "model",
+          "description": "AI model version (v4.5 or v5)",
+          "required": false,
+          "default": "v4.5"
+        },
+        {
+          "name": "motion_mode",
+          "description": "Motion mode (normal or fast)",
+          "required": false
+        }
+      ]
+    }
+  ]
+}

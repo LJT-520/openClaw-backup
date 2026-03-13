@@ -1,0 +1,22 @@
+{
+  "owner": "bubble501",
+  "slug": "phemex-trade",
+  "displayName": "Phemex Trading",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1772152110909,
+    "commit": "https://github.com/openclaw/skills/commit/e1d15733577f28f626a0335aa5f387431f617b0b"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771256245658,
+      "commit": "https://github.com/openclaw/skills/commit/e71fcf4e25e52ed345013376f555b3179d908ff9"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771237583385,
+      "commit": "https://github.com/openclaw/skills/commit/e9a0ee64efd8547789a9fa0949e1ac7db1488d6a"
+    }
+  ]
+}

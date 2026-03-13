@@ -1,0 +1,11 @@
+{
+  "owner": "ai-lychee",
+  "slug": "doubao-seedream-seedance-skill",
+  "displayName": "Doubao Seedream & Seedance API Skill",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772654958580,
+    "commit": "https://github.com/openclaw/skills/commit/6b698c1cdd0f06105050fa7333d983061cd90e3e"
+  },
+  "history": []
+}

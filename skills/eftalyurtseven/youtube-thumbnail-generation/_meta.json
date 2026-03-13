@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "youtube-thumbnail-generation",
+  "displayName": "YouTube Thumbnail Generation",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771568502365,
+    "commit": "https://github.com/openclaw/skills/commit/09ae75cd2a0e5066ae6fc25671e750f57bd3a617"
+  },
+  "history": []
+}

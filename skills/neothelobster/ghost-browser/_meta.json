@@ -1,0 +1,22 @@
+{
+  "owner": "neothelobster",
+  "slug": "ghost-browser",
+  "displayName": "Ghost Browser",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772478942384,
+    "commit": "https://github.com/openclaw/skills/commit/b48d4c32ff9eda6b7820997b1e39e0695f362f13"
+  },
+  "history": [
+    {
+      "version": "1.0.6",
+      "publishedAt": 1772362365610,
+      "commit": "https://github.com/openclaw/skills/commit/beeb4f1a26cc0ab3af1b4644ea206440d06ccc35"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1772101524825,
+      "commit": "https://github.com/openclaw/skills/commit/2f8a27b35aedba26bab034cffc4ebf5fb0456a88"
+    }
+  ]
+}

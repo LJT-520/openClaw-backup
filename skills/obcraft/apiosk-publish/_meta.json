@@ -1,0 +1,17 @@
+{
+  "owner": "obcraft",
+  "slug": "apiosk-publish",
+  "displayName": "Apiosk Publish",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772134346428,
+    "commit": "https://github.com/openclaw/skills/commit/5a3edeb31758ea6b8751deef378ecaa7c08b5317"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771170653506,
+      "commit": "https://github.com/openclaw/skills/commit/30d52963939a3d64c5697ed24a99eb1e2fce1ff9"
+    }
+  ]
+}

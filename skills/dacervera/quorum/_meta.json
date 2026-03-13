@@ -1,0 +1,11 @@
+{
+  "owner": "dacervera",
+  "slug": "quorum",
+  "displayName": "Quorum",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1771918710986,
+    "commit": "https://github.com/openclaw/skills/commit/2eb1173ba75f02e9ab7e1614e30872b59ef182e3"
+  },
+  "history": []
+}

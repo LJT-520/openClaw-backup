@@ -1,0 +1,11 @@
+{
+  "owner": "aromeoes",
+  "slug": "tulebank",
+  "displayName": "Tulebank",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772135064253,
+    "commit": "https://github.com/openclaw/skills/commit/d00e4f9ebad972eaee51bd958204afd8e19d56b0"
+  },
+  "history": []
+}

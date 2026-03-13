@@ -1,0 +1,11 @@
+{
+  "owner": "mindsocket",
+  "slug": "open-chrome-tabs",
+  "displayName": "Open Chrome Tabs",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771749753426,
+    "commit": "https://github.com/openclaw/skills/commit/dda5bb38fdda91445f03d3aaa9bcca1d96f70d20"
+  },
+  "history": []
+}

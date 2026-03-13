@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-ai-spend-audit",
+  "displayName": "Ai Spend Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771755979558,
+    "commit": "https://github.com/openclaw/skills/commit/9fc977d32fb684ece9c71a64e19b3c04f0f65193"
+  },
+  "history": []
+}

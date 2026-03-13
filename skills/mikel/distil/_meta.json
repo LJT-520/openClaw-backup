@@ -1,0 +1,22 @@
+{
+  "owner": "mikel",
+  "slug": "distil",
+  "displayName": "Distil the web & PDFs into markdown",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772154104942,
+    "commit": "https://github.com/openclaw/skills/commit/ad56b9a671addafefb3ed7ff427bc06f2bbd1f9e"
+  },
+  "history": [
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771743859820,
+      "commit": "https://github.com/openclaw/skills/commit/7e246bf4a14e65eb54c77b5c6095425f06846bb5"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771681470095,
+      "commit": "https://github.com/openclaw/skills/commit/22866adc78ea9d430bd23691ce4e91d2a25eba23"
+    }
+  ]
+}

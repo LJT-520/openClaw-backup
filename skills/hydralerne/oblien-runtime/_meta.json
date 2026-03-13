@@ -1,0 +1,11 @@
+{
+  "owner": "hydralerne",
+  "slug": "oblien-runtime",
+  "displayName": "Oblien workspace runtime",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772653798722,
+    "commit": "https://github.com/openclaw/skills/commit/ab2e9a84c9a67193784d67b2715398013c631097"
+  },
+  "history": []
+}

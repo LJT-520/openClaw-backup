@@ -1,0 +1,11 @@
+{
+  "owner": "cryptocana",
+  "slug": "content-machina",
+  "displayName": "Content Machina",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1772213070275,
+    "commit": "https://github.com/openclaw/skills/commit/0699f1f50dc5ab8a2838b2f82bdbb073c763a45f"
+  },
+  "history": []
+}

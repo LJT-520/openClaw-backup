@@ -1,0 +1,11 @@
+{
+  "owner": "nicoxia",
+  "slug": "config-validator-zh-cn",
+  "displayName": "Config Validator",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772123917275,
+    "commit": "https://github.com/openclaw/skills/commit/40ddc800e001081b5983b4a903433e34217cf61c"
+  },
+  "history": []
+}

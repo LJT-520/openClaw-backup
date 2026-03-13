@@ -1,0 +1,11 @@
+{
+  "owner": "danielfoch",
+  "slug": "openclaw-docusign-agreements",
+  "displayName": "OpenClaw Agreement Sender",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771424060954,
+    "commit": "https://github.com/openclaw/skills/commit/33e3b3c0c9bb44324fc4629e57503acf01f57a32"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mathias-rs",
+  "slug": "rs-geo-analytics",
+  "displayName": "Rankscale Geo Analytics",
+  "latest": {
+    "version": "1.0.11",
+    "publishedAt": 1772235410497,
+    "commit": "https://github.com/openclaw/skills/commit/2c65c8ca9472ebd862c7c9ccf2fae9ac0414f9b8"
+  },
+  "history": []
+}

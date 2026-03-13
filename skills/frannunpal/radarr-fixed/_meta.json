@@ -1,0 +1,11 @@
+{
+  "owner": "frannunpal",
+  "slug": "radarr-fixed",
+  "displayName": "Radarr Fixed",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1771933436836,
+    "commit": "https://github.com/openclaw/skills/commit/c2f05f5bfd9aa69ca1a8520a7f5859de299d2252"
+  },
+  "history": []
+}

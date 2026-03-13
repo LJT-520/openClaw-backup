@@ -1,0 +1,11 @@
+{
+  "owner": "chunhualiao",
+  "slug": "rotate-openrouter-key",
+  "displayName": "Rotate OpenRouter Key",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771697174419,
+    "commit": "https://github.com/openclaw/skills/commit/640704af06c731e3a4ab7690e6d4af5a2a2cab8f"
+  },
+  "history": []
+}

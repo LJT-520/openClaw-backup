@@ -1,0 +1,17 @@
+{
+  "owner": "evolinkai",
+  "slug": "cheapest-image-generation",
+  "displayName": "Cheapest Image Generation",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771684089493,
+    "commit": "https://github.com/openclaw/skills/commit/b074f98ff82eca05336ad74b5fa71db515691702"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771638254469,
+      "commit": "https://github.com/openclaw/skills/commit/df0802714c575e68b7f1bdd9a6551fad0973b7e8"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "helsinki",
+  "displayName": "Helsinki",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771770623958,
+    "commit": "https://github.com/openclaw/skills/commit/e586d97c765b20e89fe63bdfbdaa280411bcc485"
+  },
+  "history": []
+}

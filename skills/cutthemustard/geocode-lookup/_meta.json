@@ -1,0 +1,11 @@
+{
+  "owner": "cutthemustard",
+  "slug": "geocode-lookup",
+  "displayName": "Geocode Lookup",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772595814732,
+    "commit": "https://github.com/openclaw/skills/commit/87c016eec509ad880d7ae1743952496f478c3e28"
+  },
+  "history": []
+}

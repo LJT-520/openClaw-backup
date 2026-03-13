@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-deal-desk",
+  "displayName": "Deal Desk",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771591446866,
+    "commit": "https://github.com/openclaw/skills/commit/4f2aa2450a4bda79e4e57502cff187140216753b"
+  },
+  "history": []
+}

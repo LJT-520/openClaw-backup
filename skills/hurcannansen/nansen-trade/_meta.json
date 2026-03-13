@@ -1,0 +1,11 @@
+{
+  "owner": "hurcannansen",
+  "slug": "nansen-trade",
+  "displayName": "Nansen Trade",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772626278221,
+    "commit": "https://github.com/openclaw/skills/commit/34af1f145b3fbb595ad069cecb0c9f564ef7ade5"
+  },
+  "history": []
+}

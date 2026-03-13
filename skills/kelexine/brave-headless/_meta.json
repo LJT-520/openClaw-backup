@@ -1,0 +1,11 @@
+{
+  "owner": "kelexine",
+  "slug": "brave-headless",
+  "displayName": "Headless Brave Browser",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1771525721132,
+    "commit": "https://github.com/openclaw/skills/commit/6b5366611288e429015b35cf3f43a50103affe36"
+  },
+  "history": []
+}

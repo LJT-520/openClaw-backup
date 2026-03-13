@@ -1,0 +1,11 @@
+{
+  "owner": "alexyuui",
+  "slug": "tarot-content",
+  "displayName": "Tarot Content",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771724428280,
+    "commit": "https://github.com/openclaw/skills/commit/98ebb5cc906336bc75c910ac4b3cc8640abd0219"
+  },
+  "history": []
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "musketyr",
+  "slug": "openclaw-mentee",
+  "displayName": "OpenClaw Mentee (DEPRECATED)",
+  "latest": {
+    "version": "2.0.3",
+    "publishedAt": 1771740374438,
+    "commit": "https://github.com/openclaw/skills/commit/8f178372458ff41c304566571abe91393eef25c0"
+  },
+  "history": [
+    {
+      "version": "1.5.0",
+      "publishedAt": 1771533433728,
+      "commit": "https://github.com/openclaw/skills/commit/028efcf45a48181032a0e8d285733c1c83684aad"
+    },
+    {
+      "version": "1.4.2",
+      "publishedAt": 1771368609594,
+      "commit": "https://github.com/openclaw/skills/commit/bd5744f80bb1492b042d04383129a0970be83fe7"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771352719376,
+      "commit": "https://github.com/openclaw/skills/commit/45b0a7e07774b4487e879d8cd239b78c612433eb"
+    }
+  ]
+}

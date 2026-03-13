@@ -1,0 +1,17 @@
+{
+  "owner": "mofesto",
+  "slug": "fubon-cli",
+  "displayName": "Fubon Cli",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772523529236,
+    "commit": "https://github.com/openclaw/skills/commit/b263639a6a7d89fc53f8b5bc8e91e7637e24528e"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772515655095,
+      "commit": "https://github.com/openclaw/skills/commit/651b4658440c52a7431a1824f560acdb1b7e802d"
+    }
+  ]
+}

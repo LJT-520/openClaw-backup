@@ -1,0 +1,11 @@
+{
+  "owner": "evolinkai",
+  "slug": "oc-skill",
+  "displayName": "Oc Skill",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772018286670,
+    "commit": "https://github.com/openclaw/skills/commit/5e4e9076f75120788b611d6dd62775cb93a226d9"
+  },
+  "history": []
+}

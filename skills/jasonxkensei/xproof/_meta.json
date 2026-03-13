@@ -1,0 +1,11 @@
+{
+  "owner": "jasonxkensei",
+  "slug": "xproof",
+  "displayName": "xProof — Blockchain Proof for Agents",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771609812496,
+    "commit": "https://github.com/openclaw/skills/commit/d5d9d3432dd66d314dd2c884bfd66386faff1fb6"
+  },
+  "history": []
+}

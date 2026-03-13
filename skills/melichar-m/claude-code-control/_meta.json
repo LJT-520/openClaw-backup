@@ -1,0 +1,17 @@
+{
+  "owner": "melichar-m",
+  "slug": "claude-code-control",
+  "displayName": "Claude Code Control",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771733188131,
+    "commit": "https://github.com/openclaw/skills/commit/bc5418fa7efdee122f279207ce3c0762b4eb8f77"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771625589741,
+      "commit": "https://github.com/openclaw/skills/commit/3287e8797a8e24b1614ae85c8d5a5fda55481367"
+    }
+  ]
+}

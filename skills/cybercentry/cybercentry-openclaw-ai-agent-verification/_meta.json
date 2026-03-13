@@ -1,0 +1,27 @@
+{
+  "owner": "cybercentry",
+  "slug": "cybercentry-openclaw-ai-agent-verification",
+  "displayName": "Cybercentry OpenClaw AI Agent Verification",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1771766888653,
+    "commit": "https://github.com/openclaw/skills/commit/5dede90afedd698eb00339aa9f84d62b16948a9e"
+  },
+  "history": [
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771598735710,
+      "commit": "https://github.com/openclaw/skills/commit/a2428ad195234da0699b99d7d8ef4d06a771baaf"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771152532075,
+      "commit": "https://github.com/openclaw/skills/commit/73ba8713a2723a44370f76b1944922bae0db9f6d"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771068299484,
+      "commit": "https://github.com/openclaw/skills/commit/9518e329d418ed04a99ea4f108816bc6eee9e546"
+    }
+  ]
+}

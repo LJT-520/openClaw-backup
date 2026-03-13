@@ -1,0 +1,17 @@
+{
+  "owner": "horn111",
+  "slug": "safe-memory-manager",
+  "displayName": "Safe Memory Manager",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772634417445,
+    "commit": "https://github.com/openclaw/skills/commit/961d0be65003efeb8a7642df9c351aa61e4f971c"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772479031805,
+      "commit": "https://github.com/openclaw/skills/commit/db30a1196a101e41cc0d9b4593634d0ee6528fce"
+    }
+  ]
+}

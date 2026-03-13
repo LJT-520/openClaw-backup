@@ -1,0 +1,17 @@
+{
+  "owner": "fpengziyang",
+  "slug": "synology-calendar",
+  "displayName": "synology-calendar",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772517801233,
+    "commit": "https://github.com/openclaw/skills/commit/76bb1e343dbc6a02ee085e187a5c909eff5831f2"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772517132994,
+      "commit": "https://github.com/openclaw/skills/commit/cd535ec1c0e68ec563558c8b74ded2d0b5f22e84"
+    }
+  ]
+}

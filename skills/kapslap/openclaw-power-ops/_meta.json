@@ -1,0 +1,11 @@
+{
+  "owner": "kapslap",
+  "slug": "openclaw-power-ops",
+  "displayName": "OpenClaw Power Ops",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772138086605,
+    "commit": "https://github.com/openclaw/skills/commit/15b706e05e7ba6ec3705bfd054fc9eb705eb7442"
+  },
+  "history": []
+}

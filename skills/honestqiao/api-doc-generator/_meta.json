@@ -1,0 +1,11 @@
+{
+  "owner": "honestqiao",
+  "slug": "api-doc-generator",
+  "displayName": "API Doc Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771715673848,
+    "commit": "https://github.com/openclaw/skills/commit/6ba2df44ab457ac2222ba369488abe730c20a191"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "msonline1110",
+  "slug": "oc-smart-agent-hub",
+  "displayName": "OpenClaw Smart Agent Hub",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772638058485,
+    "commit": "https://github.com/openclaw/skills/commit/354114ddbe9e045dfae1d70d50ce8652d8219688"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "jdrhyne",
+  "slug": "nutrient-document-processing-universal",
+  "displayName": "Nutrient Document Processing (Universal Agent Skill)",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772257587651,
+    "commit": "https://github.com/openclaw/skills/commit/0ed3ce7f5b08ac01cd3529ebfeddb1a513cb8c3b"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772212162740,
+      "commit": "https://github.com/openclaw/skills/commit/74742008215794915e0f5ee1d86d5fded0f1a05b"
+    }
+  ]
+}

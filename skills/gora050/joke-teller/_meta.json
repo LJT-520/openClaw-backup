@@ -1,0 +1,11 @@
+{
+  "owner": "gora050",
+  "slug": "joke-teller",
+  "displayName": "High-quality Joke Teller",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772111178098,
+    "commit": "https://github.com/openclaw/skills/commit/a70a93ad5324a80f2efffab5ad2d24317a3a3eee"
+  },
+  "history": []
+}

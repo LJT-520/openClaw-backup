@@ -1,0 +1,11 @@
+{
+  "owner": "florianbeer",
+  "slug": "laravel-forge",
+  "displayName": "Laravel Forge",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771580750420,
+    "commit": "https://github.com/openclaw/skills/commit/084462265cca6a6677367ccec3e134246b763fc9"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "0xardi",
+  "slug": "clawlett",
+  "displayName": "Clawlett",
+  "latest": {
+    "version": "0.3.0",
+    "publishedAt": 1772389709004,
+    "commit": "https://github.com/openclaw/skills/commit/f66f3382488fbebfc30cb75fc5bdf098a012ce23"
+  },
+  "history": []
+}

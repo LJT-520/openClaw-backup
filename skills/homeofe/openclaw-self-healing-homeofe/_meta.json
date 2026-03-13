@@ -1,0 +1,17 @@
+{
+  "owner": "homeofe",
+  "slug": "openclaw-self-healing-homeofe",
+  "displayName": "OpenClaw Self Healing",
+  "latest": {
+    "version": "0.2.5",
+    "publishedAt": 1772280899515,
+    "commit": "https://github.com/openclaw/skills/commit/c01ed5ac98382b6822799528a4877f5421e310d8"
+  },
+  "history": [
+    {
+      "version": "0.2.4",
+      "publishedAt": 1771954661753,
+      "commit": "https://github.com/openclaw/skills/commit/54a50e19d93b6ebc138efac91ebc52bab5170e16"
+    }
+  ]
+}

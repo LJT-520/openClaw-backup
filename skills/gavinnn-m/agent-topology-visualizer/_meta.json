@@ -1,0 +1,17 @@
+{
+  "owner": "gavinnn-m",
+  "slug": "agent-topology-visualizer",
+  "displayName": "Agent Topology Visualizer",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771700974721,
+    "commit": "https://github.com/openclaw/skills/commit/707e9f9fdc0ced535f83856a7604c06981f079ff"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771526410802,
+      "commit": "https://github.com/openclaw/skills/commit/45ddd6dfc49930ea0befdfa7b3fedcda7bf292db"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jackeven02",
+  "slug": "calendar-manager",
+  "displayName": "Calendar Manager",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771938999348,
+    "commit": "https://github.com/openclaw/skills/commit/827b4ccb1e41135325893145598dd3c435018b69"
+  },
+  "history": []
+}

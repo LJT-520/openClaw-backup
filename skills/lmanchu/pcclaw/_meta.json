@@ -1,0 +1,11 @@
+{
+  "owner": "lmanchu",
+  "slug": "pcclaw",
+  "displayName": "PCClaw",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772115418644,
+    "commit": "https://github.com/openclaw/skills/commit/c38cf8c93c9de7123438e64523ba904d6e7bff0e"
+  },
+  "history": []
+}

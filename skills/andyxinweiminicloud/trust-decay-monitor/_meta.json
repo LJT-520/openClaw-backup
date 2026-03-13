@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "trust-decay-monitor",
+  "displayName": "Trust Decay Monitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771744172583,
+    "commit": "https://github.com/openclaw/skills/commit/9448eba0dde7cb537b36dced807b4e40d6948781"
+  },
+  "history": []
+}

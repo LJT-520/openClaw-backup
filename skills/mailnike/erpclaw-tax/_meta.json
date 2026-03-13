@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-tax",
+  "displayName": "ERPClaw-Tax",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772080590697,
+    "commit": "https://github.com/openclaw/skills/commit/6f11af13495a5afb2bd6ed3f61bf00cb046e2fe1"
+  },
+  "history": []
+}

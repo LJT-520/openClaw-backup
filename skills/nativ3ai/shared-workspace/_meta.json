@@ -1,0 +1,11 @@
+{
+  "owner": "nativ3ai",
+  "slug": "shared-workspace",
+  "displayName": "Shared Workspace",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1771628100347,
+    "commit": "https://github.com/openclaw/skills/commit/ba0c1d8ab6d011e3c857c85e9d6bdaf65d3cb4dc"
+  },
+  "history": []
+}

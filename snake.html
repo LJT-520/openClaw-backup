@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🐍 贪吃蛇 - 霓虹版</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            background: #0a0a0f;
+            font-family: 'Orbitron', sans-serif;
+            overflow: hidden;
+        }
+        
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(ellipse at 20% 20%, rgba(120, 0, 255, 0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(0, 255, 200, 0.1) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 50%, rgba(255, 0, 100, 0.05) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: -1;
+        }
+        
+        h1 {
+            color: #00ffc8;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            text-shadow: 
+                0 0 10px #00ffc8,
+                0 0 20px #00ffc8,
+                0 0 40px #00ffc8;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes glow {
+            from { text-shadow: 0 0 10px #00ffc8, 0 0 20px #00ffc8, 0 0 40px #00ffc8; }
+            to { text-shadow: 0 0 20px #ff0064, 0 0 40px #ff0064, 0 0 60px #ff0064; }
+        }
+        
+        #game-container {
+            position: relative;
+            padding: 4px;
+            background: linear-gradient(135deg, #00ffc8, #ff0064, #7b00ff, #00ffc8);
+            background-size: 300% 300%;
+            animation: borderGlow 3s ease infinite;
+            border-radius: 12px;
+        }
+        
+        @keyframes borderGlow {
+            0%, 100% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+        }
+        
+        #game-board {
+            display: grid;
+            background: #0d0d15;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .cell {
+            width: 20px;
+            height: 20px;
+            border: 1px solid #1a1a2e;
+            transition: all 0.05s;
+        }
+        
+        .snake {
+            background: linear-gradient(135deg, #00ffc8, #00aa88);
+            box-shadow: 0 0 10px #00ffc8, inset 0 0 5px rgba(255,255,255,0.3);
+            border-radius: 3px;
+            animation: snakePulse 0.5s ease-in-out infinite;
+        }
+        
+        @keyframes snakePulse {
+            0%, 100% { filter: brightness(1); }
+            50% { filter: brightness(1.3); }
+        }
+        
+        .snake-head {
+            background: linear-gradient(135deg, #ff0064, #ff5500);
+            box-shadow: 0 0 15px #ff0064;
+            z-index: 10;
+        }
+        
+        .food {
+            background: radial-gradient(circle, #ff0064, #ff00aa);
+            box-shadow: 0 0 15px #ff0064, 0 0 30px #ff0064;
+            border-radius: 50%;
+            animation: foodPulse 0.8s ease-in-out infinite;
+        }
+        
+        @keyframes foodPulse {
+            0%, 100% { transform: scale(1); box-shadow: 0 0 15px #ff0064; }
+            50% { transform: scale(1.2); box-shadow: 0 0 25px #ff0064, 0 0 40px #ff00aa; }
+        }
+        
+        .wall {
+            background: #1a1a2e;
+            border-color: #2a2a4e;
+        }
+        
+        #score-board {
+            display: flex;
+            gap: 2rem;
+            margin-top: 1.5rem;
+            color: #888;
+            font-size: 1rem;
+        }
+        
+        #score-board span {
+            color: #00ffc8;
+            font-weight: 700;
+        }
+        
+        #score {
+            color: #ff0064 !important;
+            font-size: 1.5rem;
+        }
+        
+        #high-score {
+            color: #7b00ff !important;
+        }
+        
+        #message {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(0, 0, 0, 0.95);
+            padding: 2rem 3rem;
+            border-radius: 12px;
+            text-align: center;
+            border: 2px solid #00ffc8;
+            box-shadow: 0 0 30px rgba(0, 255, 200, 0.3);
+            display: none;
+            z-index: 100;
+        }
+        
+        #message h2 {
+            color: #ff0064;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        #message p {
+            color: #888;
+            margin-bottom: 1.5rem;
+        }
+        
+        #message button {
+            background: linear-gradient(135deg, #00ffc8, #00aa88);
+            border: none;
+            padding: 0.8rem 2rem;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1rem;
+            color: #0a0a0f;
+            cursor: pointer;
+            border-radius: 6px;
+            transition: all 0.3s;
+        }
+        
+        #message button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px #00ffc8;
+        }
+        
+        #instructions {
+            margin-top: 1rem;
+            color: #444;
+            font-size: 0.8rem;
+        }
+        
+        #instructions kbd {
+            background: #1a1a2e;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            border: 1px solid #2a2a4e;
+            color: #00ffc8;
+        }
+    </style>
+</head>
+<body>
+    <h1>🐍 SNAKE</h1>
+    <div id="game-container">
+        <div id="game-board"></div>
+    </div>
+    <div id="score-board">
+        <div>得分: <span id="score">0</span></div>
+        <div>最高: <span id="high-score">0</span></div>
+    </div>
+    <div id="instructions">
+        使用 <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> 或 <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> 控制方向
+    </div>
+    <div id="message">
+        <h2>游戏结束!</h2>
+        <p>最终得分: <span id="final-score">0</span></p>
+        <button onclick="resetGame()">再来一局</button>
+    </div>
+
+    <script>
+        const GRID_SIZE = 25;
+        const CELL_SIZE = 20;
+        
+        let snake = [];
+        let direction = { x: 1, y: 0 };
+        let nextDirection = { x: 1, y: 0 };
+        let food = {};
+        let score = 0;
+        let highScore = localStorage.getItem('snakeHighScore') || 0;
+        let gameLoop = null;
+        let isPaused = false;
+        let gameSpeed = 120;
+        
+        const board = document.getElementById('game-board');
+        const scoreDisplay = document.getElementById('score');
+        const highScoreDisplay = document.getElementById('high-score');
+        const messageBox = document.getElementById('message');
+        const finalScoreDisplay = document.getElementById('final-score');
+        
+        // 初始化棋盘
+        function initBoard() {
+            board.style.gridTemplateColumns = `repeat(${GRID_SIZE}, ${CELL_SIZE}px)`;
+            board.style.gridTemplateRows = `repeat(${GRID_SIZE}, ${CELL_SIZE}px)`;
+            board.innerHTML = '';
+            
+            for (let y = 0; y < GRID_SIZE; y++) {
+                for (let x = 0; x < GRID_SIZE; x++) {
+                    const cell = document.createElement('div');
+                    cell.className = 'cell';
+                    cell.dataset.x = x;
+                    cell.dataset.y = y;
+                    board.appendChild(cell);
+                }
+            }
+        }
+        
+        // 获取单元格
+        function getCell(x, y) {
+            return board.querySelector(`[data-x="${x}"][data-y="${y}"]`);
+        }
+        
+        // 渲染蛇和食物
+        function render() {
+            // 清除所有特殊状态
+            board.querySelectorAll('.cell').forEach(cell => {
+                cell.className = 'cell';
+            });
+            
+            // 绘制蛇
+            snake.forEach((segment, index) => {
+                const cell = getCell(segment.x, segment.y);
+                if (cell) {
+                    cell.classList.add('snake');
+                    if (index === 0) cell.classList.add('snake-head');
+                }
+            });
+            
+            // 绘制食物
+            const foodCell = getCell(food.x, food.y);
+            if (foodCell) foodCell.classList.add('food');
+        }
+        
+        // 生成食物
+        function spawnFood() {
+            let newFood;
+            do {
+                newFood = {
+                    x: Math.floor(Math.random() * GRID_SIZE),
+                    y: Math.floor(Math.random() * GRID_SIZE)
+                };
+            } while (snake.some(s => s.x === newFood.x && s.y === newFood.y));
+            food = newFood;
+        }
+        
+        // 移动蛇
+        function move() {
+            direction = { ...nextDirection };
+            
+            const head = { x: snake[0].x + direction.x, y: snake[0].y + direction.y };
+            
+            // 撞墙检测
+            if (head.x < 0 || head.x >= GRID_SIZE || head.y < 0 || head.y >= GRID_SIZE) {
+                gameOver();
+                return;
+            }
+            
+            // 撞自己检测
+            if (snake.some(s => s.x === head.x && s.y === head.y)) {
+                gameOver();
+                return;
+            }
+            
+            snake.unshift(head);
+            
+            // 吃到食物
+            if (head.x === food.x && head.y === food.y) {
+                score += 10;
+                scoreDisplay.textContent = score;
+                
+                // 速度递增
+                if (score % 50 === 0 && gameSpeed > 50) {
+                    gameSpeed -= 10;
+                    clearInterval(gameLoop);
+                    gameLoop = setInterval(move, gameSpeed);
+                }
+                
+                spawnFood();
+            } else {
+                snake.pop();
+            }
+            
+            render();
+        }
+        
+        // 游戏结束
+        function gameOver() {
+            clearInterval(gameLoop);
+            
+            if (score > highScore) {
+                highScore = score;
+                localStorage.setItem('snakeHighScore', highScore);
+                highScoreDisplay.textContent = highScore;
+            }
+            
+            finalScoreDisplay.textContent = score;
+            messageBox.style.display = 'block';
+        }
+        
+        // 重置游戏
+        function resetGame() {
+            messageBox.style.display = 'none';
+            snake = [
+                { x: 5, y: 5 },
+                { x: 4, y: 5 },
+                { x: 3, y: 5 }
+            ];
+            direction = { x: 1, y: 0 };
+            nextDirection = { x: 1, y: 0 };
+            score = 0;
+            gameSpeed = 120;
+            scoreDisplay.textContent = '0';
+            spawnFood();
+            render();
+            
+            clearInterval(gameLoop);
+            gameLoop = setInterval(move, gameSpeed);
+        }
+        
+        // 键盘控制
+        document.addEventListener('keydown', (e) => {
+            const keyMap = {
+                'ArrowUp': { x: 0, y: -1 },
+                'ArrowDown': { x: 0, y: 1 },
+                'ArrowLeft': { x: -1, y: 0 },
+                'ArrowRight': { x: 1, y: 0 },
+                'w': { x: 0, y: -1 },
+                'W': { x: 0, y: -1 },
+                's': { x: 0, y: 1 },
+                'S': { x: 0, y: 1 },
+                'a': { x: -1, y: 0 },
+                'A': { x: -1, y: 0 },
+                'd': { x: 1, y: 0 },
+                'D': { x: 1, y: 0 }
+            };
+            
+            const newDir = keyMap[e.key];
+            if (newDir) {
+                e.preventDefault();
+                // 防止直接掉头
+                if (newDir.x !== -direction.x || newDir.y !== -direction.y) {
+                    nextDirection = newDir;
+                }
+            }
+            
+            // 空格暂停
+            if (e.key === ' ') {
+                e.preventDefault();
+                if (isPaused) {
+                    gameLoop = setInterval(move, gameSpeed);
+                } else {
+                    clearInterval(gameLoop);
+                }
+                isPaused = !isPaused;
+            }
+        });
+        
+        // 初始化
+        highScoreDisplay.textContent = highScore;
+        initBoard();
+        resetGame();
+    </script>
+</body>
+</html>

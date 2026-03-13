@@ -1,0 +1,11 @@
+{
+  "owner": "cassh100k",
+  "slug": "agentnet",
+  "displayName": "AgentNet",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772043185824,
+    "commit": "https://github.com/openclaw/skills/commit/4d9e07196cf2b38d2df50c13569d24c9d9722ed6"
+  },
+  "history": []
+}

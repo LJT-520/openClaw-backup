@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-ai-safety-audit",
+  "displayName": "AI Safety Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771605898549,
+    "commit": "https://github.com/openclaw/skills/commit/5941edccc6dab57ba537797ec82e23ad5286f70d"
+  },
+  "history": []
+}

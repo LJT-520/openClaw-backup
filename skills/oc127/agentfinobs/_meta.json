@@ -1,0 +1,11 @@
+{
+  "owner": "oc127",
+  "slug": "agentfinobs",
+  "displayName": "Agentfinobs",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280458209,
+    "commit": "https://github.com/openclaw/skills/commit/4a495b2510cd07b36e9fdd17c1af51091d1cf484"
+  },
+  "history": []
+}

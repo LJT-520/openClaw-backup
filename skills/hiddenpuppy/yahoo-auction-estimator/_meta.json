@@ -1,0 +1,11 @@
+{
+  "owner": "hiddenpuppy",
+  "slug": "yahoo-auction-estimator",
+  "displayName": "日本雅虎拍卖估价",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772098542160,
+    "commit": "https://github.com/openclaw/skills/commit/1060628ec6e5a3cc2948bde823bcb523a7b35fbf"
+  },
+  "history": []
+}

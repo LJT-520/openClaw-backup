@@ -1,0 +1,11 @@
+{
+  "owner": "dz1922",
+  "slug": "dz-podcast",
+  "displayName": "Dual-Host Daily Podcast Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772533134992,
+    "commit": "https://github.com/openclaw/skills/commit/84dc0519c4e1fb69328cb640d359da676c5da46d"
+  },
+  "history": []
+}

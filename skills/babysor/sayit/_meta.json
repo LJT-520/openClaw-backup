@@ -1,0 +1,11 @@
+{
+  "owner": "babysor",
+  "slug": "sayit",
+  "displayName": "speaker-local",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772460345357,
+    "commit": "https://github.com/openclaw/skills/commit/9aae001a158fd7ee5decd0154a1d09e5146a7fe2"
+  },
+  "history": []
+}

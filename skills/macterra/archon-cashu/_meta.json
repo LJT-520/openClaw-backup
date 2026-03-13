@@ -1,0 +1,11 @@
+{
+  "owner": "macterra",
+  "slug": "archon-cashu",
+  "displayName": "Archon Cashu",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772045060857,
+    "commit": "https://github.com/openclaw/skills/commit/fbbb321c5dcd3120c5fc130a03a000c6af7aef15"
+  },
+  "history": []
+}

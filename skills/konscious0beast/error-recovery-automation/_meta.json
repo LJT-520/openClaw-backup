@@ -1,0 +1,11 @@
+{
+  "owner": "konscious0beast",
+  "slug": "error-recovery-automation",
+  "displayName": "Error Recovery Automation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771783048736,
+    "commit": "https://github.com/openclaw/skills/commit/8cb12b9d1be8170f03908e470afd9dbcc5ea9aae"
+  },
+  "history": []
+}

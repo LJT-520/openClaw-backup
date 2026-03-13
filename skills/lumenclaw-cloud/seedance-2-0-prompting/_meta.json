@@ -1,0 +1,17 @@
+{
+  "owner": "lumenclaw-cloud",
+  "slug": "seedance-2-0-prompting",
+  "displayName": "SeaDance 2.0 Prompting Skills",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771920742482,
+    "commit": "https://github.com/openclaw/skills/commit/de38aa22a758f8ceb3b9cb2733721c0d3a63bd02"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771920220177,
+      "commit": "https://github.com/openclaw/skills/commit/9344607f07d3d593f5d426c099ee553ce9b1c11c"
+    }
+  ]
+}

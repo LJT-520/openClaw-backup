@@ -1,0 +1,11 @@
+{
+  "owner": "0x-professor",
+  "slug": "cyber-ir-playbook",
+  "displayName": "Cyber Ir Playbook",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772129940572,
+    "commit": "https://github.com/openclaw/skills/commit/f609ccd3d3ed0d45a68aedd491281d3427f88ef3"
+  },
+  "history": []
+}

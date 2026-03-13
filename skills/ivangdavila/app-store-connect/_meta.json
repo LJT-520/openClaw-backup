@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "app-store-connect",
+  "displayName": "App Store Connect",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771548386954,
+    "commit": "https://github.com/openclaw/skills/commit/b9b677b1f6c3b09f13fc73f378d87cc395175f09"
+  },
+  "history": []
+}

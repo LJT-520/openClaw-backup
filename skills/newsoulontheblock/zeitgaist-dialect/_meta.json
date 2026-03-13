@@ -1,0 +1,11 @@
+{
+  "owner": "newsoulontheblock",
+  "slug": "zeitgaist-dialect",
+  "displayName": "Zeitgaist Dialect",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771613447506,
+    "commit": "https://github.com/openclaw/skills/commit/06cb6db0fc5c5c794d8e838f8efa7415b78b618e"
+  },
+  "history": []
+}

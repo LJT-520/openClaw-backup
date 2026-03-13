@@ -1,0 +1,17 @@
+{
+  "owner": "leegitw",
+  "slug": "ethics-guardrails",
+  "displayName": "Ethics Guardrails — Ethical Principles for AI Agents (Bots Matter)",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772394596032,
+    "commit": "https://github.com/openclaw/skills/commit/d05de3f5590990d9a9efc14243f95b2e4e4cd2bd"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772348310462,
+      "commit": "https://github.com/openclaw/skills/commit/c68b847d5ad007730102cfcf2fafb6f160f2f567"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "config-rollback",
+  "displayName": "config-rollback",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772208471102,
+    "commit": "https://github.com/openclaw/skills/commit/3c1e4746444be5abb895fa3a9dcc3d123a2b216e"
+  },
+  "history": []
+}

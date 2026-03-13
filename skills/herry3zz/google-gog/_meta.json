@@ -1,0 +1,11 @@
+{
+  "owner": "herry3zz",
+  "slug": "google-gog",
+  "displayName": "Google Gog",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772120857974,
+    "commit": "https://github.com/openclaw/skills/commit/7542d9247f9d4d0dbebe9ac4331d5de48256e397"
+  },
+  "history": []
+}

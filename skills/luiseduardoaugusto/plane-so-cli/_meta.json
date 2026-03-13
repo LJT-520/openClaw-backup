@@ -1,0 +1,17 @@
+{
+  "owner": "luiseduardoaugusto",
+  "slug": "plane-so-cli",
+  "displayName": "Plane.so CLI",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771722315796,
+    "commit": "https://github.com/openclaw/skills/commit/dd5a75b8ac68e79a445740c3c4a72118c008ace6"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771614261868,
+      "commit": "https://github.com/openclaw/skills/commit/a326eb0ccd8114499d82366b2766fc9fa1bc4023"
+    }
+  ]
+}

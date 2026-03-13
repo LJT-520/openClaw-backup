@@ -1,0 +1,11 @@
+{
+  "owner": "edenjw",
+  "slug": "pocketlens",
+  "displayName": "PocketLens",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771771537941,
+    "commit": "https://github.com/openclaw/skills/commit/b4eb9a7c23a79a05c3008af209440fc581931be9"
+  },
+  "history": []
+}

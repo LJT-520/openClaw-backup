@@ -1,0 +1,11 @@
+{
+  "owner": "dabhadeamol6",
+  "slug": "mycobot",
+  "displayName": "Mycobot",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771682603969,
+    "commit": "https://github.com/openclaw/skills/commit/4cb94aee01d40f84e1a22a4d19c8d77d44099443"
+  },
+  "history": []
+}

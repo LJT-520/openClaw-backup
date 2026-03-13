@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "comment-on-task",
+  "displayName": "Comment On Task",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772360155088,
+    "commit": "https://github.com/openclaw/skills/commit/a4a7f93695a3edf4ce08d076007ed681d8bd8296"
+  },
+  "history": []
+}

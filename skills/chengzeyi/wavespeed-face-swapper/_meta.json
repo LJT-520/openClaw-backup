@@ -1,0 +1,11 @@
+{
+  "owner": "chengzeyi",
+  "slug": "wavespeed-face-swapper",
+  "displayName": "WaveSpeedAI Face Swapper",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772433743748,
+    "commit": "https://github.com/openclaw/skills/commit/9b2619e70f0a0e377e63ca408de2c2bafc46da17"
+  },
+  "history": []
+}

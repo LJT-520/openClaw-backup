@@ -1,0 +1,11 @@
+{
+  "owner": "austineyapp",
+  "slug": "travel-procurement",
+  "displayName": "Travel Procurement",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772459735944,
+    "commit": "https://github.com/openclaw/skills/commit/3d0c3f2e0b3cee964232ffb2f1cd712fcdb55574"
+  },
+  "history": []
+}

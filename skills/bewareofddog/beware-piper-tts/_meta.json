@@ -1,0 +1,11 @@
+{
+  "owner": "bewareofddog",
+  "slug": "beware-piper-tts",
+  "displayName": "Piper TTS",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771746011510,
+    "commit": "https://github.com/openclaw/skills/commit/ba8069e3cc17c7da7193b705133d8863365ee355"
+  },
+  "history": []
+}

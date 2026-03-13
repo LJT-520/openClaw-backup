@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-analyze",
+  "displayName": "Clarity Analyze",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772051497260,
+    "commit": "https://github.com/openclaw/skills/commit/3a7f2faf547597fba4e153896c7f3d706c02e192"
+  },
+  "history": []
+}

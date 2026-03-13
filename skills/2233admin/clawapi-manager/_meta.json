@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "clawapi-manager",
+  "displayName": "ClawAPI Manager",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1772485179721,
+    "commit": "https://github.com/openclaw/skills/commit/3037762af8623b65ef9a4028a901be06425fc9c4"
+  },
+  "history": []
+}

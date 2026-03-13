@@ -1,0 +1,11 @@
+{
+  "owner": "jk-0001",
+  "slug": "product-roadmap",
+  "displayName": "Product Roadmap",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771613650226,
+    "commit": "https://github.com/openclaw/skills/commit/cd49745405081086a8030e5560e413fc00422d6f"
+  },
+  "history": []
+}

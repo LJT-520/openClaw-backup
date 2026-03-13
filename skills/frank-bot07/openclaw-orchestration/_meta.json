@@ -1,0 +1,11 @@
+{
+  "owner": "frank-bot07",
+  "slug": "openclaw-orchestration",
+  "displayName": "@openclaw/orchestration",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771576547566,
+    "commit": "https://github.com/openclaw/skills/commit/a247b6060d0398df0bc4120e3355cd5908ee7255"
+  },
+  "history": []
+}

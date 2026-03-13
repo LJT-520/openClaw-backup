@@ -1,0 +1,11 @@
+{
+  "owner": "kingrubic",
+  "slug": "agentic-security-audit",
+  "displayName": "Agentic Security Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771991210591,
+    "commit": "https://github.com/openclaw/skills/commit/b97586bf431eef95cc9cd82c578280be42e22720"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "84191879",
+  "slug": "cloud-local-bridge",
+  "displayName": "Cloud-Local Bridge",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772073476949,
+    "commit": "https://github.com/openclaw/skills/commit/733d53c1c1bb600651b1895c66d4bcf7d14b34be"
+  },
+  "history": []
+}

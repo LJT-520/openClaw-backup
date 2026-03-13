@@ -1,0 +1,11 @@
+{
+  "owner": "batthis",
+  "slug": "amber-voice-assistant",
+  "displayName": "Amber — Phone-Capable Voice Agent",
+  "latest": {
+    "version": "5.5.0",
+    "publishedAt": 1772508685790,
+    "commit": "https://github.com/openclaw/skills/commit/a552fec725b1656c8b5b94c0e30207beaa83d782"
+  },
+  "history": []
+}

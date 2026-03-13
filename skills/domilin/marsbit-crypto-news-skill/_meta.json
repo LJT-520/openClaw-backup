@@ -1,0 +1,11 @@
+{
+  "owner": "domilin",
+  "slug": "marsbit-crypto-news-skill",
+  "displayName": "marsbit-crypto-news-skill",
+  "latest": {
+    "version": "1.0.8",
+    "publishedAt": 1772625389392,
+    "commit": "https://github.com/openclaw/skills/commit/08a0bca240afdfac9483be2599367f5d4eb510af"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "globalcaos",
+  "slug": "subagent-overseer",
+  "displayName": "Sub-Agent Overseer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771698479094,
+    "commit": "https://github.com/openclaw/skills/commit/7ff84286b44839e44996f0c107e6e602dd4eb88f"
+  },
+  "history": []
+}

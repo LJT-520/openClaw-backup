@@ -1,0 +1,11 @@
+{
+  "owner": "derick001",
+  "slug": "secret-detection",
+  "displayName": "Secret Detection",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772028199895,
+    "commit": "https://github.com/openclaw/skills/commit/54eced6495958b0c27fd7f66b818071797aec6bb"
+  },
+  "history": []
+}

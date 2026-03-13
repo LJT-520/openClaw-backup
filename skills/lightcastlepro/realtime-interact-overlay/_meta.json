@@ -1,0 +1,11 @@
+{
+  "owner": "lightcastlepro",
+  "slug": "realtime-interact-overlay",
+  "displayName": "realtime-interact-overlay",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772098393641,
+    "commit": "https://github.com/openclaw/skills/commit/c0ce10445f6eb727e5924d2569851abb273aece5"
+  },
+  "history": []
+}

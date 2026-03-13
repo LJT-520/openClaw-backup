@@ -1,0 +1,11 @@
+{
+  "owner": "mattvalenta",
+  "slug": "pls-audit-website",
+  "displayName": "PLS Website Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771802009289,
+    "commit": "https://github.com/openclaw/skills/commit/958079b2958b97ded49d8cfcdf9b4ff8a0a76f04"
+  },
+  "history": []
+}

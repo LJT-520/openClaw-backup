@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-brand-overview",
+  "displayName": "Brand Visibility Overview",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772199087974,
+    "commit": "https://github.com/openclaw/skills/commit/6c085cdb361fa0815d6bb67fdfb6eeebe235840a"
+  },
+  "history": []
+}

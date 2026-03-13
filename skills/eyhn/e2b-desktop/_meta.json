@@ -1,0 +1,11 @@
+{
+  "owner": "eyhn",
+  "slug": "e2b-desktop",
+  "displayName": "E2B Desktop",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772363982092,
+    "commit": "https://github.com/openclaw/skills/commit/e7f8a4eed4aca54f11ba1f9241e64742cc0eb797"
+  },
+  "history": []
+}

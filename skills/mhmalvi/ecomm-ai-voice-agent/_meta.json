@@ -1,0 +1,11 @@
+{
+  "owner": "mhmalvi",
+  "slug": "ecomm-ai-voice-agent",
+  "displayName": "Ecomm Ai Voice Agent",
+  "latest": {
+    "version": "1.2.2",
+    "publishedAt": 1772560382929,
+    "commit": "https://github.com/openclaw/skills/commit/d833b27d647ac3d000372f0240075af09f726a1c"
+  },
+  "history": []
+}

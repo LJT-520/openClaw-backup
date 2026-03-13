@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-annotate",
+  "displayName": "Clarity Annotate",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772051501007,
+    "commit": "https://github.com/openclaw/skills/commit/95161ef9c3dbd1afb351e727760f5bd16cc51344"
+  },
+  "history": []
+}

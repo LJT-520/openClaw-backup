@@ -1,0 +1,11 @@
+{
+  "owner": "mrnsmh",
+  "slug": "openclaw-skill-notion-workspace",
+  "displayName": "Notion Workspace",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772156385035,
+    "commit": "https://github.com/openclaw/skills/commit/36f30e8b08b209cb2928c11c1e8ee559f3382cce"
+  },
+  "history": []
+}

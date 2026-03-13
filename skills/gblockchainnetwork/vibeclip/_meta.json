@@ -1,0 +1,17 @@
+{
+  "owner": "gblockchainnetwork",
+  "slug": "vibeclip",
+  "displayName": "Video App",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771864454733,
+    "commit": "https://github.com/openclaw/skills/commit/397686681aa15606c813bb5821c24ce88161c01f"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771847997614,
+      "commit": "https://github.com/openclaw/skills/commit/d1f70718febd25dca501f3b7492c2db71bf26a32"
+    }
+  ]
+}

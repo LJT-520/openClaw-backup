@@ -1,0 +1,11 @@
+{
+  "owner": "likesjx",
+  "slug": "meshops-control-plane",
+  "displayName": "MeshOps Control Plane",
+  "latest": {
+    "version": "0.1.7",
+    "publishedAt": 1772661158454,
+    "commit": "https://github.com/openclaw/skills/commit/f963866a7fec4c29434677bcb162fcb722208ee0"
+  },
+  "history": []
+}

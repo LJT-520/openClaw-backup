@@ -1,0 +1,11 @@
+{
+  "owner": "caqlayan",
+  "slug": "tweet-processor",
+  "displayName": "Tweet Processor",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771600017936,
+    "commit": "https://github.com/openclaw/skills/commit/ac58ee88f82a92a6609fb8cc69302dd19ef9c090"
+  },
+  "history": []
+}

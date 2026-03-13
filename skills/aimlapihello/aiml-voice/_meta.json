@@ -1,0 +1,11 @@
+{
+  "owner": "aimlapihello",
+  "slug": "aiml-voice",
+  "displayName": "AIML Voice Transcript",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772121156192,
+    "commit": "https://github.com/openclaw/skills/commit/2564c5740f9bc75573a1f8f31e2714a7956333b9"
+  },
+  "history": []
+}

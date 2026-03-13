@@ -1,0 +1,17 @@
+{
+  "owner": "manikal",
+  "slug": "hide-my-email",
+  "displayName": "Hide My Email",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771871470157,
+    "commit": "https://github.com/openclaw/skills/commit/7820e00d658634862badd55efc7e3b340252ffb4"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771771005674,
+      "commit": "https://github.com/openclaw/skills/commit/9d90e68c98649aede6e3e6f9e3b2404a6326519e"
+    }
+  ]
+}

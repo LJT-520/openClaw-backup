@@ -1,0 +1,11 @@
+{
+  "owner": "dimgouso",
+  "slug": "adi-decision-engine",
+  "displayName": "ADI Decision Engine",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772362743584,
+    "commit": "https://github.com/openclaw/skills/commit/aabcd5719d9199a1c0bd1f6aa70870f918615301"
+  },
+  "history": []
+}

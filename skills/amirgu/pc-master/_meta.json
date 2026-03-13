@@ -1,0 +1,11 @@
+{
+  "owner": "amirgu",
+  "slug": "pc-master",
+  "displayName": "PC Master",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771638354281,
+    "commit": "https://github.com/openclaw/skills/commit/d6c4837bb389908c59e734e507ad7827a6a8ad0a"
+  },
+  "history": []
+}

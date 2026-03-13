@@ -1,0 +1,22 @@
+{
+  "owner": "nightvibes3",
+  "slug": "video-upscale",
+  "displayName": "AI Video Upscale",
+  "latest": {
+    "version": "1.4.0",
+    "publishedAt": 1771597146933,
+    "commit": "https://github.com/openclaw/skills/commit/2830213b2a4152d6bbb76df6e1aa84d7fabc178c"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771534385250,
+      "commit": "https://github.com/openclaw/skills/commit/0c95a792860c2e6abfbc17a67cf342fb3d62b64e"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771533679436,
+      "commit": "https://github.com/openclaw/skills/commit/9b5783162bb05378beb6fc7f01d089dde9c8c30d"
+    }
+  ]
+}

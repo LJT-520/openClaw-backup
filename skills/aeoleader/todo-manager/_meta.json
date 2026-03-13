@@ -1,0 +1,11 @@
+{
+  "owner": "aeoleader",
+  "slug": "todo-manager",
+  "displayName": "Todo Manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771949705857,
+    "commit": "https://github.com/openclaw/skills/commit/9eea4362ab2e75085955efd191a95686db8c57f9"
+  },
+  "history": []
+}

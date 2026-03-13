@@ -1,0 +1,11 @@
+{
+  "owner": "leonardoooooo",
+  "slug": "tuniu-ticket",
+  "displayName": "途牛门票预订技能",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772275021601,
+    "commit": "https://github.com/openclaw/skills/commit/632b95744f26d64ce6ca9b3a98064ac64727de5f"
+  },
+  "history": []
+}

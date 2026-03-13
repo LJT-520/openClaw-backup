@@ -1,0 +1,11 @@
+{
+  "owner": "notbdu",
+  "slug": "obul-proxy",
+  "displayName": "Obul Proxy (x402)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772592472851,
+    "commit": "https://github.com/openclaw/skills/commit/c07f141b4d4ec5a725dcdb0546e8bde78e023ec8"
+  },
+  "history": []
+}

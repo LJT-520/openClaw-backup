@@ -1,0 +1,11 @@
+{
+  "owner": "nerikko",
+  "slug": "databricks-helper",
+  "displayName": "databricks-helper",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772552012451,
+    "commit": "https://github.com/openclaw/skills/commit/1edca6d7e4aa8e03e7ce5359ef08a34a0ab28159"
+  },
+  "history": []
+}

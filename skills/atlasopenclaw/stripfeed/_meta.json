@@ -1,0 +1,11 @@
+{
+  "owner": "atlasopenclaw",
+  "slug": "stripfeed",
+  "displayName": "StripFeed",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772447935029,
+    "commit": "https://github.com/openclaw/skills/commit/21f55bda1d60230385f9ead60f66e1f882778ace"
+  },
+  "history": []
+}

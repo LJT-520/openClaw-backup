@@ -1,0 +1,11 @@
+{
+  "owner": "kasparkallas",
+  "slug": "superfluid",
+  "displayName": "Superfluid Protocol",
+  "latest": {
+    "version": "0.5.3",
+    "publishedAt": 1772498190832,
+    "commit": "https://github.com/openclaw/skills/commit/71622e0b611a79a6cd20cc572e48b5a67641d2f2"
+  },
+  "history": []
+}

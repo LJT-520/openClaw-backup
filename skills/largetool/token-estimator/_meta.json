@@ -1,0 +1,17 @@
+{
+  "owner": "largetool",
+  "slug": "token-estimator",
+  "displayName": "Token Estimator",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772070343180,
+    "commit": "https://github.com/openclaw/skills/commit/4f4f511bebcee3c577438d4766853a5b9be708d1"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771941985400,
+      "commit": "https://github.com/openclaw/skills/commit/3995f49a3f6da45a3d0c37def84bf4c0f3d9d363"
+    }
+  ]
+}

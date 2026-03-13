@@ -1,0 +1,11 @@
+{
+  "owner": "kambrosgroup",
+  "slug": "content-repurposer-pro",
+  "displayName": "Content Repurposer Pro",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771814837781,
+    "commit": "https://github.com/openclaw/skills/commit/83f0da2fcaeb6e7d63736985e679d6508f690aed"
+  },
+  "history": []
+}

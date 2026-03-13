@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "website-auditor",
+  "displayName": "Website Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772508357183,
+    "commit": "https://github.com/openclaw/skills/commit/c2930b3f3f1b10788691744621280bdcfdd250d4"
+  },
+  "history": []
+}

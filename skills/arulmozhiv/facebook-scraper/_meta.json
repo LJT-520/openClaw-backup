@@ -1,0 +1,17 @@
+{
+  "owner": "arulmozhiv",
+  "slug": "facebook-scraper",
+  "displayName": "Facebook Scraper",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772103697776,
+    "commit": "https://github.com/openclaw/skills/commit/079298e564aeb38d3312eb71e439e2d04efd856d"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771930868390,
+      "commit": "https://github.com/openclaw/skills/commit/cfe4165d3257910500f566b4ed595aeee71cc7f6"
+    }
+  ]
+}

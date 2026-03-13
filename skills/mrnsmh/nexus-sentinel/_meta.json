@@ -1,0 +1,17 @@
+{
+  "owner": "mrnsmh",
+  "slug": "nexus-sentinel",
+  "displayName": "Nexus Sentinel",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1771898385344,
+    "commit": "https://github.com/openclaw/skills/commit/166c02d573b3f7ecc41f17b1a8f4c81e71269de0"
+  },
+  "history": [
+    {
+      "version": "0.1.2",
+      "publishedAt": 1771898120513,
+      "commit": "https://github.com/openclaw/skills/commit/e6f57e7f343df5be1fada6fba46e8c22179d113d"
+    }
+  ]
+}

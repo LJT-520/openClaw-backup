@@ -1,0 +1,17 @@
+{
+  "owner": "blue-coconut",
+  "slug": "mm-easy-voice",
+  "displayName": "mmEasyVoice",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772189989182,
+    "commit": "https://github.com/openclaw/skills/commit/8998c2fc1a2a01b0cdc4651efb7f3b8712343eb7"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772026916660,
+      "commit": "https://github.com/openclaw/skills/commit/bb56f450c0bb95f1f0bab1982512546f0a864d84"
+    }
+  ]
+}

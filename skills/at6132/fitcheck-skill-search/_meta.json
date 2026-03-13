@@ -1,0 +1,11 @@
+{
+  "owner": "at6132",
+  "slug": "fitcheck-skill-search",
+  "displayName": "Skill Search",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771599274921,
+    "commit": "https://github.com/openclaw/skills/commit/73c341a781dc39b5da0525f7aa091155b740f713"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "chengzeyi",
+  "slug": "wavespeed-nano-banana-2",
+  "displayName": "WaveSpeedAI Nano Banana 2 Image Generation/Editing",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772421046787,
+    "commit": "https://github.com/openclaw/skills/commit/5bb86d528d8ae799c05c6910e8e3a5b2b4d5d37f"
+  },
+  "history": []
+}

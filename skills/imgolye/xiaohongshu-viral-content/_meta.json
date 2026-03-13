@@ -1,0 +1,11 @@
+{
+  "owner": "imgolye",
+  "slug": "xiaohongshu-viral-content",
+  "displayName": "Xiaohongshu Viral Content",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772367303740,
+    "commit": "https://github.com/openclaw/skills/commit/c6d704e1d6936aa02ba0be0ad09a509c8650b266"
+  },
+  "history": []
+}

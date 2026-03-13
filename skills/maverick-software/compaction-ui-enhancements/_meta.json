@@ -1,0 +1,17 @@
+{
+  "owner": "maverick-software",
+  "slug": "compaction-ui-enhancements",
+  "displayName": "Better Chat Compaction + WebUI",
+  "latest": {
+    "version": "2.1.1",
+    "publishedAt": 1772366095577,
+    "commit": "https://github.com/openclaw/skills/commit/c85b7e32053465ea7dea98c938d46606a5c084d6"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771915852253,
+      "commit": "https://github.com/openclaw/skills/commit/c1e7f1f1a18044c0feaff7c881f73d4d67f59821"
+    }
+  ]
+}

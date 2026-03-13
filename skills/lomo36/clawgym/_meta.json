@@ -1,0 +1,17 @@
+{
+  "owner": "lomo36",
+  "slug": "clawgym",
+  "displayName": "ClawGym",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771561961126,
+    "commit": "https://github.com/openclaw/skills/commit/a9865b0d74e7184a0a79a4524ad1784353dc4655"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771495749131,
+      "commit": "https://github.com/openclaw/skills/commit/f3e5d5cebfbaf33871fbc180588bf09a6e9c563f"
+    }
+  ]
+}

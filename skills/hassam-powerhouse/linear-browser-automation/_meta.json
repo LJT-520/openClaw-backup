@@ -1,0 +1,11 @@
+{
+  "owner": "hassam-powerhouse",
+  "slug": "linear-browser-automation",
+  "displayName": "Linear Browser Automation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772042243703,
+    "commit": "https://github.com/openclaw/skills/commit/beda3031b27add3ff4de23fc24f81e38cb319e42"
+  },
+  "history": []
+}

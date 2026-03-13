@@ -1,0 +1,11 @@
+{
+  "owner": "boms",
+  "slug": "matrix-fix",
+  "displayName": "Matrix Channel Fix",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772007976676,
+    "commit": "https://github.com/openclaw/skills/commit/ed3fc6a8635d5318ee605f562e31d1f41c59148c"
+  },
+  "history": []
+}

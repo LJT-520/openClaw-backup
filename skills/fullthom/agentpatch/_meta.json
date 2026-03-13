@@ -1,0 +1,17 @@
+{
+  "owner": "fullthom",
+  "slug": "agentpatch",
+  "displayName": "Agentpatch",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772586508074,
+    "commit": "https://github.com/openclaw/skills/commit/db680da95a16f3ec9f17ec07a1359a8e98c75df0"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772233894127,
+      "commit": "https://github.com/openclaw/skills/commit/8b85cfd3a1e3420fb2c1332bd8bb4971c7100475"
+    }
+  ]
+}

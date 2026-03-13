@@ -1,0 +1,17 @@
+{
+  "owner": "datnguyen26730",
+  "slug": "aioz-ui-skills",
+  "displayName": "AIOZ UI Skills",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771920527834,
+    "commit": "https://github.com/openclaw/skills/commit/0005d97b1bec86512bd6045c5daaffd55db4de22"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771836975515,
+      "commit": "https://github.com/openclaw/skills/commit/1ccf77c8bcfc600833f137d9862623b4847ac2d1"
+    }
+  ]
+}

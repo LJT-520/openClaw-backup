@@ -1,0 +1,11 @@
+{
+  "owner": "motivationationdaily",
+  "slug": "tradebot-ops",
+  "displayName": "Tradebot Ops",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772275263572,
+    "commit": "https://github.com/openclaw/skills/commit/28394a72a23dcb9c448ce0ef93b60c3c3308d667"
+  },
+  "history": []
+}

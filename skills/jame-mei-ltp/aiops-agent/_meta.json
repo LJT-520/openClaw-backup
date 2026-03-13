@@ -1,0 +1,17 @@
+{
+  "owner": "jame-mei-ltp",
+  "slug": "aiops-agent",
+  "displayName": "AIOps Agent",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772017288600,
+    "commit": "https://github.com/openclaw/skills/commit/ff67d240cbb1a7da26e5e512f98df9e156a0d4d5"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771990595458,
+      "commit": "https://github.com/openclaw/skills/commit/c0cb70c5bbc6a8049b3a17af54df8f99f7c5f4e6"
+    }
+  ]
+}

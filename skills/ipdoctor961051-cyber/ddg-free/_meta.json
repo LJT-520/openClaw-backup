@@ -1,0 +1,11 @@
+{
+  "owner": "ipdoctor961051-cyber",
+  "slug": "ddg-free",
+  "displayName": "Ddg Free",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772503120247,
+    "commit": "https://github.com/openclaw/skills/commit/048034890469a334d3ce680d0c5baee1035a6afb"
+  },
+  "history": []
+}

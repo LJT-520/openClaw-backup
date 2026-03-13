@@ -1,0 +1,11 @@
+{
+  "owner": "cryptocana",
+  "slug": "nova-drift",
+  "displayName": "Drift",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771951627501,
+    "commit": "https://github.com/openclaw/skills/commit/e8b176ea9877d55a2e83678e9c7e0acaee8d7663"
+  },
+  "history": []
+}

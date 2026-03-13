@@ -1,0 +1,11 @@
+{
+  "owner": "alexpolonsky",
+  "slug": "strikeradar",
+  "displayName": "strikeradar",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771625725362,
+    "commit": "https://github.com/openclaw/skills/commit/d998b333f08fdef58fcbeaee677c163ba6b07410"
+  },
+  "history": []
+}

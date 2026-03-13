@@ -1,0 +1,11 @@
+{
+  "owner": "l1-m1ng",
+  "slug": "claude-code-minimax",
+  "displayName": "Claude Code MiniMax 配置",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772642240675,
+    "commit": "https://github.com/openclaw/skills/commit/8e8e01dc2b0789e30dc900b2989cb306ac1f2f86"
+  },
+  "history": []
+}

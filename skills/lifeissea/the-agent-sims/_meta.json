@@ -1,0 +1,11 @@
+{
+  "owner": "lifeissea",
+  "slug": "the-agent-sims",
+  "displayName": "The Agent Sims",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771685713694,
+    "commit": "https://github.com/openclaw/skills/commit/2d7c4bb05ae4bbf2762d431281f25c902bdc4fbe"
+  },
+  "history": []
+}

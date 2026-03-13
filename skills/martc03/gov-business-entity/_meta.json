@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-business-entity",
+  "displayName": "Gov Business Entity",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772215001114,
+    "commit": "https://github.com/openclaw/skills/commit/a5e9a69b7a00a5bdfae225cc3cceb522f468dc32"
+  },
+  "history": []
+}

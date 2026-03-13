@@ -1,0 +1,11 @@
+{
+  "owner": "mariusfit",
+  "slug": "infra-watchdog",
+  "displayName": "Clawhub Skill Infra Watchdog",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771981701475,
+    "commit": "https://github.com/openclaw/skills/commit/056fda3f05515c1f801a3b232735661c55d1c035"
+  },
+  "history": []
+}

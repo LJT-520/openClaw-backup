@@ -1,0 +1,17 @@
+{
+  "owner": "aaigotchi",
+  "slug": "pet-me-master",
+  "displayName": "Pet Me Master",
+  "latest": {
+    "version": "2.2.0",
+    "publishedAt": 1772556479269,
+    "commit": "https://github.com/openclaw/skills/commit/ca3baaa2a3cc639c5d1ee5c5d9345c70309af484"
+  },
+  "history": [
+    {
+      "version": "2.1.0",
+      "publishedAt": 1772315019407,
+      "commit": "https://github.com/openclaw/skills/commit/5e44fefc364a1853e0b5a51eaefbbda426a2f900"
+    }
+  ]
+}

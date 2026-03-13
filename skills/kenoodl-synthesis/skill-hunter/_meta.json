@@ -1,0 +1,22 @@
+{
+  "owner": "kenoodl-synthesis",
+  "slug": "skill-hunter",
+  "displayName": "Skill Hunter",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772054984297,
+    "commit": "https://github.com/openclaw/skills/commit/3330b007723fa53e4aabe5b824fef8cb0d2afd95"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771963227135,
+      "commit": "https://github.com/openclaw/skills/commit/84d145f312dc48e9ff1a9cc1c170938cdc366b7e"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771867343278,
+      "commit": "https://github.com/openclaw/skills/commit/629919a95d3997b8821c087bb505b1f3d63d6b42"
+    }
+  ]
+}

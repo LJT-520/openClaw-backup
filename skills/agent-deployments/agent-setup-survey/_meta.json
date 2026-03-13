@@ -1,0 +1,11 @@
+{
+  "owner": "agent-deployments",
+  "slug": "agent-setup-survey",
+  "displayName": "Agent Setup Survey",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772265211870,
+    "commit": "https://github.com/openclaw/skills/commit/5f8daa249c3e9cb6f5b6173ac93bd88910709293"
+  },
+  "history": []
+}

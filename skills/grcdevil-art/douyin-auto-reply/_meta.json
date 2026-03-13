@@ -1,0 +1,11 @@
+{
+  "owner": "grcdevil-art",
+  "slug": "douyin-auto-reply",
+  "displayName": "抖音自动回复助手",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772179197576,
+    "commit": "https://github.com/openclaw/skills/commit/c61f224a505039254ba1467e57a7d55adb4374ec"
+  },
+  "history": []
+}

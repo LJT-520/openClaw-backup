@@ -1,0 +1,11 @@
+{
+  "owner": "npfaerber",
+  "slug": "conversation-archiver",
+  "displayName": "Conversation Archiver",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772273835345,
+    "commit": "https://github.com/openclaw/skills/commit/1a168acac2895c024787d1d8fd772d536b9b2a90"
+  },
+  "history": []
+}

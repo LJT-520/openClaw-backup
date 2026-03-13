@@ -1,0 +1,22 @@
+{
+  "owner": "cai-zhuo",
+  "slug": "materials-cli",
+  "displayName": "Materials CLI",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1771832346215,
+    "commit": "https://github.com/openclaw/skills/commit/95e837a55c298c43c28940ebcaf80b5a66460c6c"
+  },
+  "history": [
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771831954861,
+      "commit": "https://github.com/openclaw/skills/commit/2d9749486497d33fbedae39ec6dde00a1f630c66"
+    },
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771570054368,
+      "commit": "https://github.com/openclaw/skills/commit/c945b8b28c0d18702551e25163059a13b7b06596"
+    }
+  ]
+}

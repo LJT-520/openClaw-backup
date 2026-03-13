@@ -1,0 +1,17 @@
+{
+  "owner": "ivangdavila",
+  "slug": "cgo",
+  "displayName": "CGO / Chief Growth Officer",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771604762142,
+    "commit": "https://github.com/openclaw/skills/commit/ced2f1c67360581b264399bf489ba0fa64e05e3d"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770993749702,
+      "commit": "https://github.com/openclaw/skills/commit/d47a0928d3bc0ba2c5181a9d17dd6a10f92d3c78"
+    }
+  ]
+}

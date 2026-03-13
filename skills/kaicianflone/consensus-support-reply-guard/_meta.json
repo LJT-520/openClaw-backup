@@ -1,0 +1,22 @@
+{
+  "owner": "kaicianflone",
+  "slug": "consensus-support-reply-guard",
+  "displayName": "consensus-support-reply-guard",
+  "latest": {
+    "version": "1.1.15",
+    "publishedAt": 1772479712028,
+    "commit": "https://github.com/openclaw/skills/commit/6cd0664c3a2d9aa7317cc6ad985c6e26c09ef60a"
+  },
+  "history": [
+    {
+      "version": "1.1.10",
+      "publishedAt": 1772343219886,
+      "commit": "https://github.com/openclaw/skills/commit/e4682987fdbdecab580c8d938825af282ba2a62e"
+    },
+    {
+      "version": "1.1.5",
+      "publishedAt": 1772156755371,
+      "commit": "https://github.com/openclaw/skills/commit/250dd495e9b38a32e75d351e2c4b2dc713aa7612"
+    }
+  ]
+}

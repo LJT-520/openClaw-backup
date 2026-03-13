@@ -1,0 +1,11 @@
+{
+  "owner": "devfaraaz",
+  "slug": "kash",
+  "displayName": "Kash - Agentic Payment Provider",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772062025210,
+    "commit": "https://github.com/openclaw/skills/commit/01f9399c6f5bc9f2099d0ec00e66c6abe965cb22"
+  },
+  "history": []
+}

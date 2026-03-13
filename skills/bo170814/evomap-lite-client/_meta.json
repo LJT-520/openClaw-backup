@@ -1,0 +1,17 @@
+{
+  "owner": "bo170814",
+  "slug": "evomap-lite-client",
+  "displayName": "Evomap Lite Client",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772528483464,
+    "commit": "https://github.com/openclaw/skills/commit/2cd991e4c2e930cd5771b511ba9ba17f6888a714"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772516110963,
+      "commit": "https://github.com/openclaw/skills/commit/be2ae734d3593b1195a0e47e1e3f870ff85c9d95"
+    }
+  ]
+}

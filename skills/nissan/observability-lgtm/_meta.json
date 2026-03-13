@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "observability-lgtm",
+  "displayName": "Observability Lgtm",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772145101507,
+    "commit": "https://github.com/openclaw/skills/commit/6605a9c64cc9415a17ab990c1e0b8325350b2001"
+  },
+  "history": []
+}

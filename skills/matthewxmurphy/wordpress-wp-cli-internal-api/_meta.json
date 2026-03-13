@@ -1,0 +1,11 @@
+{
+  "owner": "matthewxmurphy",
+  "slug": "wordpress-wp-cli-internal-api",
+  "displayName": "WordPress WP-CLI Internal API",
+  "latest": {
+    "version": "0.5.0",
+    "publishedAt": 1772657558252,
+    "commit": "https://github.com/openclaw/skills/commit/cd93a0972f0b923beeee910064bd904c5450dddf"
+  },
+  "history": []
+}

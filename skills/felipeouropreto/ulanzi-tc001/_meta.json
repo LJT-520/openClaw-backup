@@ -1,0 +1,11 @@
+{
+  "owner": "felipeouropreto",
+  "slug": "ulanzi-tc001",
+  "displayName": "Ulanzi TC001",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771507566509,
+    "commit": "https://github.com/openclaw/skills/commit/0591e43fdb2ddb6ca968c6982250381ea159b09f"
+  },
+  "history": []
+}

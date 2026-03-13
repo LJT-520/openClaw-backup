@@ -1,0 +1,11 @@
+{
+  "owner": "kambrosgroup",
+  "slug": "proposal-generator-pro",
+  "displayName": "Proposal Generator Pro",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771818366105,
+    "commit": "https://github.com/openclaw/skills/commit/25ceb58b6f11337b02a71678254fdef8445c8c05"
+  },
+  "history": []
+}

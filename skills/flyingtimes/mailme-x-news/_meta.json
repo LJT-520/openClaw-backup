@@ -1,0 +1,17 @@
+{
+  "owner": "flyingtimes",
+  "slug": "mailme-x-news",
+  "displayName": "MailMe X News",
+  "latest": {
+    "version": "1.6.1",
+    "publishedAt": 1772465547919,
+    "commit": "https://github.com/openclaw/skills/commit/0884822f36cd7d4ca159277fc7a3b5e5e35d5ae5"
+  },
+  "history": [
+    {
+      "version": "1.5.0",
+      "publishedAt": 1772437462725,
+      "commit": "https://github.com/openclaw/skills/commit/c45ec5170f4d4edd57dfa06f9d8dc6f81423521c"
+    }
+  ]
+}

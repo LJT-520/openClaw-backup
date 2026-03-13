@@ -1,0 +1,11 @@
+{
+  "owner": "codeninja23",
+  "slug": "native-sentry",
+  "displayName": "Native Sentry",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771927232270,
+    "commit": "https://github.com/openclaw/skills/commit/a0bb1e0c33579e42ff2ff2ed2422817e20c4faa7"
+  },
+  "history": []
+}

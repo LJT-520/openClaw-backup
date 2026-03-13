@@ -1,0 +1,22 @@
+{
+  "owner": "jasonz-ncc42",
+  "slug": "octomail",
+  "displayName": "OctoMail",
+  "latest": {
+    "version": "0.1.5",
+    "publishedAt": 1772534761082,
+    "commit": "https://github.com/openclaw/skills/commit/a0d7db1df1b052bd6b3f363037f454f8ad33a8ab"
+  },
+  "history": [
+    {
+      "version": "0.1.2",
+      "publishedAt": 1772498678319,
+      "commit": "https://github.com/openclaw/skills/commit/b16a1edf5dd495b809ae8b3b75b82c921d0a8cdb"
+    },
+    {
+      "version": "0.1.1",
+      "publishedAt": 1772366181676,
+      "commit": "https://github.com/openclaw/skills/commit/60e0f7fc49a9f29062fb07ff5bc2c40ed9b2da4c"
+    }
+  ]
+}

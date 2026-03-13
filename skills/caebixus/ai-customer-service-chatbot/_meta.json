@@ -1,0 +1,11 @@
+{
+  "owner": "caebixus",
+  "slug": "ai-customer-service-chatbot",
+  "displayName": "Chaterimo",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771920696056,
+    "commit": "https://github.com/openclaw/skills/commit/5f333f87cdb8b2ed9b577710c893c86614076ad8"
+  },
+  "history": []
+}

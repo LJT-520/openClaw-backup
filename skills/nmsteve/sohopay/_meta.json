@@ -1,0 +1,27 @@
+{
+  "owner": "nmsteve",
+  "slug": "sohopay",
+  "displayName": "SOHO Pay",
+  "latest": {
+    "version": "1.0.14",
+    "publishedAt": 1772560024754,
+    "commit": "https://github.com/openclaw/skills/commit/03ced2f862fe8e10ba412fdcf503d5a930c8b690"
+  },
+  "history": [
+    {
+      "version": "1.0.10",
+      "publishedAt": 1772490277386,
+      "commit": "https://github.com/openclaw/skills/commit/7ef0c091162cc69ecbf2e8a6e28cae481f83019a"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771511180085,
+      "commit": "https://github.com/openclaw/skills/commit/089b224d5e4683916f7f5f5d4cf2144ba7a7ebc5"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771465870010,
+      "commit": "https://github.com/openclaw/skills/commit/c5756aed7d28243de724ed71c70e74c228ef9cca"
+    }
+  ]
+}

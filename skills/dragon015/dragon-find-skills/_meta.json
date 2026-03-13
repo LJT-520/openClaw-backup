@@ -1,0 +1,11 @@
+{
+  "owner": "dragon015",
+  "slug": "dragon-find-skills",
+  "displayName": "技能查找",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772352548442,
+    "commit": "https://github.com/openclaw/skills/commit/fbfdf773ce924227df880e27c8bc9d6726dbd76f"
+  },
+  "history": []
+}

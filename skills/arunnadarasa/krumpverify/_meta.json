@@ -1,0 +1,11 @@
+{
+  "owner": "arunnadarasa",
+  "slug": "krumpverify",
+  "displayName": "Clawhub Krump Verify",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771791993875,
+    "commit": "https://github.com/openclaw/skills/commit/30a9d27bd9cfe1d0ae007fd4a894d5688e4bb3d3"
+  },
+  "history": []
+}

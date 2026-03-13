@@ -1,0 +1,17 @@
+{
+  "owner": "fr0zen80",
+  "slug": "derek-bitcoin-intel",
+  "displayName": "Bitcoin Market Intelligence",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772459640833,
+    "commit": "https://github.com/openclaw/skills/commit/7ac070b34a5da8d315b6066822261a530bf5e7ab"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1772332043854,
+      "commit": "https://github.com/openclaw/skills/commit/961b3c93a46d7ed674336d6e85e0dba0672cdd62"
+    }
+  ]
+}

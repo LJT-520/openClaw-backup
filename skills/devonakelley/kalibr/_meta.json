@@ -1,0 +1,17 @@
+{
+  "owner": "devonakelley",
+  "slug": "kalibr",
+  "displayName": "Kalibr: Ship agents that fix themselves",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1771730329587,
+    "commit": "https://github.com/openclaw/skills/commit/aea5960ed0a60996e2663f8b0d31290fe9ac8992"
+  },
+  "history": [
+    {
+      "version": "0.1.3",
+      "publishedAt": 1771472295302,
+      "commit": "https://github.com/openclaw/skills/commit/d823d3cdf01740412ced1392fd59066ecbef7878"
+    }
+  ]
+}

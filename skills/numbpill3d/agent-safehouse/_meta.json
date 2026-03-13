@@ -1,0 +1,11 @@
+{
+  "owner": "numbpill3d",
+  "slug": "agent-safehouse",
+  "displayName": "Agent Safehouse",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772414862215,
+    "commit": "https://github.com/openclaw/skills/commit/fefa7d7e42d29cdb6e2ca5f38e42d9cd6ee5f997"
+  },
+  "history": []
+}

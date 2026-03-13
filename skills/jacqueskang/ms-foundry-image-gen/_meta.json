@@ -1,0 +1,17 @@
+{
+  "owner": "jacqueskang",
+  "slug": "ms-foundry-image-gen",
+  "displayName": "Microsoft Foundry image generation",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1771850273738,
+    "commit": "https://github.com/openclaw/skills/commit/8e23ef88cf80bb7d4814bff4062e171669e40b0a"
+  },
+  "history": [
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771790683480,
+      "commit": "https://github.com/openclaw/skills/commit/423aedeccf94348dc1ae850e8bd5cfb93403341d"
+    }
+  ]
+}

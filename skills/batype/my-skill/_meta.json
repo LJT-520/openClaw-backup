@@ -1,0 +1,11 @@
+{
+  "owner": "batype",
+  "slug": "my-skill",
+  "displayName": "MY News",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772034637934,
+    "commit": "https://github.com/openclaw/skills/commit/f63e5031fb51ddc273db8cfc1570108cba4c5c47"
+  },
+  "history": []
+}

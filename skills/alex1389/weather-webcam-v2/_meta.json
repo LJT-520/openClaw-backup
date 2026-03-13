@@ -1,0 +1,11 @@
+{
+  "owner": "alex1389",
+  "slug": "weather-webcam-v2",
+  "displayName": "Weather-Webcam-V2",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772414893824,
+    "commit": "https://github.com/openclaw/skills/commit/45731693c468c200d8ab2be9f20339ed771a612b"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "donovanpankratz-del",
+  "slug": "cpr",
+  "displayName": "CPR - Conversational Pattern Restoration",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772024438167,
+    "commit": "https://github.com/openclaw/skills/commit/431edf7e3ff3b0412c03b0e3c040810b79c17958"
+  },
+  "history": []
+}

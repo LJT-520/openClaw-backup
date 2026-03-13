@@ -1,0 +1,11 @@
+{
+  "owner": "arbuge",
+  "slug": "ebooks",
+  "displayName": "Ebooks Search",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771707244682,
+    "commit": "https://github.com/openclaw/skills/commit/180d358105d9dc778a224a794624c4ab3fb2743b"
+  },
+  "history": []
+}

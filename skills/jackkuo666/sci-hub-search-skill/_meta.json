@@ -1,0 +1,11 @@
+{
+  "owner": "jackkuo666",
+  "slug": "sci-hub-search-skill",
+  "displayName": "Sci Hub Search",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772154984214,
+    "commit": "https://github.com/openclaw/skills/commit/ea7b8ac535fd44f7167544728d9092d9f7e0fd5e"
+  },
+  "history": []
+}

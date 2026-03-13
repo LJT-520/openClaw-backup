@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "game-asset-generation",
+  "displayName": "Game Asset Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772561223108,
+    "commit": "https://github.com/openclaw/skills/commit/f6cd72653973ed1d69f285cab4b387a8d2090366"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-cybersecurity-engine",
+  "displayName": "Cybersecurity Engine",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771518324109,
+    "commit": "https://github.com/openclaw/skills/commit/5900ec7726924d22ada914450604a4322256ac38"
+  },
+  "history": []
+}

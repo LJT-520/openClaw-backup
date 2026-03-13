@@ -1,0 +1,11 @@
+{
+  "owner": "dalomeve",
+  "slug": "memory-self-heal",
+  "displayName": "Memory Self-Heal",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772349824288,
+    "commit": "https://github.com/openclaw/skills/commit/aec9d91e8bdb08f1746b96dcab968ea21e8c02fb"
+  },
+  "history": []
+}

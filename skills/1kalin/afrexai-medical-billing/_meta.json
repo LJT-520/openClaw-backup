@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-medical-billing",
+  "displayName": "Medical Billing & Revenue Cycle",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771962242138,
+    "commit": "https://github.com/openclaw/skills/commit/41e4664839a984728b80a61c327ac2f160f33fe2"
+  },
+  "history": []
+}

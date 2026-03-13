@@ -1,0 +1,11 @@
+{
+  "owner": "nihaovand",
+  "slug": "kite-agent-wallet",
+  "displayName": "Kite Agent Wallet",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772030066072,
+    "commit": "https://github.com/openclaw/skills/commit/f95477fea23abda7db69a966c2edee7b31c61b01"
+  },
+  "history": []
+}

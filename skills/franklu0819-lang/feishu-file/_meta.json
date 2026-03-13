@@ -1,0 +1,11 @@
+{
+  "owner": "franklu0819-lang",
+  "slug": "feishu-file",
+  "displayName": "Feishu File",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772076134027,
+    "commit": "https://github.com/openclaw/skills/commit/3fb4543c88baf7b28e5e1b7fc709df3df45ddccc"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "guox18",
+  "slug": "intern-pubchem-name-conversion",
+  "displayName": "Intern PubChem Name Conversion",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772612956673,
+    "commit": "https://github.com/openclaw/skills/commit/36d2b1e6b10bd855525885ff460de1d7b1d6a8bc"
+  },
+  "history": []
+}

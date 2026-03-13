@@ -1,0 +1,17 @@
+{
+  "owner": "aukaukauk",
+  "slug": "scihub-paper-downloader",
+  "displayName": "Scihub Paper Downloader",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772431026679,
+    "commit": "https://github.com/openclaw/skills/commit/f7227c0b803af3ca44ab1b7fb8120454994d8f0e"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772332564956,
+      "commit": "https://github.com/openclaw/skills/commit/8ea63d93156eee24120f1924cafa23f7d4cd6733"
+    }
+  ]
+}

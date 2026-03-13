@@ -1,0 +1,27 @@
+{
+  "owner": "gm4leejun-stack",
+  "slug": "jun-invest-option-master-installer",
+  "displayName": "jun-invest-option-master-installer (DEPRECATED)",
+  "latest": {
+    "version": "0.99.0",
+    "publishedAt": 1772595116566,
+    "commit": "https://github.com/openclaw/skills/commit/b307340d9d4f4a567b5438e1d408c6aad1c256ab"
+  },
+  "history": [
+    {
+      "version": "0.2.1",
+      "publishedAt": 1772550442270,
+      "commit": "https://github.com/openclaw/skills/commit/4b962bfef00061160a3f27cb13580eb80285ecd0"
+    },
+    {
+      "version": "0.1.1",
+      "publishedAt": 1772526482185,
+      "commit": "https://github.com/openclaw/skills/commit/e487f450eaef59a0e97436c1124816ccef8d5afa"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772514361887,
+      "commit": "https://github.com/openclaw/skills/commit/f5f19413eb5f091bf7ed694bd5cf709f1af0a999"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "brianleach",
+  "slug": "cta",
+  "displayName": "Cta Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771718351998,
+    "commit": "https://github.com/openclaw/skills/commit/ab4030a3c011691e14fde90212eb13b0a97f61c0"
+  },
+  "history": []
+}

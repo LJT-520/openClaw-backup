@@ -1,0 +1,11 @@
+{
+  "owner": "guoqunabc",
+  "slug": "chat-with-l",
+  "displayName": "Chat With L",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772650869005,
+    "commit": "https://github.com/openclaw/skills/commit/dc1fa37101091f219a850d795239de15077a5255"
+  },
+  "history": []
+}

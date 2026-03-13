@@ -1,0 +1,11 @@
+{
+  "owner": "jdqconsulting",
+  "slug": "ue57-gamepiece-designer",
+  "displayName": "UE5.7 Gamepiece Designer",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771974908734,
+    "commit": "https://github.com/openclaw/skills/commit/b49ad99ca993f98aea64dc000803189abaa65a96"
+  },
+  "history": []
+}

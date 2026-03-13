@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-ai-engine",
+  "displayName": "ERPClaw-AI-Engine-Analytics",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772087504474,
+    "commit": "https://github.com/openclaw/skills/commit/0211d4b06eae2eab9a97437e72c5511c5e281ed9"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "cesco345",
+  "slug": "capital-equipment",
+  "displayName": "Capital Equipment Network (CapNetEq)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772257703169,
+    "commit": "https://github.com/openclaw/skills/commit/a4803602ebac1f3974f11577c37ea24617934acb"
+  },
+  "history": []
+}

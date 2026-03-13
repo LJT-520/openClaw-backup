@@ -1,0 +1,17 @@
+{
+  "owner": "amberljc",
+  "slug": "meta-research",
+  "displayName": "Meta Research",
+  "latest": {
+    "version": "2.5.0",
+    "publishedAt": 1772603626812,
+    "commit": "https://github.com/openclaw/skills/commit/fd59beb26b51613a2e5b9c8840e33a5fc736cc9b"
+  },
+  "history": [
+    {
+      "version": "2.1.0",
+      "publishedAt": 1772351043334,
+      "commit": "https://github.com/openclaw/skills/commit/c3b36148ac910af8606863bea195d9965057713d"
+    }
+  ]
+}

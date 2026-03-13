@@ -1,0 +1,11 @@
+{
+  "owner": "masterbenc",
+  "slug": "crs-report-generator",
+  "displayName": "crs-report-generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772466926238,
+    "commit": "https://github.com/openclaw/skills/commit/966827ca5d6642b1e0b0c721582d495bfbb5fc2f"
+  },
+  "history": []
+}

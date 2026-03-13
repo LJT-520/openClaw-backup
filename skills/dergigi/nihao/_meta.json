@@ -1,0 +1,27 @@
+{
+  "owner": "dergigi",
+  "slug": "nihao",
+  "displayName": "Skill",
+  "latest": {
+    "version": "0.12.2",
+    "publishedAt": 1771685599211,
+    "commit": "https://github.com/openclaw/skills/commit/860f057abcbf7e9d2f0fe3e6c97869ae60d58b8a"
+  },
+  "history": [
+    {
+      "version": "0.11.4",
+      "publishedAt": 1771620167740,
+      "commit": "https://github.com/openclaw/skills/commit/7bf113de459dfed013b06c870af83bfbe3534ad5"
+    },
+    {
+      "version": "0.3.0",
+      "publishedAt": 1771450305706,
+      "commit": "https://github.com/openclaw/skills/commit/fb3c6b83e49a33139e8a7cf49b66ede2dd0af8cb"
+    },
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771344289053,
+      "commit": "https://github.com/openclaw/skills/commit/832de916e3aeac896e97ffc51518dfb9a23862dd"
+    }
+  ]
+}

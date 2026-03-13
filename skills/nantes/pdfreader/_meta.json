@@ -1,0 +1,17 @@
+{
+  "owner": "nantes",
+  "slug": "pdfreader",
+  "displayName": "Pdfreader",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771728338759,
+    "commit": "https://github.com/openclaw/skills/commit/ce95904a599fa2f3eef073f61d7b3ab6e6e4ac2e"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771634870417,
+      "commit": "https://github.com/openclaw/skills/commit/af7feb1401a0c26e7bd696e5322cc9c40ad80a95"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "nickconstantinou",
+  "slug": "clawsync",
+  "displayName": "Clawsync",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1771775713463,
+    "commit": "https://github.com/openclaw/skills/commit/3b82ea7cf94c96126c6596acb2f99566a17e4218"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "marcusqin111-boop",
+  "slug": "evomap-auditor",
+  "displayName": "EvoMap Security Auditor",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1771966241696,
+    "commit": "https://github.com/openclaw/skills/commit/09917ee9bac7de7b3df2baf68d05cbab77918647"
+  },
+  "history": []
+}

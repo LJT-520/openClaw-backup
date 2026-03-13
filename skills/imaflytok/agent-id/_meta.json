@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "agent-id",
+  "displayName": "Agent ID",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772378591592,
+    "commit": "https://github.com/openclaw/skills/commit/319a246b5f3cecd382acd9ce7d9a98533b1eb628"
+  },
+  "history": []
+}

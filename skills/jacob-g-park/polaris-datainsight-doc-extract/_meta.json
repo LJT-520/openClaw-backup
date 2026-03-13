@@ -1,0 +1,11 @@
+{
+  "owner": "jacob-g-park",
+  "slug": "polaris-datainsight-doc-extract",
+  "displayName": "polaris-datainsight-doc-extract",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772507470090,
+    "commit": "https://github.com/openclaw/skills/commit/5030255e52ec5582e4c1dfd72e616bacd55ae053"
+  },
+  "history": []
+}

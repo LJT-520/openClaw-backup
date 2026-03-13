@@ -1,0 +1,11 @@
+{
+  "owner": "hurcannansen",
+  "slug": "nansen-token",
+  "displayName": "Nansen Token",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772619264969,
+    "commit": "https://github.com/openclaw/skills/commit/8d1a647450219cf77fe777a0b1029b765de011d4"
+  },
+  "history": []
+}

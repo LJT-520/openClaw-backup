@@ -1,0 +1,11 @@
+{
+  "owner": "broedkrummen",
+  "slug": "broedkrummen-overkill-token-optimizer",
+  "displayName": "Overkill Token Optimizer",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772039929631,
+    "commit": "https://github.com/openclaw/skills/commit/6fbb5eb2ef0265d5642df3c626a1dd51f14b2e7c"
+  },
+  "history": []
+}

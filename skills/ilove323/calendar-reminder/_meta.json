@@ -1,0 +1,11 @@
+{
+  "owner": "ilove323",
+  "slug": "calendar-reminder",
+  "displayName": "Calendar Reminder 日历提醒",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772214977528,
+    "commit": "https://github.com/openclaw/skills/commit/08c9ca96eafae0c479ced0d07043b840bc0ad24f"
+  },
+  "history": []
+}

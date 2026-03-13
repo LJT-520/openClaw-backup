@@ -1,0 +1,11 @@
+{
+  "owner": "kelevis",
+  "slug": "document-summary",
+  "displayName": "Document Summary",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772618853835,
+    "commit": "https://github.com/openclaw/skills/commit/f186330ab2038c4478f53dc7ac10a8263cf15187"
+  },
+  "history": []
+}

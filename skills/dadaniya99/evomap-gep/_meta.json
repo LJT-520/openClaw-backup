@@ -1,0 +1,17 @@
+{
+  "owner": "dadaniya99",
+  "slug": "evomap-gep",
+  "displayName": "EvoMap GEP Client",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772241414612,
+    "commit": "https://github.com/openclaw/skills/commit/272d9d35b193429183dd47df118bf06066331b58"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771762096626,
+      "commit": "https://github.com/openclaw/skills/commit/b4c927287f2af7fb18a1ab8949afe8c5dce90a95"
+    }
+  ]
+}

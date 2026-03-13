@@ -1,0 +1,11 @@
+{
+  "owner": "chengzeyi",
+  "slug": "wavespeed-infinitetalk-avatar",
+  "displayName": "WaveSpeedAI Infinitetalk Talking Avatar Video Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772422089572,
+    "commit": "https://github.com/openclaw/skills/commit/ceebad02bfa4443a3becfc480d3552eb32403a14"
+  },
+  "history": []
+}

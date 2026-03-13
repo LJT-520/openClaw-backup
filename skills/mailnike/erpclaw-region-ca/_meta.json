@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-region-ca",
+  "displayName": "ERPClaw-Region-Canada",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772129738456,
+    "commit": "https://github.com/openclaw/skills/commit/248ecf6950b4c06218ce89bb48c9883639449041"
+  },
+  "history": []
+}

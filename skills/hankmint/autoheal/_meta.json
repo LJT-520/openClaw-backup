@@ -1,0 +1,11 @@
+{
+  "owner": "hankmint",
+  "slug": "autoheal",
+  "displayName": "AutoHeal AI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772319543167,
+    "commit": "https://github.com/openclaw/skills/commit/bba92fa80c27504c771784bfc18cad57f76ec2f4"
+  },
+  "history": []
+}

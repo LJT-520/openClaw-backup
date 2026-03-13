@@ -1,0 +1,11 @@
+{
+  "owner": "damirikys",
+  "slug": "faster-whisper-local",
+  "displayName": "Faster Whisper Local",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771567483270,
+    "commit": "https://github.com/openclaw/skills/commit/cdc0b11b6a595d7b8fcec1b6e7a1c3633c76274d"
+  },
+  "history": []
+}

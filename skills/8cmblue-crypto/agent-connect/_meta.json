@@ -1,0 +1,11 @@
+{
+  "owner": "8cmblue-crypto",
+  "slug": "agent-connect",
+  "displayName": "Agent Connect",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772103479504,
+    "commit": "https://github.com/openclaw/skills/commit/893ab3809333748c4878ed61b68dfb6d84e35a02"
+  },
+  "history": []
+}

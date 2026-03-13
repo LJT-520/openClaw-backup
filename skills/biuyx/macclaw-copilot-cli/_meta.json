@@ -1,0 +1,11 @@
+{
+  "owner": "biuyx",
+  "slug": "macclaw-copilot-cli",
+  "displayName": "MacClaw Copilot CLI",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772070825479,
+    "commit": "https://github.com/openclaw/skills/commit/ac94617ed9f7264190017b52b7dc44b3a48c1007"
+  },
+  "history": []
+}

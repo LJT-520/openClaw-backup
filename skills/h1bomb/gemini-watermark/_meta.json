@@ -1,0 +1,11 @@
+{
+  "owner": "h1bomb",
+  "slug": "gemini-watermark",
+  "displayName": "Gemini Watermark",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1772242743955,
+    "commit": "https://github.com/openclaw/skills/commit/df9fa5b35f7accdba20128c6385fb207a669307a"
+  },
+  "history": []
+}

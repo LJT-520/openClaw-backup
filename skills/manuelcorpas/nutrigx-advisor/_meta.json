@@ -1,0 +1,11 @@
+{
+  "owner": "manuelcorpas",
+  "slug": "nutrigx-advisor",
+  "displayName": "NutriGx Advisor",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772258759056,
+    "commit": "https://github.com/openclaw/skills/commit/217778cc7d70214786f45b1a1b167f8a313fb7f6"
+  },
+  "history": []
+}

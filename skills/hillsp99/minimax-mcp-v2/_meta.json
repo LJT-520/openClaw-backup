@@ -1,0 +1,11 @@
+{
+  "owner": "hillsp99",
+  "slug": "minimax-mcp-v2",
+  "displayName": "MiniMax MCP Search",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772018709130,
+    "commit": "https://github.com/openclaw/skills/commit/3f11fdf0b374425101d26ad414123d59414da91a"
+  },
+  "history": []
+}

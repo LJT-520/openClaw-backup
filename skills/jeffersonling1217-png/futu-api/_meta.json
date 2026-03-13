@@ -1,0 +1,17 @@
+{
+  "owner": "jeffersonling1217-png",
+  "slug": "futu-api",
+  "displayName": "富途牛牛API数据技能",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772262777231,
+    "commit": "https://github.com/openclaw/skills/commit/542ef83b110b1f0e627f9edc553d21a89fad7340"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772215017158,
+      "commit": "https://github.com/openclaw/skills/commit/3b115c0ad70be7a534a539be7fdc8953f66be1c1"
+    }
+  ]
+}

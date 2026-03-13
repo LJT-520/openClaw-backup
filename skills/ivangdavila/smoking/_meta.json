@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "smoking",
+  "displayName": "Smoking (Tracker, Logger, Quit, Reduce)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772536899638,
+    "commit": "https://github.com/openclaw/skills/commit/bb29bb1c9d13575273a03fb5cdccfb9645e5632f"
+  },
+  "history": []
+}

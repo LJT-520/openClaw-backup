@@ -1,0 +1,11 @@
+{
+  "owner": "jo9900",
+  "slug": "release-tracker",
+  "displayName": "Release Tracker",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771935377579,
+    "commit": "https://github.com/openclaw/skills/commit/b00c9b3323e1ea58e179045fa82c2374d24cfd66"
+  },
+  "history": []
+}

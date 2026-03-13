@@ -1,0 +1,17 @@
+{
+  "owner": "andrewandrewsen",
+  "slug": "yellowagents",
+  "displayName": "YellowAgents",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771947092526,
+    "commit": "https://github.com/openclaw/skills/commit/7737c315bd01b7e2a7df72aaecbbf1048461b996"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771576409368,
+      "commit": "https://github.com/openclaw/skills/commit/6c98af3d30332298e7782c2b6402a818e9a4338b"
+    }
+  ]
+}

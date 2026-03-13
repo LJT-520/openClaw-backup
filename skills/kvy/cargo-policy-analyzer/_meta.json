@@ -1,0 +1,11 @@
+{
+  "owner": "kvy",
+  "slug": "cargo-policy-analyzer",
+  "displayName": "航空货运政策分析器",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772634463338,
+    "commit": "https://github.com/openclaw/skills/commit/9eb6e37d96758b28d8d95d9e2735c7e24125c266"
+  },
+  "history": []
+}

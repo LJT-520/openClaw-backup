@@ -1,0 +1,11 @@
+{
+  "owner": "nightvibes3",
+  "slug": "docker-osx",
+  "displayName": "Docker Osx",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772041450460,
+    "commit": "https://github.com/openclaw/skills/commit/933e0928a472c0ad915957e8fbad1876e9d43318"
+  },
+  "history": []
+}

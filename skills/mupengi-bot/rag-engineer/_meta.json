@@ -1,0 +1,11 @@
+{
+  "owner": "mupengi-bot",
+  "slug": "rag-engineer",
+  "displayName": "Rag Engineer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771383014118,
+    "commit": "https://github.com/openclaw/skills/commit/83641722ca1390f4800779374d02d32473dbb5de"
+  },
+  "history": []
+}

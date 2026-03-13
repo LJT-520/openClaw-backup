@@ -1,0 +1,17 @@
+{
+  "owner": "guanvee",
+  "slug": "iammeter-openclaw-skill",
+  "displayName": "iammeter",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1772245518554,
+    "commit": "https://github.com/openclaw/skills/commit/7e6039ec20a14c3120fc1a670b1d80eb99db0a08"
+  },
+  "history": [
+    {
+      "version": "0.2.0",
+      "publishedAt": 1772171607507,
+      "commit": "https://github.com/openclaw/skills/commit/f401697e258e5b84d8ad2100cb6cb9abe98d89be"
+    }
+  ]
+}

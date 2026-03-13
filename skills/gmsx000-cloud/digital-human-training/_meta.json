@@ -1,0 +1,11 @@
+{
+  "owner": "gmsx000-cloud",
+  "slug": "digital-human-training",
+  "displayName": "digital-human-training",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772380167293,
+    "commit": "https://github.com/openclaw/skills/commit/c71efbcaa91e77bd694759cce36d691ef7a55d89"
+  },
+  "history": []
+}

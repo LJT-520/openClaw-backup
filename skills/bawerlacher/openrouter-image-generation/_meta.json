@@ -1,0 +1,11 @@
+{
+  "owner": "bawerlacher",
+  "slug": "openrouter-image-generation",
+  "displayName": "Openrouter Image Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772089324231,
+    "commit": "https://github.com/openclaw/skills/commit/abd245995e0c7233a878978d3dff2078b90bfcfa"
+  },
+  "history": []
+}

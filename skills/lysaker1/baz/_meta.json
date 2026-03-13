@@ -1,0 +1,17 @@
+{
+  "owner": "lysaker1",
+  "slug": "baz",
+  "displayName": "Baz",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771919464712,
+    "commit": "https://github.com/openclaw/skills/commit/c86d518944ecf0b702344b75eb18ddaf8cab8133"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771428313389,
+      "commit": "https://github.com/openclaw/skills/commit/82c03e23cd61bb52d6497932d75c90907466d8c1"
+    }
+  ]
+}

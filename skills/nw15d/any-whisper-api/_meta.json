@@ -1,0 +1,11 @@
+{
+  "owner": "nw15d",
+  "slug": "any-whisper-api",
+  "displayName": "ANY WHISPER API",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1772098880928,
+    "commit": "https://github.com/openclaw/skills/commit/caf049d4ff8505ce6d314ab4de6c0fc118cfc02b"
+  },
+  "history": []
+}

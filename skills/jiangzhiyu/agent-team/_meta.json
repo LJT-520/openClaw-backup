@@ -1,0 +1,11 @@
+{
+  "owner": "jiangzhiyu",
+  "slug": "agent-team",
+  "displayName": "Agent Team",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772434974923,
+    "commit": "https://github.com/openclaw/skills/commit/713ea759a853ea83b85d7e705e37e827668f5ebb"
+  },
+  "history": []
+}

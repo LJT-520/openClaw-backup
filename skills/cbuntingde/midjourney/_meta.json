@@ -1,0 +1,11 @@
+{
+  "owner": "cbuntingde",
+  "slug": "midjourney",
+  "displayName": "Midjourney",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772491786329,
+    "commit": "https://github.com/openclaw/skills/commit/41969f49c14580174ce13a26391237f5d88e87c1"
+  },
+  "history": []
+}

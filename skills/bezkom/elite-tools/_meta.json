@@ -1,0 +1,11 @@
+{
+  "owner": "bezkom",
+  "slug": "elite-tools",
+  "displayName": "Elite CLI Tools",
+  "latest": {
+    "version": "0.0.1",
+    "publishedAt": 1771871276164,
+    "commit": "https://github.com/openclaw/skills/commit/9092a22bb15de103c5f88fae79ece592ce23cd76"
+  },
+  "history": []
+}

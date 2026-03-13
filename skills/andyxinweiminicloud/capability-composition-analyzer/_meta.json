@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "capability-composition-analyzer",
+  "displayName": "Capability Composition Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771843202789,
+    "commit": "https://github.com/openclaw/skills/commit/50ad4d00598f8ca7e4af57bb39a4d608e17c7ffd"
+  },
+  "history": []
+}

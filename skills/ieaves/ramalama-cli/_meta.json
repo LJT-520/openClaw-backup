@@ -1,0 +1,11 @@
+{
+  "owner": "ieaves",
+  "slug": "ramalama-cli",
+  "displayName": "RamaLama CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771619737883,
+    "commit": "https://github.com/openclaw/skills/commit/676a9fab2a5253c53804b1a6f8278377ec43fe78"
+  },
+  "history": []
+}

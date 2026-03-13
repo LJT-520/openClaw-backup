@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-inventory",
+  "displayName": "ERPClaw-Inventory",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772086772860,
+    "commit": "https://github.com/openclaw/skills/commit/0b9200fca30d5a8a689d36440fc69606ffa4506e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "balkanblbn",
+  "slug": "hierarchical-memory",
+  "displayName": "Hierarchical Memory",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771793591686,
+    "commit": "https://github.com/openclaw/skills/commit/2f031b4b4385d056d92831cfbbbfc73fa3c810db"
+  },
+  "history": []
+}

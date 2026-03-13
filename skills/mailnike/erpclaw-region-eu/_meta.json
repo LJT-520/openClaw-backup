@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-region-eu",
+  "displayName": "ERPClaw-Region-Europe",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772169063152,
+    "commit": "https://github.com/openclaw/skills/commit/36e48bd8291fe82eebc03dddef3418f89ec3510b"
+  },
+  "history": []
+}

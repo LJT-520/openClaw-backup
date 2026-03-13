@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "openclaw-switch",
+  "displayName": "Openclaw Switch",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771842666400,
+    "commit": "https://github.com/openclaw/skills/commit/7444bd8dce2f9f44491ec77925832b7013c46c29"
+  },
+  "history": []
+}

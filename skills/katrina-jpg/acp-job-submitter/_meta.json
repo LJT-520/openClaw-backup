@@ -1,0 +1,11 @@
+{
+  "owner": "katrina-jpg",
+  "slug": "acp-job-submitter",
+  "displayName": "Acp Job Submitter",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771781271228,
+    "commit": "https://github.com/openclaw/skills/commit/ff32a0594f005144e405feac93f5e1314fcf63b2"
+  },
+  "history": []
+}

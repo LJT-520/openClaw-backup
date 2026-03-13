@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-insurance-automation",
+  "displayName": "Insurance Operations Automation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771611274630,
+    "commit": "https://github.com/openclaw/skills/commit/6880c4c7473caad6cdb749eea95ce64f83681125"
+  },
+  "history": []
+}

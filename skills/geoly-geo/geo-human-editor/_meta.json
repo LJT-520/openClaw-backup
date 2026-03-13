@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-human-editor",
+  "displayName": "Human Voice Content Editor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280874288,
+    "commit": "https://github.com/openclaw/skills/commit/08f3306932289fcaaac967d962a57d77adcb69d1"
+  },
+  "history": []
+}

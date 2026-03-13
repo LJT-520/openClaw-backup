@@ -1,0 +1,27 @@
+{
+  "owner": "kaicianflone",
+  "slug": "consensus-guard-core",
+  "displayName": "consensus-guard-core",
+  "latest": {
+    "version": "1.1.13",
+    "publishedAt": 1772474727521,
+    "commit": "https://github.com/openclaw/skills/commit/a89ba20f46759839ef9120effc09cb1df2fd10d1"
+  },
+  "history": [
+    {
+      "version": "1.1.12",
+      "publishedAt": 1772474485971,
+      "commit": "https://github.com/openclaw/skills/commit/c1e91c91afe6f0688e09503dc03d34fe54df6daf"
+    },
+    {
+      "version": "1.1.10",
+      "publishedAt": 1772344192834,
+      "commit": "https://github.com/openclaw/skills/commit/051550e2cabb229b455150a404d0c0b300336185"
+    },
+    {
+      "version": "1.1.3",
+      "publishedAt": 1772156285442,
+      "commit": "https://github.com/openclaw/skills/commit/d976abcd93adf635768f2cc31cc05dd8618086cf"
+    }
+  ]
+}

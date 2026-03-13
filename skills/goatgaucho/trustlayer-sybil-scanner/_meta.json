@@ -1,0 +1,11 @@
+{
+  "owner": "goatgaucho",
+  "slug": "trustlayer-sybil-scanner",
+  "displayName": "TrustLayer Sybil Scanner",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772157863549,
+    "commit": "https://github.com/openclaw/skills/commit/c59829576ff7bd8a7720fb6ff63125bc14184624"
+  },
+  "history": []
+}

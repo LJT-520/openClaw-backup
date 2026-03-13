@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "attestation-chain-auditor",
+  "displayName": "attestation-chain-auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771749305956,
+    "commit": "https://github.com/openclaw/skills/commit/18a42840f2e1e64db0e259717c915d0f2721b201"
+  },
+  "history": []
+}

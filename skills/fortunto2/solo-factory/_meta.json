@@ -1,0 +1,17 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-factory",
+  "displayName": "Factory",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771711581156,
+    "commit": "https://github.com/openclaw/skills/commit/3736d3de4eb8783b6a5a0cd611828c977a2f6eb0"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771584125481,
+      "commit": "https://github.com/openclaw/skills/commit/795c8c2e0f340366de5810382c61d655f754bcf8"
+    }
+  ]
+}

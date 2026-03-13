@@ -1,0 +1,11 @@
+{
+  "owner": "nicolas-m-design",
+  "slug": "wcag-21-aa-web-ui-audit",
+  "displayName": "WCAG 2.1 AA Web UI Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772643800660,
+    "commit": "https://github.com/openclaw/skills/commit/22c662d03e3247c1fbaab0dfee11c61464544bc0"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "kandler3",
+  "slug": "yandex-tracker",
+  "displayName": "Yandex Tracker",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771966506714,
+    "commit": "https://github.com/openclaw/skills/commit/e8182c3b57c1815b0512503173f7955e34b3efca"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "dougbutdorf",
+  "slug": "taxclaw",
+  "displayName": "TaxClaw",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771827990936,
+    "commit": "https://github.com/openclaw/skills/commit/3537d6399c3ee9de13be10c4427d4f40625f25ad"
+  },
+  "history": []
+}

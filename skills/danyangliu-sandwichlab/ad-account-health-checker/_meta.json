@@ -1,0 +1,11 @@
+{
+  "owner": "danyangliu-sandwichlab",
+  "slug": "ad-account-health-checker",
+  "displayName": "Ads Account Health",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772498737909,
+    "commit": "https://github.com/openclaw/skills/commit/14b0a7d39c5a61e6947b7796e86576652d05e671"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-ai-tech",
+  "slug": "fgo-invoicing",
+  "displayName": "FGO Invoicing",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772198423213,
+    "commit": "https://github.com/openclaw/skills/commit/ade3b5fdfadec13d40ef8392ee227f642bc433cb"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "macksmind",
+  "slug": "imprettyamazing",
+  "displayName": "I'm Pretty Amazing",
+  "latest": {
+    "version": "0.2.4",
+    "publishedAt": 1771730783477,
+    "commit": "https://github.com/openclaw/skills/commit/9f4e070996f1dffdd0b4ce2656c0fb1f7e49aa5f"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771475051079,
+      "commit": "https://github.com/openclaw/skills/commit/d4302b3c24782cd08c9bbe205d27d05441a6b857"
+    }
+  ]
+}

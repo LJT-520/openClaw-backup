@@ -1,0 +1,11 @@
+{
+  "owner": "haroexplorium",
+  "slug": "explorium-lead-enrichment",
+  "displayName": "lead-contact-enrichment-agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772264433823,
+    "commit": "https://github.com/openclaw/skills/commit/0818f876c4e3b09653e80c2274c15535eb178a7f"
+  },
+  "history": []
+}

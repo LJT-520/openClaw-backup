@@ -1,0 +1,11 @@
+{
+  "owner": "arbuge",
+  "slug": "coupons",
+  "displayName": "Online shopping coupons and deals",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771522086241,
+    "commit": "https://github.com/openclaw/skills/commit/df54c24911db9e12049d24f34261eaec66788537"
+  },
+  "history": []
+}

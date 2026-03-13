@@ -1,0 +1,11 @@
+{
+  "owner": "miguelguerra200022-sudo",
+  "slug": "api-gateway-zito",
+  "displayName": "Api Gateway",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772275780778,
+    "commit": "https://github.com/openclaw/skills/commit/8fa0f2d47de488e39da7e53d5e9b754ddcff8fea"
+  },
+  "history": []
+}

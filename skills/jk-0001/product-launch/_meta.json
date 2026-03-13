@@ -1,0 +1,11 @@
+{
+  "owner": "jk-0001",
+  "slug": "product-launch",
+  "displayName": "Product Launch",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771613632917,
+    "commit": "https://github.com/openclaw/skills/commit/136e78692e66f4a33b3d52bcc4fb82f868fb0d73"
+  },
+  "history": []
+}

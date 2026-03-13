@@ -1,0 +1,11 @@
+{
+  "owner": "danyangliu-sandwichlab",
+  "slug": "ads-data-query-assistant",
+  "displayName": "Ads Data Query",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772498885784,
+    "commit": "https://github.com/openclaw/skills/commit/6b045dc687eb9cde08e1e5d7be86cc13a209cede"
+  },
+  "history": []
+}

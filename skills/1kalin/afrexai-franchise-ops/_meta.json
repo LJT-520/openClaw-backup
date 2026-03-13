@@ -1,0 +1,17 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-franchise-ops",
+  "displayName": "Franchise Operations Analyzer",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771960432728,
+    "commit": "https://github.com/openclaw/skills/commit/9f84e3f378df34a9340cc283990e253c0bf4ec68"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771697767762,
+      "commit": "https://github.com/openclaw/skills/commit/9f9bb506591163ec9cf2941abfe5530096d5054e"
+    }
+  ]
+}

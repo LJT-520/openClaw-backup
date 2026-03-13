@@ -1,0 +1,11 @@
+{
+  "owner": "liuhean2021",
+  "slug": "oss-upload-online-access",
+  "displayName": "Aliyun OSS or Tencent COS oss upload online access",
+  "latest": {
+    "version": "1.6.0",
+    "publishedAt": 1772016111232,
+    "commit": "https://github.com/openclaw/skills/commit/9c66ac02fd1d72770ec15befb776a1159503cc58"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "krisyejh",
+  "slug": "bailian-knowledge-retrieve",
+  "displayName": "Bailian KnowledgeBase Retrieve",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771943632508,
+    "commit": "https://github.com/openclaw/skills/commit/742cb586fb4d5086b8b43887b080d8d9ffd34829"
+  },
+  "history": []
+}

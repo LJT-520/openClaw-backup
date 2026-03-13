@@ -1,0 +1,13 @@
+{
+  "name": "@botlearn/botlearn-certify",
+  "version": "1.0.0",
+  "description": "OpenClaw Agent education certification system",
+  "main": "SKILL.md",
+  "keywords": [
+    "botlearn",
+    "openclaw",
+    "certification",
+    "assessment"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "madsmith",
+  "slug": "wekan-openclaw-skill",
+  "displayName": "Wekan",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1771722322625,
+    "commit": "https://github.com/openclaw/skills/commit/45e3ab3a0df74f6e1e73473ba5f41b3bbd200543"
+  },
+  "history": []
+}

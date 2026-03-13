@@ -1,0 +1,11 @@
+{
+  "owner": "lxnan",
+  "slug": "clash-vpn",
+  "displayName": "Clash VPN",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772533529182,
+    "commit": "https://github.com/openclaw/skills/commit/776d99971fc8e905ce55824a04e403b65cd58516"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "oadp-beacon",
+  "displayName": "OADP Beacon",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772383019619,
+    "commit": "https://github.com/openclaw/skills/commit/cf5cb1bf799387b7eecf1cee582edae9acfb2ea4"
+  },
+  "history": []
+}

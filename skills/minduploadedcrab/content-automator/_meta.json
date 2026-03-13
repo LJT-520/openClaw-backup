@@ -1,0 +1,11 @@
+{
+  "owner": "minduploadedcrab",
+  "slug": "content-automator",
+  "displayName": "Content Automator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771533602516,
+    "commit": "https://github.com/openclaw/skills/commit/4fe0251f688570c8ebc8104282b1c9742dd27cf4"
+  },
+  "history": []
+}

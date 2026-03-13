@@ -1,0 +1,11 @@
+{
+  "owner": "danielglh",
+  "slug": "claw-soul-backup",
+  "displayName": "Claw Soul Backup",
+  "latest": {
+    "version": "0.1.8",
+    "publishedAt": 1772275889648,
+    "commit": "https://github.com/openclaw/skills/commit/11fdf8cf853b08dddb8b7d96acbc66536edd8963"
+  },
+  "history": []
+}

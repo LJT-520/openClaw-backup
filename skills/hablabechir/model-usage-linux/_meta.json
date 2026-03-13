@@ -1,0 +1,11 @@
+{
+  "owner": "hablabechir",
+  "slug": "model-usage-linux",
+  "displayName": "Model Usage Linux",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772057819170,
+    "commit": "https://github.com/openclaw/skills/commit/4f0b855869d27dccc8053d9af54bc5f50978f5f2"
+  },
+  "history": []
+}

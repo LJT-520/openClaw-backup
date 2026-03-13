@@ -1,0 +1,11 @@
+{
+  "owner": "honeybee1130",
+  "slug": "clickbait-engine",
+  "displayName": "Clickbait Engine",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771918983974,
+    "commit": "https://github.com/openclaw/skills/commit/949e1d40e2a9146b2aa9d46ecfd3570f86a57263"
+  },
+  "history": []
+}

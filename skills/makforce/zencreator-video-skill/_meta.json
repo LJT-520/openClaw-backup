@@ -1,0 +1,11 @@
+{
+  "owner": "makforce",
+  "slug": "zencreator-video-skill",
+  "displayName": "Zencreator Video.Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771795790599,
+    "commit": "https://github.com/openclaw/skills/commit/b4cb27c571db0cd3d541770e3134b21d0fa575ba"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "gatsby047-oss",
+  "slug": "http-retry-c",
+  "displayName": "HTTP Retry - HTTP 重试机制",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772497521582,
+    "commit": "https://github.com/openclaw/skills/commit/2f13b4a65f8eda0b3d0a9701b80da61b35467bed"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "dreamwing",
+  "slug": "clawbridge",
+  "displayName": "ClawBridge",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772088700625,
+    "commit": "https://github.com/openclaw/skills/commit/66765ba6282e711ab241d944b51eb8c16436b941"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771943720017,
+      "commit": "https://github.com/openclaw/skills/commit/609f3f51103ee03d52dfdb2fbc7feb9544f07219"
+    }
+  ]
+}

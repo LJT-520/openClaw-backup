@@ -1,0 +1,11 @@
+{
+  "owner": "binggg",
+  "slug": "setup-cloudbase-openclaw",
+  "displayName": "Setup CloudBase for OpenClaw",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772012930173,
+    "commit": "https://github.com/openclaw/skills/commit/87b4018dffe1b9eae81f92c9e03c858bd1030bd6"
+  },
+  "history": []
+}

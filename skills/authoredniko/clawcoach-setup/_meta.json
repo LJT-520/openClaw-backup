@@ -1,0 +1,17 @@
+{
+  "owner": "authoredniko",
+  "slug": "clawcoach-setup",
+  "displayName": "ClawCoach Setup",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771860509340,
+    "commit": "https://github.com/openclaw/skills/commit/020c0132250dae9787b04222edc1f8478b059e10"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771800268056,
+      "commit": "https://github.com/openclaw/skills/commit/c8545da8181e116dae6b2b07f55974b2f81105d2"
+    }
+  ]
+}

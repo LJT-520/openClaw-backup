@@ -1,0 +1,11 @@
+{
+  "owner": "matthew77",
+  "slug": "liang-tavily-extract",
+  "displayName": "Tavily Extract",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772418891847,
+    "commit": "https://github.com/openclaw/skills/commit/db358a45a26b316c4a8f95a44e59294ace8e9d24"
+  },
+  "history": []
+}

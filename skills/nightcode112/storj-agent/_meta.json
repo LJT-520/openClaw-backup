@@ -1,0 +1,11 @@
+{
+  "owner": "nightcode112",
+  "slug": "storj-agent",
+  "displayName": "StorJ Agent",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771986576371,
+    "commit": "https://github.com/openclaw/skills/commit/9560aa7426d95afc930c53478bfcdebb737075c0"
+  },
+  "history": []
+}

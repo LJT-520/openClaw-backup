@@ -1,0 +1,11 @@
+{
+  "owner": "koren-source",
+  "slug": "youtube-skillforge",
+  "displayName": "YouTube SkillForge",
+  "latest": {
+    "version": "4.1.2",
+    "publishedAt": 1772581841534,
+    "commit": "https://github.com/openclaw/skills/commit/a2a0b3187658a50d470ad5e23b1ea15c411c2f4e"
+  },
+  "history": []
+}

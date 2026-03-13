@@ -1,0 +1,27 @@
+{
+  "owner": "emilfattakhov",
+  "slug": "auto-drive",
+  "displayName": "auto-drive",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772215994657,
+    "commit": "https://github.com/openclaw/skills/commit/3a9f35149f35a42d47e9a90b73d9b5742cb3fd74"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772030585849,
+      "commit": "https://github.com/openclaw/skills/commit/d77b591710a79786089cbe99d0109529a9db9a9e"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771610260076,
+      "commit": "https://github.com/openclaw/skills/commit/6c5c87304caafd1a94206702f03259e8ef9c8f44"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771452860454,
+      "commit": "https://github.com/openclaw/skills/commit/06bbcc94677135dbc56f0e767f399e9c38444bdd"
+    }
+  ]
+}

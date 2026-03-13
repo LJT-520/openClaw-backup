@@ -1,0 +1,11 @@
+{
+  "owner": "mikipalet",
+  "slug": "late-cli",
+  "displayName": "Late CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772459300427,
+    "commit": "https://github.com/openclaw/skills/commit/f4e432d7cf10646076f3a74a67732a089ee8ace1"
+  },
+  "history": []
+}

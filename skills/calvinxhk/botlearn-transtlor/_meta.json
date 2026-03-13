@@ -1,0 +1,11 @@
+{
+  "owner": "calvinxhk",
+  "slug": "botlearn-transtlor",
+  "displayName": "translator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772364415860,
+    "commit": "https://github.com/openclaw/skills/commit/fb03fa0a5924d18545fdaba8a29d05d14868f0fd"
+  },
+  "history": []
+}

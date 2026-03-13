@@ -1,0 +1,17 @@
+{
+  "owner": "glitch003",
+  "slug": "vincent-trade-manager",
+  "displayName": "Vincent - Trade Manager",
+  "latest": {
+    "version": "1.0.58",
+    "publishedAt": 1771918503333,
+    "commit": "https://github.com/openclaw/skills/commit/66be4985382c87f49c31e0d9742dfbd9ab16c8cb"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771878457174,
+      "commit": "https://github.com/openclaw/skills/commit/a5e3dca9f7799d0149f9c4a6add00e5046f2d8f8"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "angelstreet",
+  "slug": "ranking-of-claws",
+  "displayName": "Ranking of Claws",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772324753572,
+    "commit": "https://github.com/openclaw/skills/commit/1f933f85cd258ca44ceca5ab786ae0c80fe5441d"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772302186036,
+      "commit": "https://github.com/openclaw/skills/commit/e81512714764a317c0ea0c034460289a95ed2930"
+    }
+  ]
+}

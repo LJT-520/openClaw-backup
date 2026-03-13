@@ -1,0 +1,11 @@
+{
+  "owner": "2426758093",
+  "slug": "feishu-message-fallback",
+  "displayName": "Feishu Message Fallback",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772520612807,
+    "commit": "https://github.com/openclaw/skills/commit/28bb77e589a437608c3f601786e7b999fb9d8c92"
+  },
+  "history": []
+}

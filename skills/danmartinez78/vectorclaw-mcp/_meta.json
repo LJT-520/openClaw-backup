@@ -1,0 +1,11 @@
+{
+  "owner": "danmartinez78",
+  "slug": "vectorclaw-mcp",
+  "displayName": "VectorClaw MCP",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772389518774,
+    "commit": "https://github.com/openclaw/skills/commit/4919e1b6a617725933053c968d8c3207c0899fcd"
+  },
+  "history": []
+}

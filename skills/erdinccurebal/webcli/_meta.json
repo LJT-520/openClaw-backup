@@ -1,0 +1,17 @@
+{
+  "owner": "erdinccurebal",
+  "slug": "webcli",
+  "displayName": "webcli",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1771836185085,
+    "commit": "https://github.com/openclaw/skills/commit/e122a91a1b8bb67a5cf7ecb63cad95cb11710c0b"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771792278935,
+      "commit": "https://github.com/openclaw/skills/commit/d3d1f57a91d0fe3512940bdc551ad7de8d39c69f"
+    }
+  ]
+}

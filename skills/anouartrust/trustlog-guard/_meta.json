@@ -1,0 +1,11 @@
+{
+  "owner": "anouartrust",
+  "slug": "trustlog-guard",
+  "displayName": "TrustLog Guard",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771887710090,
+    "commit": "https://github.com/openclaw/skills/commit/3c1f7034db0b08ce61fbf00dcc20bd8c9bf59b1f"
+  },
+  "history": []
+}

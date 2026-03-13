@@ -1,0 +1,11 @@
+{
+  "owner": "chengzeyi",
+  "slug": "wavespeed-minimax-speech-26",
+  "displayName": "WaveSpeedAI MiniMax Speech 2.6 TTS",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772522892456,
+    "commit": "https://github.com/openclaw/skills/commit/1b7ba690666a6e169547de33382ffab57afbd015"
+  },
+  "history": []
+}

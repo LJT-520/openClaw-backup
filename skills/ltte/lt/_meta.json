@@ -1,0 +1,11 @@
+{
+  "owner": "ltte",
+  "slug": "lt",
+  "displayName": "lt",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772247621847,
+    "commit": "https://github.com/openclaw/skills/commit/0b2286063e9dbfd4d18c7c71b356879c8304beb3"
+  },
+  "history": []
+}

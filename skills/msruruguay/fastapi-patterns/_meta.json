@@ -1,0 +1,11 @@
+{
+  "owner": "msruruguay",
+  "slug": "fastapi-patterns",
+  "displayName": "FastAPI Production Patterns",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772637128276,
+    "commit": "https://github.com/openclaw/skills/commit/274437a141a80b40c27dadd7a51079854336ea92"
+  },
+  "history": []
+}

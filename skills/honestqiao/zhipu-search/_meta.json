@@ -1,0 +1,11 @@
+{
+  "owner": "honestqiao",
+  "slug": "zhipu-search",
+  "displayName": "Zhipu Search",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1771693207571,
+    "commit": "https://github.com/openclaw/skills/commit/af3a06cce6bfff6b6d9d31d76999b7aa2b81e122"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ericjbone",
+  "slug": "baserow",
+  "displayName": "Baserow",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772380843162,
+    "commit": "https://github.com/openclaw/skills/commit/f53b71d03ca12e05f9f312f034235b8895cc14ee"
+  },
+  "history": []
+}

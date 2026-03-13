@@ -1,0 +1,11 @@
+{
+  "owner": "harperbot",
+  "slug": "surf-query",
+  "displayName": "Surf Query",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772610311048,
+    "commit": "https://github.com/openclaw/skills/commit/3f91d51f7e0129a2bfbfe75716648b07873a838d"
+  },
+  "history": []
+}

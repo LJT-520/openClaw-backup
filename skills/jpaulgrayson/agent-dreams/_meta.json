@@ -1,0 +1,11 @@
+{
+  "owner": "jpaulgrayson",
+  "slug": "agent-dreams",
+  "displayName": "Agent Dreams",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772147416903,
+    "commit": "https://github.com/openclaw/skills/commit/8ea788d5db3e27b7350c97dffc57adacce426ac3"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "emzod",
+  "slug": "speakturbo-tts",
+  "displayName": "Speak Turbo - Talk to your Claude 90ms latency!",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1771673322379,
+    "commit": "https://github.com/openclaw/skills/commit/fc4e5bcc1ac672f26307078830ea209d86433e62"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "kirorab",
+  "slug": "serpapi-flights",
+  "displayName": "SerpApi Flights (Google Flights)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771831291891,
+    "commit": "https://github.com/openclaw/skills/commit/94d9e670409b94037232697f98be1bab7536ed81"
+  },
+  "history": []
+}

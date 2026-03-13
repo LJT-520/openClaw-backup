@@ -1,0 +1,11 @@
+{
+  "owner": "menopeter",
+  "slug": "google-lyria-integration",
+  "displayName": "Lyria",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772590406783,
+    "commit": "https://github.com/openclaw/skills/commit/6c466dd559c058f419eb6b9f7cabdfd6b4a08a4c"
+  },
+  "history": []
+}

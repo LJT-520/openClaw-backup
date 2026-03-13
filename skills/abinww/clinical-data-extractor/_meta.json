@@ -1,0 +1,11 @@
+{
+  "owner": "abinww",
+  "slug": "clinical-data-extractor",
+  "displayName": "Clinical Data Extractor",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772030895802,
+    "commit": "https://github.com/openclaw/skills/commit/d26b202f25b2aff74da9f44a286c7218dc5aa31b"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "clarezoe",
+  "slug": "ai-csuite",
+  "displayName": "AI C-Suite",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1772129961655,
+    "commit": "https://github.com/openclaw/skills/commit/0649bef05670e9dead62b7cda739a43e58f59ad6"
+  },
+  "history": []
+}

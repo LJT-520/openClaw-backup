@@ -1,0 +1,11 @@
+{
+  "owner": "frank-bot07",
+  "slug": "model-switchboard",
+  "displayName": "Model Switchboard",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1772067280160,
+    "commit": "https://github.com/openclaw/skills/commit/c2e8c825cfb4308a39e14d196ffa855839f152e9"
+  },
+  "history": []
+}

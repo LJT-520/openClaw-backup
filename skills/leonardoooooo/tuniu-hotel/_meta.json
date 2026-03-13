@@ -1,0 +1,22 @@
+{
+  "owner": "leonardoooooo",
+  "slug": "tuniu-hotel",
+  "displayName": "途牛酒店预订技能",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772246055434,
+    "commit": "https://github.com/openclaw/skills/commit/1ad61e3301d10702500e28c6b5d14a51a5b5a6dd"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770952932618,
+      "commit": "https://github.com/openclaw/skills/commit/82df89143ace138595240cf0b7033b883c295d42"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770806756923,
+      "commit": "https://github.com/openclaw/skills/commit/46fa80616d104dce6b5755bcd3633e7cef72fbf1"
+    }
+  ]
+}

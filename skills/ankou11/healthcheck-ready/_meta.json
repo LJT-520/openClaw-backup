@@ -1,0 +1,11 @@
+{
+  "owner": "ankou11",
+  "slug": "healthcheck-ready",
+  "displayName": "Healthcheck Ready",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771716205207,
+    "commit": "https://github.com/openclaw/skills/commit/82fe32bf1f41e84fd5ed7de9134e7769e594f498"
+  },
+  "history": []
+}

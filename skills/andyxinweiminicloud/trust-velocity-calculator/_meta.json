@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "trust-velocity-calculator",
+  "displayName": "Trust Velocity Calculator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771752393638,
+    "commit": "https://github.com/openclaw/skills/commit/a1175551b7df4cb8507288ce957b751b66556f5b"
+  },
+  "history": []
+}

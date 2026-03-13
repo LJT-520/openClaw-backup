@@ -1,0 +1,11 @@
+{
+  "owner": "laogiant",
+  "slug": "ellya",
+  "displayName": "Ellya--Your Virtual Companion",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771680059913,
+    "commit": "https://github.com/openclaw/skills/commit/e502993c3353982dbce0cfdf1cdbf21dd4826dd7"
+  },
+  "history": []
+}

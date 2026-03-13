@@ -1,0 +1,11 @@
+{
+  "owner": "hooila",
+  "slug": "rss-aggregator",
+  "displayName": "Rss Aggregator",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772095431984,
+    "commit": "https://github.com/openclaw/skills/commit/978edb8350d4b42fc3eb7f9e95fbf9c5db6da693"
+  },
+  "history": []
+}

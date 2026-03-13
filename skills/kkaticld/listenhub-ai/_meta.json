@@ -1,0 +1,11 @@
+{
+  "owner": "kkaticld",
+  "slug": "listenhub-ai",
+  "displayName": "ListenHub",
+  "latest": {
+    "version": "0.6.0",
+    "publishedAt": 1772330875509,
+    "commit": "https://github.com/openclaw/skills/commit/a94f08a31993a577e61ce88360b0953a4a09ce35"
+  },
+  "history": []
+}

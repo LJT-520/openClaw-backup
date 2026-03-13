@@ -1,0 +1,11 @@
+{
+  "owner": "bro3886",
+  "slug": "healthsync",
+  "displayName": "healthsync",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772286433013,
+    "commit": "https://github.com/openclaw/skills/commit/981d5644e9d4fdca4886030ebc68158853d925ff"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "guoqunabc",
+  "slug": "gateway-watchdog",
+  "displayName": "Gateway Watchdog",
+  "latest": {
+    "version": "1.4.0",
+    "publishedAt": 1772210856793,
+    "commit": "https://github.com/openclaw/skills/commit/4a8a6a492e360fa9ceeb6aad90c2319acb2a359e"
+  },
+  "history": []
+}

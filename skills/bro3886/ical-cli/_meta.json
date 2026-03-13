@@ -1,0 +1,11 @@
+{
+  "owner": "bro3886",
+  "slug": "ical-cli",
+  "displayName": "ical",
+  "latest": {
+    "version": "0.6.0",
+    "publishedAt": 1772283498444,
+    "commit": "https://github.com/openclaw/skills/commit/781a804a4d16c3fefd339006465855d368fc1300"
+  },
+  "history": []
+}

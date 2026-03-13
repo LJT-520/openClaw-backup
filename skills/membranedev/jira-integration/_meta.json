@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "jira-integration",
+  "displayName": "Jira",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772585097756,
+    "commit": "https://github.com/openclaw/skills/commit/b58134314bc4fbdaa68ab4dfc7baf8aba34864cf"
+  },
+  "history": []
+}

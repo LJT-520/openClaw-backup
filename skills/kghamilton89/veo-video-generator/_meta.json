@@ -1,0 +1,17 @@
+{
+  "owner": "kghamilton89",
+  "slug": "veo-video-generator",
+  "displayName": "Veo Video Generator",
+  "latest": {
+    "version": "1.2.2",
+    "publishedAt": 1772077285392,
+    "commit": "https://github.com/openclaw/skills/commit/261666f0eae30435aa3c189e5d4ea85d38f05633"
+  },
+  "history": [
+    {
+      "version": "1.1.1",
+      "publishedAt": 1771382392156,
+      "commit": "https://github.com/openclaw/skills/commit/b9bebf094c34f1a296ab0ac9322e525b55f5a460"
+    }
+  ]
+}

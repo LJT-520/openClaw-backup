@@ -1,0 +1,11 @@
+{
+  "owner": "leegodamn",
+  "slug": "kim-msg-account",
+  "displayName": "Kim Msg Account Skill",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772459280967,
+    "commit": "https://github.com/openclaw/skills/commit/90ad5e4e158c7d8b7a9fe02e5a2552df6a961363"
+  },
+  "history": []
+}

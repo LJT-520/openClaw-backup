@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-gl",
+  "displayName": "ERPClaw-GL",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772115013603,
+    "commit": "https://github.com/openclaw/skills/commit/be7c9ecdf03a2f4435d339f0bb648474698105e9"
+  },
+  "history": []
+}

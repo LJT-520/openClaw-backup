@@ -1,0 +1,17 @@
+{
+  "owner": "mangonob",
+  "slug": "skills-weather",
+  "displayName": "skills-weather",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772610340819,
+    "commit": "https://github.com/openclaw/skills/commit/087e2856c7911e542ff299362515e2dded00e834"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772609841064,
+      "commit": "https://github.com/openclaw/skills/commit/866c8b8187db65876d9f3f92a71f2fd120e3f5d5"
+    }
+  ]
+}

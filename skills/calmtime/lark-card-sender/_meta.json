@@ -1,0 +1,11 @@
+{
+  "owner": "calmtime",
+  "slug": "lark-card-sender",
+  "displayName": "飞书卡片消息",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772266812604,
+    "commit": "https://github.com/openclaw/skills/commit/b2f0a9938b02baa4c41b3c7ab1208ab174e39b2c"
+  },
+  "history": []
+}

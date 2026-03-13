@@ -1,0 +1,11 @@
+{
+  "owner": "jolestar",
+  "slug": "context7-mcp-skill",
+  "displayName": "Context7 MCP Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772551541059,
+    "commit": "https://github.com/openclaw/skills/commit/dc8bfdec81ec28838764a604e0b699dfef9088b1"
+  },
+  "history": []
+}

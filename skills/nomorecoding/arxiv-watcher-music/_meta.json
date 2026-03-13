@@ -1,0 +1,11 @@
+{
+  "owner": "nomorecoding",
+  "slug": "arxiv-watcher-music",
+  "displayName": "ArXiv Watcher for Music Research",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772285526590,
+    "commit": "https://github.com/openclaw/skills/commit/eb434fdc7f2c8217320b037c9082e5b9a5221787"
+  },
+  "history": []
+}

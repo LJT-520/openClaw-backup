@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "database-manager",
+  "displayName": "Database Manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772451923056,
+    "commit": "https://github.com/openclaw/skills/commit/053058a4edc8e65b06b32980fa2466bb08bb1994"
+  },
+  "history": []
+}

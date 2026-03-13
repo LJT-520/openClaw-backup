@@ -1,0 +1,17 @@
+{
+  "owner": "lemodigital",
+  "slug": "agent-casino",
+  "displayName": "Agent Casino",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772212934641,
+    "commit": "https://github.com/openclaw/skills/commit/50dd5f5ac7d4f11eadfd8a7589edb1d05d415956"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771606538136,
+      "commit": "https://github.com/openclaw/skills/commit/71ff6e6688d924e49758b04f4be430e3625fef72"
+    }
+  ]
+}

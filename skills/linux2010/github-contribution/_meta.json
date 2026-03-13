@@ -1,0 +1,17 @@
+{
+  "owner": "linux2010",
+  "slug": "github-contribution",
+  "displayName": "GitHub Contribution",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772547347661,
+    "commit": "https://github.com/openclaw/skills/commit/3a3abf10275c55c86e00ee24aa351fa4b69b89fb"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772432462845,
+      "commit": "https://github.com/openclaw/skills/commit/00294acd3f8ceaf90af4741ec907a291f084fe3b"
+    }
+  ]
+}

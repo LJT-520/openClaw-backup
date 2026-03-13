@@ -1,0 +1,11 @@
+{
+  "owner": "mevdragon",
+  "slug": "officex",
+  "displayName": "OfficeX",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771922080244,
+    "commit": "https://github.com/openclaw/skills/commit/eface4307ef50585cc6dc0357f2a5b870bb39e21"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "nikolaybohdanov",
+  "slug": "twitterscore",
+  "displayName": "TwitterScore",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771702427571,
+    "commit": "https://github.com/openclaw/skills/commit/bc4d6627c84a5d1a884071d5557a6e329235dd1d"
+  },
+  "history": []
+}

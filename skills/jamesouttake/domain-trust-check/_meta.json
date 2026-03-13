@@ -1,0 +1,17 @@
+{
+  "owner": "jamesouttake",
+  "slug": "domain-trust-check",
+  "displayName": "Domain Trust Check",
+  "latest": {
+    "version": "1.2.2",
+    "publishedAt": 1772561148917,
+    "commit": "https://github.com/openclaw/skills/commit/0d456f7863b9fe96b1dced366c2a1d86eb6a8781"
+  },
+  "history": [
+    {
+      "version": "1.2.1",
+      "publishedAt": 1772229160174,
+      "commit": "https://github.com/openclaw/skills/commit/8253dbab324b99136922604d591ed1363b3ae1af"
+    }
+  ]
+}

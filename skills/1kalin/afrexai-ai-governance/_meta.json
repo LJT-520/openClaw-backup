@@ -1,0 +1,17 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-ai-governance",
+  "displayName": "AI Governance Policy Builder",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771715668963,
+    "commit": "https://github.com/openclaw/skills/commit/84442aad70b324e10119db77bdb0c3c197772500"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771611941589,
+      "commit": "https://github.com/openclaw/skills/commit/b40ecc0e9a49550bdadea67d48eb7bde3b919140"
+    }
+  ]
+}

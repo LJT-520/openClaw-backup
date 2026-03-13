@@ -1,0 +1,11 @@
+{
+  "owner": "balkanblbn",
+  "slug": "rejection-logger",
+  "displayName": "Rejection Logger",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772247434185,
+    "commit": "https://github.com/openclaw/skills/commit/e0c5dea6aca85bfc6291c701c1c0b85c80b2b670"
+  },
+  "history": []
+}

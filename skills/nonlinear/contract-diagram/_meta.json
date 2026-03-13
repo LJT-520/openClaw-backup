@@ -1,0 +1,11 @@
+{
+  "owner": "nonlinear",
+  "slug": "contract-diagram",
+  "displayName": "contract diagram",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771817159790,
+    "commit": "https://github.com/openclaw/skills/commit/23ef00296ab112a7469206b8a4affecc8016154b"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mengwuzhi",
+  "slug": "create-openclaw-agent",
+  "displayName": "Create Agent",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772274223750,
+    "commit": "https://github.com/openclaw/skills/commit/9549aeb30b0fcc7fc38f8ce70bfce98b319186aa"
+  },
+  "history": []
+}

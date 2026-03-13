@@ -1,0 +1,11 @@
+{
+  "owner": "nosytlabs",
+  "slug": "decentralized-search",
+  "displayName": "presearch",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771541603355,
+    "commit": "https://github.com/openclaw/skills/commit/1c37f4f2741244e44f642755c97c53099c6a2988"
+  },
+  "history": []
+}

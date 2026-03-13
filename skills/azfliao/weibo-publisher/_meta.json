@@ -1,0 +1,11 @@
+{
+  "owner": "azfliao",
+  "slug": "weibo-publisher",
+  "displayName": "Weibo Publisher",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772435820780,
+    "commit": "https://github.com/openclaw/skills/commit/a68bb106b76f3a1b135230827704d921000b4b49"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "lcajigasm",
+  "slug": "openrouter-usage-info",
+  "displayName": "Openrouter Usage",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772097486392,
+    "commit": "https://github.com/openclaw/skills/commit/c6b36d74dec2f70846cb67bd0f0bce4fc57d6b1e"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "ndtchan",
+  "slug": "us-macro-news-monitor",
+  "displayName": "Us Macro News Monitor",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771948705177,
+    "commit": "https://github.com/openclaw/skills/commit/108d14d5479807e392fff2592bda2d9619d3b4c2"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771841688824,
+      "commit": "https://github.com/openclaw/skills/commit/583ce78ebca2909c2bf5f0365d4c20dc26169d83"
+    }
+  ]
+}

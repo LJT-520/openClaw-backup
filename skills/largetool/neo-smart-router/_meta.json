@@ -1,0 +1,11 @@
+{
+  "owner": "largetool",
+  "slug": "neo-smart-router",
+  "displayName": "Neo Smart Router",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1771977866134,
+    "commit": "https://github.com/openclaw/skills/commit/a2e22868a0d2dd491c9b8c7b053665294af625c1"
+  },
+  "history": []
+}

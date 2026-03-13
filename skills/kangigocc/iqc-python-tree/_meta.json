@@ -1,0 +1,11 @@
+{
+  "owner": "kangigocc",
+  "slug": "iqc-python-tree",
+  "displayName": "工业化数据处理",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772608572465,
+    "commit": "https://github.com/openclaw/skills/commit/618fc838ae5be3bdb9c407ad4a6d2beef8357237"
+  },
+  "history": []
+}

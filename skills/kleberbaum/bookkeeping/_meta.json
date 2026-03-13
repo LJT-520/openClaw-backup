@@ -1,0 +1,11 @@
+{
+  "owner": "kleberbaum",
+  "slug": "bookkeeping",
+  "displayName": "bookkeeping",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771452813307,
+    "commit": "https://github.com/openclaw/skills/commit/41072e3d37a5b56f9583973429d347ca86eeabb7"
+  },
+  "history": []
+}

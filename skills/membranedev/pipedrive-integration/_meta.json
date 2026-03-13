@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "pipedrive-integration",
+  "displayName": "Pipedrive",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772585066511,
+    "commit": "https://github.com/openclaw/skills/commit/eeb1b564805deaaec31c11abb6214e104466697c"
+  },
+  "history": []
+}

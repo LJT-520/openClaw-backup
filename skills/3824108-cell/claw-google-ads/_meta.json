@@ -1,0 +1,11 @@
+{
+  "owner": "3824108-cell",
+  "slug": "claw-google-ads",
+  "displayName": "Google ads for OpenClaw",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772179851381,
+    "commit": "https://github.com/openclaw/skills/commit/77181cd0a7e665b77b833f0292b271e9bd42098a"
+  },
+  "history": []
+}

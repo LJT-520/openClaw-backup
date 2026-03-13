@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "lora-finetune",
+  "displayName": "Lora Finetune",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772393331848,
+    "commit": "https://github.com/openclaw/skills/commit/9ad71fae785e90273a191468fbdd4fb22c639452"
+  },
+  "history": []
+}

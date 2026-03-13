@@ -1,0 +1,11 @@
+{
+  "owner": "jonathangu",
+  "slug": "crabpath",
+  "displayName": "CrabPath",
+  "latest": {
+    "version": "11.2.1",
+    "publishedAt": 1772217216236,
+    "commit": "https://github.com/openclaw/skills/commit/4426b0cf421e5e4a27bb694e67c00b3e06d1b29d"
+  },
+  "history": []
+}

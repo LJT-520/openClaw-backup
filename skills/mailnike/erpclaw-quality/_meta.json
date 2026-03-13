@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-quality",
+  "displayName": "ERPClaw-Quality",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772129397130,
+    "commit": "https://github.com/openclaw/skills/commit/de654acf7a321bddbb07af1e3b8f47fcf3e1c15c"
+  },
+  "history": []
+}

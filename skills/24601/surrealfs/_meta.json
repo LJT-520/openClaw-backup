@@ -1,0 +1,22 @@
+{
+  "owner": "24601",
+  "slug": "surrealfs",
+  "displayName": "surrealfs",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772592542052,
+    "commit": "https://github.com/openclaw/skills/commit/556b10d476546ce5b4649afa999d80395eeec009"
+  },
+  "history": [
+    {
+      "version": "1.1.1",
+      "publishedAt": 1772212159652,
+      "commit": "https://github.com/openclaw/skills/commit/9a9b57658591777992d1fe5a8216207378edfef3"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771784951769,
+      "commit": "https://github.com/openclaw/skills/commit/0f8179d3c082b08620b1b8f11b82db73c842630f"
+    }
+  ]
+}

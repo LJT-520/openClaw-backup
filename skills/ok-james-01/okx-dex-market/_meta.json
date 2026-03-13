@@ -1,0 +1,11 @@
+{
+  "owner": "ok-james-01",
+  "slug": "okx-dex-market",
+  "displayName": "Okx Dex Market",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772534003542,
+    "commit": "https://github.com/openclaw/skills/commit/fb27018edef6a15129108d6e6a278b4e0e271052"
+  },
+  "history": []
+}

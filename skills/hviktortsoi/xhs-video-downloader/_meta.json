@@ -1,0 +1,11 @@
+{
+  "owner": "hviktortsoi",
+  "slug": "xhs-video-downloader",
+  "displayName": "XHS Video Downloader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772222723092,
+    "commit": "https://github.com/openclaw/skills/commit/3589d7fa03bfe41424c07113fb8de43a55f5cb0e"
+  },
+  "history": []
+}

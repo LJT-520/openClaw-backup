@@ -1,0 +1,17 @@
+{
+  "owner": "joe3112",
+  "slug": "smart-context",
+  "displayName": "Smart Context",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1771661793918,
+    "commit": "https://github.com/openclaw/skills/commit/e304ae7b8ae376ada552413388aa98fda5176951"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771602235984,
+      "commit": "https://github.com/openclaw/skills/commit/52c75f4a74e3ecabe5af860071b8d2bd07911c92"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "hostinger-vps-mcp-tools",
+  "displayName": "Hostinger VPS MCP Tools",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772404703176,
+    "commit": "https://github.com/openclaw/skills/commit/0dfa6a658596dc319f7e87ea125a9d5b9f4b6c4c"
+  },
+  "history": []
+}

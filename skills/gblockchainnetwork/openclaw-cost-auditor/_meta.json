@@ -1,0 +1,11 @@
+{
+  "owner": "gblockchainnetwork",
+  "slug": "openclaw-cost-auditor",
+  "displayName": "OpenClaw Cost Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771598509808,
+    "commit": "https://github.com/openclaw/skills/commit/566f5570e1952d989580220e5baec25e6d804435"
+  },
+  "history": []
+}

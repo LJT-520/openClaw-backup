@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-disaster-intel",
+  "displayName": "Natural Disaster Intel",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772183792742,
+    "commit": "https://github.com/openclaw/skills/commit/888807f81bf4220caa9dcab91a9a199bf9f47b4a"
+  },
+  "history": []
+}

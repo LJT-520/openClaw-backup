@@ -1,0 +1,11 @@
+{
+  "owner": "ok-james-01",
+  "slug": "okx-dex-token",
+  "displayName": "Okx Dex Token",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772534118284,
+    "commit": "https://github.com/openclaw/skills/commit/97a06245d08fc7db86366531454f676efeff6700"
+  },
+  "history": []
+}

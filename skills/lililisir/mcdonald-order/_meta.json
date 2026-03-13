@@ -1,0 +1,17 @@
+{
+  "owner": "lililisir",
+  "slug": "mcdonald-order",
+  "displayName": "麦当劳智能点餐助手",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772517080550,
+    "commit": "https://github.com/openclaw/skills/commit/e56863b4754dc04138445294bc709abbee51da80"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772095554308,
+      "commit": "https://github.com/openclaw/skills/commit/d31dac91ebcc9a1610e88368d277d2dd97240f79"
+    }
+  ]
+}

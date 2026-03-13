@@ -1,0 +1,11 @@
+{
+  "owner": "milab-bit",
+  "slug": "distribution-agent-publisher-pack",
+  "displayName": "Distribution Agent — Publisher Pack",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772581841398,
+    "commit": "https://github.com/openclaw/skills/commit/c6b8a59c5178491425fd0a016abe58634d8b272c"
+  },
+  "history": []
+}

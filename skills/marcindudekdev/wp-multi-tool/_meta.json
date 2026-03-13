@@ -1,0 +1,42 @@
+{
+  "owner": "marcindudekdev",
+  "slug": "wp-multi-tool",
+  "displayName": "WP Multitool",
+  "latest": {
+    "version": "1.1.18",
+    "publishedAt": 1772278358942,
+    "commit": "https://github.com/openclaw/skills/commit/c0d17c803026fb49d8cf93c5e298cc25a5972339"
+  },
+  "history": [
+    {
+      "version": "1.1.17",
+      "publishedAt": 1771939160082,
+      "commit": "https://github.com/openclaw/skills/commit/9ca75b29ac724fbe12da328d040a04b34aaa7610"
+    },
+    {
+      "version": "1.1.16",
+      "publishedAt": 1771199810165,
+      "commit": "https://github.com/openclaw/skills/commit/84b369335e1f522f106083db5a9df6d32d3e14d4"
+    },
+    {
+      "version": "1.1.14",
+      "publishedAt": 1771092231104,
+      "commit": "https://github.com/openclaw/skills/commit/4a1e79162c9f77fdb736c262af334f3b16b8d7fc"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1770833587087,
+      "commit": "https://github.com/openclaw/skills/commit/4276f49c05fbd6fbf99b76a3c30738b5f28a5df4"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1770385655949,
+      "commit": "https://github.com/openclaw/skills/commit/01de3d5086cc7c453029e237b22c1a04f79b3227"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770322535290,
+      "commit": "https://github.com/openclaw/skills/commit/3ca5456c98c28723d5b648016d362607c3abb4d4"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "dennisooki",
+  "slug": "trakt-readonly",
+  "displayName": "Trakt Read-only",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772135557767,
+    "commit": "https://github.com/openclaw/skills/commit/152a6f430c27b6a437254d814277dc0a472fd031"
+  },
+  "history": []
+}

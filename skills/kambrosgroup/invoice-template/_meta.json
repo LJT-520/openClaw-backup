@@ -1,0 +1,11 @@
+{
+  "owner": "kambrosgroup",
+  "slug": "invoice-template",
+  "displayName": "Invoice Template",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771814763663,
+    "commit": "https://github.com/openclaw/skills/commit/07a663bd91594d92767cb6e987907d4fe1f03196"
+  },
+  "history": []
+}

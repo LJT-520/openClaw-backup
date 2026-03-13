@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "invoice-generation",
+  "displayName": "Invoice Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772570307085,
+    "commit": "https://github.com/openclaw/skills/commit/9a3e2ad0761e504149ef0b0e51ab091c85022864"
+  },
+  "history": []
+}

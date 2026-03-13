@@ -1,0 +1,17 @@
+{
+  "owner": "obrezhniev",
+  "slug": "verified-agent-identity",
+  "displayName": "Verified Agent Identity",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1772537183523,
+    "commit": "https://github.com/openclaw/skills/commit/086d2126d74b00caf6b06ea9ef03c435b3253097"
+  },
+  "history": [
+    {
+      "version": "0.0.1",
+      "publishedAt": 1771602583716,
+      "commit": "https://github.com/openclaw/skills/commit/f330fc3751d2550f9335a410c3dbf09a39f14284"
+    }
+  ]
+}

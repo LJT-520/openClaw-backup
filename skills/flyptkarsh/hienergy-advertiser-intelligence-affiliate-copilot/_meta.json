@@ -1,0 +1,27 @@
+{
+  "owner": "flyptkarsh",
+  "slug": "hienergy-advertiser-intelligence-affiliate-copilot",
+  "displayName": "Hi Energy Advertiser Intelligence Affiliate Copilot",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772152579489,
+    "commit": "https://github.com/openclaw/skills/commit/00f922057276273f97723979f39198064c3c43df"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771892025999,
+      "commit": "https://github.com/openclaw/skills/commit/3110c420593e95f63fdab1241faf0779ec5749e5"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771787106362,
+      "commit": "https://github.com/openclaw/skills/commit/23d348dd4a07248541bb67c0fb57a4ef58454fc5"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771691725504,
+      "commit": "https://github.com/openclaw/skills/commit/47e28fd44359f42eaf004c4941fd63483a4f8b8a"
+    }
+  ]
+}

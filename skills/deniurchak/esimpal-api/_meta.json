@@ -1,0 +1,11 @@
+{
+  "owner": "deniurchak",
+  "slug": "esimpal-api",
+  "displayName": "eSIMPal API Skill",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772545857215,
+    "commit": "https://github.com/openclaw/skills/commit/d8a5eb60ed2bc4af0ce6ec4fcf1997c35596283d"
+  },
+  "history": []
+}

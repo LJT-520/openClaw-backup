@@ -1,0 +1,11 @@
+{
+  "owner": "ganlan0608",
+  "slug": "fund-report-processor",
+  "displayName": "Fund Report Processor",
+  "latest": {
+    "version": "3.1.1",
+    "publishedAt": 1771898673675,
+    "commit": "https://github.com/openclaw/skills/commit/ddc1b3becbf3d7295ecf4600cb94df9a2602d826"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "henryjing96",
+  "slug": "feishu-folder-summary",
+  "displayName": "飞书文档文件夹摘要生成器",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772180281885,
+    "commit": "https://github.com/openclaw/skills/commit/7735ccc233f824e8ca784343738a31431440203a"
+  },
+  "history": []
+}

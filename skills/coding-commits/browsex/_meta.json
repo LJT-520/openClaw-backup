@@ -1,0 +1,11 @@
+{
+  "owner": "coding-commits",
+  "slug": "browsex",
+  "displayName": "the skill to browse X",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772165482835,
+    "commit": "https://github.com/openclaw/skills/commit/ecabf9cd7a773a6a43ea1099d979d12073baba33"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "brightween",
+  "slug": "multi-task",
+  "displayName": "multi task",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280711564,
+    "commit": "https://github.com/openclaw/skills/commit/438859ce1d63824533e914db3c9d71bab615a900"
+  },
+  "history": []
+}

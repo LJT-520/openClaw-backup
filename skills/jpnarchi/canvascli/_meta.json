@@ -1,0 +1,11 @@
+{
+  "owner": "jpnarchi",
+  "slug": "canvascli",
+  "displayName": "CanvasCLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771892834802,
+    "commit": "https://github.com/openclaw/skills/commit/8f785ecca495d88769ffddc78c9b785ce76aa939"
+  },
+  "history": []
+}

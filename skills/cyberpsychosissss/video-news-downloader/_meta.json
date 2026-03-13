@@ -1,0 +1,11 @@
+{
+  "owner": "cyberpsychosissss",
+  "slug": "video-news-downloader",
+  "displayName": "Video News Downloader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771777808413,
+    "commit": "https://github.com/openclaw/skills/commit/84e2560ddf3f887b46a635a395e7bac9fc9bbb74"
+  },
+  "history": []
+}

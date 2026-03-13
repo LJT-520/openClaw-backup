@@ -1,0 +1,11 @@
+{
+  "owner": "flap-builder",
+  "slug": "flap-skills",
+  "displayName": "Flap Skills",
+  "latest": {
+    "version": "1.6.0",
+    "publishedAt": 1772655673586,
+    "commit": "https://github.com/openclaw/skills/commit/ffbdb57e5207b9ed0406d1b8a86987658c5022b2"
+  },
+  "history": []
+}

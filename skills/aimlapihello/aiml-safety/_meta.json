@@ -1,0 +1,11 @@
+{
+  "owner": "aimlapihello",
+  "slug": "aiml-safety",
+  "displayName": "AIML Сontent Moderation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772121655885,
+    "commit": "https://github.com/openclaw/skills/commit/160c1706954a26eb30ef00cbf8e1ae32ff19cc13"
+  },
+  "history": []
+}

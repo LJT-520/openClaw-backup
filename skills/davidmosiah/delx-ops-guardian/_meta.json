@@ -1,0 +1,11 @@
+{
+  "owner": "davidmosiah",
+  "slug": "delx-ops-guardian",
+  "displayName": "Delx Ops Guardian",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772110667101,
+    "commit": "https://github.com/openclaw/skills/commit/32e87c8bc734eccc44d189230dae0dec8ef33b8d"
+  },
+  "history": []
+}

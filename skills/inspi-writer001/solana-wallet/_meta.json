@@ -1,0 +1,11 @@
+{
+  "owner": "inspi-writer001",
+  "slug": "solana-wallet",
+  "displayName": "Solana + Polymarket + X Wallet Agent",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772662704358,
+    "commit": "https://github.com/openclaw/skills/commit/7131b87a026138b3743dfcf651b651dc64b5def7"
+  },
+  "history": []
+}

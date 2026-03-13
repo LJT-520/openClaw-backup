@@ -1,0 +1,27 @@
+{
+  "owner": "leegitw",
+  "slug": "patent-validator",
+  "displayName": "Patent Validator",
+  "latest": {
+    "version": "1.4.0",
+    "publishedAt": 1771829583720,
+    "commit": "https://github.com/openclaw/skills/commit/a81d70109844474df1be26138f63a79636b1f983"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771630385053,
+      "commit": "https://github.com/openclaw/skills/commit/4aa460bc53bc2d861121684e8150750072725b3b"
+    },
+    {
+      "version": "1.1.1",
+      "publishedAt": 1770708214435,
+      "commit": "https://github.com/openclaw/skills/commit/aaa8d167c0b626fc1adb09103901678e2708cc28"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1770195494980,
+      "commit": "https://github.com/clawdbot/skills/commit/08b26f1ac4816ccb3f824e7e7e4dba8e0e6965a2"
+    }
+  ]
+}

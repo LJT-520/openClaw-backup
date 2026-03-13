@@ -1,0 +1,11 @@
+{
+  "owner": "clowreed",
+  "slug": "website-generator",
+  "displayName": "B12 Website Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771928989912,
+    "commit": "https://github.com/openclaw/skills/commit/1f1e394faceae0999e016fc1481ff352caf71991"
+  },
+  "history": []
+}

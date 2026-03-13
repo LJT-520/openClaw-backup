@@ -1,0 +1,102 @@
+{
+  "owner": "glitch003",
+  "slug": "agentwallet",
+  "displayName": "Vincent - Wallet",
+  "latest": {
+    "version": "1.0.65",
+    "publishedAt": 1772491118131,
+    "commit": "https://github.com/openclaw/skills/commit/2f252f1b7391e27f61752a9b1b6df44e11107e28"
+  },
+  "history": [
+    {
+      "version": "1.0.62",
+      "publishedAt": 1772161149033,
+      "commit": "https://github.com/openclaw/skills/commit/55d15fec4fa42d822da6281a99057475388aba70"
+    },
+    {
+      "version": "1.0.60",
+      "publishedAt": 1771981695048,
+      "commit": "https://github.com/openclaw/skills/commit/e6b2d568a36684c7b6ae95ed4ddc27e5de33ccb3"
+    },
+    {
+      "version": "1.0.58",
+      "publishedAt": 1771917975236,
+      "commit": "https://github.com/openclaw/skills/commit/120bf65db102de1a46e3921debd9d0f377c3ced3"
+    },
+    {
+      "version": "1.0.54",
+      "publishedAt": 1771729815233,
+      "commit": "https://github.com/openclaw/skills/commit/08c735ce42fecb235dd5bbb45e9fad7972da88b2"
+    },
+    {
+      "version": "1.0.51",
+      "publishedAt": 1771705384106,
+      "commit": "https://github.com/openclaw/skills/commit/34fdbd04c1ed44cb9379fcd748851c827f1dffb3"
+    },
+    {
+      "version": "1.0.44",
+      "publishedAt": 1771541004680,
+      "commit": "https://github.com/openclaw/skills/commit/f66716c641e4a6ac3c9d5724b3df77ccaca5bccf"
+    },
+    {
+      "version": "1.0.43",
+      "publishedAt": 1771471330591,
+      "commit": "https://github.com/openclaw/skills/commit/050785bd779502abf3f4689da7383364de80a0a7"
+    },
+    {
+      "version": "1.0.38",
+      "publishedAt": 1771322765596,
+      "commit": "https://github.com/openclaw/skills/commit/fdd85a458d8125f0ebd0c00a06002d6e82c00ac4"
+    },
+    {
+      "version": "1.0.37",
+      "publishedAt": 1771196952735,
+      "commit": "https://github.com/openclaw/skills/commit/03b1916b2b2f50231a8c646a8607f565388169e4"
+    },
+    {
+      "version": "1.0.36",
+      "publishedAt": 1770777504026,
+      "commit": "https://github.com/openclaw/skills/commit/67421a2c3d46288a05a6da4a1f54f860c57f2f38"
+    },
+    {
+      "version": "1.0.31",
+      "publishedAt": 1770349727912,
+      "commit": "https://github.com/openclaw/skills/commit/394f5bd982a0505a0cca92ac7d0fd48d0d54f0ff"
+    },
+    {
+      "version": "1.0.28",
+      "publishedAt": 1770316012426,
+      "commit": "https://github.com/clawdbot/skills/commit/57c20b2a6735d5f748fc6a5c0fb1d64b7d98164c"
+    },
+    {
+      "version": "1.0.27",
+      "publishedAt": 1770259977390,
+      "commit": "https://github.com/clawdbot/skills/commit/3c7934249faf0254e86ee487fd59fecd622eeb80"
+    },
+    {
+      "version": "1.0.19",
+      "publishedAt": 1770170357991,
+      "commit": "https://github.com/clawdbot/skills/commit/e132e9d33a3d65f392933b551e57087e2d9eb968"
+    },
+    {
+      "version": "1.0.18",
+      "publishedAt": 1770079847023,
+      "commit": "https://github.com/clawdbot/skills/commit/37f573f092e49f9ce53835c78c17d0fa2b477da7"
+    },
+    {
+      "version": "1.0.12",
+      "publishedAt": 1769940250065,
+      "commit": "https://github.com/clawdbot/skills/commit/171cd76e01f13e8da6c7318faecc85b1017882c7"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1769851351532,
+      "commit": "https://github.com/clawdbot/skills/commit/078e066725e55e79fd592cd2a0e6df7cb85d58d4"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1769849819018,
+      "commit": "https://github.com/clawdbot/skills/commit/8c4366b5d0439c568389b51a3571d370032ce3b5"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "cancel-task",
+  "displayName": "Cancel Task",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772359980059,
+    "commit": "https://github.com/openclaw/skills/commit/20b5a823383c8eb27d4d5c1f203250bebf305317"
+  },
+  "history": []
+}

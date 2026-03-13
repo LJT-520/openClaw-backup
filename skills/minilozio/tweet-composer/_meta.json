@@ -1,0 +1,11 @@
+{
+  "owner": "minilozio",
+  "slug": "tweet-composer",
+  "displayName": "Tweet Composer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771951983628,
+    "commit": "https://github.com/openclaw/skills/commit/c47551d8353e574d8bb7fde1626b071e7480cda5"
+  },
+  "history": []
+}

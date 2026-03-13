@@ -1,0 +1,11 @@
+{
+  "owner": "geo-seo",
+  "slug": "geo-visual-opportunity-engine",
+  "displayName": "geo-visual-opportunity-engine",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772505459196,
+    "commit": "https://github.com/openclaw/skills/commit/cb15437415be768d231a0693d0930bdad69e7749"
+  },
+  "history": []
+}

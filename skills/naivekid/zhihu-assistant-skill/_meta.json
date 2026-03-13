@@ -1,0 +1,11 @@
+{
+  "owner": "naivekid",
+  "slug": "zhihu-assistant-skill",
+  "displayName": "Zhihu Assistant",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772370872244,
+    "commit": "https://github.com/openclaw/skills/commit/745d26f48264512bcfe9c2ee2bd04e46622ddb00"
+  },
+  "history": []
+}

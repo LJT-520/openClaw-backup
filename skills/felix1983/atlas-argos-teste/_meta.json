@@ -1,0 +1,11 @@
+{
+  "owner": "felix1983",
+  "slug": "atlas-argos-teste",
+  "displayName": "Atlas Argos Teste",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771553758892,
+    "commit": "https://github.com/openclaw/skills/commit/64fee2bf27be0b5a1c3c02653ed0cd5419ea55ec"
+  },
+  "history": []
+}

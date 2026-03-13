@@ -1,0 +1,11 @@
+{
+  "owner": "jerryops2026-del",
+  "slug": "xhs-auto-publish",
+  "displayName": "XHS Auto-Publish",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771929043523,
+    "commit": "https://github.com/openclaw/skills/commit/493ace5ea4cbf6d08a831fbf2da239d0766689c4"
+  },
+  "history": []
+}

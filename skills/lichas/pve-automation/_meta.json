@@ -1,0 +1,11 @@
+{
+  "owner": "lichas",
+  "slug": "pve-automation",
+  "displayName": "Pve Automation",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772537435802,
+    "commit": "https://github.com/openclaw/skills/commit/4d8a730f4892feb5569a55e482205d104ec2c933"
+  },
+  "history": []
+}

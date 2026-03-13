@@ -1,0 +1,11 @@
+{
+  "owner": "dagangtj",
+  "slug": "crypto-funding-alert",
+  "displayName": "Crypto Funding Alert",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772146232420,
+    "commit": "https://github.com/openclaw/skills/commit/2fdc41a71e8a2a8519fcf74ab0cc07ba87a01597"
+  },
+  "history": []
+}

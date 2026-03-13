@@ -1,0 +1,22 @@
+{
+  "owner": "emileindik",
+  "slug": "poku",
+  "displayName": "Poku",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772613401520,
+    "commit": "https://github.com/openclaw/skills/commit/08d0de27a404c32787d4b72d877f3507e8a1fcb6"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772446176118,
+      "commit": "https://github.com/openclaw/skills/commit/eb209b3bfc1cd81c8a79e59edb1123e9ed56ff59"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772231980947,
+      "commit": "https://github.com/openclaw/skills/commit/7a518677992e601f44f390b5a9408ec5d10d34d0"
+    }
+  ]
+}

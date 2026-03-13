@@ -1,0 +1,11 @@
+{
+  "owner": "jkeesh",
+  "slug": "bool-cli",
+  "displayName": "bool-cli",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772325106356,
+    "commit": "https://github.com/openclaw/skills/commit/5eacb340f0379813e8c20e9060aa75c34325f882"
+  },
+  "history": []
+}

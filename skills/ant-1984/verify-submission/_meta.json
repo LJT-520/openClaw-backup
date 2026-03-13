@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "verify-submission",
+  "displayName": "Verify Submission",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772374855479,
+    "commit": "https://github.com/openclaw/skills/commit/8e4bc8b05bc000b9c872ffa663fdd505437144d1"
+  },
+  "history": []
+}

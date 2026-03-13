@@ -1,0 +1,22 @@
+{
+  "owner": "myx0m0p",
+  "slug": "feed-to-md",
+  "displayName": "Feed To Md",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771926397315,
+    "commit": "https://github.com/openclaw/skills/commit/efe587df631b6febdfa856d56338475c66c200f3"
+  },
+  "history": [
+    {
+      "version": "1.1.6",
+      "publishedAt": 1771859452802,
+      "commit": "https://github.com/openclaw/skills/commit/463be94699081f013470d356bf702c370b059998"
+    },
+    {
+      "version": "1.1.4",
+      "publishedAt": 1771859135132,
+      "commit": "https://github.com/openclaw/skills/commit/582b17997421af53df9d00bcf40f080747fe6a70"
+    }
+  ]
+}

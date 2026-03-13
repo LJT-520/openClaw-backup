@@ -1,0 +1,11 @@
+{
+  "owner": "echovic",
+  "slug": "boss-skill",
+  "displayName": "Boss",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771936968347,
+    "commit": "https://github.com/openclaw/skills/commit/7d402cf93e1d2d24196771e48135a9cc08393fb8"
+  },
+  "history": []
+}

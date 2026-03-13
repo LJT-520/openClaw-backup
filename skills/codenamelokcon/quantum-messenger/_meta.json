@@ -1,0 +1,11 @@
+{
+  "owner": "codenamelokcon",
+  "slug": "quantum-messenger",
+  "displayName": "量子密信-Openclaw对接（上海电信政支/量子能力中心自研）",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772631430358,
+    "commit": "https://github.com/openclaw/skills/commit/a031850aa8849b8f271cbe90eb98ea5d2d9cdf7d"
+  },
+  "history": []
+}

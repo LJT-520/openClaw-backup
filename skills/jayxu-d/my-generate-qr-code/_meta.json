@@ -1,0 +1,11 @@
+{
+  "owner": "jayxu-d",
+  "slug": "my-generate-qr-code",
+  "displayName": "My Generate Qr Code",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772435669187,
+    "commit": "https://github.com/openclaw/skills/commit/ec5977ef0ad740cfac14dd92920b317df9155f37"
+  },
+  "history": []
+}

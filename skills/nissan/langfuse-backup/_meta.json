@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "langfuse-backup",
+  "displayName": "Langfuse Backup",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772402965399,
+    "commit": "https://github.com/openclaw/skills/commit/771ca51f8f7a2b4fb4c8ecb7de3cc9f62841a280"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "netcetera",
+  "slug": "morning",
+  "displayName": "Morning",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772352672401,
+    "commit": "https://github.com/openclaw/skills/commit/47e7704e2fe94649708213cbed4c8689de5439b3"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772006037345,
+      "commit": "https://github.com/openclaw/skills/commit/1dade89e5b06e1125504025f2b49bff059529ef5"
+    }
+  ]
+}

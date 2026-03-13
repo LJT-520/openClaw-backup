@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-grants",
+  "displayName": "Gov Grants",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772215138380,
+    "commit": "https://github.com/openclaw/skills/commit/ca6ac2e7d896530e6c7cf9654d24da2743bbf71c"
+  },
+  "history": []
+}

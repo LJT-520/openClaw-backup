@@ -1,0 +1,17 @@
+{
+  "owner": "clarezoe",
+  "slug": "research-to-wechat",
+  "displayName": "Research to WeChat",
+  "latest": {
+    "version": "0.4.0",
+    "publishedAt": 1772582315128,
+    "commit": "https://github.com/openclaw/skills/commit/0dba48a09333256c7c225095e1129bbfc763b10f"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1772500213653,
+      "commit": "https://github.com/openclaw/skills/commit/6e301c6addd4acc860336ab9d29c4d32b10dbe55"
+    }
+  ]
+}

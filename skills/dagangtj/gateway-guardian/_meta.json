@@ -1,0 +1,11 @@
+{
+  "owner": "dagangtj",
+  "slug": "gateway-guardian",
+  "displayName": "Gateway Guardian",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772092885051,
+    "commit": "https://github.com/openclaw/skills/commit/be8407e66bea67bcc6a4ac3116f09cb94078f518"
+  },
+  "history": []
+}

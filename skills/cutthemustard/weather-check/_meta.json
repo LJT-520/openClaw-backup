@@ -1,0 +1,11 @@
+{
+  "owner": "cutthemustard",
+  "slug": "weather-check",
+  "displayName": "Weather Check",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772587110884,
+    "commit": "https://github.com/openclaw/skills/commit/a714b5a18b07de2c805f57ac9920b60ecd4474f6"
+  },
+  "history": []
+}

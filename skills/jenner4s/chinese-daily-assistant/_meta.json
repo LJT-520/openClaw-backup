@@ -1,0 +1,11 @@
+{
+  "owner": "jenner4s",
+  "slug": "chinese-daily-assistant",
+  "displayName": "Chinese Daily Assistant",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772198483226,
+    "commit": "https://github.com/openclaw/skills/commit/b9aadbc8de6b7c1c5fd88d4823ea5bbf6571f91d"
+  },
+  "history": []
+}

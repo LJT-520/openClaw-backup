@@ -1,0 +1,11 @@
+{
+  "owner": "komong",
+  "slug": "ai-agent-team-manager",
+  "displayName": "Agent-team-manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772632823882,
+    "commit": "https://github.com/openclaw/skills/commit/2be994159fc09f65def7ca05ee3e886003c7ffaa"
+  },
+  "history": []
+}

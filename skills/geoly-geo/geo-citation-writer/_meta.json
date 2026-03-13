@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-citation-writer",
+  "displayName": "AI Citation Content Writer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772265658654,
+    "commit": "https://github.com/openclaw/skills/commit/1f95f35330bc68b0668833468285e64bbaea21db"
+  },
+  "history": []
+}

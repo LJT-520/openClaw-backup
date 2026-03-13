@@ -1,0 +1,11 @@
+{
+  "owner": "dragon015",
+  "slug": "dragon-xiaohongshu",
+  "displayName": "小红书发布",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772352573647,
+    "commit": "https://github.com/openclaw/skills/commit/c216882d550aa6b0656e5926eba5d0f786df34ce"
+  },
+  "history": []
+}

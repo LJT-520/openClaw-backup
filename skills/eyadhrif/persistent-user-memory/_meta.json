@@ -1,0 +1,11 @@
+{
+  "owner": "eyadhrif",
+  "slug": "persistent-user-memory",
+  "displayName": "persistent_user_memory",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772442466408,
+    "commit": "https://github.com/openclaw/skills/commit/0cbba74babfe51dfd77d486575fc4418b21e88a4"
+  },
+  "history": []
+}

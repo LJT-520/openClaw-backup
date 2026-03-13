@@ -1,0 +1,11 @@
+{
+  "owner": "fdrummer",
+  "slug": "mailparser",
+  "displayName": "Extracts structured data from emails",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772227581206,
+    "commit": "https://github.com/openclaw/skills/commit/2b76b3cb286809dfd2fb03999ae2721b2cc8043e"
+  },
+  "history": []
+}

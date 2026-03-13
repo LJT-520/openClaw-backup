@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-davis-bacon",
+  "displayName": "Davis-Bacon Prevailing Wage Compliance",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771976657742,
+    "commit": "https://github.com/openclaw/skills/commit/801692b6e57ec4a7ffc737cf0d3b20282a3ceeb6"
+  },
+  "history": []
+}

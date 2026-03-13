@@ -1,0 +1,11 @@
+{
+  "owner": "nogara",
+  "slug": "chief-feature",
+  "displayName": "Chief Feature Workflow",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772209015700,
+    "commit": "https://github.com/openclaw/skills/commit/3f4cc83d6466a74b372f3dcab5486f753d5a7ede"
+  },
+  "history": []
+}

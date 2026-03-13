@@ -1,0 +1,11 @@
+{
+  "owner": "ahuserious",
+  "slug": "ml-pipeline",
+  "displayName": "ML Pipeline",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772213873706,
+    "commit": "https://github.com/openclaw/skills/commit/19dda76bbd45510fc4f793568cf08e8c72f43ca8"
+  },
+  "history": []
+}

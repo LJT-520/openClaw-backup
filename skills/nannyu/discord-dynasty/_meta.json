@@ -1,0 +1,17 @@
+{
+  "owner": "nannyu",
+  "slug": "discord-dynasty",
+  "displayName": "Discord Dynasty",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772599127798,
+    "commit": "https://github.com/openclaw/skills/commit/53f2783943126e395a2bd2bab2759556461fa0c4"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772389304046,
+      "commit": "https://github.com/openclaw/skills/commit/59c341c8ef2b78706bb91b18b762a509ec6360f0"
+    }
+  ]
+}

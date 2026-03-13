@@ -1,0 +1,11 @@
+{
+  "owner": "mouserider",
+  "slug": "skill-detector",
+  "displayName": "Skill Detector",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771964107718,
+    "commit": "https://github.com/openclaw/skills/commit/3f1db2784d96bd0be5a42dd089e9950d1aaae498"
+  },
+  "history": []
+}

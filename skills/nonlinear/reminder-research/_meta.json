@@ -1,0 +1,17 @@
+{
+  "owner": "nonlinear",
+  "slug": "reminder-research",
+  "displayName": "reminder research",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771900685662,
+    "commit": "https://github.com/openclaw/skills/commit/a274566a4cba5252b4968968ad76ed16b5e4a74f"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770993541395,
+      "commit": "https://github.com/openclaw/skills/commit/1da530ec085bd6de7de5d90886f0b5a762cd1325"
+    }
+  ]
+}

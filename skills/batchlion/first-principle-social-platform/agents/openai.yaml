@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw DID Social Agent"
+  short_description: "DID auth, profile/avatar management, and social actions for OpenClaw"
+  default_prompt: "Use $first-principle-social-platform to run DID login, health checks, profile/avatar updates, and First-Principle post/like/comment workflows."

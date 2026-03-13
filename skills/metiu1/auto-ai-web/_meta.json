@@ -1,0 +1,11 @@
+{
+  "owner": "metiu1",
+  "slug": "auto-ai-web",
+  "displayName": "Auto-AI Web Bridge",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772297283133,
+    "commit": "https://github.com/openclaw/skills/commit/e2b745606ea1b74c993ed60644e8d99b1f57cc95"
+  },
+  "history": []
+}

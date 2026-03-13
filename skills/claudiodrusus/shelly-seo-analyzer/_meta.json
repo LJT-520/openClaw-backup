@@ -1,0 +1,11 @@
+{
+  "owner": "claudiodrusus",
+  "slug": "shelly-seo-analyzer",
+  "displayName": "SEO Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771785555136,
+    "commit": "https://github.com/openclaw/skills/commit/fd23fd4d4503c3b8c5259fdcc67686c86a710b97"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "mrchenkuan",
+  "slug": "paper-engineering-assistant",
+  "displayName": "Paper Engineering Assistant",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772258058484,
+    "commit": "https://github.com/openclaw/skills/commit/11aad70efbc98eb8e956486d423fc27e1d1426da"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772250593267,
+      "commit": "https://github.com/openclaw/skills/commit/9614fc8bcbfb9723589c5688f96a4d1aedd62ef4"
+    }
+  ]
+}

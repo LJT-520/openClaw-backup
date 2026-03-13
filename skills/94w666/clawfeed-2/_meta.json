@@ -1,0 +1,11 @@
+{
+  "owner": "94w666",
+  "slug": "clawfeed-2",
+  "displayName": "Clawfeed",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771992827732,
+    "commit": "https://github.com/openclaw/skills/commit/eb6939fb3a16f84bf10c25f0a3189b34ff18cba1"
+  },
+  "history": []
+}

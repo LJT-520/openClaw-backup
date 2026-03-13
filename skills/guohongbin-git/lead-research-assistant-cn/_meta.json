@@ -1,0 +1,17 @@
+{
+  "owner": "guohongbin-git",
+  "slug": "lead-research-assistant-cn",
+  "displayName": "Lead Research Assistant Cn",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771642756602,
+    "commit": "https://github.com/openclaw/skills/commit/7c6d0173e467601e615d8b1e775d2ce7f95e372a"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771308982338,
+      "commit": "https://github.com/openclaw/skills/commit/df6f3d92c1c008e2d2db87048ad65d8cea515982"
+    }
+  ]
+}

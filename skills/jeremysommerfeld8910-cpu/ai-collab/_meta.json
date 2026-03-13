@@ -1,0 +1,17 @@
+{
+  "owner": "jeremysommerfeld8910-cpu",
+  "slug": "ai-collab",
+  "displayName": "Ai Collab",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772231577288,
+    "commit": "https://github.com/openclaw/skills/commit/e0f2ab4bcc4469c80306721fde64cde8456bbd58"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771804867224,
+      "commit": "https://github.com/openclaw/skills/commit/ff12ad3d605d6e1a3da26c594db25ebfe09c8ba1"
+    }
+  ]
+}

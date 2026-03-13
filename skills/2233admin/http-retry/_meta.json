@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "http-retry",
+  "displayName": "http-retry",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771891053636,
+    "commit": "https://github.com/openclaw/skills/commit/693da2667c3feebc4f882beff1f5bb9f62f3922d"
+  },
+  "history": []
+}

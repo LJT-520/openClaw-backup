@@ -1,0 +1,11 @@
+{
+  "owner": "guanyang",
+  "slug": "gif-maker",
+  "displayName": "Gif Maker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772350422426,
+    "commit": "https://github.com/openclaw/skills/commit/6e3f737d2a5b2c6e76384a790918121bdf5ccbb1"
+  },
+  "history": []
+}

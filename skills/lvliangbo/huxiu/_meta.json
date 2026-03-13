@@ -1,0 +1,11 @@
+{
+  "owner": "lvliangbo",
+  "slug": "huxiu",
+  "displayName": "Huxiu News",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772423915808,
+    "commit": "https://github.com/openclaw/skills/commit/095ca898fc3e9fbf84ab277300f11f1bb9909fa5"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "clawdbotworker",
+  "slug": "linear-agent",
+  "displayName": "Linear Agent",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772664437674,
+    "commit": "https://github.com/openclaw/skills/commit/d6caeaff54b670fbf407f284a96d1d072734a340"
+  },
+  "history": []
+}

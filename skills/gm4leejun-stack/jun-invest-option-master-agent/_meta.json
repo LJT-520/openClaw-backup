@@ -1,0 +1,17 @@
+{
+  "owner": "gm4leejun-stack",
+  "slug": "jun-invest-option-master-agent",
+  "displayName": "jun-invest-option-master-agent",
+  "latest": {
+    "version": "0.2.202603041248",
+    "publishedAt": 1772599709144,
+    "commit": "https://github.com/openclaw/skills/commit/a46d7e468bcea0e2deae4d5431c61a06c5513f3c"
+  },
+  "history": [
+    {
+      "version": "0.2.202603041213",
+      "publishedAt": 1772597581550,
+      "commit": "https://github.com/openclaw/skills/commit/c7e1d8f904d4c158ae5c5377e73a815ce8a9f848"
+    }
+  ]
+}

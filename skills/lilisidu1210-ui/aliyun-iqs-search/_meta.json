@@ -1,0 +1,11 @@
+{
+  "owner": "lilisidu1210-ui",
+  "slug": "aliyun-iqs-search",
+  "displayName": "阿里云IQS搜索",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772595180174,
+    "commit": "https://github.com/openclaw/skills/commit/b00cdfbe32cda769d2496719c21cf876fedadba8"
+  },
+  "history": []
+}

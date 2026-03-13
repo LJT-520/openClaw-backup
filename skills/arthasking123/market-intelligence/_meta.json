@@ -1,0 +1,11 @@
+{
+  "owner": "arthasking123",
+  "slug": "market-intelligence",
+  "displayName": "AI Market Intelligence Agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771558469337,
+    "commit": "https://github.com/openclaw/skills/commit/f08be890eabb745eadc2d3c7933e7c0fb0670c1e"
+  },
+  "history": []
+}

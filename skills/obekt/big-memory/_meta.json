@@ -1,0 +1,11 @@
+{
+  "owner": "obekt",
+  "slug": "big-memory",
+  "displayName": "Big Memory",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772175672445,
+    "commit": "https://github.com/openclaw/skills/commit/f044e0cd250ab053d38c664d91d04c16c484a35d"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "esanle",
+  "slug": "youtube-notification-analysis",
+  "displayName": "Youtube Notification Analysis",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771911845343,
+    "commit": "https://github.com/openclaw/skills/commit/0b45d9775700c715376dfc69b78dcce7c85adfc7"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "adastraabyssoque",
+  "slug": "agent-browser-with-camoufox",
+  "displayName": "Agent Browser with Camoufox",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772358834925,
+    "commit": "https://github.com/openclaw/skills/commit/a5fb41f4b1f23ef2ed4fe0415539160d5cdd51af"
+  },
+  "history": []
+}

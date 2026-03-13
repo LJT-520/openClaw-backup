@@ -1,0 +1,17 @@
+{
+  "owner": "ademczuk",
+  "slug": "menuvision",
+  "displayName": "MenuVision",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771849215785,
+    "commit": "https://github.com/openclaw/skills/commit/b50ddfb2ed0a021f5dbe5112812716467883d1d3"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771798390785,
+      "commit": "https://github.com/openclaw/skills/commit/256bbc1afe86b127e487d28ffb1aa731383dede6"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "beyound87",
+  "slug": "coding-lead",
+  "displayName": "Coding Lead",
+  "latest": {
+    "version": "1.0.14",
+    "publishedAt": 1772466638174,
+    "commit": "https://github.com/openclaw/skills/commit/a7ccf178d834c602631630c9bfe59ce6355b5b17"
+  },
+  "history": [
+    {
+      "version": "1.0.11",
+      "publishedAt": 1772370935273,
+      "commit": "https://github.com/openclaw/skills/commit/bdf690e4ddb9c528358fd0b6861eb1fde0ccec9f"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1772349753681,
+      "commit": "https://github.com/openclaw/skills/commit/8c4d031c04470bb79688b33650ed26b2da43fa78"
+    }
+  ]
+}

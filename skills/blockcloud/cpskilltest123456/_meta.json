@@ -1,0 +1,11 @@
+{
+  "owner": "blockcloud",
+  "slug": "cpskilltest123456",
+  "displayName": "CP skill test 123456",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772387411188,
+    "commit": "https://github.com/openclaw/skills/commit/8abb34551406719eac2618511f3b117daeb08fed"
+  },
+  "history": []
+}

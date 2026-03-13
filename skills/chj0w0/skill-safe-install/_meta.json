@@ -1,0 +1,11 @@
+{
+  "owner": "chj0w0",
+  "slug": "skill-safe-install",
+  "displayName": "Skill Safe Install",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772218823122,
+    "commit": "https://github.com/openclaw/skills/commit/440be927fd326ea461a02c4c27e456afda3c34af"
+  },
+  "history": []
+}

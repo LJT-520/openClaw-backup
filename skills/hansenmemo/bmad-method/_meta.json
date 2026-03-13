@@ -1,0 +1,11 @@
+{
+  "owner": "hansenmemo",
+  "slug": "bmad-method",
+  "displayName": "BMad Method",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772101283988,
+    "commit": "https://github.com/openclaw/skills/commit/c6de3b3191c7e26aea293805f9cbed5f6f2c91cf"
+  },
+  "history": []
+}

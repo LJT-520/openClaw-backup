@@ -1,0 +1,11 @@
+{
+  "owner": "mattkilmer",
+  "slug": "voteship",
+  "displayName": "VoteShip",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772656215888,
+    "commit": "https://github.com/openclaw/skills/commit/6ff24c82167d2a444802f184b8b45dc8e08ee322"
+  },
+  "history": []
+}

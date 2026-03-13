@@ -1,0 +1,11 @@
+{
+  "owner": "nirwandogra",
+  "slug": "credential-scanner",
+  "displayName": "Credential Scanner",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771455842827,
+    "commit": "https://github.com/openclaw/skills/commit/e494b075ec8e58fe798a733ac7590c4f56d7c7f4"
+  },
+  "history": []
+}

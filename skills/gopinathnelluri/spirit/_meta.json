@@ -1,0 +1,22 @@
+{
+  "owner": "gopinathnelluri",
+  "slug": "spirit",
+  "displayName": "SPIRIT State Sync",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771571711046,
+    "commit": "https://github.com/openclaw/skills/commit/0dccd44dd726a174199b686edb14bfee8c0c5b78"
+  },
+  "history": [
+    {
+      "version": "0.1.6",
+      "publishedAt": 1771443464785,
+      "commit": "https://github.com/openclaw/skills/commit/f18f010c5f63b3253de1b30e5844f3af4b76a9ef"
+    },
+    {
+      "version": "0.1.2",
+      "publishedAt": 1771391344533,
+      "commit": "https://github.com/openclaw/skills/commit/1363b7ff045872613d7b3d3d23b90a47a3f6e7ed"
+    }
+  ]
+}

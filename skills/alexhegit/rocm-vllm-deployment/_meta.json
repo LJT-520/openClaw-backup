@@ -1,0 +1,11 @@
+{
+  "owner": "alexhegit",
+  "slug": "rocm-vllm-deployment",
+  "displayName": "ROCm vLLM Deployment",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772357570473,
+    "commit": "https://github.com/openclaw/skills/commit/ff2d5f29eb0777bb92e5f866235bc1c257a22e10"
+  },
+  "history": []
+}

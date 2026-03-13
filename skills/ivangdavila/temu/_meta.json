@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "temu",
+  "displayName": "Temu",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771538262284,
+    "commit": "https://github.com/openclaw/skills/commit/7080aaf58c0a3175ee7d8be45da348cec11252ef"
+  },
+  "history": []
+}

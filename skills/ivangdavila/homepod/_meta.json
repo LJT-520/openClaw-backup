@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "homepod",
+  "displayName": "HomePod",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280482845,
+    "commit": "https://github.com/openclaw/skills/commit/fbe1a89a8b1063ddd182f60dde4879fe98b8b062"
+  },
+  "history": []
+}

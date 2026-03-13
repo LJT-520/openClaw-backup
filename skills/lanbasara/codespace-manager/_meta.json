@@ -1,0 +1,11 @@
+{
+  "owner": "lanbasara",
+  "slug": "codespace-manager",
+  "displayName": "Codespace Manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772008940288,
+    "commit": "https://github.com/openclaw/skills/commit/37b35b7b661be4ba6f41def3bdc176e43f29487c"
+  },
+  "history": []
+}

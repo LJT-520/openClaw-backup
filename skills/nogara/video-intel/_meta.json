@@ -1,0 +1,11 @@
+{
+  "owner": "nogara",
+  "slug": "video-intel",
+  "displayName": "Video Intelligence",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772207497612,
+    "commit": "https://github.com/openclaw/skills/commit/b1996797dc50a9a944b6c79529dad4361c3ddd5b"
+  },
+  "history": []
+}

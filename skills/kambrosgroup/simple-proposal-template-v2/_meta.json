@@ -1,0 +1,11 @@
+{
+  "owner": "kambrosgroup",
+  "slug": "simple-proposal-template-v2",
+  "displayName": "Simple Proposal Template",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771814782788,
+    "commit": "https://github.com/openclaw/skills/commit/5f3630b865d91193fdf461c0a0ef88054086cf86"
+  },
+  "history": []
+}

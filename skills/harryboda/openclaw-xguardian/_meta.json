@@ -1,0 +1,11 @@
+{
+  "owner": "harryboda",
+  "slug": "openclaw-xguardian",
+  "displayName": "OpenClaw XGuardian",
+  "latest": {
+    "version": "0.0.1",
+    "publishedAt": 1772327628697,
+    "commit": "https://github.com/openclaw/skills/commit/fea3cece3c65175aed740f9e2be3fc6cb5914ff2"
+  },
+  "history": []
+}

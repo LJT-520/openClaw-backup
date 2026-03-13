@@ -1,0 +1,11 @@
+{
+  "owner": "drdaviddelorenzo",
+  "slug": "nutrigenomics",
+  "displayName": "Nutrigenomics",
+  "latest": {
+    "version": "0.2.2",
+    "publishedAt": 1772373967700,
+    "commit": "https://github.com/openclaw/skills/commit/a85c397999065cba071ac326e57d0ab084c50c8c"
+  },
+  "history": []
+}

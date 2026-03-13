@@ -1,0 +1,17 @@
+{
+  "owner": "marklyk",
+  "slug": "zongjie",
+  "displayName": "总结",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1771834738366,
+    "commit": "https://github.com/openclaw/skills/commit/9bf46bfee68784cfd37d439625c82715f04b0a63"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771827261204,
+      "commit": "https://github.com/openclaw/skills/commit/71eead1faca837c4e744c6d510e41457cb46438b"
+    }
+  ]
+}

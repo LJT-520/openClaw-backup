@@ -1,0 +1,11 @@
+{
+  "owner": "avalon-467",
+  "slug": "teamclaw",
+  "displayName": "teamclaw_visualization",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772264544099,
+    "commit": "https://github.com/openclaw/skills/commit/41ce025dd384642057519eec46becaedaa4059ee"
+  },
+  "history": []
+}

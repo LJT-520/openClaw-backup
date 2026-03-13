@@ -1,0 +1,17 @@
+{
+  "owner": "bo170814",
+  "slug": "evomap-auto-task-publish",
+  "displayName": "Evomap Auto Task Publish",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1772532307664,
+    "commit": "https://github.com/openclaw/skills/commit/73ea296633c371a5e3f6205eacb1899b7a6c35bb"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772423585106,
+      "commit": "https://github.com/openclaw/skills/commit/5b85d7572bf14d10719f9f11ad10848f27bc973a"
+    }
+  ]
+}

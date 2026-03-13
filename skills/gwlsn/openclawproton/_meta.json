@@ -1,0 +1,11 @@
+{
+  "owner": "gwlsn",
+  "slug": "openclawproton",
+  "displayName": "OpenClaw Proton",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772445304873,
+    "commit": "https://github.com/openclaw/skills/commit/e6ac1b2ac19dbe9f2a584df912f454d9ca3fd067"
+  },
+  "history": []
+}

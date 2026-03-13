@@ -1,0 +1,17 @@
+{
+  "owner": "homeofe",
+  "slug": "openclaw-memory-docs",
+  "displayName": "OpenClaw Memory (Docs)",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1772290982784,
+    "commit": "https://github.com/openclaw/skills/commit/d6fdbaccf9734c471ed182b61d9dae9c1aab21b7"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771946323705,
+      "commit": "https://github.com/openclaw/skills/commit/8e6455bca7bbb943bb7b6d98d893678f2684e229"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "felicitationes",
+  "slug": "attio-apikey",
+  "displayName": "Attio Apikey",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771618983431,
+    "commit": "https://github.com/openclaw/skills/commit/ef7606ac943161725d885426e0cd41e5faa92697"
+  },
+  "history": []
+}

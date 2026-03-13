@@ -1,0 +1,11 @@
+{
+  "owner": "jenish-sojitra",
+  "slug": "clawnedhub",
+  "displayName": "clawnedhub - Scan and Security your OpenClaw Instances",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772008981345,
+    "commit": "https://github.com/openclaw/skills/commit/367b4a8a621a57bf48906f3353e09f8315b33ee1"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "autonomacity",
+  "slug": "autonoma-city",
+  "displayName": "Autonoma",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771573097189,
+    "commit": "https://github.com/openclaw/skills/commit/2474245c8b056731336adb3054f175ef1256b1cf"
+  },
+  "history": []
+}

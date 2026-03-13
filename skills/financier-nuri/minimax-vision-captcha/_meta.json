@@ -1,0 +1,11 @@
+{
+  "owner": "financier-nuri",
+  "slug": "minimax-vision-captcha",
+  "displayName": "MiniMax Vision Captcha",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772433067086,
+    "commit": "https://github.com/openclaw/skills/commit/f980a6b5eff7fbcb6dd515722a4a763a02477960"
+  },
+  "history": []
+}

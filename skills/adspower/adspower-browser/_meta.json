@@ -1,0 +1,11 @@
+{
+  "owner": "adspower",
+  "slug": "adspower-browser",
+  "displayName": "adspower-browser",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772596818506,
+    "commit": "https://github.com/openclaw/skills/commit/2ab6cb58cf5285fc188310548f32bc7da76ca15a"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mw-slc",
+  "slug": "nginx-proxy-manager",
+  "displayName": "Nginx Proxy Manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772377990309,
+    "commit": "https://github.com/openclaw/skills/commit/09473d681e0cb9b7260fa38b832b3462e701b216"
+  },
+  "history": []
+}

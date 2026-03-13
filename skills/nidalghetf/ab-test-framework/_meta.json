@@ -1,0 +1,11 @@
+{
+  "owner": "nidalghetf",
+  "slug": "ab-test-framework",
+  "displayName": "AB Test Framework",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772103999426,
+    "commit": "https://github.com/openclaw/skills/commit/dc88c6513d0719fbd9a074c95eff90336215eeac"
+  },
+  "history": []
+}

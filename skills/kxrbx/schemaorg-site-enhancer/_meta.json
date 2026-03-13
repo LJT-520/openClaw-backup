@@ -1,0 +1,11 @@
+{
+  "owner": "kxrbx",
+  "slug": "schemaorg-site-enhancer",
+  "displayName": "Schemaorg Site Enhancer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771596945513,
+    "commit": "https://github.com/openclaw/skills/commit/9488e7def2e7514d94d01579c072f5bdef9addb1"
+  },
+  "history": []
+}

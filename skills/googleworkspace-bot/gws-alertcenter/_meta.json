@@ -1,0 +1,11 @@
+{
+  "owner": "googleworkspace-bot",
+  "slug": "gws-alertcenter",
+  "displayName": "Gws Alertcenter",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772665472699,
+    "commit": "https://github.com/openclaw/skills/commit/003bc8d29ce0ed8d13b033a50468213f18a21e62"
+  },
+  "history": []
+}

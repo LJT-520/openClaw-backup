@@ -1,0 +1,11 @@
+{
+  "owner": "luis2404123",
+  "slug": "residential-proxy",
+  "displayName": "Residential Proxy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772549698835,
+    "commit": "https://github.com/openclaw/skills/commit/5f97f9f0e2203af5f534d8d2e7669e1c87fad196"
+  },
+  "history": []
+}

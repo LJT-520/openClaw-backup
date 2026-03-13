@@ -1,0 +1,11 @@
+{
+  "owner": "jianmo1997",
+  "slug": "shulian-weather",
+  "displayName": "数联互通weather",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772271033601,
+    "commit": "https://github.com/openclaw/skills/commit/c162272086b575a777ba4953a247104bc277bffc"
+  },
+  "history": []
+}

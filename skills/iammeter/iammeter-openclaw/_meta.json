@@ -1,0 +1,11 @@
+{
+  "owner": "iammeter",
+  "slug": "iammeter-openclaw",
+  "displayName": "IAMMETER",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772178476574,
+    "commit": "https://github.com/openclaw/skills/commit/91600811f8ca5b6d41e3e0ea669b92820e7e33ae"
+  },
+  "history": []
+}

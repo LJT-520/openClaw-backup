@@ -1,0 +1,11 @@
+{
+  "owner": "amzzzzzzz",
+  "slug": "bluebubbles-healthcheck",
+  "displayName": "Bluebubbles Healthcheck",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1772122031270,
+    "commit": "https://github.com/openclaw/skills/commit/3dbfa12a8a9798551a60192fb9f728cf01cb19f3"
+  },
+  "history": []
+}

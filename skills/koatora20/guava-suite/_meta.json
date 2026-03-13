@@ -1,0 +1,11 @@
+{
+  "owner": "koatora20",
+  "slug": "guava-suite",
+  "displayName": "Guava Suite",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771425897635,
+    "commit": "https://github.com/openclaw/skills/commit/ae520b88f9be107df4be00573d59079096918526"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "alexdavidswift",
+  "slug": "google-jules-cli",
+  "displayName": "Google Jules Tools CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772126270222,
+    "commit": "https://github.com/openclaw/skills/commit/3e242a6f1e4083a19bf1a4caf35748717bfe4c82"
+  },
+  "history": []
+}

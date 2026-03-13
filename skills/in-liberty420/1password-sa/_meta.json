@@ -1,0 +1,11 @@
+{
+  "owner": "in-liberty420",
+  "slug": "1password-sa",
+  "displayName": "1Password Service Account",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771691287589,
+    "commit": "https://github.com/openclaw/skills/commit/f48f48cad6355d6b92d83f947a3a6b4477cb7d17"
+  },
+  "history": []
+}

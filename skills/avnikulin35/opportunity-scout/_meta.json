@@ -1,0 +1,11 @@
+{
+  "owner": "avnikulin35",
+  "slug": "opportunity-scout",
+  "displayName": "AI Opportunity Scout",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772327011654,
+    "commit": "https://github.com/openclaw/skills/commit/7e72a0a39bf1f38e95cfa351c30ddc826298e68b"
+  },
+  "history": []
+}

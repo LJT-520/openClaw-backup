@@ -1,0 +1,27 @@
+{
+  "owner": "neiljo-gy",
+  "slug": "agent-collaboration-network",
+  "displayName": "acn",
+  "latest": {
+    "version": "0.4.0",
+    "publishedAt": 1772452891939,
+    "commit": "https://github.com/openclaw/skills/commit/951c5bde367b9fc244c1edeb7fddd409ab3bdb11"
+  },
+  "history": [
+    {
+      "version": "0.3.1",
+      "publishedAt": 1772112828742,
+      "commit": "https://github.com/openclaw/skills/commit/b27bbbaae578d586d0238bfa83997560ae29d649"
+    },
+    {
+      "version": "0.3.0",
+      "publishedAt": 1771947487017,
+      "commit": "https://github.com/openclaw/skills/commit/0b9fe12834597942e18c301fd1161d8b71f9da76"
+    },
+    {
+      "version": "0.2.0",
+      "publishedAt": 1771855875781,
+      "commit": "https://github.com/openclaw/skills/commit/53a8aba36f5e7fb743aa6f0c9cc833592e939a38"
+    }
+  ]
+}

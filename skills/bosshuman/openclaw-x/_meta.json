@@ -1,0 +1,17 @@
+{
+  "owner": "bosshuman",
+  "slug": "openclaw-x",
+  "displayName": "OpenClaw X",
+  "latest": {
+    "version": "0.2.2",
+    "publishedAt": 1772597782220,
+    "commit": "https://github.com/openclaw/skills/commit/8583d1632a9d2ca36a487e1a2ffea1069fc35a35"
+  },
+  "history": [
+    {
+      "version": "0.2.1",
+      "publishedAt": 1772125970744,
+      "commit": "https://github.com/openclaw/skills/commit/1a1584198844dfe1fa83aeab7bc2a99141d1a8f2"
+    }
+  ]
+}

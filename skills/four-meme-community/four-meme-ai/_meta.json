@@ -1,0 +1,17 @@
+{
+  "owner": "four-meme-community",
+  "slug": "four-meme-ai",
+  "displayName": "FourMeme",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772561784503,
+    "commit": "https://github.com/openclaw/skills/commit/26369f375951eab5d157687457824de32eb1d1ed"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1772515426012,
+      "commit": "https://github.com/openclaw/skills/commit/cc9d1bae3ecb5a03a03c8611f9e7a91a8f178393"
+    }
+  ]
+}

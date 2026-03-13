@@ -1,0 +1,11 @@
+{
+  "owner": "npfaerber",
+  "slug": "edi-parser",
+  "displayName": "Edi Parser",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772273953514,
+    "commit": "https://github.com/openclaw/skills/commit/5a02b9791d6288880009ee889efa92ef6c360156"
+  },
+  "history": []
+}

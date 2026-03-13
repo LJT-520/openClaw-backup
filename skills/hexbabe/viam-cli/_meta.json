@@ -1,0 +1,11 @@
+{
+  "owner": "hexbabe",
+  "slug": "viam-cli",
+  "displayName": "This skill informs the agent how to use Viam CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772151935328,
+    "commit": "https://github.com/openclaw/skills/commit/6ef11fba82eba578c1bbbb75dde1a8aebb77be11"
+  },
+  "history": []
+}

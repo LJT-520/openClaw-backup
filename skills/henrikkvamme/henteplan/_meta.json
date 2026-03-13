@@ -1,0 +1,11 @@
+{
+  "owner": "henrikkvamme",
+  "slug": "henteplan",
+  "displayName": "Henteplan Skill",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772060078061,
+    "commit": "https://github.com/openclaw/skills/commit/0ec0967520a4fb025e3efedc474e806fcac12c0d"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "mbpz",
+  "slug": "gitlab-private",
+  "displayName": "GitLab Private",
+  "latest": {
+    "version": "0.9.1",
+    "publishedAt": 1772438002967,
+    "commit": "https://github.com/openclaw/skills/commit/a9f730463ea775b4485ac88a1799563a3ea3ff5f"
+  },
+  "history": [
+    {
+      "version": "0.4.0",
+      "publishedAt": 1772435683698,
+      "commit": "https://github.com/openclaw/skills/commit/399c13a45802beb14e58ee7fbd2aab2a95a31cd2"
+    }
+  ]
+}

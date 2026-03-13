@@ -1,0 +1,32 @@
+{
+  "owner": "gstdcoin",
+  "slug": "gsdt-a2a",
+  "displayName": "The Sovereign Bridge for Distributed Intelligence",
+  "latest": {
+    "version": "0.1.14",
+    "publishedAt": 1772570906711,
+    "commit": "https://github.com/openclaw/skills/commit/c5df769d71ede4cf498b4d7c41651464f6e8b0dc"
+  },
+  "history": [
+    {
+      "version": "0.1.12",
+      "publishedAt": 1772290468947,
+      "commit": "https://github.com/openclaw/skills/commit/0b8458680e15654e7c69b49b3d08287ce68eaae4"
+    },
+    {
+      "version": "0.1.11",
+      "publishedAt": 1771890840900,
+      "commit": "https://github.com/openclaw/skills/commit/a7746d44a27fedbeb7ce16c58540de3b93640c64"
+    },
+    {
+      "version": "0.1.10",
+      "publishedAt": 1771722809006,
+      "commit": "https://github.com/openclaw/skills/commit/2523ced5d068a2a0939df593cf7ebbe8d0fed191"
+    },
+    {
+      "version": "0.1.7",
+      "publishedAt": 1771441430621,
+      "commit": "https://github.com/openclaw/skills/commit/f5a18cd571b77d8fbd0cd177d57f101942249441"
+    }
+  ]
+}

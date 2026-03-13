@@ -1,0 +1,11 @@
+{
+  "owner": "ohano",
+  "slug": "ai-course-agent",
+  "displayName": "AI Course Agent",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771512785949,
+    "commit": "https://github.com/openclaw/skills/commit/02263acdf4c3c194c42bcaf9a75272cc47049f4a"
+  },
+  "history": []
+}

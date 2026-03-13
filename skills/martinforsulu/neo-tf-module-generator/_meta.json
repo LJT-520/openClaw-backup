@@ -1,0 +1,11 @@
+{
+  "owner": "martinforsulu",
+  "slug": "neo-tf-module-generator",
+  "displayName": "Skill",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771978693581,
+    "commit": "https://github.com/openclaw/skills/commit/2db13935e85fd37170cdd741a23dbc7dc59a7068"
+  },
+  "history": []
+}

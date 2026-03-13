@@ -1,0 +1,11 @@
+{
+  "owner": "blue-coconut",
+  "slug": "mm-voice-maker",
+  "displayName": "mmVoiceMaker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772190399375,
+    "commit": "https://github.com/openclaw/skills/commit/0e4a40de6b9b2f3188fe399887dd807d43362710"
+  },
+  "history": []
+}

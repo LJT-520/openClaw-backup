@@ -1,0 +1,11 @@
+{
+  "owner": "marcus-daemon",
+  "slug": "context-management",
+  "displayName": "Context Management",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771516821429,
+    "commit": "https://github.com/openclaw/skills/commit/55cbfe24406f412a44c4f5067179fe4fda4da196"
+  },
+  "history": []
+}

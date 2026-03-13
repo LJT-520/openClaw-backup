@@ -1,0 +1,17 @@
+{
+  "owner": "nidalghetf",
+  "slug": "disk-usage-watcher",
+  "displayName": "Disk Usage Watcher",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772103159080,
+    "commit": "https://github.com/openclaw/skills/commit/1de9aefb93eea0c416c2bc7add8576ab010ed733"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772034993710,
+      "commit": "https://github.com/openclaw/skills/commit/45866e7cdc9d8d2d5b8c7f9450f57549c6db6a6e"
+    }
+  ]
+}

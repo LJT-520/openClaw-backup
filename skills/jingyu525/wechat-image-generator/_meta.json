@@ -1,0 +1,11 @@
+{
+  "owner": "jingyu525",
+  "slug": "wechat-image-generator",
+  "displayName": "Wechat Image Generator",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772518309942,
+    "commit": "https://github.com/openclaw/skills/commit/b2c18b9ed798e9c090b3ccb8263c2c9b1130d8bd"
+  },
+  "history": []
+}

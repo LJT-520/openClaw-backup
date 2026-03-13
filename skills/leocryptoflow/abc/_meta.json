@@ -1,0 +1,17 @@
+{
+  "owner": "leocryptoflow",
+  "slug": "abc",
+  "displayName": "Aixin",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772541485345,
+    "commit": "https://github.com/openclaw/skills/commit/dfb14aceba5e30c791ca481d99396a625de42663"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772276693766,
+      "commit": "https://github.com/openclaw/skills/commit/619892aa8dc520493b278308bab65be9f7885cbd"
+    }
+  ]
+}

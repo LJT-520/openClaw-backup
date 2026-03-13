@@ -1,0 +1,11 @@
+{
+  "owner": "addogiavara-tech",
+  "slug": "autoclaw-browser",
+  "displayName": "AutoClaw Browser Automation",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772601324931,
+    "commit": "https://github.com/openclaw/skills/commit/a39cd3ff00c989e160371916ae827256639ade64"
+  },
+  "history": []
+}

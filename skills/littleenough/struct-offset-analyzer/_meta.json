@@ -1,0 +1,11 @@
+{
+  "owner": "littleenough",
+  "slug": "struct-offset-analyzer",
+  "displayName": "struct-offset-analyzer",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772073694135,
+    "commit": "https://github.com/openclaw/skills/commit/27823eba538d984254b8a439a300feee7af11b11"
+  },
+  "history": []
+}

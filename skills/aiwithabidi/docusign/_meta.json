@@ -1,0 +1,11 @@
+{
+  "owner": "aiwithabidi",
+  "slug": "docusign",
+  "displayName": "Docusign",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772578373849,
+    "commit": "https://github.com/openclaw/skills/commit/9ca02b6543724c6598af1010a6bd6a75846cfde7"
+  },
+  "history": []
+}

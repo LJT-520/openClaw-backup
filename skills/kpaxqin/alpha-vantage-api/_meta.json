@@ -1,0 +1,11 @@
+{
+  "owner": "kpaxqin",
+  "slug": "alpha-vantage-api",
+  "displayName": "Alpha Vantage API",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772502294374,
+    "commit": "https://github.com/openclaw/skills/commit/cea84d975f14f204a041adff0eed5d84c5d2d668"
+  },
+  "history": []
+}

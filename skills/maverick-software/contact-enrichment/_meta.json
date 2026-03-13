@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "contact-enrichment",
+  "displayName": "Contact Enrichment",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772508477755,
+    "commit": "https://github.com/openclaw/skills/commit/74c28092c1170a1b0230d492a7a56fac4d587c53"
+  },
+  "history": []
+}

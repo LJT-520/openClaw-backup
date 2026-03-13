@@ -1,0 +1,11 @@
+{
+  "owner": "brunobuddy",
+  "slug": "manifest-build",
+  "displayName": "Manifest",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772515872138,
+    "commit": "https://github.com/openclaw/skills/commit/7152e6180dd003675bdfd489fbf7f200980fb41a"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "blueberrywoodsym",
+  "slug": "x-ai",
+  "displayName": "xAI / Grok",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771690964816,
+    "commit": "https://github.com/openclaw/skills/commit/ad183960ae4f78773e5d8ae74237af67eb3c7fd8"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771622712651,
+      "commit": "https://github.com/openclaw/skills/commit/af1714702bd64c608ef3a8f4c15c096b7762df46"
+    }
+  ]
+}

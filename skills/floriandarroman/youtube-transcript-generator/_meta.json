@@ -1,0 +1,11 @@
+{
+  "owner": "floriandarroman",
+  "slug": "youtube-transcript-generator",
+  "displayName": "YouTube Transcript Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772516055342,
+    "commit": "https://github.com/openclaw/skills/commit/485258b990a507450aacb50af578d1cf4beee477"
+  },
+  "history": []
+}

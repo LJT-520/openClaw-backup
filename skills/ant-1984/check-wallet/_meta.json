@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "check-wallet",
+  "displayName": "Check Wallet",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772360006710,
+    "commit": "https://github.com/openclaw/skills/commit/92cd7fbd5af12ad352f276bc71e1fce8c73b80ef"
+  },
+  "history": []
+}

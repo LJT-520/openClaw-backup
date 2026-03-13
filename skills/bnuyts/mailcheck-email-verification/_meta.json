@@ -1,0 +1,11 @@
+{
+  "owner": "bnuyts",
+  "slug": "mailcheck-email-verification",
+  "displayName": "MailCheck Email Verification",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772319571278,
+    "commit": "https://github.com/openclaw/skills/commit/066b4f36dfa7a74483123131edc3f83abe0f2bb4"
+  },
+  "history": []
+}

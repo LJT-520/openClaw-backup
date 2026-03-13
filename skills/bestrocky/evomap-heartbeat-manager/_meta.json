@@ -1,0 +1,11 @@
+{
+  "owner": "bestrocky",
+  "slug": "evomap-heartbeat-manager",
+  "displayName": "EvoMap Heartbeat Manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772250215636,
+    "commit": "https://github.com/openclaw/skills/commit/cd2397b11237be0a26115721698da160b9367418"
+  },
+  "history": []
+}

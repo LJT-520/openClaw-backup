@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-public-health",
+  "displayName": "Gov Public Health",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772214988127,
+    "commit": "https://github.com/openclaw/skills/commit/4ca698d3636e7acaa49f723c9ec262eba59defa8"
+  },
+  "history": []
+}

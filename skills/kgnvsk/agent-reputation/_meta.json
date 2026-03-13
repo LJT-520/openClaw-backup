@@ -1,0 +1,11 @@
+{
+  "owner": "kgnvsk",
+  "slug": "agent-reputation",
+  "displayName": "Agent Reputation Checker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771723887618,
+    "commit": "https://github.com/openclaw/skills/commit/bb1ad1499dc51df578d6300b67dad445885a4c7b"
+  },
+  "history": []
+}

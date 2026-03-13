@@ -1,0 +1,11 @@
+{
+  "owner": "martinforsulu",
+  "slug": "neo-api-to-ts-interface",
+  "displayName": "Skill",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771964651929,
+    "commit": "https://github.com/openclaw/skills/commit/5058f1a4687a7ebbd468989a533e100d84f5aa39"
+  },
+  "history": []
+}

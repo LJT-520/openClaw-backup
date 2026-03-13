@@ -1,0 +1,11 @@
+{
+  "owner": "brettinhere",
+  "slug": "polymarket-autotrader",
+  "displayName": "Polymarket Autotrader",
+  "latest": {
+    "version": "2.4.0",
+    "publishedAt": 1772462509103,
+    "commit": "https://github.com/openclaw/skills/commit/86fc5f900c8040ea8a0978f109f65e3efb45a236"
+  },
+  "history": []
+}

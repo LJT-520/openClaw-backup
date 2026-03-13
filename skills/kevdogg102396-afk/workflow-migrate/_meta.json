@@ -1,0 +1,11 @@
+{
+  "owner": "kevdogg102396-afk",
+  "slug": "workflow-migrate",
+  "displayName": "workflow-migrate",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772567445484,
+    "commit": "https://github.com/openclaw/skills/commit/2875b82a8ab994ab231ce920275674077d184fd9"
+  },
+  "history": []
+}

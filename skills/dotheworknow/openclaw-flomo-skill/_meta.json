@@ -1,0 +1,11 @@
+{
+  "owner": "dotheworknow",
+  "slug": "openclaw-flomo-skill",
+  "displayName": "OpenClaw Flomo Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772086759246,
+    "commit": "https://github.com/openclaw/skills/commit/1c6d8349947e5e3512eee73ac32b6cd67495fb82"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "aaronn",
+  "slug": "openclaw-search-tool",
+  "displayName": "Openclaw Research Tool",
+  "latest": {
+    "version": "0.1.5",
+    "publishedAt": 1771365120540,
+    "commit": "https://github.com/openclaw/skills/commit/1c68b9098320f767f80a4f27caf8db4085e9959f"
+  },
+  "history": []
+}

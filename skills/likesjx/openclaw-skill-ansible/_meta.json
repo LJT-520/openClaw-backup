@@ -1,0 +1,22 @@
+{
+  "owner": "likesjx",
+  "slug": "openclaw-skill-ansible",
+  "displayName": "Openclaw Skill Ansible",
+  "latest": {
+    "version": "0.1.6",
+    "publishedAt": 1772660812474,
+    "commit": "https://github.com/openclaw/skills/commit/df9899326ac677bb988f7a1e9f373a8dfb03322e"
+  },
+  "history": [
+    {
+      "version": "0.1.2",
+      "publishedAt": 1772573743761,
+      "commit": "https://github.com/openclaw/skills/commit/e9e55888bd4492ba83d24ba760524261fc5028bb"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772571337964,
+      "commit": "https://github.com/openclaw/skills/commit/d19d6fb088f06d0503d3eaec606fdd961c2cfd4f"
+    }
+  ]
+}

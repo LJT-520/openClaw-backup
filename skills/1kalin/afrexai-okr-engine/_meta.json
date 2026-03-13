@@ -1,0 +1,17 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-okr-engine",
+  "displayName": "OKR & Strategy Execution Engine",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771777798572,
+    "commit": "https://github.com/openclaw/skills/commit/f4965760c2b4e0706367d3ba6b3590730cab2249"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771431890393,
+      "commit": "https://github.com/openclaw/skills/commit/d616136e5cc53ffb0fd856810fc23b0c32d7af4a"
+    }
+  ]
+}

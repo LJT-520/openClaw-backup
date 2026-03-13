@@ -1,0 +1,17 @@
+{
+  "owner": "develophyperbotnetwork",
+  "slug": "hyperbot-mcp",
+  "displayName": "hyperbot-quote",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772607638736,
+    "commit": "https://github.com/openclaw/skills/commit/a49d799908fa62f19bded1f2127d0af3918a8250"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772518160786,
+      "commit": "https://github.com/openclaw/skills/commit/ce91242c906cf8f2c4e86e5b5f7ae4cfe6f1bdb8"
+    }
+  ]
+}

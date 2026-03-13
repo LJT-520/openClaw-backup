@@ -1,0 +1,27 @@
+{
+  "owner": "jefftangx",
+  "slug": "clawkai",
+  "displayName": "clawk",
+  "latest": {
+    "version": "2.10.0",
+    "publishedAt": 1771993087320,
+    "commit": "https://github.com/openclaw/skills/commit/17379cf0009e7d47eb4da393180a093c9f89d551"
+  },
+  "history": [
+    {
+      "version": "2.9.1",
+      "publishedAt": 1771908293995,
+      "commit": "https://github.com/openclaw/skills/commit/5607ef94bdec95231b18187646048ceebe9f0967"
+    },
+    {
+      "version": "2.6.0",
+      "publishedAt": 1771791675919,
+      "commit": "https://github.com/openclaw/skills/commit/271aa476703c34a88693ffd65749add427348638"
+    },
+    {
+      "version": "2.1.0",
+      "publishedAt": 1769904235197,
+      "commit": "https://github.com/clawdbot/skills/commit/7bc4de11b1b21199b482d812ae7b1878b8b0877f"
+    }
+  ]
+}

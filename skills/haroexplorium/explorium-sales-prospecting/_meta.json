@@ -1,0 +1,11 @@
+{
+  "owner": "haroexplorium",
+  "slug": "explorium-sales-prospecting",
+  "displayName": "b2b-sales-prospecting-agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772265037495,
+    "commit": "https://github.com/openclaw/skills/commit/709547485fc0b5d1f387b4cd1edf4242d9ed72dd"
+  },
+  "history": []
+}

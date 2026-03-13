@@ -1,0 +1,11 @@
+{
+  "owner": "alon-mini",
+  "slug": "careerforge-cli-skill",
+  "displayName": "Job-Hunter",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771783689657,
+    "commit": "https://github.com/openclaw/skills/commit/f3c5f4401809ed798b2d24d5056466b951c6e3da"
+  },
+  "history": []
+}

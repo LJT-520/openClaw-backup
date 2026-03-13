@@ -1,0 +1,11 @@
+{
+  "owner": "jezjsa",
+  "slug": "formpass-agent",
+  "displayName": "FormPass Agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772028857825,
+    "commit": "https://github.com/openclaw/skills/commit/27ea07e6e0df8e20a1bde7a47f50a29258698cf4"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "hegghammer",
+  "slug": "foam-notes",
+  "displayName": "Foam Notes",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771882254632,
+    "commit": "https://github.com/openclaw/skills/commit/2cf6229cef9c587a10637f1645390611ce61f80c"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1770855121903,
+      "commit": "https://github.com/openclaw/skills/commit/f48599ee3fb2fb4e25ec603bb1b4c92b189cacfd"
+    }
+  ]
+}

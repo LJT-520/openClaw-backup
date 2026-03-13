@@ -1,0 +1,11 @@
+{
+  "owner": "hereoncollab",
+  "slug": "browser-not-use",
+  "displayName": "Broswer",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772052551532,
+    "commit": "https://github.com/openclaw/skills/commit/23ad5cf0ba7c56ef2cdbdc9780eda9b4358e20b9"
+  },
+  "history": []
+}

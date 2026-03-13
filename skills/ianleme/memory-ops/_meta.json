@@ -1,0 +1,11 @@
+{
+  "owner": "ianleme",
+  "slug": "memory-ops",
+  "displayName": "Memory Ops",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772334411461,
+    "commit": "https://github.com/openclaw/skills/commit/c42e6aeb0c1ae70aac46d73a83a4b9fcfe485438"
+  },
+  "history": []
+}

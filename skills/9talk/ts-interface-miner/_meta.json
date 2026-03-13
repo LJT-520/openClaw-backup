@@ -1,0 +1,11 @@
+{
+  "owner": "9talk",
+  "slug": "ts-interface-miner",
+  "displayName": "Ts Interface Miner",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772519849061,
+    "commit": "https://github.com/openclaw/skills/commit/d1d7d643d296a18ec90439063f4a746b745a99c0"
+  },
+  "history": []
+}

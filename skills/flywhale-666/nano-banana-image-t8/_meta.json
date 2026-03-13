@@ -1,0 +1,11 @@
+{
+  "owner": "flywhale-666",
+  "slug": "nano-banana-image-t8",
+  "displayName": "Nano Banana Image T8",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772541133009,
+    "commit": "https://github.com/openclaw/skills/commit/72799fe64fd4bd4127f17fb413c498bc3c635f34"
+  },
+  "history": []
+}

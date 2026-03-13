@@ -1,0 +1,11 @@
+{
+  "owner": "chenhab03",
+  "slug": "claude-code-delegate",
+  "displayName": "Claude Code Delegate",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772625692860,
+    "commit": "https://github.com/openclaw/skills/commit/3da2e9eb816a30dd28480c7c830ca81af970e7ce"
+  },
+  "history": []
+}

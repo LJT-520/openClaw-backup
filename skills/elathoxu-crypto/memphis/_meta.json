@@ -1,0 +1,17 @@
+{
+  "owner": "elathoxu-crypto",
+  "slug": "memphis",
+  "displayName": "Memphis",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1772578654430,
+    "commit": "https://github.com/openclaw/skills/commit/6c2883aa3171dde95d02db00324aec8578b4dd31"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772043577855,
+      "commit": "https://github.com/openclaw/skills/commit/e322854a526fb6af9d3f21ff6180fd22881265e4"
+    }
+  ]
+}

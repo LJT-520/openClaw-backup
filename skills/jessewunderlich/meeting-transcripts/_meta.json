@@ -1,0 +1,11 @@
+{
+  "owner": "jessewunderlich",
+  "slug": "meeting-transcripts",
+  "displayName": "Meeting Transcripts",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772501725678,
+    "commit": "https://github.com/openclaw/skills/commit/83f56ef78a7daee267cfbbd35f313ccf821f93a0"
+  },
+  "history": []
+}

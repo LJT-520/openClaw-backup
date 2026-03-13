@@ -1,0 +1,11 @@
+{
+  "owner": "gora050",
+  "slug": "microsoft-outlook",
+  "displayName": "Microsoft Outlook",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772636555037,
+    "commit": "https://github.com/openclaw/skills/commit/a34fea1364426952560e1c58323f2c8b480148d3"
+  },
+  "history": []
+}

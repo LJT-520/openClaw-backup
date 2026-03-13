@@ -1,0 +1,11 @@
+{
+  "owner": "dadaniya99",
+  "slug": "pdf-ocr",
+  "displayName": "Pdf Ocr",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772623954149,
+    "commit": "https://github.com/openclaw/skills/commit/562bafb3b497f432295c576031ffb1706c45a8ee"
+  },
+  "history": []
+}

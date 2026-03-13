@@ -1,0 +1,11 @@
+{
+  "owner": "djswiss",
+  "slug": "git-federation-searcher",
+  "displayName": "Git Federation Searcher",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771854293187,
+    "commit": "https://github.com/openclaw/skills/commit/3406e66be4df1e3888e93b940e02c36190f1ff84"
+  },
+  "history": []
+}

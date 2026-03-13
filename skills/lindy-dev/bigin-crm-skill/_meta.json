@@ -1,0 +1,11 @@
+{
+  "owner": "lindy-dev",
+  "slug": "bigin-crm-skill",
+  "displayName": "bigin-crm-skill",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772276065839,
+    "commit": "https://github.com/openclaw/skills/commit/bb533bd1cce3149540b1a1e475ad842f6394d819"
+  },
+  "history": []
+}

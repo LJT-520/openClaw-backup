@@ -1,0 +1,11 @@
+{
+  "owner": "joelazar",
+  "slug": "kagi-fastgpt",
+  "displayName": "Kagi Fastgpt",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771686178745,
+    "commit": "https://github.com/openclaw/skills/commit/2f242611158ff240e582d045092005bcd4e0d862"
+  },
+  "history": []
+}

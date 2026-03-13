@@ -1,0 +1,11 @@
+{
+  "owner": "abstract-sum",
+  "slug": "obsidian-clip",
+  "displayName": "Obsidian Clip",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772610569423,
+    "commit": "https://github.com/openclaw/skills/commit/48eae008a0a3a44ab888d68248a473ca450686e5"
+  },
+  "history": []
+}

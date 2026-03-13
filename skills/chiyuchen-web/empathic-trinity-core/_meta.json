@@ -1,0 +1,11 @@
+{
+  "owner": "chiyuchen-web",
+  "slug": "empathic-trinity-core",
+  "displayName": "Empathic Trinity Core",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772535003771,
+    "commit": "https://github.com/openclaw/skills/commit/d31a1b58901828ae09c7495f7628a4fc5c984416"
+  },
+  "history": []
+}

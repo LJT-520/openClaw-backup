@@ -1,0 +1,11 @@
+{
+  "owner": "contrario",
+  "slug": "aetherlang-karpathy-skill",
+  "displayName": "Aetherlang Karpathy Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771657237442,
+    "commit": "https://github.com/openclaw/skills/commit/22ddb38ee46a94d6507275717d4e24cecb06c62d"
+  },
+  "history": []
+}

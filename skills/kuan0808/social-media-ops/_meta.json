@@ -1,0 +1,32 @@
+{
+  "owner": "kuan0808",
+  "slug": "social-media-ops",
+  "displayName": "Social Media Ops",
+  "latest": {
+    "version": "2.2.1",
+    "publishedAt": 1772565143787,
+    "commit": "https://github.com/openclaw/skills/commit/b0ccca2a12b4daaec2eface5dd3b9cc6ff7d821a"
+  },
+  "history": [
+    {
+      "version": "2.0.0",
+      "publishedAt": 1772483475587,
+      "commit": "https://github.com/openclaw/skills/commit/c8626338202a61f01a1466f7ac9f4074a56fadcc"
+    },
+    {
+      "version": "1.8.0",
+      "publishedAt": 1772210457581,
+      "commit": "https://github.com/openclaw/skills/commit/20f18851e3cf26887d144af722d9149cfd6f9567"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772021581676,
+      "commit": "https://github.com/openclaw/skills/commit/e7e4d72a55d1603adb03d755136bc904ee5a7337"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771970970212,
+      "commit": "https://github.com/openclaw/skills/commit/47822e2bcd7cb2dc9c83907ecf781eb42e8a2470"
+    }
+  ]
+}

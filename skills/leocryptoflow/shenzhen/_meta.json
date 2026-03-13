@@ -1,0 +1,11 @@
+{
+  "owner": "leocryptoflow",
+  "slug": "shenzhen",
+  "displayName": "Shenzhen",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772561985280,
+    "commit": "https://github.com/openclaw/skills/commit/871aa910f25800328fa86537ec9c82e0f9cd307f"
+  },
+  "history": []
+}

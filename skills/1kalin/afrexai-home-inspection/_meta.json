@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-home-inspection",
+  "displayName": "Home Inspection Business Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772061224445,
+    "commit": "https://github.com/openclaw/skills/commit/208fd2ea5a6f1f9328c1319ca328b037b32a1a8c"
+  },
+  "history": []
+}

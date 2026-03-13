@@ -1,0 +1,17 @@
+{
+  "owner": "jisuapi",
+  "slug": "jisu-recipe",
+  "displayName": "菜谱大全 - Chinese Recipes",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772534201681,
+    "commit": "https://github.com/openclaw/skills/commit/0e86897eba6638ee1f2fdf997488d7c23cd19eec"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772522838045,
+      "commit": "https://github.com/openclaw/skills/commit/1ccc99eb28a554e654ba98f9d564893aadba71aa"
+    }
+  ]
+}

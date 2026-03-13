@@ -1,0 +1,11 @@
+{
+  "owner": "congwupiece",
+  "slug": "weather-wang",
+  "displayName": "Weather",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772610361093,
+    "commit": "https://github.com/openclaw/skills/commit/bd1e5c6530b89a7066375ef266feff79513b4d11"
+  },
+  "history": []
+}

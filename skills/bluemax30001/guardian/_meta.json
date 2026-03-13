@@ -1,0 +1,62 @@
+{
+  "owner": "bluemax30001",
+  "slug": "guardian",
+  "displayName": "Guardian",
+  "latest": {
+    "version": "2.4.1",
+    "publishedAt": 1772484461602,
+    "commit": "https://github.com/openclaw/skills/commit/08ff9c4c3b83dfedfb09c8f81947e703dc7a7db1"
+  },
+  "history": [
+    {
+      "version": "2.3.4",
+      "publishedAt": 1772445312238,
+      "commit": "https://github.com/openclaw/skills/commit/51ecf1f659ad21d65c8da5ce5f0e61cdadcb6c9a"
+    },
+    {
+      "version": "2.3.0",
+      "publishedAt": 1772386988553,
+      "commit": "https://github.com/openclaw/skills/commit/47b101fa8dc1d6959080a514a485d7023ec0adb1"
+    },
+    {
+      "version": "2.2.0",
+      "publishedAt": 1772219442899,
+      "commit": "https://github.com/openclaw/skills/commit/97408520871b27825104db5efeb97283dfdc5d3a"
+    },
+    {
+      "version": "2.0.20",
+      "publishedAt": 1772075338222,
+      "commit": "https://github.com/openclaw/skills/commit/2f1f66592e6663748f8e9468c43179f352b6e12b"
+    },
+    {
+      "version": "2.0.14",
+      "publishedAt": 1771911520348,
+      "commit": "https://github.com/openclaw/skills/commit/efeaf620259d3f2d6b78fcba3b3d1610830f3ff0"
+    },
+    {
+      "version": "2.0.10",
+      "publishedAt": 1771845523316,
+      "commit": "https://github.com/openclaw/skills/commit/aa4d73c9b6d748f8dea37764731e729368eeaf96"
+    },
+    {
+      "version": "2.0.5",
+      "publishedAt": 1771742652330,
+      "commit": "https://github.com/openclaw/skills/commit/e2fc479a4414235f2e3d00e07519057fdd46c0b1"
+    },
+    {
+      "version": "2.0.3",
+      "publishedAt": 1771680790503,
+      "commit": "https://github.com/openclaw/skills/commit/c895c9ade3b4d28f6b514082bbefb4d8aeb46c8f"
+    },
+    {
+      "version": "1.7.0",
+      "publishedAt": 1771497559380,
+      "commit": "https://github.com/openclaw/skills/commit/5098cc64d4b700f72e3986a66cd2c8acf0877756"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771494893289,
+      "commit": "https://github.com/openclaw/skills/commit/b7c31c636fd70526eb048f331775a00ca85001a0"
+    }
+  ]
+}

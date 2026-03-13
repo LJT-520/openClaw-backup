@@ -1,0 +1,11 @@
+{
+  "owner": "jiafar",
+  "slug": "deep-scraper-amazon",
+  "displayName": "Deep Scraper + Amazon",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772497581881,
+    "commit": "https://github.com/openclaw/skills/commit/feefc49bef83e2e836c639ece01f4c412decd57a"
+  },
+  "history": []
+}

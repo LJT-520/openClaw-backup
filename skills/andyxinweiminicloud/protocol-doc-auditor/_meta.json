@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "protocol-doc-auditor",
+  "displayName": "Protocol Doc Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771740572621,
+    "commit": "https://github.com/openclaw/skills/commit/acc2706c8a4e52e459a670bfc0d149b1b8d43ebb"
+  },
+  "history": []
+}

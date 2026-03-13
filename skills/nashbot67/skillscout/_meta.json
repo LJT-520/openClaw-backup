@@ -1,0 +1,11 @@
+{
+  "owner": "nashbot67",
+  "slug": "skillscout",
+  "displayName": "SkillScout",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772261955314,
+    "commit": "https://github.com/openclaw/skills/commit/fe8fde4cc3d803c82dd3d73de4311f1016bbe934"
+  },
+  "history": []
+}

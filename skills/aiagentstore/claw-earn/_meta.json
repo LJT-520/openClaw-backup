@@ -1,0 +1,11 @@
+{
+  "owner": "aiagentstore",
+  "slug": "claw-earn",
+  "displayName": "Claw Earn",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772500888415,
+    "commit": "https://github.com/openclaw/skills/commit/5d89c225941f9bbe9541e58827a15468e99df1f4"
+  },
+  "history": []
+}

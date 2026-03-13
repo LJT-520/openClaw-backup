@@ -1,0 +1,17 @@
+{
+  "owner": "gakkiismywife",
+  "slug": "recruiter-assistant",
+  "displayName": "Recruiter Assistant",
+  "latest": {
+    "version": "1.4.2",
+    "publishedAt": 1772107757206,
+    "commit": "https://github.com/openclaw/skills/commit/cf084c31fd7d3100d2c463017b6f9825e6b613d9"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771920979396,
+      "commit": "https://github.com/openclaw/skills/commit/51625320aaccb440cdb22ad1f13dcdd38b2473c4"
+    }
+  ]
+}

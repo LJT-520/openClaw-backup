@@ -1,0 +1,11 @@
+{
+  "owner": "jolestar",
+  "slug": "deepwiki-mcp-skill",
+  "displayName": "DeepWiki MCP Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772551547532,
+    "commit": "https://github.com/openclaw/skills/commit/6b30e30efd2b75b12f8f5394ba21c8805b06858f"
+  },
+  "history": []
+}

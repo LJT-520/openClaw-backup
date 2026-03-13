@@ -1,0 +1,22 @@
+{
+  "owner": "kaicianflone",
+  "slug": "consensus-deployment-guard",
+  "displayName": "consensus-deployment-guard",
+  "latest": {
+    "version": "0.1.10",
+    "publishedAt": 1772479665675,
+    "commit": "https://github.com/openclaw/skills/commit/fceac90db29b9dfa1e00991900814c744fbbf834"
+  },
+  "history": [
+    {
+      "version": "0.1.5",
+      "publishedAt": 1772469026228,
+      "commit": "https://github.com/openclaw/skills/commit/d351fb41bc2ed6c0c7eaae9619f0b1b25c66174b"
+    },
+    {
+      "version": "0.1.2",
+      "publishedAt": 1772343202656,
+      "commit": "https://github.com/openclaw/skills/commit/0b68b431c5322d9b297d55c025501b9c614280d8"
+    }
+  ]
+}

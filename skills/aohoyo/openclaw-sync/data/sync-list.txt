@@ -1,0 +1,25 @@
+# OpenClaw 同步文件列表
+# 格式：每行一个文件或目录模式
+
+# 核心数据（必须同步）
+MEMORY.md
+memory/
+USER.md
+IDENTITY.md
+SOUL.md
+AGENTS.md
+TOOLS.md
+HEARTBEAT.md
+
+# 技能配置
+skills/*/config.json
+skills/*/config/*.json
+skills/*/_meta.json
+
+# 自定义工具和脚本
+tools/
+*.sh
+
+# 维护文档
+服务器维护方案.md
+维护日志.md

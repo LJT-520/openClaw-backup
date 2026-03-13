@@ -1,0 +1,17 @@
+{
+  "owner": "neuyazvimyi",
+  "slug": "zoom-meeting",
+  "displayName": "Zoom Meeting create/delete",
+  "latest": {
+    "version": "1.1.4",
+    "publishedAt": 1772277445445,
+    "commit": "https://github.com/openclaw/skills/commit/879143f1588d910bb20a461103bda78d4658bfe8"
+  },
+  "history": [
+    {
+      "version": "1.1.2",
+      "publishedAt": 1772214568564,
+      "commit": "https://github.com/openclaw/skills/commit/b72ba67e3d209d2653c24128f3e3a9330837289c"
+    }
+  ]
+}

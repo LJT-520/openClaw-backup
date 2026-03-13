@@ -1,0 +1,11 @@
+{
+  "owner": "elvisbim",
+  "slug": "futurescout",
+  "displayName": "Elvis Future Scout",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771833113957,
+    "commit": "https://github.com/openclaw/skills/commit/792cd4e292a9d4b2ca8eaf246144ec1515cdf98c"
+  },
+  "history": []
+}

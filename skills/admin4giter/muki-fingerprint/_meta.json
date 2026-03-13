@@ -1,0 +1,11 @@
+{
+  "owner": "admin4giter",
+  "slug": "muki-fingerprint",
+  "displayName": "MUKI Asset Fingerprinting",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771607044699,
+    "commit": "https://github.com/openclaw/skills/commit/a858bb15fdcfcce03faa8372b84d658198fc5046"
+  },
+  "history": []
+}

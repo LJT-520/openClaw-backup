@@ -1,0 +1,11 @@
+{
+  "owner": "g4dr",
+  "slug": "outbound-campaign-autopilot",
+  "displayName": "Outbound Campaign Autopilot — From Niche to Full Campaign in 15 Minutes",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772625231738,
+    "commit": "https://github.com/openclaw/skills/commit/d9e87626123cca6c75cb5caf67a9209a32dad798"
+  },
+  "history": []
+}

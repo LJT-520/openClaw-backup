@@ -1,0 +1,11 @@
+{
+  "owner": "le-shi",
+  "slug": "initial-traefik",
+  "displayName": "initial-traefik",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772602726524,
+    "commit": "https://github.com/openclaw/skills/commit/1d048c339152b429c429b2efcf063541d7438b38"
+  },
+  "history": []
+}

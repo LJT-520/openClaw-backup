@@ -1,0 +1,11 @@
+{
+  "owner": "franklu0819-lang",
+  "slug": "zhipu-asr",
+  "displayName": "Zhipu AI ASR",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771684631424,
+    "commit": "https://github.com/openclaw/skills/commit/983669383df4852cf5f78deae1f4619951f1ed59"
+  },
+  "history": []
+}

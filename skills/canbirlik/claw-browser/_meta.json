@@ -1,0 +1,11 @@
+{
+  "owner": "canbirlik",
+  "slug": "claw-browser",
+  "displayName": "Claw Browser",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771431978620,
+    "commit": "https://github.com/openclaw/skills/commit/b10a6f2524da16d56a8fb5e453516891755a5829"
+  },
+  "history": []
+}

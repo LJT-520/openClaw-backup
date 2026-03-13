@@ -1,0 +1,11 @@
+{
+  "owner": "billionverifier",
+  "slug": "billionverify-skill",
+  "displayName": "Billionverify Skill",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772356927246,
+    "commit": "https://github.com/openclaw/skills/commit/5abda9c4293eceec090e9095a62d5c1ba4f799cd"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "leethebuilder",
+  "slug": "clawbridge-skill-latest",
+  "displayName": "Clawbridge - Find your connections",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1770095437392,
+    "commit": "https://github.com/openclaw/skills/commit/d2d7d5c91c415eb4d88e1ae9458dee70e233df93"
+  },
+  "history": []
+}

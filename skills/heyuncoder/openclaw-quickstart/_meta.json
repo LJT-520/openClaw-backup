@@ -1,0 +1,11 @@
+{
+  "owner": "heyuncoder",
+  "slug": "openclaw-quickstart",
+  "displayName": "OpenClaw Quickstart",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772364788875,
+    "commit": "https://github.com/openclaw/skills/commit/4fc1d3986992989dd62c6196bd2f22ca37a7b46f"
+  },
+  "history": []
+}

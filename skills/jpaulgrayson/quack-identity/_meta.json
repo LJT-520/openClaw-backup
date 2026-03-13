@@ -1,0 +1,11 @@
+{
+  "owner": "jpaulgrayson",
+  "slug": "quack-identity",
+  "displayName": "Quack Identity",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772141989574,
+    "commit": "https://github.com/openclaw/skills/commit/2ea3e6f49190e294a9f5da2940dd457add5b1957"
+  },
+  "history": []
+}

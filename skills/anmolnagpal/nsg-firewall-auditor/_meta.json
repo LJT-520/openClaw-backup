@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "nsg-firewall-auditor",
+  "displayName": "Nsg Firewall Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772622273722,
+    "commit": "https://github.com/openclaw/skills/commit/66c8e22556dbc81fda9ef8920eebf2638cbdd4a9"
+  },
+  "history": []
+}

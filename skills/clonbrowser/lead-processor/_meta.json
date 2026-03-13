@@ -1,0 +1,11 @@
+{
+  "owner": "clonbrowser",
+  "slug": "lead-processor",
+  "displayName": "Lead Processor",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772178783638,
+    "commit": "https://github.com/openclaw/skills/commit/4d4b54380f476c2a32fef27dbc23ccbeb8a5f13c"
+  },
+  "history": []
+}

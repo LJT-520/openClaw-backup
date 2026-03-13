@@ -1,0 +1,11 @@
+{
+  "owner": "leoyeai",
+  "slug": "openclaw-master-skills",
+  "displayName": "OpenClaw Master Skills",
+  "latest": {
+    "version": "0.2.2",
+    "publishedAt": 1772458320689,
+    "commit": "https://github.com/openclaw/skills/commit/cf5a16531382dadb6ae2cf53c0f0130410b30119"
+  },
+  "history": []
+}

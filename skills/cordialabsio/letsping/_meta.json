@@ -1,0 +1,11 @@
+{
+  "owner": "cordialabsio",
+  "slug": "letsping",
+  "displayName": "letsping",
+  "latest": {
+    "version": "0.3.5",
+    "publishedAt": 1772663452982,
+    "commit": "https://github.com/openclaw/skills/commit/92ceb0d16d9468fbf5faf21b8ead34f91c706584"
+  },
+  "history": []
+}

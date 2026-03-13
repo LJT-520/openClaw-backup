@@ -1,0 +1,11 @@
+{
+  "owner": "gm4leejun-stack",
+  "slug": "discord-connect-wizard",
+  "displayName": "Discord Connect Wizard",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772448553602,
+    "commit": "https://github.com/openclaw/skills/commit/64dc26b894f6a38560c54c84c926b7ed686b6030"
+  },
+  "history": []
+}

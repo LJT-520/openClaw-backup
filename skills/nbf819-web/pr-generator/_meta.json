@@ -1,0 +1,11 @@
+{
+  "owner": "nbf819-web",
+  "slug": "pr-generator",
+  "displayName": "二维码生成器",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1771590677314,
+    "commit": "https://github.com/openclaw/skills/commit/489f0a284f54ab646f7e46573f3dbd806ea08c86"
+  },
+  "history": []
+}

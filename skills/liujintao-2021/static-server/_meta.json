@@ -1,0 +1,11 @@
+{
+  "owner": "liujintao-2021",
+  "slug": "static-server",
+  "displayName": "Static Server",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772616879830,
+    "commit": "https://github.com/openclaw/skills/commit/5148500ce0fb46bd1a6689fe844dfe49e2905f17"
+  },
+  "history": []
+}

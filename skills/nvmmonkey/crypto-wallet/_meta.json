@@ -1,0 +1,11 @@
+{
+  "owner": "nvmmonkey",
+  "slug": "crypto-wallet",
+  "displayName": "Crypto Wallet",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772514353450,
+    "commit": "https://github.com/openclaw/skills/commit/64385315cf7403a5f39d32488d774b8a2db34cc4"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "clawd800",
+  "slug": "last-ai-standing",
+  "displayName": "Agent Skill",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1771567669368,
+    "commit": "https://github.com/openclaw/skills/commit/53a07aa15185533738f86342a1f07ef8e3d6f315"
+  },
+  "history": []
+}

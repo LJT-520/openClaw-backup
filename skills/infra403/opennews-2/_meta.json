@@ -1,0 +1,11 @@
+{
+  "owner": "infra403",
+  "slug": "opennews-2",
+  "displayName": "Opennews",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772090317881,
+    "commit": "https://github.com/openclaw/skills/commit/8900cf7a15e40fe6b56311f232a77f87660701db"
+  },
+  "history": []
+}

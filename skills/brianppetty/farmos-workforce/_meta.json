@@ -1,0 +1,11 @@
+{
+  "owner": "brianppetty",
+  "slug": "farmos-workforce",
+  "displayName": "Farmos Workforce",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772010089290,
+    "commit": "https://github.com/openclaw/skills/commit/0fd69f1a14872b707d00a3e665ef26e04e9b768c"
+  },
+  "history": []
+}

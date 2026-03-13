@@ -1,0 +1,11 @@
+{
+  "owner": "nantes",
+  "slug": "simplemem",
+  "displayName": "Simplemem",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771632310763,
+    "commit": "https://github.com/openclaw/skills/commit/3ac45aad699b19ebb7af8d8ca352721443c6e3ca"
+  },
+  "history": []
+}

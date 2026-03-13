@@ -1,0 +1,11 @@
+{
+  "owner": "felipetruman",
+  "slug": "heartbeat-checklist",
+  "displayName": "Heartbeat Checklist",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771896965519,
+    "commit": "https://github.com/openclaw/skills/commit/96eba878cde778d367c17d50a8ec9c7e104d94b1"
+  },
+  "history": []
+}

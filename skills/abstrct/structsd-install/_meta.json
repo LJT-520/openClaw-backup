@@ -1,0 +1,11 @@
+{
+  "owner": "abstrct",
+  "slug": "structsd-install",
+  "displayName": "Structsd Install",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772479275853,
+    "commit": "https://github.com/openclaw/skills/commit/547b2f2afeb106159dc80457ce6bb37643595c44"
+  },
+  "history": []
+}

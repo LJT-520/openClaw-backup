@@ -1,0 +1,17 @@
+{
+  "owner": "extropyconsulting",
+  "slug": "verigent",
+  "displayName": "Verigent",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772577629118,
+    "commit": "https://github.com/openclaw/skills/commit/3d5779e27ac7a07304d1eb615eea44d6efd8b75b"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771988472288,
+      "commit": "https://github.com/openclaw/skills/commit/ec257c6fcf478af9e1649234788f13b3ebcdd8b1"
+    }
+  ]
+}

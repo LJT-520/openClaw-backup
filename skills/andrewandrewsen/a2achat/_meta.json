@@ -1,0 +1,32 @@
+{
+  "owner": "andrewandrewsen",
+  "slug": "a2achat",
+  "displayName": "A2achat",
+  "latest": {
+    "version": "2.0.9",
+    "publishedAt": 1772573737331,
+    "commit": "https://github.com/openclaw/skills/commit/e980871de0283bec4ae95d9992e9f88f0d5f7b01"
+  },
+  "history": [
+    {
+      "version": "1.4.2",
+      "publishedAt": 1771947465645,
+      "commit": "https://github.com/openclaw/skills/commit/697b9ae61ba29f22dcd3c711a2bed278d012cc79"
+    },
+    {
+      "version": "0.1.7",
+      "publishedAt": 1771945192569,
+      "commit": "https://github.com/openclaw/skills/commit/b3239244e465704cb3fb25dd8c3bcaa54825e1d6"
+    },
+    {
+      "version": "0.1.5",
+      "publishedAt": 1771848798490,
+      "commit": "https://github.com/openclaw/skills/commit/eba8f11abf006207b7093aef299071825f166560"
+    },
+    {
+      "version": "0.1.2",
+      "publishedAt": 1771596544966,
+      "commit": "https://github.com/openclaw/skills/commit/2f3f77b4389c70969592816e411f8bf0d3bdd2a0"
+    }
+  ]
+}

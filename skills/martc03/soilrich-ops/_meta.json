@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "soilrich-ops",
+  "displayName": "Soil Rich Ops",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772564013260,
+    "commit": "https://github.com/openclaw/skills/commit/e89974e5e640747612394ac41d93397f4a1e4f8b"
+  },
+  "history": []
+}

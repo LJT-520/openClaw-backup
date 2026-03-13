@@ -1,0 +1,11 @@
+{
+  "owner": "mariuswang007",
+  "slug": "tv-strategy-settings",
+  "displayName": "TradingView Strategy Settings",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771853124347,
+    "commit": "https://github.com/openclaw/skills/commit/b9d2e4cf13e9a466cb6d3ee25173f3fefa83dd69"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "dalomeve",
+  "slug": "powershell-safe-chain",
+  "displayName": "PowerShell Safe Chain",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772348930684,
+    "commit": "https://github.com/openclaw/skills/commit/f12e7f06cb28b33fe54cbcf0780c48853df30154"
+  },
+  "history": []
+}

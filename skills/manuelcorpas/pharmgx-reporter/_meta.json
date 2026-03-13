@@ -1,0 +1,11 @@
+{
+  "owner": "manuelcorpas",
+  "slug": "pharmgx-reporter",
+  "displayName": "PharmGx Reporter",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772258750511,
+    "commit": "https://github.com/openclaw/skills/commit/583a263481106144529e0389eb6489f40100f295"
+  },
+  "history": []
+}

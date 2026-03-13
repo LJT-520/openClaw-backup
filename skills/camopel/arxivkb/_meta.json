@@ -1,0 +1,11 @@
+{
+  "owner": "camopel",
+  "slug": "arxivkb",
+  "displayName": "arxivkb",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771800245339,
+    "commit": "https://github.com/openclaw/skills/commit/ef9ec0ac896d6889f17c0a5126805b25551deb04"
+  },
+  "history": []
+}

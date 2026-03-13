@@ -1,0 +1,11 @@
+{
+  "owner": "aiwithabidi",
+  "slug": "bandwidth",
+  "displayName": "Bandwidth",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771509860361,
+    "commit": "https://github.com/openclaw/skills/commit/93e0e4a283b1e48347a1a3936349d119a643f924"
+  },
+  "history": []
+}

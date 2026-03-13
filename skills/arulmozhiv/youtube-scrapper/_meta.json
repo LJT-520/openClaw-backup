@@ -1,0 +1,17 @@
+{
+  "owner": "arulmozhiv",
+  "slug": "youtube-scrapper",
+  "displayName": "Youtube Scrapper",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772106039809,
+    "commit": "https://github.com/openclaw/skills/commit/aa827c681e74db12a0be8d780f92be0ce1c781cc"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1770904773809,
+      "commit": "https://github.com/openclaw/skills/commit/e909a1e4f22740379d8d7a654485180960c914ef"
+    }
+  ]
+}

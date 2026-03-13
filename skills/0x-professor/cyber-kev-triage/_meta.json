@@ -1,0 +1,11 @@
+{
+  "owner": "0x-professor",
+  "slug": "cyber-kev-triage",
+  "displayName": "Cyber Kev Triage",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772130007281,
+    "commit": "https://github.com/openclaw/skills/commit/5e8bd4c6845c4b30f253ac4c17cc38f318d60cb2"
+  },
+  "history": []
+}

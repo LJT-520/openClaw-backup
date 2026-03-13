@@ -1,0 +1,11 @@
+{
+  "owner": "iuriak",
+  "slug": "bocha-web-search",
+  "displayName": "Bocha Web Search",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772015070839,
+    "commit": "https://github.com/openclaw/skills/commit/ba15fce03785f26c906ef3e94a2d2363bade0192"
+  },
+  "history": []
+}

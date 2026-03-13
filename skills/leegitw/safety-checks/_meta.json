@@ -1,0 +1,27 @@
+{
+  "owner": "leegitw",
+  "slug": "safety-checks",
+  "displayName": "Safety Checks",
+  "latest": {
+    "version": "1.5.2",
+    "publishedAt": 1771921087861,
+    "commit": "https://github.com/openclaw/skills/commit/56f39c8fc75fbcc3f81450351b8021e6f7c6cea7"
+  },
+  "history": [
+    {
+      "version": "1.5.0",
+      "publishedAt": 1771894749738,
+      "commit": "https://github.com/openclaw/skills/commit/fe2c2b22abd46c5ea6f72b1284199e3b1ce535a1"
+    },
+    {
+      "version": "1.4.0",
+      "publishedAt": 1771540398330,
+      "commit": "https://github.com/openclaw/skills/commit/bbdf6539a8dc3b060e2567327758a8c0fc94889a"
+    },
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771469773620,
+      "commit": "https://github.com/openclaw/skills/commit/55aa8eb4f3fa75ba9d23e3b640d2d28be4a7ff5d"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "leegitw",
+  "slug": "workflow-tools",
+  "displayName": "Workflow Tools",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1771895410317,
+    "commit": "https://github.com/openclaw/skills/commit/297f5d1c7bd1a9aec13eb97af1184af4319333ba"
+  },
+  "history": [
+    {
+      "version": "1.4.0",
+      "publishedAt": 1771617977579,
+      "commit": "https://github.com/openclaw/skills/commit/f6f30860d816115b86c9b178b5f0dea0d04bff28"
+    },
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771540504873,
+      "commit": "https://github.com/openclaw/skills/commit/e10a934e8c6dd1e08415e985ca27a0af18eae3fe"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771469822343,
+      "commit": "https://github.com/openclaw/skills/commit/7318e385b8c0b04ded1e3a95c9ab3d7e302fed43"
+    }
+  ]
+}

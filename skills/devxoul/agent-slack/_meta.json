@@ -1,0 +1,11 @@
+{
+  "owner": "devxoul",
+  "slug": "agent-slack",
+  "displayName": "Agent Slack",
+  "latest": {
+    "version": "1.8.1",
+    "publishedAt": 1772601721266,
+    "commit": "https://github.com/openclaw/skills/commit/992f634c680ccc4b75ae136048e781262a4188ff"
+  },
+  "history": []
+}

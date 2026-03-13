@@ -1,0 +1,11 @@
+{
+  "owner": "berriosb",
+  "slug": "opencode-acp-control-3",
+  "displayName": "Opencode Acp Control",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771531563367,
+    "commit": "https://github.com/openclaw/skills/commit/549d6f0a2196056add7aed5c8ab953c327c7503d"
+  },
+  "history": []
+}

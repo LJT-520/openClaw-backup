@@ -1,0 +1,11 @@
+{
+  "owner": "fwangzil",
+  "slug": "safe-flow-sui-skill",
+  "displayName": "Safeflow Sui Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772632488760,
+    "commit": "https://github.com/openclaw/skills/commit/77898d3bfb06d5ae194da24b671f2b984b672f56"
+  },
+  "history": []
+}

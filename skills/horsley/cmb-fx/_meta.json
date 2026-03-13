@@ -1,0 +1,11 @@
+{
+  "owner": "horsley",
+  "slug": "cmb-fx",
+  "displayName": "CMB HKD-CNY Exchange caculator in REALTIME",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772020656233,
+    "commit": "https://github.com/openclaw/skills/commit/42a1f4e2220371b1ecc4dd3ce9b8689d83d799d5"
+  },
+  "history": []
+}

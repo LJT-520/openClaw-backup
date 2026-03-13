@@ -1,0 +1,11 @@
+{
+  "owner": "lkyyyy320",
+  "slug": "video-to-text-2",
+  "displayName": "Video To Text",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772435678071,
+    "commit": "https://github.com/openclaw/skills/commit/e09ad42d0def128157b440d482ccc02a003f1803"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-ai-tech",
+  "slug": "pymupdf",
+  "displayName": "pymupdf",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772205294318,
+    "commit": "https://github.com/openclaw/skills/commit/d030d2d45a60dd01945b998231ae8d4ad0ceb338"
+  },
+  "history": []
+}

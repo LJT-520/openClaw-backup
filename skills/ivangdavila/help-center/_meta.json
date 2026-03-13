@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "help-center",
+  "displayName": "Help Center",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772447709336,
+    "commit": "https://github.com/openclaw/skills/commit/e2d37a09a8ce9fe286395bf1802cf71fef677dfb"
+  },
+  "history": []
+}

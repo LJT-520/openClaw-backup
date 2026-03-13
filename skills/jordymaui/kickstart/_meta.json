@@ -1,0 +1,11 @@
+{
+  "owner": "jordymaui",
+  "slug": "kickstart",
+  "displayName": "Kickstart",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772112802961,
+    "commit": "https://github.com/openclaw/skills/commit/dc3df6f83608089b219126bf02a83550f093f9f4"
+  },
+  "history": []
+}

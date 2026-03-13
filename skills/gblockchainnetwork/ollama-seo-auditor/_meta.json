@@ -1,0 +1,11 @@
+{
+  "owner": "gblockchainnetwork",
+  "slug": "ollama-seo-auditor",
+  "displayName": "Ollama SEO Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771598311767,
+    "commit": "https://github.com/openclaw/skills/commit/7f54fa8377aa9d8c40bf390dbe9947bb0c17f59c"
+  },
+  "history": []
+}

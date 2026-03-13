@@ -1,0 +1,11 @@
+{
+  "owner": "limoxt",
+  "slug": "bento-grid",
+  "displayName": "Bento Grid Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280612620,
+    "commit": "https://github.com/openclaw/skills/commit/05cc44669043bddf75fc856f698e2fb07ad80f49"
+  },
+  "history": []
+}

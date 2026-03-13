@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "monitor-tasks",
+  "displayName": "Monitor Tasks",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772365307597,
+    "commit": "https://github.com/openclaw/skills/commit/786014f80669c376d6edf57b88f498063a478f4f"
+  },
+  "history": []
+}

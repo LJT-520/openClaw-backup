@@ -1,0 +1,11 @@
+{
+  "owner": "imjohnathanblog-spec",
+  "slug": "build-amazon-affiliate-plugin",
+  "displayName": "Build Amazon Affiliate Plugin",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772442177094,
+    "commit": "https://github.com/openclaw/skills/commit/470a8703a658bf12e5112bdc3af1f020f0aa8d0e"
+  },
+  "history": []
+}

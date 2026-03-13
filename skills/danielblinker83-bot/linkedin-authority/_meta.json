@@ -1,0 +1,17 @@
+{
+  "owner": "danielblinker83-bot",
+  "slug": "linkedin-authority",
+  "displayName": "LinkedIn Authority — Thought Leadership System",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772038161519,
+    "commit": "https://github.com/openclaw/skills/commit/f0841b67f0b7541fbf2662e3101d5a94b0cec2eb"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772032589747,
+      "commit": "https://github.com/openclaw/skills/commit/86344bd4fffdb4fce18f43917333c101ca945476"
+    }
+  ]
+}

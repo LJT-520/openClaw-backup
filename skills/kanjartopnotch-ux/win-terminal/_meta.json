@@ -1,0 +1,11 @@
+{
+  "owner": "kanjartopnotch-ux",
+  "slug": "win-terminal",
+  "displayName": "Windows Terminal Control",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771628017787,
+    "commit": "https://github.com/openclaw/skills/commit/cc42670e851f2bf8d4b3a3e0822a7c35538bf867"
+  },
+  "history": []
+}

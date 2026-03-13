@@ -1,0 +1,11 @@
+{
+  "owner": "lixiaojie-1012",
+  "slug": "ai-ppt-maker",
+  "displayName": "help you to make annual work summary ppt",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772273878987,
+    "commit": "https://github.com/openclaw/skills/commit/0c5cd47f0769f3b9dd44a52e97500f407c8ff184"
+  },
+  "history": []
+}

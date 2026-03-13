@@ -1,0 +1,11 @@
+{
+  "owner": "codeaholicman",
+  "slug": "spotify-playlist",
+  "displayName": "Spotify Playlist Builder",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772459124352,
+    "commit": "https://github.com/openclaw/skills/commit/746090c1122209f3a023c1bc87c1dabe5069c8ad"
+  },
+  "history": []
+}

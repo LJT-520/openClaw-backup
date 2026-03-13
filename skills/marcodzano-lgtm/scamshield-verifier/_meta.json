@@ -1,0 +1,17 @@
+{
+  "owner": "marcodzano-lgtm",
+  "slug": "scamshield-verifier",
+  "displayName": "ScamShield Verifier (Web3 Security)",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771630167668,
+    "commit": "https://github.com/openclaw/skills/commit/28a3c72dc036d5754e7f5f7ab740bea39d2564c2"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771595075856,
+      "commit": "https://github.com/openclaw/skills/commit/a7dfc601da90502b1ba87cc8ac528d174af008ac"
+    }
+  ]
+}

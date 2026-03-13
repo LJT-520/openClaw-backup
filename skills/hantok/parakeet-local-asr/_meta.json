@@ -1,0 +1,11 @@
+{
+  "owner": "hantok",
+  "slug": "parakeet-local-asr",
+  "displayName": "Parakeet Local Asr",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771611250718,
+    "commit": "https://github.com/openclaw/skills/commit/f1a5d8dd2a940026076cafc95fc7bdf0bb8f7533"
+  },
+  "history": []
+}

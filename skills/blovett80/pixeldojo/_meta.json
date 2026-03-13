@@ -1,0 +1,11 @@
+{
+  "owner": "blovett80",
+  "slug": "pixeldojo",
+  "displayName": "PixelDojo AI Generation",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771876675723,
+    "commit": "https://github.com/openclaw/skills/commit/fc79463f557b759649fd5ac0c3dd1752dd1ed747"
+  },
+  "history": []
+}

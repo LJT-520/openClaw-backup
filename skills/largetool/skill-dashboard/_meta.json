@@ -1,0 +1,11 @@
+{
+  "owner": "largetool",
+  "slug": "skill-dashboard",
+  "displayName": "Skill Dashboard",
+  "latest": {
+    "version": "2.0.4",
+    "publishedAt": 1772084742683,
+    "commit": "https://github.com/openclaw/skills/commit/1981afc6dae15326ef5a0012586c4e99a841a166"
+  },
+  "history": []
+}

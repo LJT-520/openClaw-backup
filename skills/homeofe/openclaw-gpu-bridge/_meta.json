@@ -1,0 +1,17 @@
+{
+  "owner": "homeofe",
+  "slug": "openclaw-gpu-bridge",
+  "displayName": "GPU Bridge",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1772280882616,
+    "commit": "https://github.com/openclaw/skills/commit/d33c16fc6548298956d37bf47dbf8a4232ad52a9"
+  },
+  "history": [
+    {
+      "version": "0.2.0",
+      "publishedAt": 1771856036840,
+      "commit": "https://github.com/openclaw/skills/commit/ad19fa712b91aa94f68ee8b7758382c41693c832"
+    }
+  ]
+}

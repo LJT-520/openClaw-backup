@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "agi",
+  "displayName": "AGI / Artificial General Intelligence",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771635946893,
+    "commit": "https://github.com/openclaw/skills/commit/8ea3e4724fcd3d5053afdb27b256ee21c6327826"
+  },
+  "history": []
+}

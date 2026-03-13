@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "supabase-vault",
+  "displayName": "Supabase Vault",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772644175991,
+    "commit": "https://github.com/openclaw/skills/commit/711b1fcbe978a40ecd9db564f566e3e1e22f8a44"
+  },
+  "history": []
+}

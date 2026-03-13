@@ -1,0 +1,11 @@
+{
+  "owner": "egemenyerdelen",
+  "slug": "spotify-controller",
+  "displayName": "Spotify Controller",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772155834421,
+    "commit": "https://github.com/openclaw/skills/commit/b7f073fa25627adc7850e9e2dd53ee73abfc4772"
+  },
+  "history": []
+}

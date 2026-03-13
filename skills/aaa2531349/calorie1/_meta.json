@@ -1,0 +1,11 @@
+{
+  "owner": "aaa2531349",
+  "slug": "calorie1",
+  "displayName": "calorie1-detective-v3",
+  "latest": {
+    "version": "3.0.2",
+    "publishedAt": 1772553776048,
+    "commit": "https://github.com/openclaw/skills/commit/59c748e02cf8b7b7223935f72ff50cc151740234"
+  },
+  "history": []
+}

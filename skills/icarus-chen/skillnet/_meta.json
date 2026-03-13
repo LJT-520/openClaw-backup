@@ -1,0 +1,17 @@
+{
+  "owner": "icarus-chen",
+  "slug": "skillnet",
+  "displayName": "skillnet",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1771941201254,
+    "commit": "https://github.com/openclaw/skills/commit/a53b7089788299bac69049e0e0f2b3f802d6a4e6"
+  },
+  "history": [
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771866214874,
+      "commit": "https://github.com/openclaw/skills/commit/001568ca6bd62c5ae6cb77b2ccd9e7d809f1cc71"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "gooderno1",
+  "slug": "larksync-feishu-local-cache",
+  "displayName": "LarkSync Feishu Local Cache",
+  "latest": {
+    "version": "0.1.6",
+    "publishedAt": 1772360501761,
+    "commit": "https://github.com/openclaw/skills/commit/62ad3c4179d25955cc4373091baf81dbf6c1214f"
+  },
+  "history": [
+    {
+      "version": "0.1.5",
+      "publishedAt": 1771906291531,
+      "commit": "https://github.com/openclaw/skills/commit/136feae944c8b31eeb50d567eb7503e06390aa7b"
+    },
+    {
+      "version": "0.1.4",
+      "publishedAt": 1771872697704,
+      "commit": "https://github.com/openclaw/skills/commit/fe8e9653c5d408a201ebd769821b9ea649f0d139"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771853473936,
+      "commit": "https://github.com/openclaw/skills/commit/47ae364f0f787e7c41d55c438aeaa6c49420f5b7"
+    }
+  ]
+}

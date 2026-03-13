@@ -1,0 +1,11 @@
+{
+  "owner": "fabglitch",
+  "slug": "admin-cli",
+  "displayName": "Admin Cli",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772145996395,
+    "commit": "https://github.com/openclaw/skills/commit/77da8c9229f9be454b3d50dbea949785a6b986fe"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "hieuhani",
+  "slug": "entradex",
+  "displayName": "EntradeX",
+  "latest": {
+    "version": "0.1.16",
+    "publishedAt": 1771992779821,
+    "commit": "https://github.com/openclaw/skills/commit/78c352eaee9abdb2e95cb488a72947700d1fe004"
+  },
+  "history": []
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "harman314",
+  "slug": "rescueclaw",
+  "displayName": "RescueClaw",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1771925910345,
+    "commit": "https://github.com/openclaw/skills/commit/3c32ec57c836bd572719af11adb91e5055e6269f"
+  },
+  "history": [
+    {
+      "version": "0.2.0",
+      "publishedAt": 1771919284412,
+      "commit": "https://github.com/openclaw/skills/commit/43d83f57401d35217afe6956ec3d0b26f6386852"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771841434326,
+      "commit": "https://github.com/openclaw/skills/commit/8ac741871b130ba2a6afc4683724b6bc6c691c84"
+    }
+  ]
+}

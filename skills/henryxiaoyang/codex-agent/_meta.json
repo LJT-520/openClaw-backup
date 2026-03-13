@@ -1,0 +1,11 @@
+{
+  "owner": "henryxiaoyang",
+  "slug": "codex-agent",
+  "displayName": "Codex Agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772292607295,
+    "commit": "https://github.com/openclaw/skills/commit/eef922f7956f5c047c4e6c4fdedec2b3998aa0dd"
+  },
+  "history": []
+}

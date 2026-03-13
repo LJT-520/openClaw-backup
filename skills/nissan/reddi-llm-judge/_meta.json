@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "reddi-llm-judge",
+  "displayName": "Llm As Judge",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772145139946,
+    "commit": "https://github.com/openclaw/skills/commit/5c658c6b7d6adb805c34b247aab448ef46fb5267"
+  },
+  "history": []
+}

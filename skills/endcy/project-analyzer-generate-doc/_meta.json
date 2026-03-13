@@ -1,0 +1,11 @@
+{
+  "owner": "endcy",
+  "slug": "project-analyzer-generate-doc",
+  "displayName": "Project Analyzer Generate Doc",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772521097128,
+    "commit": "https://github.com/openclaw/skills/commit/88ca6b4cfd5bab93efb11ef278f5ca3434f8ef45"
+  },
+  "history": []
+}

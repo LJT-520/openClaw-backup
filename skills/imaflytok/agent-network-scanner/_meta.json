@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "agent-network-scanner",
+  "displayName": "Agent Network Scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772387020852,
+    "commit": "https://github.com/openclaw/skills/commit/dcdd5f6903985b0ad43a786fe63cd7ed30df09d9"
+  },
+  "history": []
+}

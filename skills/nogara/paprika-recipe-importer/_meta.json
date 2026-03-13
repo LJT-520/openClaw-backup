@@ -1,0 +1,11 @@
+{
+  "owner": "nogara",
+  "slug": "paprika-recipe-importer",
+  "displayName": "Paprika Recipe Importer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772207151164,
+    "commit": "https://github.com/openclaw/skills/commit/1625de2bf9430fe60177c5a43599b3a075e27a44"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "nashbuaa-ops",
+  "slug": "auto-security-audit",
+  "displayName": "Auto Security Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772640273119,
+    "commit": "https://github.com/openclaw/skills/commit/8c2cb0ac91531b3b6049ad795c07e094b58f3e6f"
+  },
+  "history": []
+}

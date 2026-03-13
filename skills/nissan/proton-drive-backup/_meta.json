@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "proton-drive-backup",
+  "displayName": "Proton Drive Backup",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772398969821,
+    "commit": "https://github.com/openclaw/skills/commit/6db62ccae44de3d95c17ea8a44533c8bde4b6b0e"
+  },
+  "history": []
+}

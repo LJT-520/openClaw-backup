@@ -1,0 +1,17 @@
+{
+  "owner": "asif2bd",
+  "slug": "xcloud-docker-deploy",
+  "displayName": "xCloud Docker Deploy",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1772543644312,
+    "commit": "https://github.com/openclaw/skills/commit/abf173ed1991af4406566daf1d0be451c609ead4"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772534733949,
+      "commit": "https://github.com/openclaw/skills/commit/8279b41867b717db61b0047bc92d1ffeb6746e07"
+    }
+  ]
+}

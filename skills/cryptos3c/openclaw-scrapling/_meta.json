@@ -1,0 +1,11 @@
+{
+  "owner": "cryptos3c",
+  "slug": "openclaw-scrapling",
+  "displayName": "OpenClaw Scrapling",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772173904689,
+    "commit": "https://github.com/openclaw/skills/commit/f7a4c62ccf07feb6298108d71b15e507b8b6a2d9"
+  },
+  "history": []
+}

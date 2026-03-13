@@ -1,0 +1,11 @@
+{
+  "owner": "leoyeai",
+  "slug": "openclaw-guardian-ultra",
+  "displayName": "Openclaw Guardian",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772421642043,
+    "commit": "https://github.com/openclaw/skills/commit/1c11ea7a001704c4dfd0e84c47437aca7eb787cd"
+  },
+  "history": []
+}

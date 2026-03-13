@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "vancouver",
+  "displayName": "Vancouver",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771851103548,
+    "commit": "https://github.com/openclaw/skills/commit/784ca9c827d4a9e248c71618423c3b636e614562"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "bodietron",
+  "slug": "openclaw-agent-browser",
+  "displayName": "Agent Browser",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772156126394,
+    "commit": "https://github.com/openclaw/skills/commit/29489b3148a5920e7ca9281e9fc6798bc1b5ca69"
+  },
+  "history": []
+}

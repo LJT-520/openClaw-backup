@@ -1,0 +1,11 @@
+{
+  "owner": "davek-dev",
+  "slug": "tado-thermostat",
+  "displayName": "tado-thermostat",
+  "latest": {
+    "version": "1.2.3",
+    "publishedAt": 1772192171202,
+    "commit": "https://github.com/openclaw/skills/commit/0129cfe4e34078397ceaf5239a8eb02e36598e39"
+  },
+  "history": []
+}

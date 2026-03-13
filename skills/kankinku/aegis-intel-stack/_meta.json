@@ -1,0 +1,11 @@
+{
+  "owner": "kankinku",
+  "slug": "aegis-intel-stack",
+  "displayName": "Aegis Intel Stack",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771784176040,
+    "commit": "https://github.com/openclaw/skills/commit/3af702f4a110786ad29297351130f4cc1d5a4b95"
+  },
+  "history": []
+}

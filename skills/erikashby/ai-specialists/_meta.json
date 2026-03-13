@@ -1,0 +1,17 @@
+{
+  "owner": "erikashby",
+  "slug": "ai-specialists",
+  "displayName": "Ai Specialists",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771687811516,
+    "commit": "https://github.com/openclaw/skills/commit/6065c7184b981cd7f7ad122c841301a606a5c83e"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771553224570,
+      "commit": "https://github.com/openclaw/skills/commit/b9d5478cac2addd21034e551286cf1db06f1e546"
+    }
+  ]
+}

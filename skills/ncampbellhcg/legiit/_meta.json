@@ -1,0 +1,11 @@
+{
+  "owner": "ncampbellhcg",
+  "slug": "legiit",
+  "displayName": "Legiit Marketplace",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772240377472,
+    "commit": "https://github.com/openclaw/skills/commit/a8c2072082dce964dd3390fc85e2fda80a362323"
+  },
+  "history": []
+}

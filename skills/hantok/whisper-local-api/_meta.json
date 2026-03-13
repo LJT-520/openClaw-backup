@@ -1,0 +1,11 @@
+{
+  "owner": "hantok",
+  "slug": "whisper-local-api",
+  "displayName": "Whisper Local Api",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771839187199,
+    "commit": "https://github.com/openclaw/skills/commit/60c28d1ae5be6c7444e1be89808b33956a64d6db"
+  },
+  "history": []
+}

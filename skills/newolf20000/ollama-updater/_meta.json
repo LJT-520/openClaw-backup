@@ -1,0 +1,11 @@
+{
+  "owner": "newolf20000",
+  "slug": "ollama-updater",
+  "displayName": "Ollama Updater",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771549141678,
+    "commit": "https://github.com/openclaw/skills/commit/af3d3994902dbca0e3bbf2a76310865db84ab1c1"
+  },
+  "history": []
+}

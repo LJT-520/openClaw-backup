@@ -1,0 +1,11 @@
+{
+  "owner": "dqalex",
+  "slug": "comind",
+  "displayName": "Comind",
+  "latest": {
+    "version": "2.3.4",
+    "publishedAt": 1771986718905,
+    "commit": "https://github.com/openclaw/skills/commit/030813faae32f369c394dc071a87a741ebfe5023"
+  },
+  "history": []
+}

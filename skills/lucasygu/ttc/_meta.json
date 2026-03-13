@@ -1,0 +1,11 @@
+{
+  "owner": "lucasygu",
+  "slug": "ttc",
+  "displayName": "TTC CLI",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772601216281,
+    "commit": "https://github.com/openclaw/skills/commit/98cd10dc8bf83d0f0b79d7579db51787fa01eee0"
+  },
+  "history": []
+}

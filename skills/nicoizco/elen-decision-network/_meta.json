@@ -1,0 +1,11 @@
+{
+  "owner": "nicoizco",
+  "slug": "elen-decision-network",
+  "displayName": "Elen: Epistemic Decision Tracker",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772078985715,
+    "commit": "https://github.com/openclaw/skills/commit/982f80120a9d737ff0d868a8c71e6ecf07fbaf54"
+  },
+  "history": []
+}

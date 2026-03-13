@@ -1,0 +1,11 @@
+{
+  "owner": "collierking",
+  "slug": "backtestbot",
+  "displayName": "BacktestBot",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1771751895617,
+    "commit": "https://github.com/openclaw/skills/commit/3aec052fcf816b8c02561dd4064999c67b3d251b"
+  },
+  "history": []
+}

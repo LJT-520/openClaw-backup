@@ -1,0 +1,11 @@
+{
+  "owner": "2manslkh",
+  "slug": "line-api",
+  "displayName": "Line Client",
+  "latest": {
+    "version": "0.2.1",
+    "publishedAt": 1771942904848,
+    "commit": "https://github.com/openclaw/skills/commit/5dde22e2bc9e332e7f9a726b9a051e24821c5e2a"
+  },
+  "history": []
+}

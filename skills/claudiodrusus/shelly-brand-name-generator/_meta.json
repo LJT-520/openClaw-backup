@@ -1,0 +1,11 @@
+{
+  "owner": "claudiodrusus",
+  "slug": "shelly-brand-name-generator",
+  "displayName": "Brand Name Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771792516760,
+    "commit": "https://github.com/openclaw/skills/commit/b98a6c4b1e675d20f3535e515151f0cfc07e871b"
+  },
+  "history": []
+}

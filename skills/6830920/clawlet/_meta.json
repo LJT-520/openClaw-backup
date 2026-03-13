@@ -1,0 +1,11 @@
+{
+  "owner": "6830920",
+  "slug": "clawlet",
+  "displayName": "Clawlet",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771863245177,
+    "commit": "https://github.com/openclaw/skills/commit/ba9a9d5d2b97c03af58464252e215124964a1fb7"
+  },
+  "history": []
+}

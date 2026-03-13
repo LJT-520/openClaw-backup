@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "tagging-auditor",
+  "displayName": "Tagging Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772359587820,
+    "commit": "https://github.com/openclaw/skills/commit/f8b70a1372d7d47ab15f2dd3b83e49e52ad4194f"
+  },
+  "history": []
+}

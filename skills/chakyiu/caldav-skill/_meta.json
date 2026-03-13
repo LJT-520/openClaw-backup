@@ -1,0 +1,11 @@
+{
+  "owner": "chakyiu",
+  "slug": "caldav-skill",
+  "displayName": "Caldav",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771931461032,
+    "commit": "https://github.com/openclaw/skills/commit/acdb979268e3dfeee12dfd1b71f6a8a2f32b45d8"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "leegitw",
+  "slug": "insight-song",
+  "displayName": "Insight Song",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771985770345,
+    "commit": "https://github.com/openclaw/skills/commit/0ce4b8c0755d952d537a4cd81482593689bf9813"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "dalomeve",
+  "slug": "task-finish-contract",
+  "displayName": "Task Finish Contract",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772348910975,
+    "commit": "https://github.com/openclaw/skills/commit/7e2025c5875351371eeddbe4e6f71fc95778ecfd"
+  },
+  "history": []
+}

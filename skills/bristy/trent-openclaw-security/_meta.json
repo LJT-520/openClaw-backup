@@ -1,0 +1,11 @@
+{
+  "owner": "bristy",
+  "slug": "trent-openclaw-security",
+  "displayName": "Trent OpenClaw Security",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772628491079,
+    "commit": "https://github.com/openclaw/skills/commit/3976f91d35f6b6aae277e262c6c4c7cf6879cbf8"
+  },
+  "history": []
+}

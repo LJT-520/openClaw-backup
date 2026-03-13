@@ -1,0 +1,11 @@
+{
+  "owner": "mwangxiang",
+  "slug": "knowledge-distill",
+  "displayName": "Knowledge Distill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772032507402,
+    "commit": "https://github.com/openclaw/skills/commit/ae7d29b00a2582e3186c39fb8f27a89f09dea529"
+  },
+  "history": []
+}

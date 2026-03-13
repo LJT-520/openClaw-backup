@@ -1,0 +1,11 @@
+{
+  "owner": "aksenkin",
+  "slug": "voice-stt-tts",
+  "displayName": "Voice messaging setup",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772348571338,
+    "commit": "https://github.com/openclaw/skills/commit/9618cd0a3a3bd40c4f5ad416326c7eae730c6760"
+  },
+  "history": []
+}

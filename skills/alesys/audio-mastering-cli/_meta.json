@@ -1,0 +1,11 @@
+{
+  "owner": "alesys",
+  "slug": "audio-mastering-cli",
+  "displayName": "Audio Mastering CLI",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771806012846,
+    "commit": "https://github.com/openclaw/skills/commit/73bceda354ccff9216b8e8066a9b7a1cee6a091d"
+  },
+  "history": []
+}

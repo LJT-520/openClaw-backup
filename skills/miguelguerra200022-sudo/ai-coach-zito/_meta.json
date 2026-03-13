@@ -1,0 +1,11 @@
+{
+  "owner": "miguelguerra200022-sudo",
+  "slug": "ai-coach-zito",
+  "displayName": "Ai Coach",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772275748102,
+    "commit": "https://github.com/openclaw/skills/commit/204a6b607681a5d34b1cf4233b46b446e7a9d4d3"
+  },
+  "history": []
+}

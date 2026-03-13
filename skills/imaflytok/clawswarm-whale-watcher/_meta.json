@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "clawswarm-whale-watcher",
+  "displayName": "ClawSwarm Whale Watcher",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772476455783,
+    "commit": "https://github.com/openclaw/skills/commit/d4e5880e788f66f818c4a13e89640a95f4acd3a2"
+  },
+  "history": []
+}

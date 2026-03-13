@@ -1,0 +1,27 @@
+{
+  "owner": "clawberrypi",
+  "slug": "xmtp-agent-swarm",
+  "displayName": "Agent Swarm",
+  "latest": {
+    "version": "4.0.0",
+    "publishedAt": 1771996297789,
+    "commit": "https://github.com/openclaw/skills/commit/34c9ea74a7ceec2792dcb16468e0179bb7bdc4b9"
+  },
+  "history": [
+    {
+      "version": "3.1.0",
+      "publishedAt": 1771980015789,
+      "commit": "https://github.com/openclaw/skills/commit/52d82bd9c6271297a1035f3dd5d2831d68f46cf3"
+    },
+    {
+      "version": "2.2.0",
+      "publishedAt": 1771882598975,
+      "commit": "https://github.com/openclaw/skills/commit/cab8a3e1552252841aac3a837ba093e904395d6f"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771646948551,
+      "commit": "https://github.com/openclaw/skills/commit/e8ec9d5908af8559eaf9278636153919b0c5cb95"
+    }
+  ]
+}

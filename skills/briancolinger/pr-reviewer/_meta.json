@@ -1,0 +1,17 @@
+{
+  "owner": "briancolinger",
+  "slug": "pr-reviewer",
+  "displayName": "pr-reviewer",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771529167274,
+    "commit": "https://github.com/openclaw/skills/commit/6f6a74a9fcf6b1478b817a85f2c1dd14a44d13d3"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770065590361,
+      "commit": "https://github.com/clawdbot/skills/commit/75d0ef5bdfd40cd475c2ac26c665fe6ed191a2d1"
+    }
+  ]
+}

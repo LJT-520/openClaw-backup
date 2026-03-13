@@ -1,0 +1,11 @@
+{
+  "owner": "ggaabe",
+  "slug": "postalform-agent-mailing",
+  "displayName": "Send real Document in the Mail via PostalForm",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771951139628,
+    "commit": "https://github.com/openclaw/skills/commit/58211ffb7c0398b0e708244e66f0c20beef91eef"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "abstrct",
+  "slug": "structs-diplomacy",
+  "displayName": "Structs Diplomacy",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772479228304,
+    "commit": "https://github.com/openclaw/skills/commit/b5db5bf84f672f48887c82c9cdc10b29bee6b29e"
+  },
+  "history": []
+}

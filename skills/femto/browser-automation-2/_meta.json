@@ -1,0 +1,11 @@
+{
+  "owner": "femto",
+  "slug": "browser-automation-2",
+  "displayName": "Browser Automation",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771824224283,
+    "commit": "https://github.com/openclaw/skills/commit/51ecf05cb419167e5aa764c7b09664c7ba3a7130"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ok-james-01",
+  "slug": "okx-wallet-portfolio",
+  "displayName": "Okx Wallet Portfolio",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772534160727,
+    "commit": "https://github.com/openclaw/skills/commit/f692d4b0d2618da3a18b4718da494834fc7d3696"
+  },
+  "history": []
+}

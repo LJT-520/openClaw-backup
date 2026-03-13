@@ -1,0 +1,17 @@
+{
+  "owner": "guohongbin-git",
+  "slug": "solana-funding-arb-cn",
+  "displayName": "Solana Funding Arb Cn",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771605388886,
+    "commit": "https://github.com/openclaw/skills/commit/add44cc8a6d9c9c8bdc0688708632c68583806c6"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771330677182,
+      "commit": "https://github.com/openclaw/skills/commit/f0d2748b1ca07730c5e680d4b08cfaf020cd48ca"
+    }
+  ]
+}

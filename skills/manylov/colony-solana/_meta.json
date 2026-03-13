@@ -1,0 +1,11 @@
+{
+  "owner": "manylov",
+  "slug": "colony-solana",
+  "displayName": "Colony Solana",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771603155754,
+    "commit": "https://github.com/openclaw/skills/commit/f72dd276779befcefa4185ebfaf5cf9d44da736b"
+  },
+  "history": []
+}

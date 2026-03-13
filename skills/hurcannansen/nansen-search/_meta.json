@@ -1,0 +1,11 @@
+{
+  "owner": "hurcannansen",
+  "slug": "nansen-search",
+  "displayName": "Nansen Search",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772619220801,
+    "commit": "https://github.com/openclaw/skills/commit/5bad82f097b85c763bf56d4fe811b09176cf9e84"
+  },
+  "history": []
+}

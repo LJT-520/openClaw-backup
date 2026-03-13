@@ -1,0 +1,11 @@
+{
+  "owner": "jpaulgrayson",
+  "slug": "quack-memory",
+  "displayName": "Quack Memory",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772147434982,
+    "commit": "https://github.com/openclaw/skills/commit/2513fa05defbd5d0c9209ade2d0ac80a4c9b29ec"
+  },
+  "history": []
+}

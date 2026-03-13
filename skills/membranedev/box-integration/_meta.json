@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "box-integration",
+  "displayName": "Box",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772603744306,
+    "commit": "https://github.com/openclaw/skills/commit/4238c0199c57df6cc4697db70cea8ace152d102d"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "smoke-test-generator",
+  "displayName": "Smoke Test Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772393341038,
+    "commit": "https://github.com/openclaw/skills/commit/11cd613cac8e6d2af7b80a8e2464398adabaef7f"
+  },
+  "history": []
+}

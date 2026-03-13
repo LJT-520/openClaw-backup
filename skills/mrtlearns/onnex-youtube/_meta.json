@@ -1,0 +1,11 @@
+{
+  "owner": "mrtlearns",
+  "slug": "onnex-youtube",
+  "displayName": "Onnex YouTube",
+  "latest": {
+    "version": "4.2.2",
+    "publishedAt": 1772622786400,
+    "commit": "https://github.com/openclaw/skills/commit/e71832de74a63607e44a181048594d0cd8319455"
+  },
+  "history": []
+}

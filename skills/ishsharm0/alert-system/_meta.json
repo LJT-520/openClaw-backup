@@ -1,0 +1,11 @@
+{
+  "owner": "ishsharm0",
+  "slug": "alert-system",
+  "displayName": "Alert System",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771961046832,
+    "commit": "https://github.com/openclaw/skills/commit/820ec72c20142093e668ce5bb5ade552533c3586"
+  },
+  "history": []
+}

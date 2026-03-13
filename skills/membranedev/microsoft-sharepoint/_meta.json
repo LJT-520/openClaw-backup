@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "microsoft-sharepoint",
+  "displayName": "Microsoft Sharepoint",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772603737345,
+    "commit": "https://github.com/openclaw/skills/commit/21ec33d0505f2893eaa7aac1e14004088623761f"
+  },
+  "history": []
+}

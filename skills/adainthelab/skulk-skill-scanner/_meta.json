@@ -1,0 +1,11 @@
+{
+  "owner": "adainthelab",
+  "slug": "skulk-skill-scanner",
+  "displayName": "Skulk Skill Scanner",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771588918453,
+    "commit": "https://github.com/openclaw/skills/commit/a1d1b2e6b50a0379a59ce859c36ca249822bdc8b"
+  },
+  "history": []
+}

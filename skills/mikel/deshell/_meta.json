@@ -1,0 +1,11 @@
+{
+  "owner": "mikel",
+  "slug": "deshell",
+  "displayName": "deshell - the web & search in markdown",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1771568304978,
+    "commit": "https://github.com/openclaw/skills/commit/ef2a1ba928c71d64e126a0223bc28a1f394098a0"
+  },
+  "history": []
+}

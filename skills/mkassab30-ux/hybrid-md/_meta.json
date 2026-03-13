@@ -1,0 +1,17 @@
+{
+  "owner": "mkassab30-ux",
+  "slug": "hybrid-md",
+  "displayName": "Hybrid MD Assistant.",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771807517723,
+    "commit": "https://github.com/openclaw/skills/commit/5a95a6d70cf50d7224764a1cd8f0476c326881d1"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771804492159,
+      "commit": "https://github.com/openclaw/skills/commit/e25517d88540e1151c5ac2cf98bbc967bb81cc86"
+    }
+  ]
+}

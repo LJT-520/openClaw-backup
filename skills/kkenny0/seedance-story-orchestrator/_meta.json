@@ -1,0 +1,11 @@
+{
+  "owner": "kkenny0",
+  "slug": "seedance-story-orchestrator",
+  "displayName": "Seedance Video Generation Extension",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772009247653,
+    "commit": "https://github.com/openclaw/skills/commit/044d6f3f94c33e2d40ab840365c143b946a664d7"
+  },
+  "history": []
+}

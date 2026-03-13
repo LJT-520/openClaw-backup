@@ -1,0 +1,17 @@
+{
+  "owner": "mkpareek0315",
+  "slug": "content-repurpose-pro",
+  "displayName": "Content Repurposer",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771818503502,
+    "commit": "https://github.com/openclaw/skills/commit/76cd5dda37ca4fecfceafb4917fe5adeffedb083"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771764233585,
+      "commit": "https://github.com/openclaw/skills/commit/cf5ce067bfab669c328e3b55edeedde4e6ae0431"
+    }
+  ]
+}

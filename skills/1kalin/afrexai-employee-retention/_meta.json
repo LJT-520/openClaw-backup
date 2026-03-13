@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-employee-retention",
+  "displayName": "Employee Retention & Turnover Risk Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771701257352,
+    "commit": "https://github.com/openclaw/skills/commit/ad5878eeb5fc66d4ff8f432b1db58a18069ebedb"
+  },
+  "history": []
+}

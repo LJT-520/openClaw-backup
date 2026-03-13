@@ -1,0 +1,11 @@
+{
+  "owner": "mrilaikram",
+  "slug": "free-image-generation-skill",
+  "displayName": "Free Image Generation Skill",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772620907196,
+    "commit": "https://github.com/openclaw/skills/commit/014d4dc481ffc478e67723b7b50bfcf4e473bbb6"
+  },
+  "history": []
+}

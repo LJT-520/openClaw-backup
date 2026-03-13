@@ -1,0 +1,11 @@
+{
+  "owner": "ianwchoi",
+  "slug": "duckduckgo-websearch",
+  "displayName": "Duckduckgo Websearch",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771900763434,
+    "commit": "https://github.com/openclaw/skills/commit/7e9a5a2defdf56f6ced88001aa5fe79d5fdd768a"
+  },
+  "history": []
+}

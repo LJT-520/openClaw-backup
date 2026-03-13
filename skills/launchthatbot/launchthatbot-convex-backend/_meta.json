@@ -1,0 +1,17 @@
+{
+  "owner": "launchthatbot",
+  "slug": "launchthatbot-convex-backend",
+  "displayName": "Launchthatbot Convex Backend",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772046811239,
+    "commit": "https://github.com/openclaw/skills/commit/eafb8e3b86d3e4a2e885db93c33cc6f7e58aa5d7"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772044603004,
+      "commit": "https://github.com/openclaw/skills/commit/288ab95d4c625b2b0be8f84dc64739506d9920c9"
+    }
+  ]
+}

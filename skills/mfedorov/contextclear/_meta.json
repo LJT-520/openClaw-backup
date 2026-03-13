@@ -1,0 +1,11 @@
+{
+  "owner": "mfedorov",
+  "slug": "contextclear",
+  "displayName": "ContextClear - AI Agent Wellness Monitor",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772638748696,
+    "commit": "https://github.com/openclaw/skills/commit/7fd3966a3e77d47db05a9cdf707f6c9f6b91bf01"
+  },
+  "history": []
+}

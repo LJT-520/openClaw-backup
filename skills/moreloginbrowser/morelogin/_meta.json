@@ -1,0 +1,17 @@
+{
+  "owner": "moreloginbrowser",
+  "slug": "morelogin",
+  "displayName": "MoreLogin",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772346318065,
+    "commit": "https://github.com/openclaw/skills/commit/2a08d2cf80f6c4776705269635e740a7330f2355"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772162529708,
+      "commit": "https://github.com/openclaw/skills/commit/0ead90d5465bf0d1af72c9626c0eb6ceb4a153b3"
+    }
+  ]
+}

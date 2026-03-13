@@ -1,0 +1,37 @@
+{
+  "owner": "nwang783",
+  "slug": "clawver-print-on-demand",
+  "displayName": "Clawver Print On Demand",
+  "latest": {
+    "version": "1.0.10",
+    "publishedAt": 1772212627892,
+    "commit": "https://github.com/openclaw/skills/commit/3d4d360a32690f16afdf7d1b751828bed50e93aa"
+  },
+  "history": [
+    {
+      "version": "1.0.8",
+      "publishedAt": 1772124207162,
+      "commit": "https://github.com/openclaw/skills/commit/fd41680199e852e212453be5512b9a8307b07ff7"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771893250007,
+      "commit": "https://github.com/openclaw/skills/commit/af7bde13adac2a63994eed989f962d7301ebdb36"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1770950761834,
+      "commit": "https://github.com/openclaw/skills/commit/b67bee5426fdb223ffa2e887eafae0fd4cc8a967"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770736354960,
+      "commit": "https://github.com/openclaw/skills/commit/6df2b0d5b2edaad57190ba6feb24dd0c1731f15c"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770343516328,
+      "commit": "https://github.com/openclaw/skills/commit/4f3b8df05682311dd0da9054e105e340f97817c2"
+    }
+  ]
+}

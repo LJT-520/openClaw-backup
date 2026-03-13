@@ -1,0 +1,22 @@
+{
+  "owner": "brandons7",
+  "slug": "vitavault",
+  "displayName": "Vitavault",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1772391902548,
+    "commit": "https://github.com/openclaw/skills/commit/153a0ea08045c9b5e0ac32cc2119544414b951dd"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1772313420246,
+      "commit": "https://github.com/openclaw/skills/commit/442a9ba4c9ad5fbab5e49bf1d23d6482db7d022d"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771509973651,
+      "commit": "https://github.com/openclaw/skills/commit/66f4b94390feb299e4c207db51f00670e668ae2b"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "aliexpress",
+  "displayName": "Aliexpress",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771539812556,
+    "commit": "https://github.com/openclaw/skills/commit/5a33adb7c9157eb44c248cf7ea8793e86b8aaec5"
+  },
+  "history": []
+}

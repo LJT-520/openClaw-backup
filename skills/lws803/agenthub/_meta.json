@@ -1,0 +1,11 @@
+{
+  "owner": "lws803",
+  "slug": "agenthub",
+  "displayName": "AgentHub",
+  "latest": {
+    "version": "0.3.0",
+    "publishedAt": 1772457304161,
+    "commit": "https://github.com/openclaw/skills/commit/2df0cd2e1296aaf89cea18f6c01cc6e37ff92ecd"
+  },
+  "history": []
+}

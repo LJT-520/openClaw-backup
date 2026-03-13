@@ -1,0 +1,11 @@
+{
+  "owner": "jpaulgrayson",
+  "slug": "quack-sdk",
+  "displayName": "Quack Sdk",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772060959405,
+    "commit": "https://github.com/openclaw/skills/commit/c3da20b76855137f1c7997d366323ec5a038b155"
+  },
+  "history": []
+}

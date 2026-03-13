@@ -1,0 +1,11 @@
+{
+  "owner": "aviclaw",
+  "slug": "zeroex-swap",
+  "displayName": "ZeroEx Swap",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771653189172,
+    "commit": "https://github.com/openclaw/skills/commit/01038620b822269a9ea1dbd331faaa37f061a8dc"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "a4205586",
+  "slug": "coinank-openapi-skill",
+  "displayName": "Coinank Openapi Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772313428945,
+    "commit": "https://github.com/openclaw/skills/commit/6adeb9e3dfbab7e768d4578d9a377bfdcb028969"
+  },
+  "history": []
+}

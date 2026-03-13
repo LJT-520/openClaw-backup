@@ -1,0 +1,11 @@
+{
+  "owner": "ngmeyer",
+  "slug": "llm-as-judge",
+  "displayName": "Llm As Judge",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771989690252,
+    "commit": "https://github.com/openclaw/skills/commit/50cd8c5ec7442f4c296cfff2f1bb364c7cd8fa8e"
+  },
+  "history": []
+}

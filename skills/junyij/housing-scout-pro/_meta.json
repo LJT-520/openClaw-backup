@@ -1,0 +1,11 @@
+{
+  "owner": "junyij",
+  "slug": "housing-scout-pro",
+  "displayName": "Housing Scout — Smart House(Sale or Lease) Search & Alerts",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772499483016,
+    "commit": "https://github.com/openclaw/skills/commit/bccb43e78352e57b57e422e78ff96b9e1ee15c8c"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-sentiment-optimizer",
+  "displayName": "Brand Sentiment Optimizer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772265701953,
+    "commit": "https://github.com/openclaw/skills/commit/f0f897ad6d6e332fe0c63a83d8fc55b493ffbd04"
+  },
+  "history": []
+}

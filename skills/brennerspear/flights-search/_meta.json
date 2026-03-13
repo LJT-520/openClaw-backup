@@ -1,0 +1,22 @@
+{
+  "owner": "brennerspear",
+  "slug": "flights-search",
+  "displayName": "Flights",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772048794036,
+    "commit": "https://github.com/openclaw/skills/commit/ee9610b76b5e5839363807c8a01132b8b85e127f"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771978281607,
+      "commit": "https://github.com/openclaw/skills/commit/2193ba93d906d10e7e53a189765e37647193865f"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770180510885,
+      "commit": "https://github.com/clawdbot/skills/commit/3e61f011e4bc726058ce9471dc885abb531b741d"
+    }
+  ]
+}

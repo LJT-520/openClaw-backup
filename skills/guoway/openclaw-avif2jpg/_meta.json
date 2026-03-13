@@ -1,0 +1,11 @@
+{
+  "owner": "guoway",
+  "slug": "openclaw-avif2jpg",
+  "displayName": "OpenClaw AVIF to JPG",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772536947382,
+    "commit": "https://github.com/openclaw/skills/commit/b596c5edbbb54c4238819aa57d10db28be673a8a"
+  },
+  "history": []
+}

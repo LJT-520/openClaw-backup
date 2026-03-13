@@ -1,0 +1,27 @@
+{
+  "owner": "braibaud",
+  "slug": "memento",
+  "displayName": "Memento",
+  "latest": {
+    "version": "0.6.0",
+    "publishedAt": 1772385497294,
+    "commit": "https://github.com/openclaw/skills/commit/d92f86febedb968aa7b5b44326e7947878321db5"
+  },
+  "history": [
+    {
+      "version": "0.5.2",
+      "publishedAt": 1772301327118,
+      "commit": "https://github.com/openclaw/skills/commit/ec1b38133a3f5eb96a47c06ca35fdcc848ad73e7"
+    },
+    {
+      "version": "0.5.0",
+      "publishedAt": 1772291048045,
+      "commit": "https://github.com/openclaw/skills/commit/6e50795adc9b63fe56e1f745a547ac5df9da576b"
+    },
+    {
+      "version": "0.3.2",
+      "publishedAt": 1771963745042,
+      "commit": "https://github.com/openclaw/skills/commit/d79220ab9d7ce8e48316c17ad337bcf3ad063f7b"
+    }
+  ]
+}

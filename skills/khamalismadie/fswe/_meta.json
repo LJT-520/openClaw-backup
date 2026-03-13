@@ -1,0 +1,17 @@
+{
+  "owner": "khamalismadie",
+  "slug": "fswe",
+  "displayName": "Full-Stack Web Engineer",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771737734407,
+    "commit": "https://github.com/openclaw/skills/commit/37c51f92dc05ea59bf431d7a290a6f73bb8d22a4"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771737368240,
+      "commit": "https://github.com/openclaw/skills/commit/3c9ad9dc366b99cc6cb526986ddb8523854b1345"
+    }
+  ]
+}

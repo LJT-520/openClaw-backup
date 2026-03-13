@@ -1,0 +1,11 @@
+{
+  "owner": "adusingi",
+  "slug": "mobayilo-voice",
+  "displayName": "Mobayilo Voice (Beta)",
+  "latest": {
+    "version": "0.2.0-beta.1",
+    "publishedAt": 1772359579271,
+    "commit": "https://github.com/openclaw/skills/commit/0b69cdf303b1b891619309a6d5599464b8b24755"
+  },
+  "history": []
+}

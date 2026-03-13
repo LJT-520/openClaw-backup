@@ -1,0 +1,11 @@
+{
+  "owner": "mariusfit",
+  "slug": "clawhub-skill-bandwidth-income",
+  "displayName": "Clawhub Skill Bandwidth Income",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771981873917,
+    "commit": "https://github.com/openclaw/skills/commit/6a09d0564579f73b81464d0a5071465327090d8c"
+  },
+  "history": []
+}

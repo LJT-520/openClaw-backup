@@ -1,0 +1,11 @@
+{
+  "owner": "danielwangyy",
+  "slug": "jd-price-protect",
+  "displayName": "JD Price Protection 京东自动价保",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771945452670,
+    "commit": "https://github.com/openclaw/skills/commit/7daeb53a387f999b42ef0f6fa2543b732c934bcd"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jelilat",
+  "slug": "shopify-checkout",
+  "displayName": "Shopify Checkout API",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772203505073,
+    "commit": "https://github.com/openclaw/skills/commit/f8c7360161cc14c35c6d5f274c713c9855bb1d2d"
+  },
+  "history": []
+}

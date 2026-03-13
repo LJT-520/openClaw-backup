@@ -1,0 +1,17 @@
+{
+  "owner": "grahac",
+  "slug": "botsee",
+  "displayName": "BotSee",
+  "latest": {
+    "version": "0.2.5",
+    "publishedAt": 1771979432858,
+    "commit": "https://github.com/openclaw/skills/commit/a79a367b85115f8b75b8c50e80041825ee119b23"
+  },
+  "history": [
+    {
+      "version": "0.2.2",
+      "publishedAt": 1771570658497,
+      "commit": "https://github.com/openclaw/skills/commit/e9ceb77e281bd98302391503227e8ef08584c72c"
+    }
+  ]
+}

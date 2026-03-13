@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-2",
+  "slug": "living-room-smoke-detector",
+  "displayName": "Living Room Smoke Detector",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772012236387,
+    "commit": "https://github.com/openclaw/skills/commit/d51fdb9c836b08b31e9f3e4911ded92876ef8805"
+  },
+  "history": []
+}

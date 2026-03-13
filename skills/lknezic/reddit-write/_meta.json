@@ -1,0 +1,11 @@
+{
+  "owner": "lknezic",
+  "slug": "reddit-write",
+  "displayName": "Reddit Write",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771578728633,
+    "commit": "https://github.com/openclaw/skills/commit/6fcb01c06c7d8a5bf5d94704309f320d116a45b7"
+  },
+  "history": []
+}

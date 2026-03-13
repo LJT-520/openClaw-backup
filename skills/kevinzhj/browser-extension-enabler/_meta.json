@@ -1,0 +1,11 @@
+{
+  "owner": "kevinzhj",
+  "slug": "browser-extension-enabler",
+  "displayName": "Browser Extension Enabler",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772384956764,
+    "commit": "https://github.com/openclaw/skills/commit/2a01283dd1d3a82e5979b4bbe34347be822136e9"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "danpalmieri",
+  "slug": "books-for-agents",
+  "displayName": "Books For Agents",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771687908640,
+    "commit": "https://github.com/openclaw/skills/commit/8f5b0f1e57bb17bebb9e24bc910a7e3a1bd23130"
+  },
+  "history": []
+}

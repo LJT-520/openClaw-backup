@@ -1,0 +1,11 @@
+{
+  "owner": "chris6970barbarian-hue",
+  "slug": "openclaw-migrate",
+  "displayName": "Openclaw Migrate",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771335274570,
+    "commit": "https://github.com/openclaw/skills/commit/88ba4e89499562814c7ecc81f13e9c1e31ea87c8"
+  },
+  "history": []
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "doanbactam",
+  "slug": "openclaw-anything",
+  "displayName": "Comprehensive skill for installing, configuring, and managing the OpenClaw ecosystem (Gateway, Channels, Models, Automation, Nodes, and Deployment)",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772162300037,
+    "commit": "https://github.com/openclaw/skills/commit/8ad8d8c3c58b5b2227a5c88b1ba824c047581706"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771315877328,
+      "commit": "https://github.com/openclaw/skills/commit/dab0bb2f39006d9b91f750c632497d9d27cdbd48"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770087404160,
+      "commit": "https://github.com/clawdbot/skills/commit/4a930f9c422679982560386b797b7bcde1e7801c"
+    }
+  ]
+}

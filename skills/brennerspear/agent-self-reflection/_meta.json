@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "agent-self-reflection",
+  "displayName": "Self Reflection",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772052082858,
+    "commit": "https://github.com/openclaw/skills/commit/001105ade01fcdf856b54e4e8c781bc641a34dbb"
+  },
+  "history": []
+}

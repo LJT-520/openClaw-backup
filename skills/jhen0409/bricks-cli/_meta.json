@@ -1,0 +1,17 @@
+{
+  "owner": "jhen0409",
+  "slug": "bricks-cli",
+  "displayName": "BRICKS CLI",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772370022298,
+    "commit": "https://github.com/openclaw/skills/commit/2c46759d4af17e34de164145aa101e4551babe78"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771740009857,
+      "commit": "https://github.com/openclaw/skills/commit/d806de7b50b61c7d1737898f0029173557cb4675"
+    }
+  ]
+}

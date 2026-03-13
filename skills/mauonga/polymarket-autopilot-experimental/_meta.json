@@ -1,0 +1,11 @@
+{
+  "owner": "mauonga",
+  "slug": "polymarket-autopilot-experimental",
+  "displayName": "Polymarket Autopilot Experimental",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772108315637,
+    "commit": "https://github.com/openclaw/skills/commit/fe163b071620b1b64c49b4551f7f891480959999"
+  },
+  "history": []
+}

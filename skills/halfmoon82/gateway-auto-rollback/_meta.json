@@ -1,0 +1,11 @@
+{
+  "owner": "halfmoon82",
+  "slug": "gateway-auto-rollback",
+  "displayName": "Gateway Auto-Rollback",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772315711076,
+    "commit": "https://github.com/openclaw/skills/commit/d58bedecc51dbd6a75c231f186db4e1c674dfb74"
+  },
+  "history": []
+}

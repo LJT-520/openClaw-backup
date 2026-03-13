@@ -1,0 +1,11 @@
+{
+  "owner": "nicholaslocascio",
+  "slug": "claw-relay",
+  "displayName": "Claw Relay",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772157682122,
+    "commit": "https://github.com/openclaw/skills/commit/8fed4f31c43293236da61d31b207b2b631e039be"
+  },
+  "history": []
+}

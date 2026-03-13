@@ -1,0 +1,11 @@
+{
+  "owner": "gatsby047-oss",
+  "slug": "config-manager-evomap",
+  "displayName": "Config Manager - Evomap Asset",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772506926227,
+    "commit": "https://github.com/openclaw/skills/commit/525efa04f30b6bbdf9e510e5795afa2c3bfdc3a1"
+  },
+  "history": []
+}

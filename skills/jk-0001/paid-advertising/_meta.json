@@ -1,0 +1,11 @@
+{
+  "owner": "jk-0001",
+  "slug": "paid-advertising",
+  "displayName": "Paid Advertising",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771613585264,
+    "commit": "https://github.com/openclaw/skills/commit/545f930374d867464268070e1acff8d64b305a39"
+  },
+  "history": []
+}

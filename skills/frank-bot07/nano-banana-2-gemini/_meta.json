@@ -1,0 +1,11 @@
+{
+  "owner": "frank-bot07",
+  "slug": "nano-banana-2-gemini",
+  "displayName": "Nano Banana 2 — Gemini Image Generation",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772394518050,
+    "commit": "https://github.com/openclaw/skills/commit/52a8793d0d7711b74ad000d4caa8511bae4cff24"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mogglemoss",
+  "slug": "tempest-weather-wf",
+  "displayName": "Tempest Weather",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771948170895,
+    "commit": "https://github.com/openclaw/skills/commit/fd4c3386f2012fc10792a236db0e8477d818cd35"
+  },
+  "history": []
+}

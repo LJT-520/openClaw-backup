@@ -1,0 +1,11 @@
+{
+  "owner": "matthewxmurphy",
+  "slug": "mac-multi-user-agents",
+  "displayName": "Mac Multi User Agents",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772640113078,
+    "commit": "https://github.com/openclaw/skills/commit/776f75b51b3f3a71e84628f512a43567da4f4331"
+  },
+  "history": []
+}

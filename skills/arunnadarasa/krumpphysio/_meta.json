@@ -1,0 +1,17 @@
+{
+  "owner": "arunnadarasa",
+  "slug": "krumpphysio",
+  "displayName": "KrumpPhysio",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772657505707,
+    "commit": "https://github.com/openclaw/skills/commit/fa974f2343a0a62edeb7b3f18ee05a6c00120d30"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772648931422,
+      "commit": "https://github.com/openclaw/skills/commit/0e7d2f45d1212ccf1aa5ec7f43c9fe9080f6fbb2"
+    }
+  ]
+}

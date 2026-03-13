@@ -1,0 +1,11 @@
+{
+  "owner": "lhl09120",
+  "slug": "claude-code-runner",
+  "displayName": "Claude Code Runner",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772176425525,
+    "commit": "https://github.com/openclaw/skills/commit/4269f2c0f8207238ed0086b20ae25551890a27ba"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "hypier",
+  "slug": "tradingview-quantitative-skills",
+  "displayName": "Tradingview Quantitative",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772606084479,
+    "commit": "https://github.com/openclaw/skills/commit/f358d0af08f191a8a641d49fe6cd931134a3798c"
+  },
+  "history": []
+}

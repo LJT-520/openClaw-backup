@@ -1,0 +1,11 @@
+{
+  "owner": "limoxt",
+  "slug": "skill-feishu-manager",
+  "displayName": "Feishu Manager",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772276402848,
+    "commit": "https://github.com/openclaw/skills/commit/91b09eacb9f8075c850556d00689756f3efe79f5"
+  },
+  "history": []
+}

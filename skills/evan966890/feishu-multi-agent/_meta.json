@@ -1,0 +1,11 @@
+{
+  "owner": "evan966890",
+  "slug": "feishu-multi-agent",
+  "displayName": "feishu-multi-agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772340623953,
+    "commit": "https://github.com/openclaw/skills/commit/6549db66e2512224e35f4d731af850bbca001e47"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-investor-update",
+  "displayName": "Investor Update",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771593170074,
+    "commit": "https://github.com/openclaw/skills/commit/60598c73980eddc8cb52e84928028d3545303095"
+  },
+  "history": []
+}

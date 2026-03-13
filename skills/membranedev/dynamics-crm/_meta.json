@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "dynamics-crm",
+  "displayName": "Dynamics Crm",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772607674338,
+    "commit": "https://github.com/openclaw/skills/commit/637cc11ffb62d0e2d1700007f14ee956cea1cb8b"
+  },
+  "history": []
+}

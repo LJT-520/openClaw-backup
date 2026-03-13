@@ -1,0 +1,27 @@
+{
+  "owner": "bartelmost",
+  "slug": "agentshield-audit",
+  "displayName": "Agentshield Audit",
+  "latest": {
+    "version": "1.0.8",
+    "publishedAt": 1772142724678,
+    "commit": "https://github.com/openclaw/skills/commit/fa75839b18ea7c27ad8119932dbafdbca40dc940"
+  },
+  "history": [
+    {
+      "version": "1.0.7",
+      "publishedAt": 1772063221571,
+      "commit": "https://github.com/openclaw/skills/commit/ac34f6b58fdb1f1b15ba14e887e57a0e58e000be"
+    },
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771960112691,
+      "commit": "https://github.com/openclaw/skills/commit/58d88ea05752abeb5a6da9466766eb7099331996"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771692721512,
+      "commit": "https://github.com/openclaw/skills/commit/196994063d18bc49f8f01ea15f79dd854691e18c"
+    }
+  ]
+}

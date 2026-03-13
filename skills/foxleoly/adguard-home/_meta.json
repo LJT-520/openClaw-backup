@@ -1,0 +1,32 @@
+{
+  "owner": "foxleoly",
+  "slug": "adguard-home",
+  "displayName": "Adguard Home",
+  "latest": {
+    "version": "1.2.7",
+    "publishedAt": 1772085593147,
+    "commit": "https://github.com/openclaw/skills/commit/a876d1ab4bbea92457215c1772f6a1658adc9ac0"
+  },
+  "history": [
+    {
+      "version": "1.2.6",
+      "publishedAt": 1772033372013,
+      "commit": "https://github.com/openclaw/skills/commit/0ebc5eb0bf69485fcbdbd95742092f902974421f"
+    },
+    {
+      "version": "1.2.5",
+      "publishedAt": 1772032814351,
+      "commit": "https://github.com/openclaw/skills/commit/3e5f180db30d72bc3da64cb4caa6841aacf442b6"
+    },
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771943826135,
+      "commit": "https://github.com/openclaw/skills/commit/c02764b2f3e178f99f7bf28c87a57325096084a1"
+    },
+    {
+      "version": "1.1.2",
+      "publishedAt": 1771866665864,
+      "commit": "https://github.com/openclaw/skills/commit/b812982fe7a458acc09f96ff5aaf76e09108dfe3"
+    }
+  ]
+}

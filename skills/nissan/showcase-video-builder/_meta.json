@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "showcase-video-builder",
+  "displayName": "Showcase Video Builder",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772393336781,
+    "commit": "https://github.com/openclaw/skills/commit/06848aa69d8777be055e7ad3308cfd0d3bf52ad8"
+  },
+  "history": []
+}

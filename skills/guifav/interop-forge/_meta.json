@@ -1,0 +1,11 @@
+{
+  "owner": "guifav",
+  "slug": "interop-forge",
+  "displayName": "Inter Operations & Integration Forge",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772054559438,
+    "commit": "https://github.com/openclaw/skills/commit/0c9e54fc22b28c75572bb929ad623b453d0885b6"
+  },
+  "history": []
+}

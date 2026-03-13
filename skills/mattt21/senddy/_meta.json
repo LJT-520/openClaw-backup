@@ -1,0 +1,17 @@
+{
+  "owner": "mattt21",
+  "slug": "senddy",
+  "displayName": "Senddy",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771700288677,
+    "commit": "https://github.com/openclaw/skills/commit/f69c9d9c1d3cf573ce95b04300ebac829146a6ae"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771697868450,
+      "commit": "https://github.com/openclaw/skills/commit/62312438e68c553985e1e228ef98b8a15c7ba30c"
+    }
+  ]
+}

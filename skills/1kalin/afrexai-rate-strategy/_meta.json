@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-rate-strategy",
+  "displayName": "Interest Rate Strategy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771767786977,
+    "commit": "https://github.com/openclaw/skills/commit/ba082e9afb592b8ec9d040a2fd3fc06d6a9dcc2c"
+  },
+  "history": []
+}

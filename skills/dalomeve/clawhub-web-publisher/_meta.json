@@ -1,0 +1,11 @@
+{
+  "owner": "dalomeve",
+  "slug": "clawhub-web-publisher",
+  "displayName": "ClawHub Web Publisher",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772305950055,
+    "commit": "https://github.com/openclaw/skills/commit/f6e77d35aaf484426abeedf531c9896e6e4be6c7"
+  },
+  "history": []
+}

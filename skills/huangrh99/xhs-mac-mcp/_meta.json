@@ -1,0 +1,11 @@
+{
+  "owner": "huangrh99",
+  "slug": "xhs-mac-mcp",
+  "displayName": "小红书 Mac Controller",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772300348823,
+    "commit": "https://github.com/openclaw/skills/commit/e9d2766159272bc192a571e7d2ea079331e0ece8"
+  },
+  "history": []
+}

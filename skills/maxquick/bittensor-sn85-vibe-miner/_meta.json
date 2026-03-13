@@ -1,0 +1,11 @@
+{
+  "owner": "maxquick",
+  "slug": "bittensor-sn85-vibe-miner",
+  "displayName": "Bittensor Subnet 85 Claw 'Vibe Miner' by Mark Jeffrey",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772415187448,
+    "commit": "https://github.com/openclaw/skills/commit/b47c86362ae74cb8d2a44438d1a144add702cbad"
+  },
+  "history": []
+}

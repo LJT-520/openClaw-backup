@@ -1,0 +1,11 @@
+{
+  "owner": "ashrf-in",
+  "slug": "odoo-reporting",
+  "displayName": "Odoo Reporting",
+  "latest": {
+    "version": "2.0.7",
+    "publishedAt": 1771320209309,
+    "commit": "https://github.com/openclaw/skills/commit/739cf65387dc786f32c8fd5829939ce0d8af13b3"
+  },
+  "history": []
+}

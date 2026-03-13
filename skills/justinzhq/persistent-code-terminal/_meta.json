@@ -1,0 +1,11 @@
+{
+  "owner": "justinzhq",
+  "slug": "persistent-code-terminal",
+  "displayName": "Persistent Code Terminal",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772192741391,
+    "commit": "https://github.com/openclaw/skills/commit/adee084cb3caec52cc9e8531633216c98db9b078"
+  },
+  "history": []
+}

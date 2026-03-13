@@ -1,0 +1,11 @@
+{
+  "owner": "bibekyess",
+  "slug": "docx-to-html",
+  "displayName": "DOCX TO HTML CONVERTER",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772603614198,
+    "commit": "https://github.com/openclaw/skills/commit/de5cafbf7cc2c5ee0980e5cd9434b484797c8407"
+  },
+  "history": []
+}

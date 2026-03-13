@@ -1,0 +1,11 @@
+{
+  "owner": "fordodev",
+  "slug": "nansi",
+  "displayName": "Nansi website and web app builder",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771861207752,
+    "commit": "https://github.com/openclaw/skills/commit/c0a75ae226cdc80c69906c7d907ca9fff83c7534"
+  },
+  "history": []
+}

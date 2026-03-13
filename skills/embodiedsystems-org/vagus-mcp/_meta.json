@@ -1,0 +1,11 @@
+{
+  "owner": "embodiedsystems-org",
+  "slug": "vagus-mcp",
+  "displayName": "VAGUS MCP",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772241250788,
+    "commit": "https://github.com/openclaw/skills/commit/eee3220d5709d6d8c4ba113bb04621fa49593447"
+  },
+  "history": []
+}

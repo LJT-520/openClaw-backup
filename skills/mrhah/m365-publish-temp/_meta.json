@@ -1,0 +1,11 @@
+{
+  "owner": "mrhah",
+  "slug": "m365-publish-temp",
+  "displayName": "M365 Publish Temp",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772634911321,
+    "commit": "https://github.com/openclaw/skills/commit/f44c099b18df586d0d321cac5c424dbe543e289a"
+  },
+  "history": []
+}

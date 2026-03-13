@@ -1,0 +1,11 @@
+{
+  "owner": "k5rs4n",
+  "slug": "api-cost-tracker",
+  "displayName": "API Cost Tracker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772404619044,
+    "commit": "https://github.com/openclaw/skills/commit/f40dceec3837b601af264f2806751f36ace9c16b"
+  },
+  "history": []
+}

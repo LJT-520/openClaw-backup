@@ -1,0 +1,17 @@
+{
+  "owner": "allenfancy-gan",
+  "slug": "ima-all-ai",
+  "displayName": "IMA Studio All AI Generation",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772548024053,
+    "commit": "https://github.com/openclaw/skills/commit/71836edef56a5afd73974525ff3c800508f3b36f"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772300633515,
+      "commit": "https://github.com/openclaw/skills/commit/177adfcd7ca15f242be5208d2047fe8df1fb3475"
+    }
+  ]
+}

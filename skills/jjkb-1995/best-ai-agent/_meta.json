@@ -1,0 +1,11 @@
+{
+  "owner": "jjkb-1995",
+  "slug": "best-ai-agent",
+  "displayName": "ai-skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772580500467,
+    "commit": "https://github.com/openclaw/skills/commit/fee611ebd008210ced5e7eb70f58fbb53ebab106"
+  },
+  "history": []
+}

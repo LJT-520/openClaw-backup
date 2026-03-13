@@ -1,0 +1,11 @@
+{
+  "owner": "neilhexiaoning-alt",
+  "slug": "visual-rpa-skill",
+  "displayName": "visual-rpa-skill",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771656613417,
+    "commit": "https://github.com/openclaw/skills/commit/bcafd8546950d94dd49f006abf159c8af866234e"
+  },
+  "history": []
+}

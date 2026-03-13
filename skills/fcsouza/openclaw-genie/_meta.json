@@ -1,0 +1,11 @@
+{
+  "owner": "fcsouza",
+  "slug": "openclaw-genie",
+  "displayName": "Openclaw Genie",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772053895109,
+    "commit": "https://github.com/openclaw/skills/commit/64b1b186a7f437f616b28b8708b69e3acb9a58d6"
+  },
+  "history": []
+}

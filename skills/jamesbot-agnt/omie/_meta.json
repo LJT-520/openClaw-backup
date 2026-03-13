@@ -1,0 +1,17 @@
+{
+  "owner": "jamesbot-agnt",
+  "slug": "omie",
+  "displayName": "Omie ERP",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771636272947,
+    "commit": "https://github.com/openclaw/skills/commit/f8cf93ceebc4fe7b9d29957608b34f95f00954a1"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771636101039,
+      "commit": "https://github.com/openclaw/skills/commit/a6a3a90f394fec1661ab1875c0d3825adabfeaf5"
+    }
+  ]
+}

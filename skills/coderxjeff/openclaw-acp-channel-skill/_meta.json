@@ -1,0 +1,11 @@
+{
+  "owner": "coderxjeff",
+  "slug": "openclaw-acp-channel-skill",
+  "displayName": "Acp",
+  "latest": {
+    "version": "0.1.4",
+    "publishedAt": 1771985318768,
+    "commit": "https://github.com/openclaw/skills/commit/d1388d12acdb9bc5fb82fbb6eac5ac78820193cf"
+  },
+  "history": []
+}

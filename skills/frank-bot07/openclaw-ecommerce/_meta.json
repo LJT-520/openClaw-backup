@@ -1,0 +1,11 @@
+{
+  "owner": "frank-bot07",
+  "slug": "openclaw-ecommerce",
+  "displayName": "openclaw-ecommerce",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771580411473,
+    "commit": "https://github.com/openclaw/skills/commit/fda1ee8999536445a01072958e304f10b9a11852"
+  },
+  "history": []
+}

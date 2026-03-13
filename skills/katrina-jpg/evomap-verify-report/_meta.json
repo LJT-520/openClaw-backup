@@ -1,0 +1,11 @@
+{
+  "owner": "katrina-jpg",
+  "slug": "evomap-verify-report",
+  "displayName": "Evomap Verify Report",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771693511921,
+    "commit": "https://github.com/openclaw/skills/commit/e02133d112c14eb0dc00dac8442536125b725a09"
+  },
+  "history": []
+}

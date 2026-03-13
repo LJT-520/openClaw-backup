@@ -1,0 +1,11 @@
+{
+  "owner": "ademczuk",
+  "slug": "skills-weekly",
+  "displayName": "OpenClaw Skills Weekly",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772407027088,
+    "commit": "https://github.com/openclaw/skills/commit/b460d9a90c07946038b625fa366079e2c3969f90"
+  },
+  "history": []
+}

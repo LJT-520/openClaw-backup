@@ -1,0 +1,17 @@
+{
+  "owner": "horn111",
+  "slug": "safe-cron-runner",
+  "displayName": "Safe Cron Runner",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772634412104,
+    "commit": "https://github.com/openclaw/skills/commit/eb700d967f023f500a26b682530f8eb9c20c8e3a"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772479037278,
+      "commit": "https://github.com/openclaw/skills/commit/2cb9758a5a22e8fa49fe5604d04dce069cbfbea0"
+    }
+  ]
+}

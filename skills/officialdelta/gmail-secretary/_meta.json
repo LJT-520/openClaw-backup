@@ -1,0 +1,67 @@
+{
+  "owner": "officialdelta",
+  "slug": "gmail-secretary",
+  "displayName": "Gmail Secretary",
+  "latest": {
+    "version": "1.0.14",
+    "publishedAt": 1772546474086,
+    "commit": "https://github.com/openclaw/skills/commit/9944f7010ef9831082df8434d7d559fc49e9ebad"
+  },
+  "history": [
+    {
+      "version": "1.0.12",
+      "publishedAt": 1772373641539,
+      "commit": "https://github.com/openclaw/skills/commit/8c75474e1a368bb4aedf899da5c643f648e08006"
+    },
+    {
+      "version": "1.0.11",
+      "publishedAt": 1772287261303,
+      "commit": "https://github.com/openclaw/skills/commit/8154d94e59914ea2473087c0496d58cc375e9795"
+    },
+    {
+      "version": "1.0.10",
+      "publishedAt": 1772028131196,
+      "commit": "https://github.com/openclaw/skills/commit/3a1af517cdb9369209d5eeac13b778cab83ff228"
+    },
+    {
+      "version": "1.0.8",
+      "publishedAt": 1771855268277,
+      "commit": "https://github.com/openclaw/skills/commit/0dc626382090cc69c88544390e59b542a40686f5"
+    },
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771596044044,
+      "commit": "https://github.com/openclaw/skills/commit/84d43fcf97df03c6dab52c64a58bf712ae856977"
+    },
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771423271581,
+      "commit": "https://github.com/openclaw/skills/commit/f0cbae81e079a69dd33080514b0478c30911cb0b"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771336884581,
+      "commit": "https://github.com/openclaw/skills/commit/9ba04b63fc9d393f83daa894e03cf04457fd9415"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771250595870,
+      "commit": "https://github.com/openclaw/skills/commit/75c949813d5ce603da0449849ad35ea6384fc043"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771077791916,
+      "commit": "https://github.com/openclaw/skills/commit/82cfc96bc81cfb903870dec472bafdc1feffaa51"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770991513754,
+      "commit": "https://github.com/openclaw/skills/commit/1cea10337e1cebe7797461c1320ba35cf7a9951f"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770905042129,
+      "commit": "https://github.com/openclaw/skills/commit/eaa3b933abea2e87b1a7688a9677709c9561972a"
+    }
+  ]
+}

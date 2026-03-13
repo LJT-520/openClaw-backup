@@ -1,0 +1,11 @@
+{
+  "owner": "luogao2333",
+  "slug": "moss-tts-voice",
+  "displayName": "MOSS-TTS Voice",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772524376348,
+    "commit": "https://github.com/openclaw/skills/commit/4c11b5c570f8960bdcbfc957de6a9321bf7bef45"
+  },
+  "history": []
+}

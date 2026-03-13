@@ -1,0 +1,11 @@
+{
+  "owner": "nathanshan",
+  "slug": "sleep-wakeup-advisor",
+  "displayName": "sleep-wakeup advisor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772103143040,
+    "commit": "https://github.com/openclaw/skills/commit/92071459cd042070ad8ced58fb0e30d15ab9cdd9"
+  },
+  "history": []
+}

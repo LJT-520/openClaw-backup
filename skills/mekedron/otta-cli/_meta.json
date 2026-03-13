@@ -1,0 +1,11 @@
+{
+  "owner": "mekedron",
+  "slug": "otta-cli",
+  "displayName": "otta-cli",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771767617278,
+    "commit": "https://github.com/openclaw/skills/commit/eeb839d43920e9d6120c62f8e4eff230d997dfb6"
+  },
+  "history": []
+}

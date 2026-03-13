@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "google-sheets-integration",
+  "displayName": "Google Sheets",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772607694142,
+    "commit": "https://github.com/openclaw/skills/commit/3465bfb2cf03d58ddfb50a47708bdd884cf3b3c1"
+  },
+  "history": []
+}

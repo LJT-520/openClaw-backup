@@ -1,0 +1,11 @@
+{
+  "owner": "charipoter",
+  "slug": "watcha-finder",
+  "displayName": "Watcha Finder",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772259888901,
+    "commit": "https://github.com/openclaw/skills/commit/cc1ee15987c5d76a71f079d2a167933c205fe486"
+  },
+  "history": []
+}

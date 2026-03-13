@@ -1,0 +1,11 @@
+{
+  "owner": "infra403",
+  "slug": "opentwitter-2",
+  "displayName": "Opentwitter",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772091150094,
+    "commit": "https://github.com/openclaw/skills/commit/5187e3e35e9f13fb476774c7a3f0ef9491e044f5"
+  },
+  "history": []
+}

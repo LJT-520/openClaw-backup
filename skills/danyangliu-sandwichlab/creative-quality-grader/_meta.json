@@ -1,0 +1,11 @@
+{
+  "owner": "danyangliu-sandwichlab",
+  "slug": "creative-quality-grader",
+  "displayName": "Ads Creative Scoring",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772509869367,
+    "commit": "https://github.com/openclaw/skills/commit/bdad41a11087b08f67e7a974fd326cf9f94d8abb"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "nsfw-video-generation",
+  "displayName": "Nsfw Video Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772584193214,
+    "commit": "https://github.com/openclaw/skills/commit/187833ca4973cd4d469a283207e3c968c2bb625c"
+  },
+  "history": []
+}

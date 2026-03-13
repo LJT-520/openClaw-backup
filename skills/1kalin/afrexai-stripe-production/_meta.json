@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-stripe-production",
+  "displayName": "Stripe Production Engineering",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771705796242,
+    "commit": "https://github.com/openclaw/skills/commit/a69127dee11f1b01639e9dc1b43b5d6ab2b0f3bc"
+  },
+  "history": []
+}

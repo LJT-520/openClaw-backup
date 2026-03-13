@@ -1,0 +1,11 @@
+{
+  "owner": "brandonwadepackard-cell",
+  "slug": "platform-api-connector",
+  "displayName": "Platform API Connector",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771917485952,
+    "commit": "https://github.com/openclaw/skills/commit/a4d627a22f35cf3d9dd3041456f4ea61614acf67"
+  },
+  "history": []
+}

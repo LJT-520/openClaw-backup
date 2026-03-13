@@ -1,0 +1,11 @@
+{
+  "owner": "anecdotes-yair",
+  "slug": "trust-my-agent-ai",
+  "displayName": "TrustMyAgent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772110632756,
+    "commit": "https://github.com/openclaw/skills/commit/2e88c598a215a5b6062c3e65cf7021ca652dd321"
+  },
+  "history": []
+}

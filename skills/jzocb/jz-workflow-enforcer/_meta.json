@@ -1,0 +1,11 @@
+{
+  "owner": "jzocb",
+  "slug": "jz-workflow-enforcer",
+  "displayName": "Agent Workflow Enforcer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772336089367,
+    "commit": "https://github.com/openclaw/skills/commit/9a1ffbf8368fd7b1c2e02560646e9f1ed1b785e7"
+  },
+  "history": []
+}

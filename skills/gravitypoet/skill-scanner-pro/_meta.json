@@ -1,0 +1,11 @@
+{
+  "owner": "gravitypoet",
+  "slug": "skill-scanner-pro",
+  "displayName": "Skill-Scanner-Pro",
+  "latest": {
+    "version": "0.1.4",
+    "publishedAt": 1772229633749,
+    "commit": "https://github.com/openclaw/skills/commit/0a92342feeb8f2f9b0f6805bcc872ea3d6891f29"
+  },
+  "history": []
+}

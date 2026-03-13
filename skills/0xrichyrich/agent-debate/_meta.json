@@ -1,0 +1,11 @@
+{
+  "owner": "0xrichyrich",
+  "slug": "agent-debate",
+  "displayName": "Agent Debate",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772442112025,
+    "commit": "https://github.com/openclaw/skills/commit/16386b44bfbfc3841e1c2cb9c7558fd217ae38d1"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "grakeshk-max",
+  "slug": "searxng-local-search-v1",
+  "displayName": "SearXNG Local Search",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772272865340,
+    "commit": "https://github.com/openclaw/skills/commit/56b9edaf2ceb9824cd32e9406fb852665dce0f84"
+  },
+  "history": []
+}

@@ -1,0 +1,71 @@
+{
+  "name": "knowfun-skills",
+  "version": "1.0.2",
+  "description": "Knowfun.io skills for Claude Code, OpenClaw and other AI assistants - generate educational content, posters, games, and films using AI",
+  "type": "module",
+  "bin": {
+    "knowfun": "knowfun.js"
+  },
+  "scripts": {
+    "test": "./scripts/test-api.sh",
+    "prepare": "chmod +x ./knowfun.js && chmod +x ./scripts/knowfun-cli.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MindStarAI/KnowFun-Skills.git"
+  },
+  "keywords": [
+    "knowfun",
+    "ai",
+    "education",
+    "content-generation",
+    "course",
+    "poster",
+    "game",
+    "film",
+    "claude-code",
+    "cursor",
+    "cline",
+    "openclaw",
+    "cli",
+    "openapi"
+  ],
+  "author": "Knowfun.io Team <support@knowfun.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MindStarAI/KnowFun-Skills/issues"
+  },
+  "homepage": "https://knowfun.io",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "files": [
+    "knowfun.js",
+    "scripts/",
+    "integrations/",
+    "SKILL.md",
+    "skill.json",
+    "README.md",
+    "README_CN.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    "api-reference.md",
+    "api-reference_CN.md",
+    "examples.md",
+    "examples_CN.md",
+    "QUICKSTART.md",
+    "QUICKSTART_CN.md",
+    "INSTALLATION.md",
+    "INSTALLATION_CN.md",
+    ".env.example"
+  ],
+  "funding": {
+    "type": "individual",
+    "url": "https://knowfun.io"
+  }
+}

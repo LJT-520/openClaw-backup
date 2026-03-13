@@ -1,0 +1,11 @@
+{
+  "owner": "cognary",
+  "slug": "aionis",
+  "displayName": "Aionis",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772621342791,
+    "commit": "https://github.com/openclaw/skills/commit/31ed7dba585c97611daf1abb51356611063d6f90"
+  },
+  "history": []
+}

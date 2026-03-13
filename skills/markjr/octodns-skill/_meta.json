@@ -1,0 +1,11 @@
+{
+  "owner": "markjr",
+  "slug": "octodns-skill",
+  "displayName": "Octodns",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772652091690,
+    "commit": "https://github.com/openclaw/skills/commit/6b0dc0b4ebaa55278b6c0fb5bf6423df83755e3a"
+  },
+  "history": []
+}

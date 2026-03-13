@@ -1,0 +1,11 @@
+{
+  "owner": "araujota",
+  "slug": "arcagent-mcp",
+  "displayName": "ArcAgent MCP",
+  "latest": {
+    "version": "0.1.12",
+    "publishedAt": 1772332707391,
+    "commit": "https://github.com/openclaw/skills/commit/1714031a94a3a99d999d1567524722c4ec789476"
+  },
+  "history": []
+}

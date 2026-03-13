@@ -1,0 +1,11 @@
+{
+  "owner": "inuyashayang",
+  "slug": "zhihu-post",
+  "displayName": "知乎发帖 (Zhihu Post via Browser Relay)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772469387948,
+    "commit": "https://github.com/openclaw/skills/commit/190c26a0806b59b7be18e04a0235b9321cc84ed2"
+  },
+  "history": []
+}

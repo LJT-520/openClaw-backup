@@ -1,0 +1,11 @@
+{
+  "owner": "kenblive",
+  "slug": "wallet",
+  "displayName": "wallet",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771741977389,
+    "commit": "https://github.com/openclaw/skills/commit/a0eba8fd443c8f1756b74d03dcbee55ec4c52bd1"
+  },
+  "history": []
+}

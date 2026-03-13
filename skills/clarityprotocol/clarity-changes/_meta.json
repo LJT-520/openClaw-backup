@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-changes",
+  "displayName": "Clarity Changes",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772051504944,
+    "commit": "https://github.com/openclaw/skills/commit/e3ea86e3e6fcc347cb5616681b8636689ec11543"
+  },
+  "history": []
+}

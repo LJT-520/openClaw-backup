@@ -1,0 +1,17 @@
+{
+  "owner": "gm4leejun-stack",
+  "slug": "jun-invest-option-master",
+  "displayName": "jun-invest-option-master (DEPRECATED)",
+  "latest": {
+    "version": "0.99.0",
+    "publishedAt": 1772595101164,
+    "commit": "https://github.com/openclaw/skills/commit/5659d143ac68ebda25900968aab7ab0e85a09965"
+  },
+  "history": [
+    {
+      "version": "0.2.0",
+      "publishedAt": 1772514017520,
+      "commit": "https://github.com/openclaw/skills/commit/403248ba80c9f386f18ed4e3873ca59e497649e0"
+    }
+  ]
+}

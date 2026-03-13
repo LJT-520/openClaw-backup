@@ -1,0 +1,11 @@
+{
+  "owner": "mli-cj",
+  "slug": "google-finance",
+  "displayName": "Google Finance",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772612013646,
+    "commit": "https://github.com/openclaw/skills/commit/1bff26f882144707e940726161034e5c3d54309a"
+  },
+  "history": []
+}

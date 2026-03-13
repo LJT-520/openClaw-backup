@@ -1,0 +1,11 @@
+{
+  "owner": "error403agent",
+  "slug": "deepblue-defi-api",
+  "displayName": "Deepblue Defi Api",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1772167544378,
+    "commit": "https://github.com/openclaw/skills/commit/3f6b464b4d5a400aa6af890e6f4b7f8de2b74a6f"
+  },
+  "history": []
+}

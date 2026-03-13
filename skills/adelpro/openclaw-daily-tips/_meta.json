@@ -1,0 +1,11 @@
+{
+  "owner": "adelpro",
+  "slug": "openclaw-daily-tips",
+  "displayName": "OpenClaw Daily Tips",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772005706737,
+    "commit": "https://github.com/openclaw/skills/commit/cca1e26a80c430d8694e2e68a906b108deb217dc"
+  },
+  "history": []
+}

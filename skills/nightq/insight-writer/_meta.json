@@ -1,0 +1,11 @@
+{
+  "owner": "nightq",
+  "slug": "insight-writer",
+  "displayName": "Insight Writer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772438170861,
+    "commit": "https://github.com/openclaw/skills/commit/9534d79078d168f2b0af9f4e53b4387cf2a38ae2"
+  },
+  "history": []
+}

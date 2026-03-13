@@ -1,0 +1,11 @@
+{
+  "owner": "joshua-ensley",
+  "slug": "openweather",
+  "displayName": "OpenWeather",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772263611738,
+    "commit": "https://github.com/openclaw/skills/commit/d94ddd9651554d2d24dccd64d8185e658b967f04"
+  },
+  "history": []
+}

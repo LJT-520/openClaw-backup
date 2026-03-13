@@ -1,0 +1,17 @@
+{
+  "owner": "cyberboyayush",
+  "slug": "kakiyo",
+  "displayName": "Kakiyo Skill",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772528991689,
+    "commit": "https://github.com/openclaw/skills/commit/2ff87d9c0081f69c4c03c362e5f209f07712078b"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1769880491867,
+      "commit": "https://github.com/clawdbot/skills/commit/f78460395267dcb106380b973040017577b6c99f"
+    }
+  ]
+}

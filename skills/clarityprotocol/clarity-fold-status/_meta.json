@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-fold-status",
+  "displayName": "Clarity Fold Status",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772051520171,
+    "commit": "https://github.com/openclaw/skills/commit/7cb127d43bdd777465c5fd5909e5912b054783c7"
+  },
+  "history": []
+}

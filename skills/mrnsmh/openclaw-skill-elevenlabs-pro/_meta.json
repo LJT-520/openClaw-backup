@@ -1,0 +1,11 @@
+{
+  "owner": "mrnsmh",
+  "slug": "openclaw-skill-elevenlabs-pro",
+  "displayName": "Elevenlabs Pro",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772156288821,
+    "commit": "https://github.com/openclaw/skills/commit/7b414ecf135a025b4f6d9fdc9a26e05138449637"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "h1bomb",
+  "slug": "libvips-image",
+  "displayName": "Libvips Image",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772242806060,
+    "commit": "https://github.com/openclaw/skills/commit/ea3ae7ebf4307beae2c301a3c3c94a25e4c18048"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "iamlovingit",
+  "slug": "epaiskill",
+  "displayName": "EPAI",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1771929521530,
+    "commit": "https://github.com/openclaw/skills/commit/d1c4c45da2ca2b1b8e308ba321d0e0ebb86f707e"
+  },
+  "history": []
+}

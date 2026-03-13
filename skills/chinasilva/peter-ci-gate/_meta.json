@@ -1,0 +1,11 @@
+{
+  "owner": "chinasilva",
+  "slug": "peter-ci-gate",
+  "displayName": "Peter Ci Gate",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772520935463,
+    "commit": "https://github.com/openclaw/skills/commit/8d548d0758deb8da5a48f1ae1f6ed4cbdb5fb085"
+  },
+  "history": []
+}

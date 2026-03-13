@@ -1,0 +1,17 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-fitness-engine",
+  "displayName": "Fitness & Training Engineering",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772036976468,
+    "commit": "https://github.com/openclaw/skills/commit/7b27cb6e7615e3f827d5b4f44d25d61a7f1c0402"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771518306270,
+      "commit": "https://github.com/openclaw/skills/commit/06c80aaae2004b564e6b17051b9b008b741834b2"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "a851445115",
+  "slug": "daily-market-insight",
+  "displayName": "Daily Market Insight",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771913650143,
+    "commit": "https://github.com/openclaw/skills/commit/73c652c35230545a26a5765bc6af9f7a52f358e7"
+  },
+  "history": []
+}

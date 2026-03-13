@@ -1,0 +1,11 @@
+{
+  "owner": "kafcoppelia",
+  "slug": "privatebin-upload",
+  "displayName": "PrivateBin Upload Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772333836392,
+    "commit": "https://github.com/openclaw/skills/commit/2cc1ec66d9936b5428178c2e69c3f307622d3434"
+  },
+  "history": []
+}

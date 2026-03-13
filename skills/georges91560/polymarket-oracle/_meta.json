@@ -1,0 +1,11 @@
+{
+  "owner": "georges91560",
+  "slug": "polymarket-oracle",
+  "displayName": "Polymarket Oracle",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772226360156,
+    "commit": "https://github.com/openclaw/skills/commit/ef73fc8ce7a63f8e67d1be2d5f6f1d53ff73f26c"
+  },
+  "history": []
+}

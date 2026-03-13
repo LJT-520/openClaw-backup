@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-insurance-claims",
+  "displayName": "Insurance Claims Processor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771782167565,
+    "commit": "https://github.com/openclaw/skills/commit/220662877896b4d0cb4b1db4684f1772801f0f18"
+  },
+  "history": []
+}

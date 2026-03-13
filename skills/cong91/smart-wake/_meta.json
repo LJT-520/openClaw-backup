@@ -1,0 +1,11 @@
+{
+  "owner": "cong91",
+  "slug": "smart-wake",
+  "displayName": "Smart Wake",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772451935328,
+    "commit": "https://github.com/openclaw/skills/commit/7c650ea0f2bad83c1cda58d0421c73b1b61a4820"
+  },
+  "history": []
+}

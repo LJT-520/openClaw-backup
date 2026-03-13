@@ -1,0 +1,11 @@
+{
+  "owner": "ilove323",
+  "slug": "owa-outlook",
+  "displayName": "OWA Outlook 日历+邮件",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772214902356,
+    "commit": "https://github.com/openclaw/skills/commit/9817ec9b8028e7eaa360897df82d9f69ba15661e"
+  },
+  "history": []
+}

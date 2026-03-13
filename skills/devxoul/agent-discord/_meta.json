@@ -1,0 +1,11 @@
+{
+  "owner": "devxoul",
+  "slug": "agent-discord",
+  "displayName": "Agent Discord",
+  "latest": {
+    "version": "1.8.1",
+    "publishedAt": 1772601711638,
+    "commit": "https://github.com/openclaw/skills/commit/a9f23f87b8c80516cf3a88c83456a27de59c625a"
+  },
+  "history": []
+}

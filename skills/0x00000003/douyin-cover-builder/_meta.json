@@ -1,0 +1,11 @@
+{
+  "owner": "0x00000003",
+  "slug": "douyin-cover-builder",
+  "displayName": "Douyin Cover Builder（抖音封面生成器）",
+  "latest": {
+    "version": "3.1.2",
+    "publishedAt": 1771757587184,
+    "commit": "https://github.com/openclaw/skills/commit/4a34096e2c88c84641792141ea2e23d697942072"
+  },
+  "history": []
+}

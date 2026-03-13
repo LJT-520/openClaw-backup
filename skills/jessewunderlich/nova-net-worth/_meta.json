@@ -1,0 +1,17 @@
+{
+  "owner": "jessewunderlich",
+  "slug": "nova-net-worth",
+  "displayName": "Nova Net Worth",
+  "latest": {
+    "version": "1.3.1",
+    "publishedAt": 1772297079526,
+    "commit": "https://github.com/openclaw/skills/commit/7486d4a9ab299ad046e6fb8a869f05d3d93f03fd"
+  },
+  "history": [
+    {
+      "version": "1.1.1",
+      "publishedAt": 1772048587584,
+      "commit": "https://github.com/openclaw/skills/commit/3c5b24a7789a9f91b2e7cc8efa642c31c09c46fe"
+    }
+  ]
+}

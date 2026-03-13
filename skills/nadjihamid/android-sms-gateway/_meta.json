@@ -1,0 +1,11 @@
+{
+  "owner": "nadjihamid",
+  "slug": "android-sms-gateway",
+  "displayName": "Android SMS Gateway",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771821430021,
+    "commit": "https://github.com/openclaw/skills/commit/5d0592d9fad1e588c5215a704b41bb4a351d72fa"
+  },
+  "history": []
+}

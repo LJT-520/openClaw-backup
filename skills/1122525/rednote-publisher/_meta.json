@@ -1,0 +1,11 @@
+{
+  "owner": "1122525",
+  "slug": "rednote-publisher",
+  "displayName": "小红书长图文发布",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772273600909,
+    "commit": "https://github.com/openclaw/skills/commit/c9776f606012b335e807b0eba8fdb3dbd0a5ef5f"
+  },
+  "history": []
+}

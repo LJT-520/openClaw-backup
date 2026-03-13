@@ -1,0 +1,11 @@
+{
+  "owner": "googleworkspace-bot",
+  "slug": "gws-chat",
+  "displayName": "Gws Chat",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772665481118,
+    "commit": "https://github.com/openclaw/skills/commit/045d8481ec9bb9e290808ebc95d10dde9b43952c"
+  },
+  "history": []
+}

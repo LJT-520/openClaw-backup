@@ -1,0 +1,11 @@
+{
+  "owner": "largetool",
+  "slug": "4d-compression-core",
+  "displayName": "4D Compression Core",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772199211038,
+    "commit": "https://github.com/openclaw/skills/commit/74b11a2d7baa9bf75fd3ce31651300b50ed59a3c"
+  },
+  "history": []
+}

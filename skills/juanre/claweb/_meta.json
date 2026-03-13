@@ -1,0 +1,17 @@
+{
+  "owner": "juanre",
+  "slug": "claweb",
+  "displayName": "ClaWeb Messaging",
+  "latest": {
+    "version": "0.3.23",
+    "publishedAt": 1772276952746,
+    "commit": "https://github.com/openclaw/skills/commit/c6baf5979d443d7add0420b9a967f6a869d82e9f"
+  },
+  "history": [
+    {
+      "version": "0.3.22",
+      "publishedAt": 1772210615083,
+      "commit": "https://github.com/openclaw/skills/commit/01e2bedef309b72dfac531faa6ca67fd89577a74"
+    }
+  ]
+}

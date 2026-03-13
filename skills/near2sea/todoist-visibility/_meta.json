@@ -1,0 +1,11 @@
+{
+  "owner": "near2sea",
+  "slug": "todoist-visibility",
+  "displayName": "Todoist 任务可见性管理",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771568542237,
+    "commit": "https://github.com/openclaw/skills/commit/fb7eadb2197366984f2ce3b3e27c49296cb213ef"
+  },
+  "history": []
+}

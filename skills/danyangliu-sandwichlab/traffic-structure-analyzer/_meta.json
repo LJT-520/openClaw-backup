@@ -1,0 +1,11 @@
+{
+  "owner": "danyangliu-sandwichlab",
+  "slug": "traffic-structure-analyzer",
+  "displayName": "Ads Traffic Analysis",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772603856662,
+    "commit": "https://github.com/openclaw/skills/commit/e79f238365cb326244aa84ae1019054f278401fa"
+  },
+  "history": []
+}

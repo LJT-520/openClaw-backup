@@ -1,0 +1,17 @@
+{
+  "owner": "appback",
+  "slug": "gridclash",
+  "displayName": "Grid Clash",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772537185052,
+    "commit": "https://github.com/openclaw/skills/commit/b3c44a89954bfa96c4f24b6153ea8ff6787592c1"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772259568078,
+      "commit": "https://github.com/openclaw/skills/commit/8dfd0dce913aec496398a41101f3920bd1445802"
+    }
+  ]
+}

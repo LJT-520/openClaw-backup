@@ -1,0 +1,11 @@
+{
+  "owner": "betancur",
+  "slug": "adhd-support",
+  "displayName": "ADHD Support",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772231667667,
+    "commit": "https://github.com/openclaw/skills/commit/c914ed3e02b46540cec8602610bd2f7cff490229"
+  },
+  "history": []
+}

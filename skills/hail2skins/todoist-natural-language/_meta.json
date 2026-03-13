@@ -1,0 +1,27 @@
+{
+  "owner": "hail2skins",
+  "slug": "todoist-natural-language",
+  "displayName": "Todoist Natural Language",
+  "latest": {
+    "version": "1.0.8",
+    "publishedAt": 1771647028479,
+    "commit": "https://github.com/openclaw/skills/commit/7dd3bd586365cab379320f7fc1d0389cdd30f1db"
+  },
+  "history": [
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771550832109,
+      "commit": "https://github.com/openclaw/skills/commit/bf6049a1a5876f32ee1a0d130692157926dd61c9"
+    },
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771476846370,
+      "commit": "https://github.com/openclaw/skills/commit/b18bed14a0e84ddbc3dc00ad19ee76aaec04349a"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1770095616839,
+      "commit": "https://github.com/clawdbot/skills/commit/f24e7925bf7859df66134b81c0c2d9b257f669d2"
+    }
+  ]
+}

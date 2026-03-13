@@ -1,0 +1,17 @@
+{
+  "owner": "oguzhnatly",
+  "slug": "fleet",
+  "displayName": "Fleet",
+  "latest": {
+    "version": "2.0.3",
+    "publishedAt": 1772392152509,
+    "commit": "https://github.com/openclaw/skills/commit/1a908cdd19c4fb730cf28c3f5f4e3af7acaa4fb1"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771890026087,
+      "commit": "https://github.com/openclaw/skills/commit/b6803c52a7763d52bd2a02c4f15b63ff5fb93403"
+    }
+  ]
+}

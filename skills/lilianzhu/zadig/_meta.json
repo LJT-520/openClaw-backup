@@ -1,0 +1,17 @@
+{
+  "owner": "lilianzhu",
+  "slug": "zadig",
+  "displayName": "zadig",
+  "latest": {
+    "version": "4.0.2",
+    "publishedAt": 1772531021450,
+    "commit": "https://github.com/openclaw/skills/commit/2c28ca49577e69fc03c04cf4af90042afd8a4b61"
+  },
+  "history": [
+    {
+      "version": "4.0.0",
+      "publishedAt": 1772193040024,
+      "commit": "https://github.com/openclaw/skills/commit/9fd01ad114cc726ae918311ce2f1c052fa0c624f"
+    }
+  ]
+}

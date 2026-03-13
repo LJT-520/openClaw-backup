@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "matomo",
+  "displayName": "Matomo Analytics",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772062322513,
+    "commit": "https://github.com/openclaw/skills/commit/e0fd8965fa58da6cd74e2c3d298030a32cf4daff"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "gyifei",
+  "slug": "ai-news-research",
+  "displayName": "AI行业新闻搜集小技能",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772285177241,
+    "commit": "https://github.com/openclaw/skills/commit/6e2bbf6ef730589beedda78cce1c55938ccd0fa6"
+  },
+  "history": []
+}

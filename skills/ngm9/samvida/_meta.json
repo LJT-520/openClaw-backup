@@ -1,0 +1,22 @@
+{
+  "owner": "ngm9",
+  "slug": "samvida",
+  "displayName": "Samvida",
+  "latest": {
+    "version": "0.3.3",
+    "publishedAt": 1772391768153,
+    "commit": "https://github.com/openclaw/skills/commit/ae12e555fdde8a1d782829d21533de0626469827"
+  },
+  "history": [
+    {
+      "version": "0.2.2",
+      "publishedAt": 1772269795789,
+      "commit": "https://github.com/openclaw/skills/commit/b1afd8a6f89b06acebf53ab0c127e719d5a6b17f"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772263092979,
+      "commit": "https://github.com/openclaw/skills/commit/2516454fc2d8ec2814c9ca84cdba2b20f4f7ddc1"
+    }
+  ]
+}

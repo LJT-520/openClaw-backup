@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "toronto",
+  "displayName": "Toronto",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771537304922,
+    "commit": "https://github.com/openclaw/skills/commit/bf139e9d86c6b52da5c63adc940617c37a6f3eec"
+  },
+  "history": []
+}

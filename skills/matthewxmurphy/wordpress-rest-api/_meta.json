@@ -1,0 +1,11 @@
+{
+  "owner": "matthewxmurphy",
+  "slug": "wordpress-rest-api",
+  "displayName": "WordPress REST API",
+  "latest": {
+    "version": "0.6.0",
+    "publishedAt": 1772640132516,
+    "commit": "https://github.com/openclaw/skills/commit/066db8020bd37317eb58381c8dcf1f93a4b5a29d"
+  },
+  "history": []
+}

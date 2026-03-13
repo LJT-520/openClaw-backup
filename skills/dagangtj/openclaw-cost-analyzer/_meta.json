@@ -1,0 +1,11 @@
+{
+  "owner": "dagangtj",
+  "slug": "openclaw-cost-analyzer",
+  "displayName": "OpenClaw Cost Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772079822312,
+    "commit": "https://github.com/openclaw/skills/commit/d10297d9c843c141abb435144a63ff79a5a55110"
+  },
+  "history": []
+}

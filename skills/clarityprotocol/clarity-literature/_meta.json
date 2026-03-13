@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-literature",
+  "displayName": "Clarity Literature",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772055677030,
+    "commit": "https://github.com/openclaw/skills/commit/75d9415675a2b463ba4a439e2e8ad31c06b92ec1"
+  },
+  "history": []
+}

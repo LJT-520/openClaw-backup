@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-vote",
+  "displayName": "Clarity Vote",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772055696832,
+    "commit": "https://github.com/openclaw/skills/commit/c35329e350f203992829ff132d360d5b8b5c0fd7"
+  },
+  "history": []
+}

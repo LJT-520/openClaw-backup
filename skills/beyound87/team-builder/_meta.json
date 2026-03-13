@@ -1,0 +1,17 @@
+{
+  "owner": "beyound87",
+  "slug": "team-builder",
+  "displayName": "Team Builder",
+  "latest": {
+    "version": "1.0.15",
+    "publishedAt": 1772466673240,
+    "commit": "https://github.com/openclaw/skills/commit/e4430b42d1604ed6d94e23da19a20aed27596340"
+  },
+  "history": [
+    {
+      "version": "1.0.12",
+      "publishedAt": 1772370915269,
+      "commit": "https://github.com/openclaw/skills/commit/c8b8f5a1f8ee4c329e313212b0dc1eabccad8267"
+    }
+  ]
+}

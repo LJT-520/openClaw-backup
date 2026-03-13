@@ -1,0 +1,17 @@
+{
+  "owner": "kexu9",
+  "slug": "skill-maker",
+  "displayName": "Skill Maker",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772622360477,
+    "commit": "https://github.com/openclaw/skills/commit/0fbfd1ef412ed27472fc7275b9130889c508d7c7"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772609663436,
+      "commit": "https://github.com/openclaw/skills/commit/b8e20ef5c6829df9643e378f809cb01786d9887b"
+    }
+  ]
+}

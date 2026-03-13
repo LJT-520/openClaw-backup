@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "aaas-roi-calculator",
+  "displayName": "AI-as-a-Service ROI Calculator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771788298212,
+    "commit": "https://github.com/openclaw/skills/commit/53d4d142bf4315ce0c39dfb4842a8134f06d9f2b"
+  },
+  "history": []
+}

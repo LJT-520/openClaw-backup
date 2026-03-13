@@ -1,0 +1,11 @@
+{
+  "owner": "nyamiresepdapur-droid",
+  "slug": "postai-automation",
+  "displayName": "POST AI Automation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772617745508,
+    "commit": "https://github.com/openclaw/skills/commit/8102c207eaea1c1d79aaca925a0313c8f1ac1ca1"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jeffpignataro",
+  "slug": "miranda-sag",
+  "displayName": "Miranda SAG (ElevenLabs TTS say-UX)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771686976689,
+    "commit": "https://github.com/openclaw/skills/commit/caa5c3e87ca18e566b767c31fcc7d4b2adff34f8"
+  },
+  "history": []
+}

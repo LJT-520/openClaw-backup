@@ -1,0 +1,11 @@
+{
+  "owner": "delbertheihei",
+  "slug": "aws-cloud-watch",
+  "displayName": "AWS CloudWatch",
+  "latest": {
+    "version": "0.0.1",
+    "publishedAt": 1772247913910,
+    "commit": "https://github.com/openclaw/skills/commit/a9599f5effd8979f36b0c220a909f8ab9d356b7a"
+  },
+  "history": []
+}

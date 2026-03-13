@@ -1,0 +1,11 @@
+{
+  "owner": "davydenkovm",
+  "slug": "edge-tts-english",
+  "displayName": "Edge TTS English",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772521366033,
+    "commit": "https://github.com/openclaw/skills/commit/cdfd0a4e9da4459f31bcb5c943349199b1b75759"
+  },
+  "history": []
+}

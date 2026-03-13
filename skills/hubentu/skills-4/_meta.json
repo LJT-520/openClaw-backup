@@ -1,0 +1,17 @@
+{
+  "owner": "hubentu",
+  "slug": "skills-4",
+  "displayName": "Coala Client",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771559674215,
+    "commit": "https://github.com/openclaw/skills/commit/d28ad7f071bbb90c3996cb67962d5bcdf4f91e12"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771554008215,
+      "commit": "https://github.com/openclaw/skills/commit/c530b62f37df2a130f7e7c4c71c2f5e9f1b1f53c"
+    }
+  ]
+}

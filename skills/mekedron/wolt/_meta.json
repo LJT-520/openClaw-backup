@@ -1,0 +1,11 @@
+{
+  "owner": "mekedron",
+  "slug": "wolt",
+  "displayName": "wolt-cli",
+  "latest": {
+    "version": "0.5.4",
+    "publishedAt": 1771621938301,
+    "commit": "https://github.com/openclaw/skills/commit/cac19c88ee307cba526891dfbd750a91a08cce44"
+  },
+  "history": []
+}

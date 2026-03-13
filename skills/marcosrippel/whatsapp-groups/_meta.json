@@ -1,0 +1,11 @@
+{
+  "owner": "marcosrippel",
+  "slug": "whatsapp-groups",
+  "displayName": "WhatsApp Groups",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771519367760,
+    "commit": "https://github.com/openclaw/skills/commit/ad40148dddb53f07eae6af3f30d3997a64852e6a"
+  },
+  "history": []
+}

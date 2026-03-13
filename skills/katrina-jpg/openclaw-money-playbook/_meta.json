@@ -1,0 +1,11 @@
+{
+  "owner": "katrina-jpg",
+  "slug": "openclaw-money-playbook",
+  "displayName": "Openclaw Money Playbook",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771544177993,
+    "commit": "https://github.com/openclaw/skills/commit/b8f5def0728758a11abec17c405a26bcd8afd217"
+  },
+  "history": []
+}

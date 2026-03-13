@@ -1,0 +1,11 @@
+{
+  "owner": "e2e5g",
+  "slug": "multi-agent-collaboration",
+  "displayName": "Multi Agent Collaboration",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772163707489,
+    "commit": "https://github.com/openclaw/skills/commit/7e9275114da7c4399b41d65dbe7508699f72048a"
+  },
+  "history": []
+}

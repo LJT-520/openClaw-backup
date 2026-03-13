@@ -1,0 +1,11 @@
+{
+  "owner": "0xsoydev",
+  "slug": "clankerkit",
+  "displayName": "ClankerKit",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771762139199,
+    "commit": "https://github.com/openclaw/skills/commit/afa0fb0d0642a7eff3b307612e66d634ba3d5f25"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jackeven02",
+  "slug": "video-learn",
+  "displayName": "Video Understanding",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771938972823,
+    "commit": "https://github.com/openclaw/skills/commit/f8e564c9348fb5a8395665e469c20ae10ceaf2eb"
+  },
+  "history": []
+}

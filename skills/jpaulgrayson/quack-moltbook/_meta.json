@@ -1,0 +1,11 @@
+{
+  "owner": "jpaulgrayson",
+  "slug": "quack-moltbook",
+  "displayName": "Moltbook Agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772061128381,
+    "commit": "https://github.com/openclaw/skills/commit/92af5ae414db24681d9f2676a804be8bafe29f78"
+  },
+  "history": []
+}

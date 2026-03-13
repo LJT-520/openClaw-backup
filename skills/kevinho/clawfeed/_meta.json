@@ -1,0 +1,17 @@
+{
+  "owner": "kevinho",
+  "slug": "clawfeed",
+  "displayName": "Clawfeed",
+  "latest": {
+    "version": "0.8.1",
+    "publishedAt": 1771911436029,
+    "commit": "https://github.com/openclaw/skills/commit/0ab3127d5b2c8d1e7bccd58d00cae129137200d1"
+  },
+  "history": [
+    {
+      "version": "0.7.0",
+      "publishedAt": 1771788569261,
+      "commit": "https://github.com/openclaw/skills/commit/c7dadca893767bcd6fdf0b7be7bff85cfe77efed"
+    }
+  ]
+}

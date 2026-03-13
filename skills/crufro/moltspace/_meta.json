@@ -1,0 +1,17 @@
+{
+  "owner": "crufro",
+  "slug": "moltspace",
+  "displayName": "molt.space",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771696029732,
+    "commit": "https://github.com/openclaw/skills/commit/4e1510d6f2602d53f2fbc530a034fd899f6ae814"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1769843335413,
+      "commit": "https://github.com/clawdbot/skills/commit/22649196ae51f7239a85f0df28385c4fbdd12f78"
+    }
+  ]
+}

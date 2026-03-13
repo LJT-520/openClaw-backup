@@ -1,0 +1,11 @@
+{
+  "owner": "error403agent",
+  "slug": "claude-max-proxy-setup",
+  "displayName": "Claude Max Proxy Setup",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772041222201,
+    "commit": "https://github.com/openclaw/skills/commit/ab2df66add954874de822ae6eb9823e724b07bfb"
+  },
+  "history": []
+}

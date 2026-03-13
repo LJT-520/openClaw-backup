@@ -1,0 +1,11 @@
+{
+  "owner": "littleblackone",
+  "slug": "ccapi",
+  "displayName": "O n e   A P I . A l w a y s   o n .  Aggregate multiple AI providers under the hood. Smart routing auto-switches on failure. You call once — we handle the rest.",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772630224193,
+    "commit": "https://github.com/openclaw/skills/commit/5d18088b9cefca578ad8a8c29625a9170e421e6a"
+  },
+  "history": []
+}

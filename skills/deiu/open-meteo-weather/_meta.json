@@ -1,0 +1,11 @@
+{
+  "owner": "deiu",
+  "slug": "open-meteo-weather",
+  "displayName": "Accurate weather forecasts using Open-Meto API (no key required)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772017469562,
+    "commit": "https://github.com/openclaw/skills/commit/a4487c3fdc50cad00732570e71600dde17d07b69"
+  },
+  "history": []
+}

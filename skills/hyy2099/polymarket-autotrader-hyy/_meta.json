@@ -1,0 +1,11 @@
+{
+  "owner": "hyy2099",
+  "slug": "polymarket-autotrader-hyy",
+  "displayName": "Polymarket AutoTrader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772648710331,
+    "commit": "https://github.com/openclaw/skills/commit/45e256c58d3047a14e05fe5e9a26c3baad08503a"
+  },
+  "history": []
+}

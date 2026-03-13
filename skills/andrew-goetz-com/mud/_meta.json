@@ -1,0 +1,11 @@
+{
+  "owner": "andrew-goetz-com",
+  "slug": "mud",
+  "displayName": "MUD",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772259791400,
+    "commit": "https://github.com/openclaw/skills/commit/539de1c2f1e58e3bbaf824bd8971cb0bb33b9e88"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mattvalenta",
+  "slug": "pls-office-docs",
+  "displayName": "PLS Office Docs",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771802000069,
+    "commit": "https://github.com/openclaw/skills/commit/8c9e9f341a0661815e56cfc3ae250413c6c58742"
+  },
+  "history": []
+}

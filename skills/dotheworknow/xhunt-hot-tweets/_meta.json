@@ -1,0 +1,11 @@
+{
+  "owner": "dotheworknow",
+  "slug": "xhunt-hot-tweets",
+  "displayName": "XHunt Hot Tweets",
+  "latest": {
+    "version": "2.0.2",
+    "publishedAt": 1772088365171,
+    "commit": "https://github.com/openclaw/skills/commit/26e93a102195a6b0e21673faf42e721f57ab56d9"
+  },
+  "history": []
+}

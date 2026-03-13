@@ -1,0 +1,11 @@
+{
+  "owner": "aning35",
+  "slug": "reate-subagent",
+  "displayName": "Create SubAgent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772291714291,
+    "commit": "https://github.com/openclaw/skills/commit/ca1c3fbbf54f0524ca5a94e70a191174a89d8d71"
+  },
+  "history": []
+}

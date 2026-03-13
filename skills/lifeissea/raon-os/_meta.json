@@ -1,0 +1,37 @@
+{
+  "owner": "lifeissea",
+  "slug": "raon-os",
+  "displayName": "Raon OS",
+  "latest": {
+    "version": "0.7.27",
+    "publishedAt": 1772125586425,
+    "commit": "https://github.com/openclaw/skills/commit/c0abcbd0adbd402797c3fc37fd2488307ac846c5"
+  },
+  "history": [
+    {
+      "version": "0.7.26",
+      "publishedAt": 1771636212781,
+      "commit": "https://github.com/openclaw/skills/commit/86aef302a0f259dc611b71f8a006d79a16626e83"
+    },
+    {
+      "version": "0.7.23",
+      "publishedAt": 1771509980597,
+      "commit": "https://github.com/openclaw/skills/commit/5df2117975058ca1f5232b18f6c9960b56eacefc"
+    },
+    {
+      "version": "0.7.17",
+      "publishedAt": 1771494993971,
+      "commit": "https://github.com/openclaw/skills/commit/871e6f4b3fb36ae2ea0b6becfb190f20328528cb"
+    },
+    {
+      "version": "0.7.10",
+      "publishedAt": 1771415071334,
+      "commit": "https://github.com/openclaw/skills/commit/49290ae31fa28c4bbb52031c25b858ab96235e1f"
+    },
+    {
+      "version": "0.7.9",
+      "publishedAt": 1771414068689,
+      "commit": "https://github.com/openclaw/skills/commit/defcbacfa301fd329c05a1b98dca8b5ad3dc7b0b"
+    }
+  ]
+}

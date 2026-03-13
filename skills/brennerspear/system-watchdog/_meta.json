@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "system-watchdog",
+  "displayName": "System Watchdog",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771989492206,
+    "commit": "https://github.com/openclaw/skills/commit/bdc9e42f76838cddb4b737554b0464200f9ac7fd"
+  },
+  "history": []
+}

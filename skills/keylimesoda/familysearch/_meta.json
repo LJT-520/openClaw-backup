@@ -1,0 +1,11 @@
+{
+  "owner": "keylimesoda",
+  "slug": "familysearch",
+  "displayName": "Familysearch",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772094797274,
+    "commit": "https://github.com/openclaw/skills/commit/31ede88281d7f47eb1b75061ce922c3e4c271e92"
+  },
+  "history": []
+}

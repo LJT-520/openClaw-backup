@@ -1,0 +1,11 @@
+{
+  "owner": "ogenes",
+  "slug": "jimeng",
+  "displayName": "Jimeng AI",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771853288683,
+    "commit": "https://github.com/openclaw/skills/commit/4d511a243e6076b4fd62c9d28c902f5e7e3aa56e"
+  },
+  "history": []
+}

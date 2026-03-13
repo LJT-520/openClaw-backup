@@ -1,0 +1,11 @@
+{
+  "owner": "hacksing",
+  "slug": "feishu-user",
+  "displayName": "feishu-user",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771776403069,
+    "commit": "https://github.com/openclaw/skills/commit/fead82eb6d4154317cb6fe185eeb2a8a6ab3b495"
+  },
+  "history": []
+}

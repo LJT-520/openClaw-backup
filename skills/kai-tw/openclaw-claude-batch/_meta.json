@@ -1,0 +1,11 @@
+{
+  "owner": "kai-tw",
+  "slug": "openclaw-claude-batch",
+  "displayName": "Claude Batch API",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771992377788,
+    "commit": "https://github.com/openclaw/skills/commit/13bad26236c249a1f5f113b917612dafe316b274"
+  },
+  "history": []
+}

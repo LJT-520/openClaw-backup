@@ -1,0 +1,17 @@
+{
+  "owner": "amian",
+  "slug": "chatgpt-image-generation",
+  "displayName": "Chatgpt Image Generation",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772657427224,
+    "commit": "https://github.com/openclaw/skills/commit/979dc52e5bede79a12ae7b86fddf080064dde868"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772632141838,
+      "commit": "https://github.com/openclaw/skills/commit/cd763610e4ae35f65a831fce363bc00a66c5e31e"
+    }
+  ]
+}

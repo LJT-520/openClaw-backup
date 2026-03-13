@@ -1,0 +1,11 @@
+{
+  "owner": "brucey0017-cloud",
+  "slug": "context-guardian",
+  "displayName": "Context Guardian",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772536133600,
+    "commit": "https://github.com/openclaw/skills/commit/2f42ea3a34c562e2e62c194dd6e17194003a2072"
+  },
+  "history": []
+}

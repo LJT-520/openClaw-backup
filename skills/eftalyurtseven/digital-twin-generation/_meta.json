@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "digital-twin-generation",
+  "displayName": "Digital Twin Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771595286847,
+    "commit": "https://github.com/openclaw/skills/commit/4fcc94518e619c8005b71a0bfa6ed39b13d68346"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "aviclaw",
+  "slug": "slither-audit",
+  "displayName": "Slither Audit",
+  "latest": {
+    "version": "0.4.0",
+    "publishedAt": 1771564284801,
+    "commit": "https://github.com/openclaw/skills/commit/0e71debe6eff61bb87e3252a7afeec2596cc90ab"
+  },
+  "history": []
+}

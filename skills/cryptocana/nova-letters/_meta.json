@@ -1,0 +1,11 @@
+{
+  "owner": "cryptocana",
+  "slug": "nova-letters",
+  "displayName": "Nova Letters",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771951639980,
+    "commit": "https://github.com/openclaw/skills/commit/2a64b3c5f6febbc52f2ef4ac16865a5663254020"
+  },
+  "history": []
+}

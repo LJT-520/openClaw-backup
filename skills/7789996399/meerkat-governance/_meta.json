@@ -1,0 +1,17 @@
+{
+  "owner": "7789996399",
+  "slug": "meerkat-governance",
+  "displayName": "Meerkat Governance",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772043120937,
+    "commit": "https://github.com/openclaw/skills/commit/c811c3c1971f6bdfbaee9319a0e3d46dd9f1076e"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771630275655,
+      "commit": "https://github.com/openclaw/skills/commit/d6ad3e8a10055114cc12e40f36eb9559a726593a"
+    }
+  ]
+}

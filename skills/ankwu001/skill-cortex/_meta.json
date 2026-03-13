@@ -1,0 +1,17 @@
+{
+  "owner": "ankwu001",
+  "slug": "skill-cortex",
+  "displayName": "Skill Cortex",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772260347160,
+    "commit": "https://github.com/openclaw/skills/commit/6f7ce38d62c57aa0767afec7d01a9a8ec3e17c69"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772214471053,
+      "commit": "https://github.com/openclaw/skills/commit/9f2c969f5cf59fb64068a07b1b323d63cb1d27a4"
+    }
+  ]
+}

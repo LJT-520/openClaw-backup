@@ -1,0 +1,17 @@
+{
+  "owner": "micktaiwan",
+  "slug": "lemlist-official",
+  "displayName": "lemlist official",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771681845672,
+    "commit": "https://github.com/openclaw/skills/commit/d459ffddda451497b2dadf894523e1375e7660b0"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771681281009,
+      "commit": "https://github.com/openclaw/skills/commit/e36d6f37fd8db838c36642e00ba5bb457125a61a"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "nantes",
+  "slug": "mcp-client",
+  "displayName": "Mcp Client",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771783972794,
+    "commit": "https://github.com/openclaw/skills/commit/818b9ad55d8cade49f31c93f1c12844fee826dd6"
+  },
+  "history": []
+}

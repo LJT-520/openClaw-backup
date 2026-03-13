@@ -1,0 +1,11 @@
+{
+  "owner": "nmadeleidev",
+  "slug": "bing-webmaster-cli",
+  "displayName": "Bing Webmaster CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772087797209,
+    "commit": "https://github.com/openclaw/skills/commit/f97917d12483dc7f31e0e5981b2219f8c2d63b48"
+  },
+  "history": []
+}

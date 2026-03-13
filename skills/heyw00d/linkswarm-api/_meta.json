@@ -1,0 +1,11 @@
+{
+  "owner": "heyw00d",
+  "slug": "linkswarm-api",
+  "displayName": "LinkSwarm API",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771725977291,
+    "commit": "https://github.com/openclaw/skills/commit/b041c3bda6bcf33d4195777248fbe9122f1cad69"
+  },
+  "history": []
+}

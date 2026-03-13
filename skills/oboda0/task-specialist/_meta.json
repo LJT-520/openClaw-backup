@@ -1,0 +1,17 @@
+{
+  "owner": "oboda0",
+  "slug": "task-specialist",
+  "displayName": "task-specialist",
+  "latest": {
+    "version": "1.2.2",
+    "publishedAt": 1772510673744,
+    "commit": "https://github.com/openclaw/skills/commit/b89002233e0ad6243344e56f0adf27c3dffd6c66"
+  },
+  "history": [
+    {
+      "version": "1.1.5",
+      "publishedAt": 1772247150377,
+      "commit": "https://github.com/openclaw/skills/commit/bfe093224588691b2680567ff403d2f63735b390"
+    }
+  ]
+}

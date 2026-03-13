@@ -1,0 +1,11 @@
+{
+  "owner": "jaceymarvin99",
+  "slug": "daily-ai-news",
+  "displayName": "Daily Ai News",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772082846360,
+    "commit": "https://github.com/openclaw/skills/commit/4651582b3f70e21dd14cc5968ae80d2e1503532c"
+  },
+  "history": []
+}

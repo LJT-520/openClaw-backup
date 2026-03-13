@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-revops-engine",
+  "displayName": "RevOps Engine",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771608303628,
+    "commit": "https://github.com/openclaw/skills/commit/14580e6e0452ec2bbc3cb0b73d57b104c8499837"
+  },
+  "history": []
+}

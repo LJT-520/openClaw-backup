@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "runtime-attestation-probe",
+  "displayName": "Runtime Attestation Probe",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771753306764,
+    "commit": "https://github.com/openclaw/skills/commit/6d6c35a6b01427c33b3bc65f0b0786e414b12878"
+  },
+  "history": []
+}

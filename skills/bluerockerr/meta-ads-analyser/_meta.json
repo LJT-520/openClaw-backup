@@ -1,0 +1,11 @@
+{
+  "owner": "bluerockerr",
+  "slug": "meta-ads-analyser",
+  "displayName": "Ads Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771791206910,
+    "commit": "https://github.com/openclaw/skills/commit/5c8bf84c65c2ff435ba0b57f66170ee7afe5f5ed"
+  },
+  "history": []
+}

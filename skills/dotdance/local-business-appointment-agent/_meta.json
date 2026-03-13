@@ -1,0 +1,11 @@
+{
+  "owner": "dotdance",
+  "slug": "local-business-appointment-agent",
+  "displayName": "Local Business Appointment Agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772604130707,
+    "commit": "https://github.com/openclaw/skills/commit/c6d8ee134bde95f315c63a07cd2629c73b25ad2f"
+  },
+  "history": []
+}

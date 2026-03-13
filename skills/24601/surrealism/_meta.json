@@ -1,0 +1,22 @@
+{
+  "owner": "24601",
+  "slug": "surrealism",
+  "displayName": "surrealism",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772592410498,
+    "commit": "https://github.com/openclaw/skills/commit/10efc20d63e9183373bf00482052571313f8cf4a"
+  },
+  "history": [
+    {
+      "version": "1.1.1",
+      "publishedAt": 1772211513301,
+      "commit": "https://github.com/openclaw/skills/commit/e3aae3409c28ac83f4a72d030d5362adb2b12b60"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771793466933,
+      "commit": "https://github.com/openclaw/skills/commit/5820272fc45246a952c0f477e24da2ee2890f638"
+    }
+  ]
+}

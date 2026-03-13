@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-soc2-compliance",
+  "displayName": "SOC 2 AI Agent Compliance",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771495954665,
+    "commit": "https://github.com/openclaw/skills/commit/b942f7f2f22968209a7bfa33e222beaec9c8af60"
+  },
+  "history": []
+}

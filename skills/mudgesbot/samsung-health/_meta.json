@@ -1,0 +1,17 @@
+{
+  "owner": "mudgesbot",
+  "slug": "samsung-health",
+  "displayName": "Samsung Health",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771574178563,
+    "commit": "https://github.com/openclaw/skills/commit/20489e5da8358ff4992359a7c648a9faeb172ce9"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771448409227,
+      "commit": "https://github.com/openclaw/skills/commit/ede0e5101a489307940af6632c1d1acd39df9ceb"
+    }
+  ]
+}

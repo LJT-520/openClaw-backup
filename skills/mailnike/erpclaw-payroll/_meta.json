@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-payroll",
+  "displayName": "ERPClaw-Payroll",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772113981244,
+    "commit": "https://github.com/openclaw/skills/commit/cc8c371034af5d15b93adebd7b0853a1b8faf078"
+  },
+  "history": []
+}

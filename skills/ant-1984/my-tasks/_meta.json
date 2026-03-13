@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "my-tasks",
+  "displayName": "My Tasks",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772365341232,
+    "commit": "https://github.com/openclaw/skills/commit/1d7d306a19cb15550dddd5627e40a8fcec73e900"
+  },
+  "history": []
+}

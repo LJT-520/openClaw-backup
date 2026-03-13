@@ -1,0 +1,27 @@
+{
+  "owner": "eckmantechllc",
+  "slug": "flux",
+  "displayName": "Flux",
+  "latest": {
+    "version": "2.3.0",
+    "publishedAt": 1772144949174,
+    "commit": "https://github.com/openclaw/skills/commit/270e2c814a8fe823a2ad5c828f55b613ef02fcdb"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771610463912,
+      "commit": "https://github.com/openclaw/skills/commit/9ef15e3de5e4c4915d0badadae254798ee610483"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771092153456,
+      "commit": "https://github.com/openclaw/skills/commit/78aa6ad38b00d9504366c96c44232c70d7e1e17b"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770836688466,
+      "commit": "https://github.com/openclaw/skills/commit/41eddaeb80aca0ca184c221bfdcbba65455ad996"
+    }
+  ]
+}

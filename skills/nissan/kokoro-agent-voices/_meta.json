@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "kokoro-agent-voices",
+  "displayName": "Kokoro Agent Voices",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772399004817,
+    "commit": "https://github.com/openclaw/skills/commit/d250bd60248bf9f3c50cc24ee1dbfb273a0ead16"
+  },
+  "history": []
+}

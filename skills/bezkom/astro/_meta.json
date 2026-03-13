@@ -1,0 +1,11 @@
+{
+  "owner": "bezkom",
+  "slug": "astro",
+  "displayName": "Astro",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772165281245,
+    "commit": "https://github.com/openclaw/skills/commit/6707162a80779835905fb99ab83db1beb8423428"
+  },
+  "history": []
+}

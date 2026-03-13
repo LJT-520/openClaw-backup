@@ -1,0 +1,11 @@
+{
+  "owner": "nyrosveil",
+  "slug": "mem0-config",
+  "displayName": "Mem0 Config",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772257885289,
+    "commit": "https://github.com/openclaw/skills/commit/b4eeccb899ff593f5b49670a4043f07750a5cd37"
+  },
+  "history": []
+}

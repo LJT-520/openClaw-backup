@@ -1,0 +1,11 @@
+{
+  "owner": "martinforsulu",
+  "slug": "neo-docker-to-k8s-manifests",
+  "displayName": "Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771982818645,
+    "commit": "https://github.com/openclaw/skills/commit/714e47a734e28e758c1ba7f014901894e3ca35ff"
+  },
+  "history": []
+}

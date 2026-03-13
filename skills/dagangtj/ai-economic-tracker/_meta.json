@@ -1,0 +1,17 @@
+{
+  "owner": "dagangtj",
+  "slug": "ai-economic-tracker",
+  "displayName": "AI Economic Tracker",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772495635368,
+    "commit": "https://github.com/openclaw/skills/commit/57b20815b83c50f180a1144a67179b1b8dbf10b4"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772091930920,
+      "commit": "https://github.com/openclaw/skills/commit/4d12749695cb6f3da737f2130a40d91c4469ed74"
+    }
+  ]
+}

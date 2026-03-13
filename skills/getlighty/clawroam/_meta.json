@@ -1,0 +1,11 @@
+{
+  "owner": "getlighty",
+  "slug": "clawroam",
+  "displayName": "ClawRoam",
+  "latest": {
+    "version": "3.0.1",
+    "publishedAt": 1771953139379,
+    "commit": "https://github.com/openclaw/skills/commit/5f7af999425218e5fd897471847c2defbb2d8f84"
+  },
+  "history": []
+}

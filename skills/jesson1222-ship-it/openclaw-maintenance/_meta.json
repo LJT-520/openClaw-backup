@@ -1,0 +1,11 @@
+{
+  "owner": "jesson1222-ship-it",
+  "slug": "openclaw-maintenance",
+  "displayName": "OpenClaw 维护脚本",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772640035554,
+    "commit": "https://github.com/openclaw/skills/commit/5ea09efc7a90b417f9cdcee0f72519388ea73399"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "drewm33",
+  "slug": "clawmon",
+  "displayName": "ClawMon",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771589572843,
+    "commit": "https://github.com/openclaw/skills/commit/61309f760af9a3d3d91f8d74fe752d22f9b34a6c"
+  },
+  "history": []
+}

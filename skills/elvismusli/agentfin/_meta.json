@@ -1,0 +1,11 @@
+{
+  "owner": "elvismusli",
+  "slug": "agentfin",
+  "displayName": "AgentFin",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772287287170,
+    "commit": "https://github.com/openclaw/skills/commit/7d856fca8f9bb48e639494b5b7287d26087cf8bf"
+  },
+  "history": []
+}

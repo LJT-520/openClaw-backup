@@ -1,0 +1,11 @@
+{
+  "owner": "fionn1989",
+  "slug": "gog2",
+  "displayName": "Gog2",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772049319642,
+    "commit": "https://github.com/openclaw/skills/commit/3035aa96aa91ba06e6dc2b142c7d8fff6e360c5e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "larval-zz",
+  "slug": "lottery-analyzer",
+  "displayName": "彩票分析助手",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772155799885,
+    "commit": "https://github.com/openclaw/skills/commit/6de63a868ed0349f2548f211adb298853cc06746"
+  },
+  "history": []
+}

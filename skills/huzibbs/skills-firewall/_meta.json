@@ -1,0 +1,11 @@
+{
+  "owner": "huzibbs",
+  "slug": "skills-firewall",
+  "displayName": "skills-firewall",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772411091622,
+    "commit": "https://github.com/openclaw/skills/commit/9b0db90ccd1b032aed63dff2e987825bac559dd2"
+  },
+  "history": []
+}

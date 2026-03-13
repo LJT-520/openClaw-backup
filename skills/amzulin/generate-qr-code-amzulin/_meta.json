@@ -1,0 +1,11 @@
+{
+  "owner": "amzulin",
+  "slug": "generate-qr-code-amzulin",
+  "displayName": "我的二维码生成技能",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772268851474,
+    "commit": "https://github.com/openclaw/skills/commit/7d986f543090b24f229006d1975a19a44826f249"
+  },
+  "history": []
+}

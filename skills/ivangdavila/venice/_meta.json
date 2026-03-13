@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "venice",
+  "displayName": "Venice",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771875154222,
+    "commit": "https://github.com/openclaw/skills/commit/ba67963e6ff0f2ebebe757c4e2a62607fbbd6d9e"
+  },
+  "history": []
+}

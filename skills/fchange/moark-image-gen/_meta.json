@@ -1,0 +1,11 @@
+{
+  "owner": "fchange",
+  "slug": "moark-image-gen",
+  "displayName": "Moark Image Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772085692529,
+    "commit": "https://github.com/openclaw/skills/commit/4991ca4f942549ac4b284d31461c0228bbb5953e"
+  },
+  "history": []
+}

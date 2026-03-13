@@ -1,0 +1,11 @@
+{
+  "owner": "harukaon",
+  "slug": "workspace-indexer",
+  "displayName": "Workspace Indexer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772205140357,
+    "commit": "https://github.com/openclaw/skills/commit/e1d5a2f4e7819bf3ebce658a615a40ae3f487e3c"
+  },
+  "history": []
+}

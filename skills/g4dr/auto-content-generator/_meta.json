@@ -1,0 +1,11 @@
+{
+  "owner": "g4dr",
+  "slug": "auto-content-generator",
+  "displayName": "Automated Content Generation Pipeline",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772103949835,
+    "commit": "https://github.com/openclaw/skills/commit/fe3113be4ab424fdfb98d856d30068d7984d5ec4"
+  },
+  "history": []
+}

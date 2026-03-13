@@ -1,0 +1,11 @@
+{
+  "owner": "honestqiao",
+  "slug": "zhipu-embeddings-v2",
+  "displayName": "Zhipu Embeddings",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771694964982,
+    "commit": "https://github.com/openclaw/skills/commit/c10ac9120faba7ba8ed74e6b3cd24c8cc4bcad37"
+  },
+  "history": []
+}

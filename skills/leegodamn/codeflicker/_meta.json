@@ -1,0 +1,17 @@
+{
+  "owner": "leegodamn",
+  "slug": "codeflicker",
+  "displayName": "Codeflicker",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772361779919,
+    "commit": "https://github.com/openclaw/skills/commit/2d692b699a1610bd005ac4d1d23b6d35e09d95ed"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772350671863,
+      "commit": "https://github.com/openclaw/skills/commit/9ec5426775381be5be0d3db08c8173ad654b5a57"
+    }
+  ]
+}

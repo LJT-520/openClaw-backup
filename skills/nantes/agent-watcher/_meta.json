@@ -1,0 +1,22 @@
+{
+  "owner": "nantes",
+  "slug": "agent-watcher",
+  "displayName": "Agent Watcher Skill",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1771604595828,
+    "commit": "https://github.com/openclaw/skills/commit/635b6e6b30a10d424bb8bcf189fb20fa6ebc0ee1"
+  },
+  "history": [
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771604495521,
+      "commit": "https://github.com/openclaw/skills/commit/fea0457dafc05ccd65da2b934bb44c9d0910cc15"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771604170920,
+      "commit": "https://github.com/openclaw/skills/commit/f707886a5596236aa8ed605b8690cc6713f193cc"
+    }
+  ]
+}

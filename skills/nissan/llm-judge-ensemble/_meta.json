@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "llm-judge-ensemble",
+  "displayName": "llm-judge-ensemble",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772102483896,
+    "commit": "https://github.com/openclaw/skills/commit/74d2f756bed156f49fdcb6f6a3bed629408610fd"
+  },
+  "history": []
+}

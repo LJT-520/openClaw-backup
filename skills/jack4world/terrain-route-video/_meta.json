@@ -1,0 +1,11 @@
+{
+  "owner": "jack4world",
+  "slug": "terrain-route-video",
+  "displayName": "Terrain Route Video",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1771770856692,
+    "commit": "https://github.com/openclaw/skills/commit/228741d7c9f1de786226bd03aa6311f30df0c00e"
+  },
+  "history": []
+}

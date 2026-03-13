@@ -1,0 +1,11 @@
+{
+  "owner": "maiyu-swe",
+  "slug": "moltlog-ai",
+  "displayName": "moltlog-ai",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771609557079,
+    "commit": "https://github.com/openclaw/skills/commit/604c71451ed7cec344188f795fe3c8790a79d934"
+  },
+  "history": []
+}

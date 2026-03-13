@@ -1,0 +1,11 @@
+{
+  "owner": "jackkuo666",
+  "slug": "rstudio-research-agent",
+  "displayName": "Rstudio Research Agent",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772154924374,
+    "commit": "https://github.com/openclaw/skills/commit/af8d8d36d63b01a8728423d8bc245bb927cb7ef0"
+  },
+  "history": []
+}

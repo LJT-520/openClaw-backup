@@ -1,0 +1,17 @@
+{
+  "owner": "insipidpoint",
+  "slug": "checkmate",
+  "displayName": "Checkmate",
+  "latest": {
+    "version": "2.0.4",
+    "publishedAt": 1771803378432,
+    "commit": "https://github.com/openclaw/skills/commit/21dd475586b39a7f471e094c4fd5bbfd97e333fb"
+  },
+  "history": [
+    {
+      "version": "2.0.2",
+      "publishedAt": 1771792023400,
+      "commit": "https://github.com/openclaw/skills/commit/f2069fb4d871d5b121e1448dd0dfadf7b62efdf3"
+    }
+  ]
+}

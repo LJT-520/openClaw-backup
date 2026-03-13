@@ -1,0 +1,11 @@
+{
+  "owner": "moroshek",
+  "slug": "tempo-workspace",
+  "displayName": "Tempo Workspace",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772048583180,
+    "commit": "https://github.com/openclaw/skills/commit/d133e24c4e7c74933be297c0484ad4f138154ff7"
+  },
+  "history": []
+}

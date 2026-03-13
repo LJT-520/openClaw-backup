@@ -1,0 +1,11 @@
+{
+  "owner": "hewenqiang",
+  "slug": "feishu-skills-kit",
+  "displayName": "Feishu Skills Kit 飞书技能全集",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772596339588,
+    "commit": "https://github.com/openclaw/skills/commit/297695b5646ef7acbac48b6e55b8fba296e654a5"
+  },
+  "history": []
+}

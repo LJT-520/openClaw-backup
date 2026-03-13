@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-court-records",
+  "displayName": "Gov Court Records",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772211314729,
+    "commit": "https://github.com/openclaw/skills/commit/b11b7bc90ed86d9064e81351680005ef5d4fdb7a"
+  },
+  "history": []
+}

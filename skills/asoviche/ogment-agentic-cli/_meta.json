@@ -1,0 +1,22 @@
+{
+  "owner": "asoviche",
+  "slug": "ogment-agentic-cli",
+  "displayName": "ogment-agentic-cli",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772548771551,
+    "commit": "https://github.com/openclaw/skills/commit/f89cdb59a7ac3e657c453fe0cccdccb572d2733f"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772139033927,
+      "commit": "https://github.com/openclaw/skills/commit/d2c058bb3c59d5fe069dc4bb7d8b61e83c486588"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770821150451,
+      "commit": "https://github.com/openclaw/skills/commit/36fae1469068a4caf703b00dab7817b415f432c8"
+    }
+  ]
+}

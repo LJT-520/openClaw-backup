@@ -1,0 +1,11 @@
+{
+  "owner": "bestisblessed",
+  "slug": "clip",
+  "displayName": "YouTube Clipper",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772485699919,
+    "commit": "https://github.com/openclaw/skills/commit/3eb6edd30fef02cce7625101b1472d4e8ec6ffc4"
+  },
+  "history": []
+}

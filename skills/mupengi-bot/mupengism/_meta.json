@@ -1,0 +1,11 @@
+{
+  "owner": "mupengi-bot",
+  "slug": "mupengism",
+  "displayName": "mupengism",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772292835138,
+    "commit": "https://github.com/openclaw/skills/commit/fbef1b6c90b0a78d07c1520746e1d2a64979cf29"
+  },
+  "history": []
+}

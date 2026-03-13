@@ -1,0 +1,11 @@
+{
+  "owner": "arosstale",
+  "slug": "openclaw-memory-2",
+  "displayName": "Openclaw Memories",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772024821130,
+    "commit": "https://github.com/openclaw/skills/commit/7b1efa117f7a994dfe88c87ccc1a057c47401984"
+  },
+  "history": []
+}

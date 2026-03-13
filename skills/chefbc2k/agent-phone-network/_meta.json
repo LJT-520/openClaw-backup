@@ -1,0 +1,11 @@
+{
+  "owner": "chefbc2k",
+  "slug": "agent-phone-network",
+  "displayName": "Agent Phone Network",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772642119131,
+    "commit": "https://github.com/openclaw/skills/commit/38f77588b56ed474e87d89d4eddff3ba7f552f30"
+  },
+  "history": []
+}

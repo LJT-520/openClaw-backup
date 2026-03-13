@@ -1,0 +1,11 @@
+{
+  "owner": "konscious0beast",
+  "slug": "external-ki-integration-backup",
+  "displayName": "External Ki Integration Backup",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771783056326,
+    "commit": "https://github.com/openclaw/skills/commit/08cb0650009d641b349393e31a8b93fe3b7dd7ed"
+  },
+  "history": []
+}

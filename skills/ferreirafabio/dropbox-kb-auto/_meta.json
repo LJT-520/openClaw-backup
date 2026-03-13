@@ -1,0 +1,17 @@
+{
+  "owner": "ferreirafabio",
+  "slug": "dropbox-kb-auto",
+  "displayName": "Dropbox Kb Auto",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771685771681,
+    "commit": "https://github.com/openclaw/skills/commit/2b8eb373e927efefec0efe6601a42f6b7bbbb289"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771634830078,
+      "commit": "https://github.com/openclaw/skills/commit/d0b19480a41881c87c5b367ef59f6359483a31d3"
+    }
+  ]
+}

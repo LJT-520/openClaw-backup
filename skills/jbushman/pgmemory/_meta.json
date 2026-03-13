@@ -1,0 +1,11 @@
+{
+  "owner": "jbushman",
+  "slug": "pgmemory",
+  "displayName": "Pgmemory",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772538776743,
+    "commit": "https://github.com/openclaw/skills/commit/cd25d510aa901a1d832c6614f75689bce6096926"
+  },
+  "history": []
+}

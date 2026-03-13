@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "remote-desktop",
+  "displayName": "Remote Desktop",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771759490569,
+    "commit": "https://github.com/openclaw/skills/commit/3c09b07760110a9e6ec90649755082eee05c436d"
+  },
+  "history": []
+}

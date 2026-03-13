@@ -1,0 +1,22 @@
+{
+  "owner": "neuyazvimyi",
+  "slug": "gitlab-code-reviewer",
+  "displayName": "gitlab-code-reviewer",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772534719014,
+    "commit": "https://github.com/openclaw/skills/commit/9f340c380813ad0f7fd71b9c38ecbccb636aa378"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772386952316,
+      "commit": "https://github.com/openclaw/skills/commit/b272d2ff108589544fa5a93e5a6a9f24b8a75cdf"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772362609738,
+      "commit": "https://github.com/openclaw/skills/commit/06b75fd07619660511c85ad7e2104d2d6bd5553b"
+    }
+  ]
+}

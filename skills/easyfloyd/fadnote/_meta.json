@@ -1,0 +1,17 @@
+{
+  "owner": "easyfloyd",
+  "slug": "fadnote",
+  "displayName": "FadNote",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772577053324,
+    "commit": "https://github.com/openclaw/skills/commit/1ffaa8c5c6dde9a16094c892a596a414d7e9e671"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772146990448,
+      "commit": "https://github.com/openclaw/skills/commit/9a99e4c4bc815930a080b98f442eabdaf0341ba6"
+    }
+  ]
+}

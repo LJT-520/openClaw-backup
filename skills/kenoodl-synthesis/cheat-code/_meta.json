@@ -1,0 +1,22 @@
+{
+  "owner": "kenoodl-synthesis",
+  "slug": "cheat-code",
+  "displayName": "Cheat Code",
+  "latest": {
+    "version": "1.0.11",
+    "publishedAt": 1772350303340,
+    "commit": "https://github.com/openclaw/skills/commit/fc47c3c655c10f4c375892efcc48e9cebec5989a"
+  },
+  "history": [
+    {
+      "version": "1.0.7",
+      "publishedAt": 1772038547471,
+      "commit": "https://github.com/openclaw/skills/commit/6ee1237774e696524f4eb395985ea18928108e48"
+    },
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771973679091,
+      "commit": "https://github.com/openclaw/skills/commit/82dac8657bcd8e448c565dcb13e93e9de2d59883"
+    }
+  ]
+}

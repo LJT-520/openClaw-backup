@@ -1,0 +1,11 @@
+{
+  "owner": "octal-crypto",
+  "slug": "dx-terminal-pro-skill",
+  "displayName": "Dx Terminal Pro",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772070777562,
+    "commit": "https://github.com/openclaw/skills/commit/2c19f3f000812735ccf2ec5703997f1621d3c45d"
+  },
+  "history": []
+}

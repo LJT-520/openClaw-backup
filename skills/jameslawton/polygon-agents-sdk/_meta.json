@@ -1,0 +1,11 @@
+{
+  "owner": "jameslawton",
+  "slug": "polygon-agents-sdk",
+  "displayName": "Polygon Agents SDK",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772127475246,
+    "commit": "https://github.com/openclaw/skills/commit/61056b8b2de11ebf84601725f3b8eb8b97ad2b5a"
+  },
+  "history": []
+}

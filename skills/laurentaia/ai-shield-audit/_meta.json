@@ -1,0 +1,11 @@
+{
+  "owner": "laurentaia",
+  "slug": "ai-shield-audit",
+  "displayName": "AI Shield — OpenClaw Security Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771884479257,
+    "commit": "https://github.com/openclaw/skills/commit/d2497a6d3f0cc3fcf468704810664216c735292b"
+  },
+  "history": []
+}

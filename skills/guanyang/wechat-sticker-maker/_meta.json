@@ -1,0 +1,11 @@
+{
+  "owner": "guanyang",
+  "slug": "wechat-sticker-maker",
+  "displayName": "微信表情包制作工具",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772350297108,
+    "commit": "https://github.com/openclaw/skills/commit/da450f939b5e460f0376214e9ef9d58b0a4bcbf3"
+  },
+  "history": []
+}

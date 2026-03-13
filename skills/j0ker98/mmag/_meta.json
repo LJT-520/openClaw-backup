@@ -1,0 +1,11 @@
+{
+  "owner": "j0ker98",
+  "slug": "mmag",
+  "displayName": "Mixed Memory Augumented Generation",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772459260129,
+    "commit": "https://github.com/openclaw/skills/commit/5f793498559fdb95c7eeaee388d36c0df6405392"
+  },
+  "history": []
+}

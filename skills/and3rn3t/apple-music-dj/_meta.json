@@ -1,0 +1,11 @@
+{
+  "owner": "and3rn3t",
+  "slug": "apple-music-dj",
+  "displayName": "Apple Music DJ",
+  "latest": {
+    "version": "3.1.0",
+    "publishedAt": 1772498200990,
+    "commit": "https://github.com/openclaw/skills/commit/3e0d7732d4b65e7a45e116d41afbc3c58eb63024"
+  },
+  "history": []
+}

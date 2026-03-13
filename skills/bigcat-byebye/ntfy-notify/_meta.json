@@ -1,0 +1,11 @@
+{
+  "owner": "bigcat-byebye",
+  "slug": "ntfy-notify",
+  "displayName": "ntfy-notify",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772163063651,
+    "commit": "https://github.com/openclaw/skills/commit/e1b5a749d956aad69705e74bd2b2b93eb1e4f1cd"
+  },
+  "history": []
+}

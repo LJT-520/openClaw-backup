@@ -1,0 +1,11 @@
+{
+  "owner": "henrikrexed",
+  "slug": "bmad-orchestrator",
+  "displayName": "BMAD Orchestrator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772120512366,
+    "commit": "https://github.com/openclaw/skills/commit/3518689ba34959fbaf9255e85e0444cc04ac5a5a"
+  },
+  "history": []
+}

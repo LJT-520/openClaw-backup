@@ -1,0 +1,11 @@
+{
+  "owner": "mxs2019",
+  "slug": "nyc-subway-status",
+  "displayName": "NYC Subway Status",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772650855470,
+    "commit": "https://github.com/openclaw/skills/commit/908264586bf394df47aec146d409f1b3d1017b8a"
+  },
+  "history": []
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "linux2010",
+  "slug": "pr-advocacy",
+  "displayName": "PR Advocacy",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772555702529,
+    "commit": "https://github.com/openclaw/skills/commit/b20cf4e20da9aed022e3669af5b5fc69abe2584c"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772554093108,
+      "commit": "https://github.com/openclaw/skills/commit/56a6980176c43000ba77675a4f9c4d54e0e5486b"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772471051058,
+      "commit": "https://github.com/openclaw/skills/commit/e065a6a2d1aa3a263c7c1dbc3d09d910f23596ae"
+    }
+  ]
+}

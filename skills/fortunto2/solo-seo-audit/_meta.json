@@ -1,0 +1,17 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-seo-audit",
+  "displayName": "Seo Audit",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771711642260,
+    "commit": "https://github.com/openclaw/skills/commit/70cc87e75d557548c896c2b2378b2a6574a04146"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771620035967,
+      "commit": "https://github.com/openclaw/skills/commit/d5d87c599cb9686df68c2768280fb8662dd2fe1a"
+    }
+  ]
+}

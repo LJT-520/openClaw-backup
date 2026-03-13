@@ -1,0 +1,11 @@
+{
+  "owner": "jrskerrett",
+  "slug": "openclaw-msgraph",
+  "displayName": "OpenCloutlook",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772525345861,
+    "commit": "https://github.com/openclaw/skills/commit/0c11940ed3c9c53f45eee6a8f5030a0affc74338"
+  },
+  "history": []
+}

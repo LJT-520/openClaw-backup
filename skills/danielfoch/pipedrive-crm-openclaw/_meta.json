@@ -1,0 +1,11 @@
+{
+  "owner": "danielfoch",
+  "slug": "pipedrive-crm-openclaw",
+  "displayName": "Pipedrive CRM (OpenClaw)",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771528479740,
+    "commit": "https://github.com/openclaw/skills/commit/b67e1b020b6aa0bd0e35cc4f49f5eece9f1c4692"
+  },
+  "history": []
+}

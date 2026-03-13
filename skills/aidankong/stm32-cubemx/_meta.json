@@ -1,0 +1,11 @@
+{
+  "owner": "aidankong",
+  "slug": "stm32-cubemx",
+  "displayName": "STM32 CubeMX",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772071769697,
+    "commit": "https://github.com/openclaw/skills/commit/fd48b2a922e23eef7a9b85fefd0ee23d530423c6"
+  },
+  "history": []
+}

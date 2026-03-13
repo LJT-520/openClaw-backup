@@ -1,0 +1,17 @@
+{
+  "owner": "jincocodev",
+  "slug": "jarvis-ui",
+  "displayName": "JARVIS UI",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1771751758198,
+    "commit": "https://github.com/openclaw/skills/commit/563bcdd064a1ffa42356747fc08ac84d5606951b"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771260997106,
+      "commit": "https://github.com/openclaw/skills/commit/64fece6da251fffcbd5b36e5a603a4f78f1819c5"
+    }
+  ]
+}

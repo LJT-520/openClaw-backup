@@ -1,0 +1,11 @@
+{
+  "owner": "joelchance",
+  "slug": "manus-ai",
+  "displayName": "Manus AI Agent",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771621910597,
+    "commit": "https://github.com/openclaw/skills/commit/cb51dded86ba5b84fda4bdffe1b5a9e3f8b773da"
+  },
+  "history": []
+}

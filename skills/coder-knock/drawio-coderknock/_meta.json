@@ -1,0 +1,11 @@
+{
+  "owner": "coder-knock",
+  "slug": "drawio-coderknock",
+  "displayName": "Draw.io CoderKnock - 智能架构图生成器",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772530590748,
+    "commit": "https://github.com/openclaw/skills/commit/5e62fade1fe03b59779fd5d4685380aec956810c"
+  },
+  "history": []
+}

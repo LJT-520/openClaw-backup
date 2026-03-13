@@ -1,0 +1,11 @@
+{
+  "owner": "getlemnos32",
+  "slug": "lemnos-cost-guard",
+  "displayName": "Lemnos Cost Guard",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772295886386,
+    "commit": "https://github.com/openclaw/skills/commit/5e5b4141d46979fd5c5b611ba0c69b7d58386650"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "atacan",
+  "slug": "translate-cli",
+  "displayName": "Translate CLI",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772294145427,
+    "commit": "https://github.com/openclaw/skills/commit/139b15de0e74563be0f681398560d5cb5f2248c4"
+  },
+  "history": []
+}

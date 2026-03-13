@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-food-safety",
+  "displayName": "Food Safety & HACCP Compliance",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771965842573,
+    "commit": "https://github.com/openclaw/skills/commit/f04458ca9b5e7777f287947fcb32a810c7a3489b"
+  },
+  "history": []
+}

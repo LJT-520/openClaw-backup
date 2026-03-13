@@ -1,0 +1,11 @@
+{
+  "owner": "nickbmerrill-collab",
+  "slug": "3dprint",
+  "displayName": "Flashforge 3D Print",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772492786635,
+    "commit": "https://github.com/openclaw/skills/commit/5cdbf1d5c11c47752e85749b2774105a0f210970"
+  },
+  "history": []
+}

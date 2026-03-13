@@ -1,0 +1,11 @@
+{
+  "owner": "helloeveryworlds",
+  "slug": "feishu-voice-tts",
+  "displayName": "Feishu Voice Tts",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772542043965,
+    "commit": "https://github.com/openclaw/skills/commit/9550fce2cecdd9ed77e0668dd3c5edc95332f918"
+  },
+  "history": []
+}

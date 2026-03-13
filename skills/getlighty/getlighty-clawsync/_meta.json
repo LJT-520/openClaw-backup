@@ -1,0 +1,11 @@
+{
+  "owner": "getlighty",
+  "slug": "getlighty-clawsync",
+  "displayName": "ClawSync",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771872259840,
+    "commit": "https://github.com/openclaw/skills/commit/3483a6f23107ce4f8343ee7d45f58e2efd88ce64"
+  },
+  "history": []
+}

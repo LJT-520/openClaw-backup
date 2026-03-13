@@ -1,0 +1,17 @@
+{
+  "owner": "halfmoon82",
+  "slug": "complex-task-methodology",
+  "displayName": "Complex Task Methodology",
+  "latest": {
+    "version": "1.1.3",
+    "publishedAt": 1772624237460,
+    "commit": "https://github.com/openclaw/skills/commit/3d0205b99fe6c5f1191d9d302d1705f96154d48e"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772356726786,
+      "commit": "https://github.com/openclaw/skills/commit/5e7f7fb56cfc45ca84335800be6e0dbf02890854"
+    }
+  ]
+}

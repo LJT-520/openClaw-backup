@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "cloudtrail-threat-detector",
+  "displayName": "Cloudtrail Threat Detector",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772419914040,
+    "commit": "https://github.com/openclaw/skills/commit/6de6b34b48a1d9aca73acd056874b9360c6d568a"
+  },
+  "history": []
+}

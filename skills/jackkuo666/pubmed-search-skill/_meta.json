@@ -1,0 +1,11 @@
+{
+  "owner": "jackkuo666",
+  "slug": "pubmed-search-skill",
+  "displayName": "PubMed Search",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772155016526,
+    "commit": "https://github.com/openclaw/skills/commit/904ceab026db51dfd06a124cabfe507cd445d25b"
+  },
+  "history": []
+}

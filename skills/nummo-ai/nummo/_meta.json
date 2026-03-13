@@ -1,0 +1,11 @@
+{
+  "owner": "nummo-ai",
+  "slug": "nummo",
+  "displayName": "Nummo",
+  "latest": {
+    "version": "0.1.8",
+    "publishedAt": 1772380037745,
+    "commit": "https://github.com/openclaw/skills/commit/543a5dbe685840df91d1c95bb2eb62d31518f0b9"
+  },
+  "history": []
+}

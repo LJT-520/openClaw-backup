@@ -1,0 +1,11 @@
+{
+  "owner": "multilogincom",
+  "slug": "multiloginx",
+  "displayName": "Multilogin X",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771576350181,
+    "commit": "https://github.com/openclaw/skills/commit/216139f88a527fc37f0b3539b2b74c1437b59dc4"
+  },
+  "history": []
+}

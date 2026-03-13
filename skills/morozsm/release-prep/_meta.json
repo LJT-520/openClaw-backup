@@ -1,0 +1,11 @@
+{
+  "owner": "morozsm",
+  "slug": "release-prep",
+  "displayName": "Release Prep",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772432578188,
+    "commit": "https://github.com/openclaw/skills/commit/81bdb549d79243e31584608c0f5a39ce9af4b208"
+  },
+  "history": []
+}

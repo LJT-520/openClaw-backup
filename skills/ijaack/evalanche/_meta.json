@@ -1,0 +1,17 @@
+{
+  "owner": "ijaack",
+  "slug": "evalanche",
+  "displayName": "Evalanche",
+  "latest": {
+    "version": "0.4.0",
+    "publishedAt": 1772358074225,
+    "commit": "https://github.com/openclaw/skills/commit/3be8957f7af90975feff990d831815cbafc41b63"
+  },
+  "history": [
+    {
+      "version": "0.3.3",
+      "publishedAt": 1772131432842,
+      "commit": "https://github.com/openclaw/skills/commit/9332720b30aca8dd09fad9f2bc73762f34e08107"
+    }
+  ]
+}

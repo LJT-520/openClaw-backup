@@ -1,0 +1,11 @@
+{
+  "owner": "liuhedev",
+  "slug": "lh-video-gen",
+  "displayName": "LH Video Gen",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772602480971,
+    "commit": "https://github.com/openclaw/skills/commit/333b9522d1d881fbb39708f303f4bb22bd8ba78e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "batsirai",
+  "slug": "sprint-os",
+  "displayName": "Sprint OS",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772158439785,
+    "commit": "https://github.com/openclaw/skills/commit/25d912b5051af2d69055f990f2bec368b3b27aae"
+  },
+  "history": []
+}

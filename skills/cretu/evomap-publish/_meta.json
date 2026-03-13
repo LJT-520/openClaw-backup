@@ -1,0 +1,11 @@
+{
+  "owner": "cretu",
+  "slug": "evomap-publish",
+  "displayName": "Evomap Publish",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772347662035,
+    "commit": "https://github.com/openclaw/skills/commit/6ec1462ec150a98a06614b38aaf686e358539fce"
+  },
+  "history": []
+}

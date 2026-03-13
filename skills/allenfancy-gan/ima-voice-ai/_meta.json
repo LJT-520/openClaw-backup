@@ -1,0 +1,22 @@
+{
+  "owner": "allenfancy-gan",
+  "slug": "ima-voice-ai",
+  "displayName": "AI Music Generation",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772548085162,
+    "commit": "https://github.com/openclaw/skills/commit/483303105073ceb4ef148dc87fcbb550ec47d7f5"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772300578756,
+      "commit": "https://github.com/openclaw/skills/commit/4b61abe351eb7e3f7b39a08f1bb9fa4a8f9bcfdc"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772204978980,
+      "commit": "https://github.com/openclaw/skills/commit/f8b5d5d5ef09642ec2ca8d679c458e342ab5f1f6"
+    }
+  ]
+}

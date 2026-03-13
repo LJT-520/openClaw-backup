@@ -1,0 +1,17 @@
+{
+  "owner": "brs999",
+  "slug": "gecko-terminal",
+  "displayName": "Gecko Terminal API",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771951166681,
+    "commit": "https://github.com/openclaw/skills/commit/381e87491bb32c9a1c878e932e934a269e988ba3"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771869194611,
+      "commit": "https://github.com/openclaw/skills/commit/96c03ca7c9e19f29c3999cb13622572eff468d77"
+    }
+  ]
+}

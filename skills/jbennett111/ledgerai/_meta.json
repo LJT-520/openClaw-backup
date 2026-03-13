@@ -1,0 +1,11 @@
+{
+  "owner": "jbennett111",
+  "slug": "ledgerai",
+  "displayName": "LedgerAI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772548660559,
+    "commit": "https://github.com/openclaw/skills/commit/1a62c7a8c56df1988c6121a6535953f712190fe5"
+  },
+  "history": []
+}

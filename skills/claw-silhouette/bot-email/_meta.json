@@ -1,0 +1,27 @@
+{
+  "owner": "claw-silhouette",
+  "slug": "bot-email",
+  "displayName": "BotEmail.ai - Free bot email",
+  "latest": {
+    "version": "v1.0.7",
+    "publishedAt": 1771938006952,
+    "commit": "https://github.com/openclaw/skills/commit/85bb292d4fa0dba5e44881b323d5bd32e26499a0"
+  },
+  "history": [
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771553341383,
+      "commit": "https://github.com/openclaw/skills/commit/d7f14c55a8a48ca321870809a949d32323466656"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771488918311,
+      "commit": "https://github.com/openclaw/skills/commit/c8b85b76e7c61f7a75e8652c0a1102654f5b7e8c"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771363762121,
+      "commit": "https://github.com/openclaw/skills/commit/816b137732607f30ffb30c1ff353bbb687ca0ef7"
+    }
+  ]
+}

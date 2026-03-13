@@ -1,0 +1,11 @@
+{
+  "owner": "danielfoch",
+  "slug": "crea-ddf-mcp",
+  "displayName": "CREA DDF MCP",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772472004598,
+    "commit": "https://github.com/openclaw/skills/commit/5b58595c8bf1821934b8ea665fdd200a293ff9af"
+  },
+  "history": []
+}

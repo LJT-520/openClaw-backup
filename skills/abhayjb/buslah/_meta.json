@@ -1,0 +1,17 @@
+{
+  "owner": "abhayjb",
+  "slug": "buslah",
+  "displayName": "BusLah - Singapore Bus Arrivals",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772538964041,
+    "commit": "https://github.com/openclaw/skills/commit/31bd41a887a209aa99778a03561137bf459269c6"
+  },
+  "history": [
+    {
+      "version": "0.0.1",
+      "publishedAt": 1772261648304,
+      "commit": "https://github.com/openclaw/skills/commit/cc1597f94b9d89f19f64bbf261526f1998b120f7"
+    }
+  ]
+}

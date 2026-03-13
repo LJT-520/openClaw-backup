@@ -1,0 +1,11 @@
+{
+  "owner": "jfab68",
+  "slug": "praxis-gws",
+  "displayName": "Praxis Google Workspace",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771745691018,
+    "commit": "https://github.com/openclaw/skills/commit/132f2ab0a5fdf3874348337465e11d65d924b7b0"
+  },
+  "history": []
+}

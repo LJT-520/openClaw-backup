@@ -1,0 +1,17 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-landing-gen",
+  "displayName": "Landing Gen",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771711601043,
+    "commit": "https://github.com/openclaw/skills/commit/4ca87d38526856d9472151be518fda7523d765ac"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771616141735,
+      "commit": "https://github.com/openclaw/skills/commit/c66cc110f44e64476efb2ad079e84ca9ede93a67"
+    }
+  ]
+}

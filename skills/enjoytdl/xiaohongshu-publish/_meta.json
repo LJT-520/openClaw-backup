@@ -1,0 +1,11 @@
+{
+  "owner": "enjoytdl",
+  "slug": "xiaohongshu-publish",
+  "displayName": "小红书长文发布",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771339098857,
+    "commit": "https://github.com/openclaw/skills/commit/b102c966eec28a66e15b71e13cd5433bb8555ee7"
+  },
+  "history": []
+}

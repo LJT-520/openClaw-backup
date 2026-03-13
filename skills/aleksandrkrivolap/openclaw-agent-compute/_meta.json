@@ -1,0 +1,11 @@
+{
+  "owner": "aleksandrkrivolap",
+  "slug": "openclaw-agent-compute",
+  "displayName": "OpenClaw Agent Compute",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772079427142,
+    "commit": "https://github.com/openclaw/skills/commit/104e8f22eec251000d6d1621cdc1ca8c129a9df6"
+  },
+  "history": []
+}

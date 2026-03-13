@@ -1,0 +1,17 @@
+{
+  "owner": "halfmoon82",
+  "slug": "skill-trigger-v2",
+  "displayName": "Skill Trigger V2",
+  "latest": {
+    "version": "2.1.2",
+    "publishedAt": 1772670256584,
+    "commit": "https://github.com/openclaw/skills/commit/6c37c44a03975bd683c6b87329f361d68200a258"
+  },
+  "history": [
+    {
+      "version": "2.1.1",
+      "publishedAt": 1772643165428,
+      "commit": "https://github.com/openclaw/skills/commit/68c2805c736fbeb77897748a66ab07014e708172"
+    }
+  ]
+}

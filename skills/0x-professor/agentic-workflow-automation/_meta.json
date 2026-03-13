@@ -1,0 +1,11 @@
+{
+  "owner": "0x-professor",
+  "slug": "agentic-workflow-automation",
+  "displayName": "Agentic Workflow Automation",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772129868079,
+    "commit": "https://github.com/openclaw/skills/commit/d2706c5cd6f661cf218671746fe42acb113cb116"
+  },
+  "history": []
+}

@@ -1,0 +1,22 @@
+{
+  "owner": "mookim-eth",
+  "slug": "xclaw",
+  "displayName": "xclaw",
+  "latest": {
+    "version": "1.0.8",
+    "publishedAt": 1772355236025,
+    "commit": "https://github.com/openclaw/skills/commit/86c9c5b9b2a0f35995be775349deeaf47071d72a"
+  },
+  "history": [
+    {
+      "version": "1.0.5",
+      "publishedAt": 1772344519649,
+      "commit": "https://github.com/openclaw/skills/commit/ec8598ce0bff4e21bd897541ac37fe216515744a"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772096864532,
+      "commit": "https://github.com/openclaw/skills/commit/b67b27d9c34a46f6666ab837fb6a401bb054c70d"
+    }
+  ]
+}

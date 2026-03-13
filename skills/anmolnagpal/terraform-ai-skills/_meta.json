@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "terraform-ai-skills",
+  "displayName": "Terraform Ai Skills",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1772359495655,
+    "commit": "https://github.com/openclaw/skills/commit/47b12b4fba51589fcbc5583bb81e0aaeabf22e46"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "allenfancy-gan",
+  "slug": "ima-video-ai",
+  "displayName": "IMA Studio Video Generation",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772548066341,
+    "commit": "https://github.com/openclaw/skills/commit/d79e6a3caea05f1248ab20291ebd49ff01b5ceac"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772300526392,
+      "commit": "https://github.com/openclaw/skills/commit/ff171b0aed5357010f16de56b0e81f61d5770264"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "lucksus",
+  "slug": "signal-messenger-standalone",
+  "displayName": "Signal messaging for standalone bots/accounts",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771691289554,
+    "commit": "https://github.com/openclaw/skills/commit/7a0855ab3ae066ede208b91cb9868978348801c9"
+  },
+  "history": []
+}

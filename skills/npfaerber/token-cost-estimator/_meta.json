@@ -1,0 +1,11 @@
+{
+  "owner": "npfaerber",
+  "slug": "token-cost-estimator",
+  "displayName": "Token Cost Estimator",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772273826877,
+    "commit": "https://github.com/openclaw/skills/commit/3074814cb4087c5b307eaeaab944d1b0585c3305"
+  },
+  "history": []
+}

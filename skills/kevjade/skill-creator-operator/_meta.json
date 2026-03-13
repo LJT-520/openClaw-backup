@@ -1,0 +1,11 @@
+{
+  "owner": "kevjade",
+  "slug": "skill-creator-operator",
+  "displayName": "Skill Creator Operator",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771961904136,
+    "commit": "https://github.com/openclaw/skills/commit/d261302702941f7d694be14acec68f35ff338746"
+  },
+  "history": []
+}

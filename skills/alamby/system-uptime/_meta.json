@@ -1,0 +1,11 @@
+{
+  "owner": "alamby",
+  "slug": "system-uptime",
+  "displayName": "System Uptime",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772250183012,
+    "commit": "https://github.com/openclaw/skills/commit/43f843b364233c97800b85539c09bd26efc4fa68"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "notestone",
+  "slug": "model-benchmarks",
+  "displayName": "AI Intelligence Hub - Real-time Model Capability Tracking",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772339464833,
+    "commit": "https://github.com/openclaw/skills/commit/459a678831263bec961cb4841830721c08c2ea0a"
+  },
+  "history": []
+}

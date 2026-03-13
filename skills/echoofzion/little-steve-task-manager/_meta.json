@@ -1,0 +1,17 @@
+{
+  "owner": "echoofzion",
+  "slug": "little-steve-task-manager",
+  "displayName": "Little Steve Task Manager",
+  "latest": {
+    "version": "0.1.7",
+    "publishedAt": 1772642653000,
+    "commit": "https://github.com/openclaw/skills/commit/289df2363ad62ab38d95b00a54a7edf66144b288"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772474310049,
+      "commit": "https://github.com/openclaw/skills/commit/1f0bcd20adb0fcc3017226d12ebd95f0338161ca"
+    }
+  ]
+}

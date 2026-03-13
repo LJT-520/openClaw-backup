@@ -1,0 +1,11 @@
+{
+  "owner": "christineopenclaw",
+  "slug": "reliability-evidence-pack",
+  "displayName": "Reliability Evidence Pack",
+  "latest": {
+    "version": "2.0.2",
+    "publishedAt": 1772488435039,
+    "commit": "https://github.com/openclaw/skills/commit/4bd7c9ce8f2dbf6572aba49c0a46b41212510613"
+  },
+  "history": []
+}

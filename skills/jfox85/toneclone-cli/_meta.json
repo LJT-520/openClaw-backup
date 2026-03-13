@@ -1,0 +1,11 @@
+{
+  "owner": "jfox85",
+  "slug": "toneclone-cli",
+  "displayName": "ToneClone CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771520257264,
+    "commit": "https://github.com/openclaw/skills/commit/62ff6550c3d777f1df91ef11dfba1dbcb669b7d6"
+  },
+  "history": []
+}

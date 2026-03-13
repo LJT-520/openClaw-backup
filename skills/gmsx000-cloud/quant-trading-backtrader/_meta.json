@@ -1,0 +1,11 @@
+{
+  "owner": "gmsx000-cloud",
+  "slug": "quant-trading-backtrader",
+  "displayName": "quant-trading-backtrader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772380201044,
+    "commit": "https://github.com/openclaw/skills/commit/5b7e0189e3b7d4799b95a2f5a7b214a055c6a615"
+  },
+  "history": []
+}

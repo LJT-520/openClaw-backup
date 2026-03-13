@@ -1,0 +1,11 @@
+{
+  "owner": "abdelsfane",
+  "slug": "opena2a-security",
+  "displayName": "OpenA2A Security",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771523378611,
+    "commit": "https://github.com/openclaw/skills/commit/4f4a845acefea2642a3522c29222003da57aa9bb"
+  },
+  "history": []
+}

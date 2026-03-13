@@ -1,0 +1,11 @@
+{
+  "owner": "agentc22",
+  "slug": "x402engine",
+  "displayName": "X402engine",
+  "latest": {
+    "version": "1.3.2",
+    "publishedAt": 1772390004381,
+    "commit": "https://github.com/openclaw/skills/commit/af30fb08822096cbed34e85eb2e669e0bf728fa8"
+  },
+  "history": []
+}

@@ -1,0 +1,36 @@
+name: autoclaw-browser
+description: Complete browser automation skill with MCP protocol support and Chrome extension
+version: 2.0.0
+emoji: 🌐
+author: hasd52636-a11y
+homepage: https://github.com/hasd52636-a11y/autoclaw-browser
+tags: ["browser", "automation", "mcp", "web", "scraping", "testing"]
+
+metadata:
+  openclaw:
+    requires:
+      bins:
+        - node
+        - npm
+
+files:
+  - src: scripts
+    dest: ./
+  - src: mcp
+    dest: ./
+
+install:
+  - cmd: echo "🚀 AutoClaw Browser Automation Skill Installation"
+  - cmd: echo "📋 Please download required Chrome extension from:"
+  - cmd: echo "   https://www.wboke.com/download/autoclaw-chrome-extension.zip"
+  - cmd: echo ""
+  - cmd: echo "📖 Complete Installation Steps:"
+  - cmd: echo "1. MCP server is included and will be installed automatically"
+  - cmd: echo "2. Download Chrome extension from above link"
+  - cmd: echo "3. Extract to: ~/.openclaw/browser-extensions/autoclaw/"
+  - cmd: echo "4. Open chrome://extensions -> Enable Developer mode -> Load unpacked"
+  - cmd: echo "5. Select ~/.openclaw/browser-extensions/autoclaw/"
+  - cmd: echo "6. Install MCP dependencies: cd ~/.openclaw/mcp-servers/autoclaw/ && npm install"
+  - cmd: echo "7. Start MCP server: cd ~/.openclaw/mcp-servers/autoclaw/ && npm start"
+  - cmd: echo ""
+  - cmd: echo "✅ Skill ready! Use tools: claw_navigate, claw_click_element, claw_take_screenshot"

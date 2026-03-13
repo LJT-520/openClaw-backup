@@ -1,0 +1,11 @@
+{
+  "owner": "jamierossouw",
+  "slug": "prediction-market-aggregator",
+  "displayName": "Prediction Market Aggregator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771705259695,
+    "commit": "https://github.com/openclaw/skills/commit/d41035b8f45597fc7d65156f9a558d3034a84768"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "dongjiangliu9-tech",
+  "slug": "melodylab-ai-song",
+  "displayName": "ZeeLin Song Generator",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772591905373,
+    "commit": "https://github.com/openclaw/skills/commit/424360d505e3da7de75ab8ed2fea6891f1afcdb1"
+  },
+  "history": []
+}

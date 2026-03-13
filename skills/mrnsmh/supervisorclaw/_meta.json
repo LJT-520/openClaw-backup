@@ -1,0 +1,11 @@
+{
+  "owner": "mrnsmh",
+  "slug": "supervisorclaw",
+  "displayName": "superviser ressources",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771897336482,
+    "commit": "https://github.com/openclaw/skills/commit/430719a485272890234a2f026306494d04cc2e5c"
+  },
+  "history": []
+}

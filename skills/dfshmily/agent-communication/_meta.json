@@ -1,0 +1,11 @@
+{
+  "owner": "dfshmily",
+  "slug": "agent-communication",
+  "displayName": "Agent Communication",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772246938883,
+    "commit": "https://github.com/openclaw/skills/commit/83f7b93c6179fb2622185c7517fdf54eb4ed6f97"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "aaigotchi",
+  "slug": "pet-operator",
+  "displayName": "Pet Operator",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772428338589,
+    "commit": "https://github.com/openclaw/skills/commit/d6c81fcf81c4e4f2b3cf8aeafb9e3dd557c625ed"
+  },
+  "history": []
+}

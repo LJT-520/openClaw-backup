@@ -1,0 +1,17 @@
+{
+  "owner": "fatcatmaofei",
+  "slug": "openclaw-guardian",
+  "displayName": "OpenClaw Guardian",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772020455731,
+    "commit": "https://github.com/openclaw/skills/commit/0e28984e401d8a46161cf407d91feca74670ed76"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772012714143,
+      "commit": "https://github.com/openclaw/skills/commit/2ea3e90c4db1c5c179d01103596563181592d9cf"
+    }
+  ]
+}

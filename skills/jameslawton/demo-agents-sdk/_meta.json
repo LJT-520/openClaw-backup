@@ -1,0 +1,17 @@
+{
+  "owner": "jameslawton",
+  "slug": "demo-agents-sdk",
+  "displayName": "pol-agents-sdk-demo",
+  "latest": {
+    "version": "0.1.4",
+    "publishedAt": 1771945378929,
+    "commit": "https://github.com/openclaw/skills/commit/248d5cd3ba5571007d8665e3e280350a5ef231d0"
+  },
+  "history": [
+    {
+      "version": "0.1.3",
+      "publishedAt": 1771873933718,
+      "commit": "https://github.com/openclaw/skills/commit/ac10e6cac46a7788ffc5a187a946322492f38f97"
+    }
+  ]
+}

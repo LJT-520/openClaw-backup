@@ -1,0 +1,17 @@
+{
+  "owner": "geoion",
+  "slug": "akshare-cn-market",
+  "displayName": "AKShare CN Market",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772469912688,
+    "commit": "https://github.com/openclaw/skills/commit/9632bf33e617ec80ea1bc00d5f8407cc219f724a"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772465804303,
+      "commit": "https://github.com/openclaw/skills/commit/586a42530bb3c20587bccd339e7e085941fbd982"
+    }
+  ]
+}

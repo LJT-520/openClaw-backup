@@ -1,0 +1,11 @@
+{
+  "owner": "leocryptoflow",
+  "slug": "digital-nomad",
+  "displayName": "Digital Nomad",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772561521850,
+    "commit": "https://github.com/openclaw/skills/commit/c0f3744e5ed85b1a74dad5e4c881abbe70bccda6"
+  },
+  "history": []
+}

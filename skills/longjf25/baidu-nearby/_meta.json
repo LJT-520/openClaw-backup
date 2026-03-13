@@ -1,0 +1,11 @@
+{
+  "owner": "longjf25",
+  "slug": "baidu-nearby",
+  "displayName": "baidu-nearby",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772173657005,
+    "commit": "https://github.com/openclaw/skills/commit/3d3993e08100e295c77f782f9c5ef6b682f418c4"
+  },
+  "history": []
+}

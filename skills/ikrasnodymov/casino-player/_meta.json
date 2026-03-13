@@ -1,0 +1,17 @@
+{
+  "owner": "ikrasnodymov",
+  "slug": "casino-player",
+  "displayName": "Casino Player — Arthur Gamble",
+  "latest": {
+    "version": "3.0.1",
+    "publishedAt": 1772426062889,
+    "commit": "https://github.com/openclaw/skills/commit/2b45519b6282f3de415e19c6ad186536e6c35418"
+  },
+  "history": [
+    {
+      "version": "3.0.0",
+      "publishedAt": 1772355468949,
+      "commit": "https://github.com/openclaw/skills/commit/56ad1fdc9ea985998e56cd60083a1862cf3f25cd"
+    }
+  ]
+}

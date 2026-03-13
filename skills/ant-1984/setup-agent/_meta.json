@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "setup-agent",
+  "displayName": "Setup Agent",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772382926169,
+    "commit": "https://github.com/openclaw/skills/commit/acc6d80412c49d798e98c541125074d0cebbe821"
+  },
+  "history": []
+}

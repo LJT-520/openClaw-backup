@@ -1,0 +1,17 @@
+{
+  "owner": "fbrandel",
+  "slug": "wallabag",
+  "displayName": "Wallabag",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771875797230,
+    "commit": "https://github.com/openclaw/skills/commit/72de1a9a38e1de0b43250e1ee03f2316ebf09bf1"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771789750821,
+      "commit": "https://github.com/openclaw/skills/commit/7b5909b0fcf62b0d9bd770cfd08defe41d9f4022"
+    }
+  ]
+}

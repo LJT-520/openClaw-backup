@@ -1,0 +1,17 @@
+{
+  "owner": "damirikys",
+  "slug": "leetify",
+  "displayName": "Leetify",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1771566970497,
+    "commit": "https://github.com/openclaw/skills/commit/b23fa0db121694105ef099fc43a83fb11031dcff"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771566701516,
+      "commit": "https://github.com/openclaw/skills/commit/5572135e55f8f61435fea4802e4fbcfcf5d3d2c2"
+    }
+  ]
+}

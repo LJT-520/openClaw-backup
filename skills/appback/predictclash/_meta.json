@@ -1,0 +1,27 @@
+{
+  "owner": "appback",
+  "slug": "predictclash",
+  "displayName": "Openclaw",
+  "latest": {
+    "version": "2.2.0",
+    "publishedAt": 1772608448614,
+    "commit": "https://github.com/openclaw/skills/commit/7dabd1e037717ea9fc11c16e95303a7475b5b0eb"
+  },
+  "history": [
+    {
+      "version": "1.7.0",
+      "publishedAt": 1772413301771,
+      "commit": "https://github.com/openclaw/skills/commit/a1e381ea5d9cbff734fdf1aeddfda7877ac11859"
+    },
+    {
+      "version": "1.6.0",
+      "publishedAt": 1772254209002,
+      "commit": "https://github.com/openclaw/skills/commit/0e4fcd77203fe37b3cc641acc45b91ea0ac9492e"
+    },
+    {
+      "version": "1.2.0",
+      "publishedAt": 1772243908945,
+      "commit": "https://github.com/openclaw/skills/commit/d1bcfcf53821592ccf0df8265c8e5ba39e2fff39"
+    }
+  ]
+}

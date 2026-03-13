@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "clickhouse",
+  "displayName": "ClickHouse",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772138899075,
+    "commit": "https://github.com/openclaw/skills/commit/080efcc4be74ac0ad9c46a34e3313bf6bb4a1990"
+  },
+  "history": []
+}

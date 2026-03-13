@@ -1,0 +1,11 @@
+{
+  "owner": "demo112",
+  "slug": "speech-recognition",
+  "displayName": "speech-recognition",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772038639129,
+    "commit": "https://github.com/openclaw/skills/commit/6762ed8a73adb23e32b6c2f1d3b6c8ddc81d40ef"
+  },
+  "history": []
+}

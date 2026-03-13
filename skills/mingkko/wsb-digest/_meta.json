@@ -1,0 +1,11 @@
+{
+  "owner": "mingkko",
+  "slug": "wsb-digest",
+  "displayName": "WSB 热股日报",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772558645142,
+    "commit": "https://github.com/openclaw/skills/commit/c2e6fb82f3073cf207f7cbfe0df296e72a6032ee"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "bombers26",
+  "slug": "coder-helper",
+  "displayName": "用自然语言描述需求 → 自动生成需求文档 → 打开编辑器",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772638904598,
+    "commit": "https://github.com/openclaw/skills/commit/bd44d96f13091a09c1e232f049649b12899b6a32"
+  },
+  "history": []
+}

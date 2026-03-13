@@ -1,0 +1,32 @@
+{
+  "owner": "johnmalek312",
+  "slug": "mobilerun",
+  "displayName": "Mobilerun",
+  "latest": {
+    "version": "1.0.14",
+    "publishedAt": 1771917118901,
+    "commit": "https://github.com/openclaw/skills/commit/cfb1a6eac03afedfe6b54f6f9bc8e73e6a63d4f5"
+  },
+  "history": [
+    {
+      "version": "1.0.13",
+      "publishedAt": 1771588857415,
+      "commit": "https://github.com/openclaw/skills/commit/742fa31a633f9c8db2c22bd87ccf8c2efc628ffa"
+    },
+    {
+      "version": "1.0.11",
+      "publishedAt": 1771501446527,
+      "commit": "https://github.com/openclaw/skills/commit/f731dba6c90a7d5990d0298dcbe52d98b4faf331"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771420079320,
+      "commit": "https://github.com/openclaw/skills/commit/99e6e32d988f94e718dd606b9e0e8c972c7b1d04"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771411272067,
+      "commit": "https://github.com/openclaw/skills/commit/3b2182a105e7337731fba4d5ba6a2d6c112e27cb"
+    }
+  ]
+}

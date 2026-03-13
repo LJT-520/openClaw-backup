@@ -1,0 +1,32 @@
+{
+  "owner": "arandich",
+  "slug": "clawzone",
+  "displayName": "Clawzone",
+  "latest": {
+    "version": "1.0.20",
+    "publishedAt": 1771838233159,
+    "commit": "https://github.com/openclaw/skills/commit/f271c59e43ca67ce1f50fe6e64335453d62ad31f"
+  },
+  "history": [
+    {
+      "version": "1.0.18",
+      "publishedAt": 1771685427157,
+      "commit": "https://github.com/openclaw/skills/commit/34b95d30851d166acf013d232c34c0a6bed9162e"
+    },
+    {
+      "version": "1.0.16",
+      "publishedAt": 1771598881656,
+      "commit": "https://github.com/openclaw/skills/commit/04b24b323b54b4781117693dcd73e630ce95ec58"
+    },
+    {
+      "version": "1.0.15",
+      "publishedAt": 1771578150474,
+      "commit": "https://github.com/openclaw/skills/commit/5708098d4e6f20530396f953ec32b09dfceae86d"
+    },
+    {
+      "version": "1.0.7",
+      "publishedAt": 1771491040766,
+      "commit": "https://github.com/openclaw/skills/commit/bb99a7f9c536ec5ba98712bd08d22ae6698a8b13"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "civictechuser",
+  "slug": "civic-nexus-openclaw",
+  "displayName": "Civic Nexus",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772348414288,
+    "commit": "https://github.com/openclaw/skills/commit/8f98dbfe1cc445d38ea24a2190b90c3b63e08e2d"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jack4world",
+  "slug": "x-recap",
+  "displayName": "x-recap",
+  "latest": {
+    "version": "2026.2.25",
+    "publishedAt": 1771984390517,
+    "commit": "https://github.com/openclaw/skills/commit/c75e2d93d073980d7a3b1809c9f1ccdc55ce4eb2"
+  },
+  "history": []
+}

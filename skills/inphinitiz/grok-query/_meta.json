@@ -1,0 +1,11 @@
+{
+  "owner": "inphinitiz",
+  "slug": "grok-query",
+  "displayName": "Grok Query",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772360434181,
+    "commit": "https://github.com/openclaw/skills/commit/2414b5a592cda8b48175b8626ebaf9bae5c0c0d1"
+  },
+  "history": []
+}

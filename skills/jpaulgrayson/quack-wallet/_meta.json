@@ -1,0 +1,11 @@
+{
+  "owner": "jpaulgrayson",
+  "slug": "quack-wallet",
+  "displayName": "Quack Wallet",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772143160133,
+    "commit": "https://github.com/openclaw/skills/commit/07410699a021aca31fe0b82ab31189403d811c9a"
+  },
+  "history": []
+}

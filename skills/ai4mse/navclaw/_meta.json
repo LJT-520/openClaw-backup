@@ -1,0 +1,11 @@
+{
+  "owner": "ai4mse",
+  "slug": "navclaw",
+  "displayName": "NavClaw",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772590486871,
+    "commit": "https://github.com/openclaw/skills/commit/6f87a9258e1bff3835978602f2a3d1b1711a4be2"
+  },
+  "history": []
+}

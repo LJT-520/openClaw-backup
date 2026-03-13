@@ -1,0 +1,11 @@
+{
+  "owner": "arthasking123",
+  "slug": "ai-api-test",
+  "displayName": "AI API Test",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771571117232,
+    "commit": "https://github.com/openclaw/skills/commit/7abf5490397c53caea0ab533b81c41e983978de0"
+  },
+  "history": []
+}

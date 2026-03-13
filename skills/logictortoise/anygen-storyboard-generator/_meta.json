@@ -1,0 +1,11 @@
+{
+  "owner": "logictortoise",
+  "slug": "anygen-storyboard-generator",
+  "displayName": "AnyGen Storyboard / Creative Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772638681223,
+    "commit": "https://github.com/openclaw/skills/commit/472088fcb1ed65bbabae1ec5cbbfb0b396cc905c"
+  },
+  "history": []
+}

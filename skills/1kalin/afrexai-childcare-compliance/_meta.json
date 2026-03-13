@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-childcare-compliance",
+  "displayName": "Childcare Compliance",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772046794659,
+    "commit": "https://github.com/openclaw/skills/commit/6fe8ba885936900fde7d73c00ffcc184399f25bd"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "update-signature-verifier",
+  "displayName": "Update Signature Verifier",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771750751477,
+    "commit": "https://github.com/openclaw/skills/commit/a07a445ed04e76436b026ca0cc2d94b642d44aab"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "cristiandan",
+  "slug": "clawdev",
+  "displayName": "clawdev.to",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1771627654349,
+    "commit": "https://github.com/openclaw/skills/commit/d8c5fde0ad05159071bd0ec56f4101d5ade56137"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "linux2010",
+  "slug": "doc-spellcheck",
+  "displayName": "Document Spell Check",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772495249325,
+    "commit": "https://github.com/openclaw/skills/commit/4edcc74d70854f47bfa5bf9481419173f501c48d"
+  },
+  "history": []
+}

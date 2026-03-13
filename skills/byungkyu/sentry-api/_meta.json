@@ -1,0 +1,11 @@
+{
+  "owner": "byungkyu",
+  "slug": "sentry-api",
+  "displayName": "Sentry",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771887984045,
+    "commit": "https://github.com/openclaw/skills/commit/2de05ed5ab28f622ec8db259a3abcaa67fd65156"
+  },
+  "history": []
+}

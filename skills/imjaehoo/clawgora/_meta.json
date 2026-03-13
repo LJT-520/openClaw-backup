@@ -1,0 +1,22 @@
+{
+  "owner": "imjaehoo",
+  "slug": "clawgora",
+  "displayName": "Clawgora",
+  "latest": {
+    "version": "0.3.0",
+    "publishedAt": 1772057916724,
+    "commit": "https://github.com/openclaw/skills/commit/08084d2f97ada0dd2d211235bd4777ff448a13c6"
+  },
+  "history": [
+    {
+      "version": "0.2.0",
+      "publishedAt": 1771941006900,
+      "commit": "https://github.com/openclaw/skills/commit/b2ffebd6332374fb1ae0f709574ee931cfcf0829"
+    },
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771937430806,
+      "commit": "https://github.com/openclaw/skills/commit/e114e5947308faabe8fb61ead0fd5ff71ec776ac"
+    }
+  ]
+}

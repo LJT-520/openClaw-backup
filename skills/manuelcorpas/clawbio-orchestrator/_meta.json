@@ -1,0 +1,11 @@
+{
+  "owner": "manuelcorpas",
+  "slug": "clawbio-orchestrator",
+  "displayName": "ClawBio Orchestrator",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772042682182,
+    "commit": "https://github.com/openclaw/skills/commit/87836ed130e2e0510f3ebd07f2f33791c0f340d4"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-buying",
+  "displayName": "ERPClaw-Buying",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772087030057,
+    "commit": "https://github.com/openclaw/skills/commit/69e6ad3f0cfb42852ef50f49bffc0661e287c0cc"
+  },
+  "history": []
+}

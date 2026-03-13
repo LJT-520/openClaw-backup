@@ -1,0 +1,11 @@
+{
+  "owner": "binubmuse",
+  "slug": "medical-triage",
+  "displayName": "Medical Triage",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772193516086,
+    "commit": "https://github.com/openclaw/skills/commit/9d73b2c12025838eafda8840c0f0a31c8845dd3b"
+  },
+  "history": []
+}

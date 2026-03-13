@@ -1,0 +1,11 @@
+{
+  "owner": "maxdraki",
+  "slug": "birdweather",
+  "displayName": "BirdWeather",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771610268869,
+    "commit": "https://github.com/openclaw/skills/commit/00d109388e64673048d67567713cd339b7851ee8"
+  },
+  "history": []
+}

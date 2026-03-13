@@ -1,0 +1,11 @@
+{
+  "owner": "nantes",
+  "slug": "askia-io",
+  "displayName": "askia-io",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772227281683,
+    "commit": "https://github.com/openclaw/skills/commit/32fa2dde10e3ff54d6000d7cc1f863bee2733447"
+  },
+  "history": []
+}

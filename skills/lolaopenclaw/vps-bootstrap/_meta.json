@@ -1,0 +1,11 @@
+{
+  "owner": "lolaopenclaw",
+  "slug": "vps-bootstrap",
+  "displayName": "VPS Bootstrap",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772550218365,
+    "commit": "https://github.com/openclaw/skills/commit/bb30bb7df7e59781fed4ef9afe418063b8eca0c5"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "kexu9",
+  "slug": "surge",
+  "displayName": "Surge Download Manager",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772622660699,
+    "commit": "https://github.com/openclaw/skills/commit/c014eaab790fc8ba6d82f31b5dce4c574e4b6e09"
+  },
+  "history": []
+}

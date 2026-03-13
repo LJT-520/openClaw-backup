@@ -1,0 +1,11 @@
+{
+  "owner": "grittygrease",
+  "slug": "safe-encryption-skill",
+  "displayName": "Safe Encryption",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771606410018,
+    "commit": "https://github.com/openclaw/skills/commit/eaa5a60db93ef107742405d36c6041aa55d18055"
+  },
+  "history": []
+}

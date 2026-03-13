@@ -1,0 +1,11 @@
+{
+  "owner": "mastrophot",
+  "slug": "near-phishing-detector",
+  "displayName": "NEAR Phishing Detector",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771618172916,
+    "commit": "https://github.com/openclaw/skills/commit/5599b46f27269e01f8ac0c51d96ae3d4f9915a94"
+  },
+  "history": []
+}

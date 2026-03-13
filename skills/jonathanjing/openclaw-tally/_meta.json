@@ -1,0 +1,22 @@
+{
+  "owner": "jonathanjing",
+  "slug": "openclaw-tally",
+  "displayName": "openclaw-tally",
+  "latest": {
+    "version": "0.3.1",
+    "publishedAt": 1772584541930,
+    "commit": "https://github.com/openclaw/skills/commit/7f3ac68adb6e9c0679cf7de5441c6f53b355b145"
+  },
+  "history": [
+    {
+      "version": "0.3.0",
+      "publishedAt": 1772422681477,
+      "commit": "https://github.com/openclaw/skills/commit/9fbcb300186c690a7e54de0d964acfa3e5f45023"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771923485516,
+      "commit": "https://github.com/openclaw/skills/commit/ef9ae313ab442398580ce39e5a738d61353d0f96"
+    }
+  ]
+}

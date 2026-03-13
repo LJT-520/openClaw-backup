@@ -1,0 +1,11 @@
+{
+  "owner": "highlander89",
+  "slug": "billy-sapconet-ssh-bridge",
+  "displayName": "Billy — SAPCONET SSH Bridge",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772169443722,
+    "commit": "https://github.com/openclaw/skills/commit/3af072322b5d0487256ad4c1ff11a389a63b9e4e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "netlify-deploy",
+  "displayName": "Netlify Deploy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772220925583,
+    "commit": "https://github.com/openclaw/skills/commit/e39610362665a7e303022ce2f3f5825e7e3a4ed9"
+  },
+  "history": []
+}

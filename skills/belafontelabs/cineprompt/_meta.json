@@ -1,0 +1,11 @@
+{
+  "owner": "belafontelabs",
+  "slug": "cineprompt",
+  "displayName": "CinePrompt",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772570452610,
+    "commit": "https://github.com/openclaw/skills/commit/6ccc1638fd1cd3bf89af855c95dbf805bcb1bd8a"
+  },
+  "history": []
+}

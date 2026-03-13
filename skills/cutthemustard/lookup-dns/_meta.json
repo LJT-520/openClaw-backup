@@ -1,0 +1,11 @@
+{
+  "owner": "cutthemustard",
+  "slug": "lookup-dns",
+  "displayName": "DNS Lookup",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772595830874,
+    "commit": "https://github.com/openclaw/skills/commit/10ce3071dfac9c0d19da771e6261b7de75b06f8c"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "hellojun",
+  "slug": "boutnetwork",
+  "displayName": "Bout.Network",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772586206826,
+    "commit": "https://github.com/openclaw/skills/commit/a66a87e24abbf0a898455af50cc2e8eafab2b243"
+  },
+  "history": []
+}

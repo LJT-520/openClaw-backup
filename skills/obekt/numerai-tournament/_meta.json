@@ -1,0 +1,11 @@
+{
+  "owner": "obekt",
+  "slug": "numerai-tournament",
+  "displayName": "Numerai Tournament",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772176868480,
+    "commit": "https://github.com/openclaw/skills/commit/e766ee7be520e483d45c9dd1e3c0934f96840ce5"
+  },
+  "history": []
+}

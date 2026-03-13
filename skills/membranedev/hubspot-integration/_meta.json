@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "hubspot-integration",
+  "displayName": "Hubspot",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772585046107,
+    "commit": "https://github.com/openclaw/skills/commit/5ab8f2e0fb296297e5e5bc2fa712c13a72c4837a"
+  },
+  "history": []
+}

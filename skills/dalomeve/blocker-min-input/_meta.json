@@ -1,0 +1,11 @@
+{
+  "owner": "dalomeve",
+  "slug": "blocker-min-input",
+  "displayName": "Blocker Minimum Input",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772348921755,
+    "commit": "https://github.com/openclaw/skills/commit/9bcead9e8cfa7f5e238fce0906bcb1f7a012d942"
+  },
+  "history": []
+}

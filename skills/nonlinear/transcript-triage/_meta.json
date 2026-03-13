@@ -1,0 +1,11 @@
+{
+  "owner": "nonlinear",
+  "slug": "transcript-triage",
+  "displayName": "transcript triage",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771818418347,
+    "commit": "https://github.com/openclaw/skills/commit/1b5d18ba330e9cc3186b447db478ea9bda18f423"
+  },
+  "history": []
+}

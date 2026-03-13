@@ -1,0 +1,22 @@
+{
+  "owner": "glitch003",
+  "slug": "vincent-credentials",
+  "displayName": "Vincent - Credentials",
+  "latest": {
+    "version": "1.0.63",
+    "publishedAt": 1772473152329,
+    "commit": "https://github.com/openclaw/skills/commit/3e2d777607a8e3aec54f752c4369eb1afe85f21b"
+  },
+  "history": [
+    {
+      "version": "1.0.62",
+      "publishedAt": 1772161801980,
+      "commit": "https://github.com/openclaw/skills/commit/96c2ecaefc90d5c872777eb1fe0c6dec698ca3e1"
+    },
+    {
+      "version": "1.0.60",
+      "publishedAt": 1771982349158,
+      "commit": "https://github.com/openclaw/skills/commit/912c0999e89d950c4139c34d7ed5529aa723272c"
+    }
+  ]
+}

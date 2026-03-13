@@ -1,0 +1,11 @@
+{
+  "owner": "michaelgold",
+  "slug": "video-skill",
+  "displayName": "Video Skill",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772402100990,
+    "commit": "https://github.com/openclaw/skills/commit/186b3e0d18668b1e7a50b129e9496af481bfafeb"
+  },
+  "history": []
+}

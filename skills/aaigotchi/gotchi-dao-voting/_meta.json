@@ -1,0 +1,11 @@
+{
+  "owner": "aaigotchi",
+  "slug": "gotchi-dao-voting",
+  "displayName": "Gotchi DAO Voting",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771690950048,
+    "commit": "https://github.com/openclaw/skills/commit/eedf7a87e5cda72421b243f9c7cdbf07e55a71f8"
+  },
+  "history": []
+}

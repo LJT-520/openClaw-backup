@@ -1,0 +1,11 @@
+{
+  "owner": "moenassi",
+  "slug": "django-tool",
+  "displayName": "Django Project Creator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771510450725,
+    "commit": "https://github.com/openclaw/skills/commit/cb658edcab2bf34b003d03ca7d34d5e59d8555ac"
+  },
+  "history": []
+}

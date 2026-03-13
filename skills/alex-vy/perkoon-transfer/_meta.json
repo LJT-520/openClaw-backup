@@ -1,0 +1,17 @@
+{
+  "owner": "alex-vy",
+  "slug": "perkoon-transfer",
+  "displayName": "Perkoon — Unlimited File Transfer",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772312089177,
+    "commit": "https://github.com/openclaw/skills/commit/0b6aa94ec253f4e36e13b85076c8d8c0df406049"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772310182727,
+      "commit": "https://github.com/openclaw/skills/commit/af3d7137148f9e7e34ded83eecc91bbfcda4f58e"
+    }
+  ]
+}

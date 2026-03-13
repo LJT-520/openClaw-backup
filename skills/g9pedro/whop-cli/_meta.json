@@ -1,0 +1,11 @@
+{
+  "owner": "g9pedro",
+  "slug": "whop-cli",
+  "displayName": "Whop Store Management",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771538688873,
+    "commit": "https://github.com/openclaw/skills/commit/e6e2ebb7dab3113b1d1d75cc367aaec600a24fd3"
+  },
+  "history": []
+}

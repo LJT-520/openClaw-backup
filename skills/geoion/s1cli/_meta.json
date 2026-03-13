@@ -1,0 +1,11 @@
+{
+  "owner": "geoion",
+  "slug": "s1cli",
+  "displayName": "s1cli",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772526773770,
+    "commit": "https://github.com/openclaw/skills/commit/1417f5ecc2e4c73b68c155dce71c1593e477ca72"
+  },
+  "history": []
+}

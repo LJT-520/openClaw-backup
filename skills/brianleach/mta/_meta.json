@@ -1,0 +1,11 @@
+{
+  "owner": "brianleach",
+  "slug": "mta",
+  "displayName": "NYC MTA Transit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771718547894,
+    "commit": "https://github.com/openclaw/skills/commit/bf4d80d9a6c9dab93ecb0424b317c22d7ad82097"
+  },
+  "history": []
+}

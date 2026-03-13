@@ -1,0 +1,11 @@
+{
+  "owner": "bojieli",
+  "slug": "pine-voice",
+  "displayName": "Pine Voice",
+  "latest": {
+    "version": "1.2.2",
+    "publishedAt": 1771668855478,
+    "commit": "https://github.com/openclaw/skills/commit/db99e54134d6ac7614a5309f4b25c73756ae5e20"
+  },
+  "history": []
+}

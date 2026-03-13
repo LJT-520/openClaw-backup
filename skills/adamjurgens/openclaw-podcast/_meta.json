@@ -1,0 +1,22 @@
+{
+  "owner": "adamjurgens",
+  "slug": "openclaw-podcast",
+  "displayName": "Openclaw Podcast",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771831501862,
+    "commit": "https://github.com/openclaw/skills/commit/c2efae113ee96434a4a9d3744b61b760a5e897b9"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771760708925,
+      "commit": "https://github.com/openclaw/skills/commit/06fd81cf3fc3bbd49ada6e5db2f443e57b6b7bde"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771760117733,
+      "commit": "https://github.com/openclaw/skills/commit/dbc0f53d8eb1f79fa8d9e489c7da3d27579421db"
+    }
+  ]
+}

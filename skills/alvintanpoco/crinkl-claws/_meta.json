@@ -1,0 +1,17 @@
+{
+  "owner": "alvintanpoco",
+  "slug": "crinkl-claws",
+  "displayName": "Crinkl Claws",
+  "latest": {
+    "version": "1.3.2",
+    "publishedAt": 1772581416943,
+    "commit": "https://github.com/openclaw/skills/commit/684e06d7658c165f94f950b4f6cd055d81336cee"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772326523338,
+      "commit": "https://github.com/openclaw/skills/commit/05e8c9ab5ae1357fd00e99f90197f4cd27166742"
+    }
+  ]
+}

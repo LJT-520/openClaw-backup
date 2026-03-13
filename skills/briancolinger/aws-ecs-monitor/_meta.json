@@ -1,0 +1,17 @@
+{
+  "owner": "briancolinger",
+  "slug": "aws-ecs-monitor",
+  "displayName": "aws-ecs-monitor",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771529230156,
+    "commit": "https://github.com/openclaw/skills/commit/e1c0a44ff3502c863f42a32f85049e29587eabcb"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770066711366,
+      "commit": "https://github.com/clawdbot/skills/commit/138b4e6050ad15a80802d0e3631ea08c4bd9bdca"
+    }
+  ]
+}

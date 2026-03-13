@@ -1,0 +1,11 @@
+{
+  "owner": "0xshadoweth",
+  "slug": "shadow-phone",
+  "displayName": "Shadow Number",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771950822758,
+    "commit": "https://github.com/openclaw/skills/commit/cda80c2c44db27247ff7982d6f5d690042fc7013"
+  },
+  "history": []
+}

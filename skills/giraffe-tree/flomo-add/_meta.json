@@ -1,0 +1,11 @@
+{
+  "owner": "giraffe-tree",
+  "slug": "flomo-add",
+  "displayName": "flomo-add",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771568734119,
+    "commit": "https://github.com/openclaw/skills/commit/c53b956c1b1f94fdc92b895eadc34488b53e4675"
+  },
+  "history": []
+}

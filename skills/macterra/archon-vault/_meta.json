@@ -1,0 +1,11 @@
+{
+  "owner": "macterra",
+  "slug": "archon-vault",
+  "displayName": "Archon Vault",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772044954289,
+    "commit": "https://github.com/openclaw/skills/commit/66f158330d00ac14205b8e16d99be0fc9a1079e3"
+  },
+  "history": []
+}

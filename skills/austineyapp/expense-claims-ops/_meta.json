@@ -1,0 +1,11 @@
+{
+  "owner": "austineyapp",
+  "slug": "expense-claims-ops",
+  "displayName": "Expense Claims Ops",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772459732065,
+    "commit": "https://github.com/openclaw/skills/commit/b5353cda663e4bbeb3c0e7dca3760ed75c14f5f2"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "homeofe",
+  "slug": "openclaw-memory-brain",
+  "displayName": "OpenClaw Memory (Brain)",
+  "latest": {
+    "version": "0.3.1",
+    "publishedAt": 1772290979266,
+    "commit": "https://github.com/openclaw/skills/commit/e538c5c6a325b9d9fc5f06c947cda6903a7199bf"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771946326961,
+      "commit": "https://github.com/openclaw/skills/commit/cd851112d7c7fffe8e08cdf2bb2b543a01c2ab01"
+    }
+  ]
+}

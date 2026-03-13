@@ -1,0 +1,11 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-research",
+  "displayName": "Research",
+  "latest": {
+    "version": "1.7.1",
+    "publishedAt": 1771711622664,
+    "commit": "https://github.com/openclaw/skills/commit/6c3a6394a03cb591a6ff139f524e2dbe5b9a1852"
+  },
+  "history": []
+}

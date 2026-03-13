@@ -1,0 +1,22 @@
+{
+  "owner": "homeofe",
+  "slug": "openclaw-rss-feeds",
+  "displayName": "RSS Feeds",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772280793986,
+    "commit": "https://github.com/openclaw/skills/commit/c1e259cd982b9508adf3e89fb9c80c8b7cdf6896"
+  },
+  "history": [
+    {
+      "version": "0.1.2",
+      "publishedAt": 1771953489928,
+      "commit": "https://github.com/openclaw/skills/commit/5fcaa6e3885972dafeee5b23429808c2af72e040"
+    },
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771857301034,
+      "commit": "https://github.com/openclaw/skills/commit/763875926a96de7d917f266f8a7c358b5efb196f"
+    }
+  ]
+}

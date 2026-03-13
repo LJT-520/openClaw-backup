@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "sla-monitor",
+  "displayName": "SLA Monitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771790169293,
+    "commit": "https://github.com/openclaw/skills/commit/664d1e684f91ff4a5980289b369e7f67f4d0ee2a"
+  },
+  "history": []
+}

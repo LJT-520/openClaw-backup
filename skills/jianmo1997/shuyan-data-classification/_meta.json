@@ -1,0 +1,11 @@
+{
+  "owner": "jianmo1997",
+  "slug": "shuyan-data-classification",
+  "displayName": "数安云智数据分类分级",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772452663601,
+    "commit": "https://github.com/openclaw/skills/commit/937d59c0cffca4e109e9afaf506e46dec9ef578c"
+  },
+  "history": []
+}

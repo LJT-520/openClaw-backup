@@ -1,0 +1,11 @@
+{
+  "owner": "dalomeve",
+  "slug": "instruction-anchor-guard",
+  "displayName": "Instruction Anchor Guard",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772364544646,
+    "commit": "https://github.com/openclaw/skills/commit/80f752326f22c24cc4b4a10fbce323d16cd71f5c"
+  },
+  "history": []
+}

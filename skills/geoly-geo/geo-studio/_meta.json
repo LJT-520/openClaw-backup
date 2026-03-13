@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-studio",
+  "displayName": "GEO Content Studio",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280933146,
+    "commit": "https://github.com/openclaw/skills/commit/cbc77ff518f546eeb1cc2c513a430aeae6074c16"
+  },
+  "history": []
+}

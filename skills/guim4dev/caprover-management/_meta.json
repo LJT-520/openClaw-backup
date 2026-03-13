@@ -1,0 +1,11 @@
+{
+  "owner": "guim4dev",
+  "slug": "caprover-management",
+  "displayName": "Caprover Management",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772388309763,
+    "commit": "https://github.com/openclaw/skills/commit/040f8e022bc987c1b645b9e2f281bedc724e9797"
+  },
+  "history": []
+}

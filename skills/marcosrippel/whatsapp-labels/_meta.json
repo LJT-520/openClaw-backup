@@ -1,0 +1,11 @@
+{
+  "owner": "marcosrippel",
+  "slug": "whatsapp-labels",
+  "displayName": "WhatsApp Labels",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771519411483,
+    "commit": "https://github.com/openclaw/skills/commit/64c1ee615f1e125c3ee935c96bba7872d9b4b845"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ekalb81",
+  "slug": "langfuse-continuous-optimizer",
+  "displayName": "Clawfuse",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1772441269417,
+    "commit": "https://github.com/openclaw/skills/commit/f7ac69f1454a7c3fca20c6ea6ec368c25e1dfe70"
+  },
+  "history": []
+}

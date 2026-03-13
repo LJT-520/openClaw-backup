@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "security-best-practices",
+  "displayName": "Security Best Practices",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772220926066,
+    "commit": "https://github.com/openclaw/skills/commit/8bce072b3ce920e3e3c7dc832e33e54d6678e667"
+  },
+  "history": []
+}

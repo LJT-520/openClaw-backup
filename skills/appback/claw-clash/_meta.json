@@ -1,0 +1,57 @@
+{
+  "owner": "appback",
+  "slug": "claw-clash",
+  "displayName": "Grid Clash (Deprecated)",
+  "latest": {
+    "version": "1.9.0",
+    "publishedAt": 1772590605404,
+    "commit": "https://github.com/openclaw/skills/commit/9af5fdc883d5798660aa39f31e3e7a94bc7447ec"
+  },
+  "history": [
+    {
+      "version": "1.8.0",
+      "publishedAt": 1772149393456,
+      "commit": "https://github.com/openclaw/skills/commit/d2a4230f78f27beb079ca2cc71b5f06adaed5329"
+    },
+    {
+      "version": "1.7.0",
+      "publishedAt": 1772079265941,
+      "commit": "https://github.com/openclaw/skills/commit/2e572d359efa6f84010a5f9056d8fb17c6eebe53"
+    },
+    {
+      "version": "1.6.0",
+      "publishedAt": 1771908691782,
+      "commit": "https://github.com/openclaw/skills/commit/c31351a4b0b41ebad6f1f2eb023cf661d4c1f348"
+    },
+    {
+      "version": "1.5.0",
+      "publishedAt": 1771853454446,
+      "commit": "https://github.com/openclaw/skills/commit/703810671562df611ef03f574476a375f613de05"
+    },
+    {
+      "version": "1.3.6",
+      "publishedAt": 1771749740493,
+      "commit": "https://github.com/openclaw/skills/commit/1e2173c62ffdbd659459a219ea95b112c48e9fe5"
+    },
+    {
+      "version": "1.3.5",
+      "publishedAt": 1771746989673,
+      "commit": "https://github.com/openclaw/skills/commit/a477406955a8766c15bde350997fb09606af72a6"
+    },
+    {
+      "version": "1.3.4",
+      "publishedAt": 1771634607033,
+      "commit": "https://github.com/openclaw/skills/commit/c398b27f7bc8044473d8b50e6014175008e961b2"
+    },
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771588587278,
+      "commit": "https://github.com/openclaw/skills/commit/ec99acbaeaaf1a1cc4610b1e67df9fded921fbec"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771500366701,
+      "commit": "https://github.com/openclaw/skills/commit/9619cd89f0af5ab10b760be65ad5b90962d72c81"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-you2idea-extract",
+  "displayName": "You2idea Extract",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771698844876,
+    "commit": "https://github.com/openclaw/skills/commit/99ba0133a45166bc16b2774587e4904c78be3cf3"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771623700704,
+      "commit": "https://github.com/openclaw/skills/commit/d3b9df9cfc8f1977e81b31bc2e8439de505fd15b"
+    }
+  ]
+}

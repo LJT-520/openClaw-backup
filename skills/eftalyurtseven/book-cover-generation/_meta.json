@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "book-cover-generation",
+  "displayName": "Book Cover Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771579274630,
+    "commit": "https://github.com/openclaw/skills/commit/675fa203fa8999d1c8793ffa77107d8b61fd213c"
+  },
+  "history": []
+}

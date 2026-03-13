@@ -1,0 +1,11 @@
+{
+  "owner": "fangkelvin",
+  "slug": "tavily-skill",
+  "displayName": "Tavily Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772382948286,
+    "commit": "https://github.com/openclaw/skills/commit/f05c2487afec836670ca08631032e109ea9b6948"
+  },
+  "history": []
+}

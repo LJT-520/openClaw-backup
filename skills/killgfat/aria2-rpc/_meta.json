@@ -1,0 +1,17 @@
+{
+  "owner": "killgfat",
+  "slug": "aria2-rpc",
+  "displayName": "Aria2 Rpc",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772538578564,
+    "commit": "https://github.com/openclaw/skills/commit/39112a82aad12be56c0595d255073a2eeb591411"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772537898297,
+      "commit": "https://github.com/openclaw/skills/commit/d38ed889d3bf3435a4183484a2a5c44063b7a5e7"
+    }
+  ]
+}

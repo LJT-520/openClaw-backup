@@ -1,0 +1,27 @@
+{
+  "owner": "mikeargento",
+  "slug": "openclaw-occ",
+  "displayName": "OCC for OpenClaw",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772307634077,
+    "commit": "https://github.com/openclaw/skills/commit/699aa30c1076d95b0f25b0988e5597484f18f40f"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772307127293,
+      "commit": "https://github.com/openclaw/skills/commit/3cead6308b4adfc5424a616c7b7af3eb4e732f69"
+    },
+    {
+      "version": "1.0.7",
+      "publishedAt": 1772285704504,
+      "commit": "https://github.com/openclaw/skills/commit/4b450d51c62206d3754129a989204db54b2ecf82"
+    },
+    {
+      "version": "1.0.5",
+      "publishedAt": 1772229736877,
+      "commit": "https://github.com/openclaw/skills/commit/4a3669b056fc1c98f77642679987249d1a311706"
+    }
+  ]
+}

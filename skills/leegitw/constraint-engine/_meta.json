@@ -1,0 +1,17 @@
+{
+  "owner": "leegitw",
+  "slug": "constraint-engine",
+  "displayName": "Constraint Engine",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1771894503192,
+    "commit": "https://github.com/openclaw/skills/commit/06574406338c6b08e841599171a8e6187cff59b9"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771469172174,
+      "commit": "https://github.com/openclaw/skills/commit/c838f8c25cad57e11fc87b98e62c773ecd9126c8"
+    }
+  ]
+}

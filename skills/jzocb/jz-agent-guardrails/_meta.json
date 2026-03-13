@@ -1,0 +1,11 @@
+{
+  "owner": "jzocb",
+  "slug": "jz-agent-guardrails",
+  "displayName": "Agent Guardrails",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772336102418,
+    "commit": "https://github.com/openclaw/skills/commit/f5e795d0df4af3f3d7fa3bb4d1684dc83e04e8ce"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "adwilkinson",
+  "slug": "oneshot-ship",
+  "displayName": "oneshot CLI",
+  "latest": {
+    "version": "0.0.1",
+    "publishedAt": 1772444737780,
+    "commit": "https://github.com/openclaw/skills/commit/68ca1654b64d265d83d77b9c1d1aa375b733ff43"
+  },
+  "history": []
+}

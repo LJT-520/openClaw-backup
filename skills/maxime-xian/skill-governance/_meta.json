@@ -1,0 +1,11 @@
+{
+  "owner": "maxime-xian",
+  "slug": "skill-governance",
+  "displayName": "skill-governance",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1772445421983,
+    "commit": "https://github.com/openclaw/skills/commit/89ef9b2f84e3559d25f5fbadf4806cbab63136dd"
+  },
+  "history": []
+}

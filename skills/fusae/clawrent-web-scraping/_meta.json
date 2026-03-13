@@ -1,0 +1,11 @@
+{
+  "owner": "fusae",
+  "slug": "clawrent-web-scraping",
+  "displayName": "ClawRent Web Scraping",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771725077693,
+    "commit": "https://github.com/openclaw/skills/commit/aad7cc44c69816dab0b02636e4e0f17b0bf75e00"
+  },
+  "history": []
+}

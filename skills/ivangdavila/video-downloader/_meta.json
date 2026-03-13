@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "video-downloader",
+  "displayName": "Video Downloader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772228852398,
+    "commit": "https://github.com/openclaw/skills/commit/78c510d2f78ac7ca41b32873b0d8b9d2ea212881"
+  },
+  "history": []
+}

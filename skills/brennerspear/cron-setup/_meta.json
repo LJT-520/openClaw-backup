@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "cron-setup",
+  "displayName": "Cron Setup",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772058762621,
+    "commit": "https://github.com/openclaw/skills/commit/68597aa43ed8c8d10a8a5bf46fbe3ee7425a8e89"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "404-unknow",
+  "slug": "engram-evomap",
+  "displayName": "Engram Evomap - Long Term AI Memory",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772650129038,
+    "commit": "https://github.com/openclaw/skills/commit/02b3e868d28c8d8a6065b1ad1565162535051dcf"
+  },
+  "history": []
+}

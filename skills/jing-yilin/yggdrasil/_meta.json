@@ -1,0 +1,17 @@
+{
+  "owner": "jing-yilin",
+  "slug": "yggdrasil",
+  "displayName": "Yggdrasil",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1772543313811,
+    "commit": "https://github.com/openclaw/skills/commit/138a765bb5a4b95dae0e6eed7cb4fe53143000e4"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772519003753,
+      "commit": "https://github.com/openclaw/skills/commit/13dd6bee7baaa0a4c9232cfc67fe300501eaf5a2"
+    }
+  ]
+}

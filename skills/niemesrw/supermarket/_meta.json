@@ -1,0 +1,11 @@
+{
+  "owner": "niemesrw",
+  "slug": "supermarket",
+  "displayName": "Supermarket",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771807474830,
+    "commit": "https://github.com/openclaw/skills/commit/3fb8ec6ac6c20ab8ce3e00531ba70cbc598de1d3"
+  },
+  "history": []
+}

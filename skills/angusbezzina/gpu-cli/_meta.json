@@ -1,0 +1,11 @@
+{
+  "owner": "angusbezzina",
+  "slug": "gpu-cli",
+  "displayName": "GPU CLI — Remote GPU Compute for ML Training and Inference",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772036192971,
+    "commit": "https://github.com/openclaw/skills/commit/ef2ed58dadb0975d83eaabdf32d0600e77d86135"
+  },
+  "history": []
+}

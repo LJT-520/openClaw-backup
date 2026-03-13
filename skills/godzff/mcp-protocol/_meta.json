@@ -1,0 +1,11 @@
+{
+  "owner": "godzff",
+  "slug": "mcp-protocol",
+  "displayName": "MCP协议配置",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771864037932,
+    "commit": "https://github.com/openclaw/skills/commit/ddbd2c9df689e09b41fe2e4c68ef397fefa80005"
+  },
+  "history": []
+}

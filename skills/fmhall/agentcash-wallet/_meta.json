@@ -1,0 +1,11 @@
+{
+  "owner": "fmhall",
+  "slug": "agentcash-wallet",
+  "displayName": "Agentcash Wallet",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771606040778,
+    "commit": "https://github.com/openclaw/skills/commit/68cb4039a5e1193cddc38309e141231550eb9e16"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "cai-zhuo",
+  "slug": "materials-workbench",
+  "displayName": "Materials Workbench",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771832349150,
+    "commit": "https://github.com/openclaw/skills/commit/39d27e25f4c9000f9d30b2bec3c469a4bb79242b"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mariusfit",
+  "slug": "clawhub-skill-llm-cost-guard",
+  "displayName": "Clawhub Skill Llm Cost Guard",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771967048558,
+    "commit": "https://github.com/openclaw/skills/commit/156807dfc0f6b9a8148babd8dfa66646addd8dd5"
+  },
+  "history": []
+}

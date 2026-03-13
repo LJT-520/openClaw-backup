@@ -1,0 +1,11 @@
+{
+  "owner": "incognos",
+  "slug": "shortcut-skill",
+  "displayName": "Shortcut Epic and Story skill",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771952860345,
+    "commit": "https://github.com/openclaw/skills/commit/5d5e7a1527c9346361b522f72b610e8e3c7c684a"
+  },
+  "history": []
+}

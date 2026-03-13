@@ -1,0 +1,27 @@
+{
+  "owner": "kimbo128",
+  "slug": "hs58",
+  "displayName": "Handshake58 - Payments for AI Agents",
+  "latest": {
+    "version": "4.0.2",
+    "publishedAt": 1772465189924,
+    "commit": "https://github.com/openclaw/skills/commit/047b088c9598549c04396445981e3625a27ed5b7"
+  },
+  "history": [
+    {
+      "version": "3.0.0",
+      "publishedAt": 1772137191313,
+      "commit": "https://github.com/openclaw/skills/commit/8625d7c0006a43f17b735bd140f214c52101a628"
+    },
+    {
+      "version": "1.9.1",
+      "publishedAt": 1772031902073,
+      "commit": "https://github.com/openclaw/skills/commit/2844bd4ec999b71de84d1ed7defc220e2ce808ef"
+    },
+    {
+      "version": "1.9.0",
+      "publishedAt": 1771923181311,
+      "commit": "https://github.com/openclaw/skills/commit/b26fe9c21a007d1a900bd02291a8f5a8d9af6a57"
+    }
+  ]
+}

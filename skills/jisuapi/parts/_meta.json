@@ -1,0 +1,17 @@
+{
+  "owner": "jisuapi",
+  "slug": "parts",
+  "displayName": "汽车配件OE信息查询 - Auto Parts OE Inquiry",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772534127765,
+    "commit": "https://github.com/openclaw/skills/commit/72e7dcc872c3ffdd18f60ccdbcc189b5a5daf031"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772522280783,
+      "commit": "https://github.com/openclaw/skills/commit/16d51671782055ae34b6bab051b070fda562b8d7"
+    }
+  ]
+}

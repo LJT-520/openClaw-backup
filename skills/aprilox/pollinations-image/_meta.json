@@ -1,0 +1,11 @@
+{
+  "owner": "aprilox",
+  "slug": "pollinations-image",
+  "displayName": "Pollinations Image Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771677117063,
+    "commit": "https://github.com/openclaw/skills/commit/25d3335f517e049700c7ab3e2f6ece4cf4815eea"
+  },
+  "history": []
+}

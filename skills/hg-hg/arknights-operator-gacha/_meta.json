@@ -1,0 +1,17 @@
+{
+  "owner": "hg-hg",
+  "slug": "arknights-operator-gacha",
+  "displayName": "Arknights Operator Gacha",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772009986590,
+    "commit": "https://github.com/openclaw/skills/commit/fdf0e8584ed300846b2033a508bd4deab516ae94"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771982807401,
+      "commit": "https://github.com/openclaw/skills/commit/9580c5ffed336c50d06a904dc6ed26c235d5240b"
+    }
+  ]
+}

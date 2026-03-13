@@ -1,0 +1,11 @@
+{
+  "owner": "cryptocana",
+  "slug": "build-transparency-dashboard",
+  "displayName": "Build Transparency Dashboard",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772312860762,
+    "commit": "https://github.com/openclaw/skills/commit/fadfaea38b6cc72b5583a3a665a3a47abab55ade"
+  },
+  "history": []
+}

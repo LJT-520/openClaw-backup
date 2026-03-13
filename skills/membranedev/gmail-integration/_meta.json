@@ -1,0 +1,11 @@
+{
+  "owner": "membranedev",
+  "slug": "gmail-integration",
+  "displayName": "Gmail",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772585121351,
+    "commit": "https://github.com/openclaw/skills/commit/f1a0694318779fc34edc1aed62948653c119815e"
+  },
+  "history": []
+}

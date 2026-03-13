@@ -1,0 +1,11 @@
+{
+  "owner": "jackwener",
+  "slug": "bilibili-cli",
+  "displayName": "bilibili-cli",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772626115986,
+    "commit": "https://github.com/openclaw/skills/commit/0ef517ee5ebb38ba9e33b590bba1c79ee28d4c53"
+  },
+  "history": []
+}

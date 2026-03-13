@@ -1,0 +1,11 @@
+{
+  "owner": "hope-ave",
+  "slug": "ave-cloud",
+  "displayName": "AVE Cloud Skill",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772502919162,
+    "commit": "https://github.com/openclaw/skills/commit/92daa85ce35bbbc7adc688206828f8b80ebb1c0d"
+  },
+  "history": []
+}

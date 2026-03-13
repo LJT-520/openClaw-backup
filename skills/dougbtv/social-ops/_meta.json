@@ -1,0 +1,32 @@
+{
+  "owner": "dougbtv",
+  "slug": "social-ops",
+  "displayName": "Social Ops",
+  "latest": {
+    "version": "0.0.12",
+    "publishedAt": 1772497929709,
+    "commit": "https://github.com/openclaw/skills/commit/94d1f45b28dcdd2191bc4c583fda5a4deca7c668"
+  },
+  "history": [
+    {
+      "version": "0.0.10",
+      "publishedAt": 1772450685718,
+      "commit": "https://github.com/openclaw/skills/commit/1ef46666227e82e12e3cffc068c13120957104bf"
+    },
+    {
+      "version": "0.0.9",
+      "publishedAt": 1772407829817,
+      "commit": "https://github.com/openclaw/skills/commit/9d2ae2e319a0c2688b602420a2f36051530cd870"
+    },
+    {
+      "version": "0.0.6",
+      "publishedAt": 1772317117255,
+      "commit": "https://github.com/openclaw/skills/commit/a61d09afa0dad50d8647c5ca6bce309fd197e607"
+    },
+    {
+      "version": "0.0.3",
+      "publishedAt": 1772117261250,
+      "commit": "https://github.com/openclaw/skills/commit/9a3e06737d0e7644b62f3aa5ceb0f7b657a63858"
+    }
+  ]
+}

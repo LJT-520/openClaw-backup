@@ -1,0 +1,11 @@
+{
+  "owner": "firebroo",
+  "slug": "security-skiil-scanner",
+  "displayName": "security-skiil-scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772602763906,
+    "commit": "https://github.com/openclaw/skills/commit/9d953b3c718eea31b1e3487f0154e8d2b3597a56"
+  },
+  "history": []
+}

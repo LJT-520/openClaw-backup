@@ -1,0 +1,11 @@
+{
+  "owner": "npfaerber",
+  "slug": "discord-channel-auditor",
+  "displayName": "Discord Channel Auditor",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772273550816,
+    "commit": "https://github.com/openclaw/skills/commit/a7673f7f04f9a5ef128c39e64850ae8eba4fe177"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "astralwaveorg",
+  "slug": "smart-router-skill",
+  "displayName": "Smart Router Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772644353995,
+    "commit": "https://github.com/openclaw/skills/commit/95b20d8041d1f98440ed8372206a2bc9b18be215"
+  },
+  "history": []
+}

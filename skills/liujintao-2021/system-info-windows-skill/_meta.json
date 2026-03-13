@@ -1,0 +1,11 @@
+{
+  "owner": "liujintao-2021",
+  "slug": "system-info-windows-skill",
+  "displayName": "system-info-windows-skill",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772605923939,
+    "commit": "https://github.com/openclaw/skills/commit/afa13883ffb64fc5857d237ea2e4eee5590b9ab1"
+  },
+  "history": []
+}

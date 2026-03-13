@@ -1,0 +1,11 @@
+{
+  "owner": "leochens",
+  "slug": "video-pipeline-bundle",
+  "displayName": "Video Pipeline Bundle",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772208487633,
+    "commit": "https://github.com/openclaw/skills/commit/399b11bf19d0f8c6513ed3031905aacbf929e30d"
+  },
+  "history": []
+}

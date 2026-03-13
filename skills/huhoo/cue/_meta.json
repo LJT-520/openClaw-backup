@@ -1,0 +1,22 @@
+{
+  "owner": "huhoo",
+  "slug": "cue",
+  "displayName": "Cue",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772077396247,
+    "commit": "https://github.com/openclaw/skills/commit/c8ffc849c0c155a68822c0d0c9e13d483d4dc978"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771970186784,
+      "commit": "https://github.com/openclaw/skills/commit/d676198191a9f16e5104a4499695ba877b49df37"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771857974803,
+      "commit": "https://github.com/openclaw/skills/commit/b5a74eeb723fb1c9494ffb8bf5ba66b5b0356464"
+    }
+  ]
+}

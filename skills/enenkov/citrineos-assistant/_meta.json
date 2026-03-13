@@ -1,0 +1,17 @@
+{
+  "owner": "enenkov",
+  "slug": "citrineos-assistant",
+  "displayName": "CitrineOS Assistant",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771639389561,
+    "commit": "https://github.com/openclaw/skills/commit/a1958b710a385bc5cca6ad0b9c4775cf76f6d286"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771557881956,
+      "commit": "https://github.com/openclaw/skills/commit/14f465ba9455b5d424749f6c24151a6563633f05"
+    }
+  ]
+}

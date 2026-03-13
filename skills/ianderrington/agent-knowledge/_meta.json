@@ -1,0 +1,11 @@
+{
+  "owner": "ianderrington",
+  "slug": "agent-knowledge",
+  "displayName": "Agent Knowledge Capture",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772149574807,
+    "commit": "https://github.com/openclaw/skills/commit/ce44918d4e49aea995c1db07c1db75bcc30e9f43"
+  },
+  "history": []
+}

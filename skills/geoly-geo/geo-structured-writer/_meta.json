@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-structured-writer",
+  "displayName": "AI-Friendly Structured Writer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280763055,
+    "commit": "https://github.com/openclaw/skills/commit/e5ad0dcded0216c106c2a6f72dc2f6a923cda3b2"
+  },
+  "history": []
+}

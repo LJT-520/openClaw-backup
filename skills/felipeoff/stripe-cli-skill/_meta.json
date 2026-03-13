@@ -1,0 +1,11 @@
+{
+  "owner": "felipeoff",
+  "slug": "stripe-cli-skill",
+  "displayName": "Stripe Cli",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771666660650,
+    "commit": "https://github.com/openclaw/skills/commit/6bfe4cdf194df2f73927b55e1c4c46f9b18185f9"
+  },
+  "history": []
+}

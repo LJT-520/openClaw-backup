@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "buenos-aires",
+  "displayName": "Buenos Aires",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771468641616,
+    "commit": "https://github.com/openclaw/skills/commit/c0c3a8ff1d163509cfd9a208f9e3fef6aac43f1c"
+  },
+  "history": []
+}

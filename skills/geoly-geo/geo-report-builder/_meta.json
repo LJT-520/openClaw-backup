@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-report-builder",
+  "displayName": "GEO Performance Report Builder",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772280599076,
+    "commit": "https://github.com/openclaw/skills/commit/18f703f9f8f2dbae0181e91e5cdf2546314e8e99"
+  },
+  "history": []
+}

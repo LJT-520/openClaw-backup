@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-funeral-home",
+  "displayName": "Funeral Home Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772048566712,
+    "commit": "https://github.com/openclaw/skills/commit/c84ceae4471311e105ce5b88d94f3e2092a31be1"
+  },
+  "history": []
+}

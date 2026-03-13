@@ -1,0 +1,11 @@
+{
+  "owner": "abstract-sum",
+  "slug": "nutrition-tracker",
+  "displayName": "Nutrition Tracker",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772626020680,
+    "commit": "https://github.com/openclaw/skills/commit/a0246162de76bda3d1ef5f691d8dc9486afa5f57"
+  },
+  "history": []
+}

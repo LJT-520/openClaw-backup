@@ -1,0 +1,17 @@
+{
+  "owner": "agmsyumet",
+  "slug": "paypilot-agms",
+  "displayName": "PayPilot by AGMS",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772042573319,
+    "commit": "https://github.com/openclaw/skills/commit/45213f1c85e048f35ef15e81700373d91b72a233"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771966773629,
+      "commit": "https://github.com/openclaw/skills/commit/76a77e38045327817a8aac5b5155e96bbc702363"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "mephistophelesbits",
+  "slug": "signal-pipeline",
+  "displayName": "Signal Pipeline",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771748888744,
+    "commit": "https://github.com/openclaw/skills/commit/798210b83c6855025fba9db98899249b1c5d8f5c"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771743571789,
+      "commit": "https://github.com/openclaw/skills/commit/e552dd23fc0ac3d0c057d87ded09ce73565b00b8"
+    }
+  ]
+}

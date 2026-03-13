@@ -1,0 +1,11 @@
+{
+  "owner": "ai-chen2050",
+  "slug": "wechat-public-cli",
+  "displayName": "wechat-public-cli",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772555553649,
+    "commit": "https://github.com/openclaw/skills/commit/4b93cf82c2e6e8c345d86454e2fa7bebe926e8b7"
+  },
+  "history": []
+}

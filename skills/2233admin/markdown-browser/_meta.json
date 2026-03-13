@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "markdown-browser",
+  "displayName": "Markdown Browser",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771842935159,
+    "commit": "https://github.com/openclaw/skills/commit/de89a76dfe1c192055254c38e563b20b7b3a8900"
+  },
+  "history": []
+}

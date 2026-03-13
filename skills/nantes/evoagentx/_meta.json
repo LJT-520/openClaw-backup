@@ -1,0 +1,11 @@
+{
+  "owner": "nantes",
+  "slug": "evoagentx",
+  "displayName": "Evoagentx",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771788132551,
+    "commit": "https://github.com/openclaw/skills/commit/7bdd98f56d9cf289af7b0be39e956dfbe7ee5bcc"
+  },
+  "history": []
+}

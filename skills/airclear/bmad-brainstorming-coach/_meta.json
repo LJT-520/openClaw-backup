@@ -1,0 +1,11 @@
+{
+  "owner": "airclear",
+  "slug": "bmad-brainstorming-coach",
+  "displayName": "Bmad Brainstorming Coach",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772532580422,
+    "commit": "https://github.com/openclaw/skills/commit/f52ea0d617f1e97c93f7100553bb92b6f67b272d"
+  },
+  "history": []
+}

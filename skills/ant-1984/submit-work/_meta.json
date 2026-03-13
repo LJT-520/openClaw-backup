@@ -1,0 +1,17 @@
+{
+  "owner": "ant-1984",
+  "slug": "submit-work",
+  "displayName": "Submit Work",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772473298612,
+    "commit": "https://github.com/openclaw/skills/commit/904d2a42ef2112b19385b49b121d9666c5747c3b"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772374832967,
+      "commit": "https://github.com/openclaw/skills/commit/31932e2546a9361000d79c0c5ff857eebd066265"
+    }
+  ]
+}

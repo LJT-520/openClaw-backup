@@ -1,0 +1,11 @@
+{
+  "owner": "bestrocky",
+  "slug": "proactive-agent-lite",
+  "displayName": "Proactive Agent Lite",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772250292761,
+    "commit": "https://github.com/openclaw/skills/commit/6d7096df0ac822a137246665d4cd977695806f72"
+  },
+  "history": []
+}

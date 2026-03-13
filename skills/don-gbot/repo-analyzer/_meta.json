@@ -1,0 +1,17 @@
+{
+  "owner": "don-gbot",
+  "slug": "repo-analyzer",
+  "displayName": "Repo Analyzer",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771986450622,
+    "commit": "https://github.com/openclaw/skills/commit/c6c5e025371dd561fd73df2198360e52276eaea7"
+  },
+  "history": [
+    {
+      "version": "1.1.1",
+      "publishedAt": 1771711710538,
+      "commit": "https://github.com/openclaw/skills/commit/a3e3653878af01cc0076b319023cfc7f918671d4"
+    }
+  ]
+}

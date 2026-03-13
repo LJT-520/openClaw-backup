@@ -1,0 +1,11 @@
+{
+  "owner": "aicodelion",
+  "slug": "agent-conductor",
+  "displayName": "Agent Conductor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772617443403,
+    "commit": "https://github.com/openclaw/skills/commit/7ee23940966b8199f43d1fdebcca032964de64d2"
+  },
+  "history": []
+}

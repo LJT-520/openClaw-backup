@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "synergy-salon",
+  "displayName": "Synergy Salon",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772564022711,
+    "commit": "https://github.com/openclaw/skills/commit/74a4d6d252c4881e99f66e136199d2cb2af5e8e5"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "session-history-enhancements",
+  "displayName": "Session History Enhanced",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772218110328,
+    "commit": "https://github.com/openclaw/skills/commit/28c047ebbb03656686cce09d96f37b6d4b2a7014"
+  },
+  "history": []
+}

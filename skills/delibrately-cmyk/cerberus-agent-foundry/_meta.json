@@ -1,0 +1,11 @@
+{
+  "owner": "delibrately-cmyk",
+  "slug": "cerberus-agent-foundry",
+  "displayName": "Isolated Multi-Agent Control Plane",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772305104607,
+    "commit": "https://github.com/openclaw/skills/commit/a6d8c0921f6fb453b5fa6488441ac594590f4e18"
+  },
+  "history": []
+}

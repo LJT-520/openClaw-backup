@@ -1,0 +1,27 @@
+{
+  "owner": "lucasgeeksinthewood",
+  "slug": "buy-amazon",
+  "displayName": "Buy from Amazon — Search, Cart & Order for AI Agents",
+  "latest": {
+    "version": "1.2.4",
+    "publishedAt": 1771626306434,
+    "commit": "https://github.com/openclaw/skills/commit/456a8a28f4898f0de14cdc4cfcb36df28ef014aa"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771103108957,
+      "commit": "https://github.com/openclaw/skills/commit/a8ef59ac0774b90f7e448d895b6e3b27757a7ff1"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771063156577,
+      "commit": "https://github.com/openclaw/skills/commit/63574b2a57c954ce6efede3570431245f93df206"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771061886635,
+      "commit": "https://github.com/openclaw/skills/commit/30a61cc266204f1cddf2e45631f3ecf762dba822"
+    }
+  ]
+}

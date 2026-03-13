@@ -1,0 +1,27 @@
+{
+  "owner": "macd2",
+  "slug": "agent-crypto-wallet",
+  "displayName": "OpenClawCash",
+  "latest": {
+    "version": "1.9.9",
+    "publishedAt": 1772299407410,
+    "commit": "https://github.com/openclaw/skills/commit/0ab0438b6afaffaa3982f0b66ce1b0f84f9ff890"
+  },
+  "history": [
+    {
+      "version": "1.9.1",
+      "publishedAt": 1771861748375,
+      "commit": "https://github.com/openclaw/skills/commit/276a44f3d789343bda55c3e4d3a7bb244b84cb74"
+    },
+    {
+      "version": "1.9.0",
+      "publishedAt": 1771638324503,
+      "commit": "https://github.com/openclaw/skills/commit/f3647f2fb1a126c646de7d6fa65fe9b2c04a93c8"
+    },
+    {
+      "version": "1.8.0",
+      "publishedAt": 1771550607266,
+      "commit": "https://github.com/openclaw/skills/commit/3c1c9a4aa7214bb832524e8ab899a8afc5d37fd2"
+    }
+  ]
+}

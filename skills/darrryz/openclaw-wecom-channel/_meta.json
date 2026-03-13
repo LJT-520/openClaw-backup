@@ -1,0 +1,11 @@
+{
+  "owner": "darrryz",
+  "slug": "openclaw-wecom-channel",
+  "displayName": "OpenClaw WeCom Channel",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772157718007,
+    "commit": "https://github.com/openclaw/skills/commit/b10ca8c1d53353dd02e65c10ca44b44fd4b7aad4"
+  },
+  "history": []
+}

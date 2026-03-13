@@ -1,0 +1,11 @@
+{
+  "owner": "javainthinking",
+  "slug": "apipick-ip-geolocation",
+  "displayName": "Get IP Geo Location",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771756035093,
+    "commit": "https://github.com/openclaw/skills/commit/c11b8f0ee52de02b015c59f1879e9f2f5ee668b2"
+  },
+  "history": []
+}

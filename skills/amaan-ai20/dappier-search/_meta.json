@@ -1,0 +1,11 @@
+{
+  "owner": "amaan-ai20",
+  "slug": "dappier-search",
+  "displayName": "Dappier",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772644333318,
+    "commit": "https://github.com/openclaw/skills/commit/5a82097b527374571d1f38076bdff2928dc9c10d"
+  },
+  "history": []
+}

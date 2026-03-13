@@ -1,0 +1,54 @@
+{
+  "name": "pixverse",
+  "version": "0.2.0",
+  "description": "PixVerse video generation skills for Claude Code, OpenClaw and other AI assistants",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "pixverse",
+    "video-generation",
+    "ai-skills",
+    "claude-code",
+    "openclaw",
+    "ai-video",
+    "text-to-video",
+    "image-to-video"
+  ],
+  "author": "PixVerse",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PixVerseAI/PixVerse-Skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PixVerseAI/PixVerse-Skills/issues"
+  },
+  "homepage": "https://github.com/PixVerseAI/PixVerse-Skills#readme",
+  "bin": {
+    "pixverse": "./pixverse"
+  },
+  "files": [
+    "dist",
+    "pixverse",
+    "SKILL.md",
+    "src",
+    "skills.json",
+    "skill.json",
+    "README.md",
+    "CHANGELOG.md",
+    "API_KEY_GUIDE.md",
+    ".env.example"
+  ],
+  "dependencies": {
+    "axios": "^1.6.0",
+    "form-data": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.3.0"
+  }
+}

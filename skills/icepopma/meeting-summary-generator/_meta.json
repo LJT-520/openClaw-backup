@@ -1,0 +1,11 @@
+{
+  "owner": "icepopma",
+  "slug": "meeting-summary-generator",
+  "displayName": "Meeting Summary Generator",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772672002154,
+    "commit": "https://github.com/openclaw/skills/commit/9b6068f73c19695ede9c2cad5738935aa842464c"
+  },
+  "history": []
+}

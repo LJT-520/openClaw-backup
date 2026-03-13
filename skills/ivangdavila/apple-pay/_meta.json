@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "apple-pay",
+  "displayName": "Apple Pay",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772576246154,
+    "commit": "https://github.com/openclaw/skills/commit/c35d8928b4d251bcb742dda2298dc3f83bb000af"
+  },
+  "history": []
+}

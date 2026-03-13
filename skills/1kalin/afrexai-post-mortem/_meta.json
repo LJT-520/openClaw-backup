@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-post-mortem",
+  "displayName": "Post-Mortem & Incident Review",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771528501920,
+    "commit": "https://github.com/openclaw/skills/commit/c316c71af87ab65b463e93f0cd5bb7ed378d0cab"
+  },
+  "history": []
+}

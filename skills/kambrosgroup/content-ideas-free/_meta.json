@@ -1,0 +1,11 @@
+{
+  "owner": "kambrosgroup",
+  "slug": "content-ideas-free",
+  "displayName": "Content Ideas Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771818496622,
+    "commit": "https://github.com/openclaw/skills/commit/d6f3703ad2fb26ed5f9455645fb2d3dc97f7d87a"
+  },
+  "history": []
+}

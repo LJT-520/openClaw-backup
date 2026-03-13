@@ -1,0 +1,11 @@
+{
+  "owner": "joelazar",
+  "slug": "kagi-summarizer",
+  "displayName": "Kagi Summarizer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771686284784,
+    "commit": "https://github.com/openclaw/skills/commit/e8452e6377bde4554bbe07a9e2ac81da5494341f"
+  },
+  "history": []
+}

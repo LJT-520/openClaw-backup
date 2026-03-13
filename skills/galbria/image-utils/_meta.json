@@ -1,0 +1,17 @@
+{
+  "owner": "galbria",
+  "slug": "image-utils",
+  "displayName": "Image Utils by Bria.ai",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1771850932425,
+    "commit": "https://github.com/openclaw/skills/commit/149b98ffe563232dc00ad24967b2aebc2920716d"
+  },
+  "history": [
+    {
+      "version": "0.0.1",
+      "publishedAt": 1770541174067,
+      "commit": "https://github.com/openclaw/skills/commit/eff1a0eaa20949460910d862f09324ee133f2d68"
+    }
+  ]
+}

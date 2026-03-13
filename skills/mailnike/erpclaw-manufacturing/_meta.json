@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-manufacturing",
+  "displayName": "ERPClaw-Manufacturing",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772113154700,
+    "commit": "https://github.com/openclaw/skills/commit/34c9748ee65cf0aeb011014e38c4236524b4144d"
+  },
+  "history": []
+}

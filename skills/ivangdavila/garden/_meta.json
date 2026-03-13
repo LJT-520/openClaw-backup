@@ -1,0 +1,17 @@
+{
+  "owner": "ivangdavila",
+  "slug": "garden",
+  "displayName": "Garden",
+  "latest": {
+    "version": "1.1.6",
+    "publishedAt": 1771690315582,
+    "commit": "https://github.com/openclaw/skills/commit/d03ec2160bb40e016113879560f25899705c78a0"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771584250129,
+      "commit": "https://github.com/openclaw/skills/commit/2cca31002709112a429d37c52cb278a0c69a2bd8"
+    }
+  ]
+}

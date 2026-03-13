@@ -1,0 +1,11 @@
+{
+  "owner": "miguelguerra200022-sudo",
+  "slug": "code-executor",
+  "displayName": "Code Executor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772275124590,
+    "commit": "https://github.com/openclaw/skills/commit/551c2da56e8979625c7f802eb05386a2a9f5049f"
+  },
+  "history": []
+}

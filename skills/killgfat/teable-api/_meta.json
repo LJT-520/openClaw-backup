@@ -1,0 +1,11 @@
+{
+  "owner": "killgfat",
+  "slug": "teable-api",
+  "displayName": "Teable",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772161089425,
+    "commit": "https://github.com/openclaw/skills/commit/0160b2e8e75bba8b1974bc0b9f36e1dbf46794f6"
+  },
+  "history": []
+}

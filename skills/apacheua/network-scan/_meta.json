@@ -1,0 +1,11 @@
+{
+  "owner": "apacheua",
+  "slug": "network-scan",
+  "displayName": "Network Scan",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771844141442,
+    "commit": "https://github.com/openclaw/skills/commit/46d362bbd1e9c5579050598773187b39a2c27758"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "arunnadarasa",
+  "slug": "quantum",
+  "displayName": "Hackathon Quantinuum",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772557173058,
+    "commit": "https://github.com/openclaw/skills/commit/50501253a659720d30ba954a2365b71b625d3137"
+  },
+  "history": []
+}

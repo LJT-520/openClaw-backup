@@ -1,0 +1,11 @@
+{
+  "owner": "newbienodes",
+  "slug": "trade-history",
+  "displayName": "Trade History",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771785064790,
+    "commit": "https://github.com/openclaw/skills/commit/d88099f2222f0f41c692cc24f8e9818e0c2e05d6"
+  },
+  "history": []
+}

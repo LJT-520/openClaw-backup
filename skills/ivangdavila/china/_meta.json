@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "china",
+  "displayName": "China",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772233119424,
+    "commit": "https://github.com/openclaw/skills/commit/fa4f5c4d82f786b152fe30c9d90a764f0ee1efbf"
+  },
+  "history": []
+}

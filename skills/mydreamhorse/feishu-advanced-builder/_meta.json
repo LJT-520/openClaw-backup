@@ -1,0 +1,17 @@
+{
+  "owner": "mydreamhorse",
+  "slug": "feishu-advanced-builder",
+  "displayName": "Feishu Advanced Builder",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772073836878,
+    "commit": "https://github.com/openclaw/skills/commit/435f264d8aa900a3993c4ca905312b233d6d41e2"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771950903052,
+      "commit": "https://github.com/openclaw/skills/commit/3bedadded909f0b6603844ab0f4739726a331236"
+    }
+  ]
+}

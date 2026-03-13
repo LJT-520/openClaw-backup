@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "video-captions",
+  "displayName": "Video Captions",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771529237419,
+    "commit": "https://github.com/openclaw/skills/commit/60a0cfab921bfd8f0fa11b4445b00f0848437b98"
+  },
+  "history": []
+}

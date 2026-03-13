@@ -1,0 +1,11 @@
+{
+  "owner": "grivn",
+  "slug": "mnemon",
+  "displayName": "Mnemon Memory",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1771708512878,
+    "commit": "https://github.com/openclaw/skills/commit/dcc6ed89dab8aeec599d8430fa896142ba26660f"
+  },
+  "history": []
+}

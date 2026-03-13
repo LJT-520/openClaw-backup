@@ -1,0 +1,11 @@
+{
+  "owner": "joeru",
+  "slug": "claw2immich",
+  "displayName": "claw2immich",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771534609220,
+    "commit": "https://github.com/openclaw/skills/commit/18f6f12ba3c51a24bd213e8d871bfe14338cc9c5"
+  },
+  "history": []
+}

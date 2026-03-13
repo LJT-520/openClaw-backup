@@ -1,0 +1,11 @@
+{
+  "owner": "jpj069",
+  "slug": "hcloud",
+  "displayName": "Hetzner Cloud CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771540991991,
+    "commit": "https://github.com/openclaw/skills/commit/f1df0cc3649d872f1d936806e52565ed5175cd77"
+  },
+  "history": []
+}

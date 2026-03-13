@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "openant",
+  "displayName": "OpenAnt",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772561482181,
+    "commit": "https://github.com/openclaw/skills/commit/c3d08df6b6056eedace0df519b255f1bcef23130"
+  },
+  "history": []
+}

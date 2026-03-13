@@ -1,0 +1,11 @@
+{
+  "owner": "honestqiao",
+  "slug": "dockerfile-generator",
+  "displayName": "Dockerfile Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771720388441,
+    "commit": "https://github.com/openclaw/skills/commit/f2f8e6092f7f6b8a6470b91511f18f1e145dea4e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "aiwithabidi",
+  "slug": "gmail-ai",
+  "displayName": "Gmail Ai",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772614359588,
+    "commit": "https://github.com/openclaw/skills/commit/07f889963d8c3a46c4d11c5a51c6af7b9c4697f0"
+  },
+  "history": []
+}

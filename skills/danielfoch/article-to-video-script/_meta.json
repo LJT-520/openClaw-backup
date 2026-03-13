@@ -1,0 +1,11 @@
+{
+  "owner": "danielfoch",
+  "slug": "article-to-video-script",
+  "displayName": "ARTICLE_TO_VIDEO_SCRIPT",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772489465570,
+    "commit": "https://github.com/openclaw/skills/commit/200dace1d2396d0a799452f8d2b5a1a966efcead"
+  },
+  "history": []
+}

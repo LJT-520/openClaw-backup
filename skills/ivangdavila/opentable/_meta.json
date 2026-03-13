@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "opentable",
+  "displayName": "OpenTable",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772528885155,
+    "commit": "https://github.com/openclaw/skills/commit/956fa879753c5044c22162f68d76d463178e02e8"
+  },
+  "history": []
+}

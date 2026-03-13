@@ -1,0 +1,11 @@
+{
+  "owner": "alvinunreal",
+  "slug": "clawtotalk",
+  "displayName": "Claw To Talk: OpenClaw Voice Companion on iOS & Android",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771796447429,
+    "commit": "https://github.com/openclaw/skills/commit/106162051f1352d778040a3128b5bced2da0d9d7"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "kevarifin14",
+  "slug": "moonpay",
+  "displayName": "MoonPay",
+  "latest": {
+    "version": "0.6.24",
+    "publishedAt": 1771944527167,
+    "commit": "https://github.com/openclaw/skills/commit/3418805f673e75776ea17da854d51e832c445609"
+  },
+  "history": []
+}

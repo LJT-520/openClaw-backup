@@ -1,0 +1,11 @@
+{
+  "owner": "nirwandogra",
+  "slug": "nirwan-secret-scanner",
+  "displayName": "Secret Scanner",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771449256109,
+    "commit": "https://github.com/openclaw/skills/commit/312a1b0e62ec46c0f1ac63a40bd47e95ad2fcd0a"
+  },
+  "history": []
+}

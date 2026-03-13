@@ -1,0 +1,11 @@
+{
+  "owner": "mohibshaikh",
+  "slug": "clawvet",
+  "displayName": "ClawVet",
+  "latest": {
+    "version": "0.2.2",
+    "publishedAt": 1772530375961,
+    "commit": "https://github.com/openclaw/skills/commit/c0c747cf13fc64b3fe799b578ea87c519ec882a8"
+  },
+  "history": []
+}

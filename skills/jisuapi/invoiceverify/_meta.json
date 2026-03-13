@@ -1,0 +1,11 @@
+{
+  "owner": "jisuapi",
+  "slug": "invoiceverify",
+  "displayName": "发票查验 - Invoice Verification",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772604192144,
+    "commit": "https://github.com/openclaw/skills/commit/ae39d91e26d1ad37fe53250695751d65c8921d5f"
+  },
+  "history": []
+}

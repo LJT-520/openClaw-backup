@@ -1,0 +1,11 @@
+{
+  "owner": "latekvo",
+  "slug": "radon-ai",
+  "displayName": "Radon AI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771523148078,
+    "commit": "https://github.com/openclaw/skills/commit/7692d468384e9eae3a1980b5087a7d992f8d84fb"
+  },
+  "history": []
+}

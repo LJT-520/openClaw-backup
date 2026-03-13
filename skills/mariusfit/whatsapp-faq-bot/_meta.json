@@ -1,0 +1,11 @@
+{
+  "owner": "mariusfit",
+  "slug": "whatsapp-faq-bot",
+  "displayName": "WhatsApp FAQ Bot",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771877998978,
+    "commit": "https://github.com/openclaw/skills/commit/0b61f5a9cb65d22f15f6b485b3b7134717d33fff"
+  },
+  "history": []
+}

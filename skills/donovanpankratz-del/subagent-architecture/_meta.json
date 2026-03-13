@@ -1,0 +1,17 @@
+{
+  "owner": "donovanpankratz-del",
+  "slug": "subagent-architecture",
+  "displayName": "Subagent Architecture",
+  "latest": {
+    "version": "2.3.5",
+    "publishedAt": 1772076466506,
+    "commit": "https://github.com/openclaw/skills/commit/62b201df599a5c67e985ee57fe64932666e089fa"
+  },
+  "history": [
+    {
+      "version": "2.3.0",
+      "publishedAt": 1772002274224,
+      "commit": "https://github.com/openclaw/skills/commit/8019dc782dc48d600d991698c1921ceeb4941ee2"
+    }
+  ]
+}

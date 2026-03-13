@@ -1,0 +1,11 @@
+{
+  "owner": "luis2404123",
+  "slug": "stealth-scraper",
+  "displayName": "Stealth Scraper",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772546618350,
+    "commit": "https://github.com/openclaw/skills/commit/72df342ff7212ab7cd21e76372f607159261dafc"
+  },
+  "history": []
+}

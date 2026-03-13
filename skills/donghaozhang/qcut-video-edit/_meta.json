@@ -1,0 +1,17 @@
+{
+  "owner": "donghaozhang",
+  "slug": "qcut-video-edit",
+  "displayName": "Qcut Video Edit",
+  "latest": {
+    "version": "2026.3.5",
+    "publishedAt": 1772603517143,
+    "commit": "https://github.com/openclaw/skills/commit/2816e8d2f704f284430a17f6591cf2f517b6d7df"
+  },
+  "history": [
+    {
+      "version": "2026.3.3",
+      "publishedAt": 1772509875121,
+      "commit": "https://github.com/openclaw/skills/commit/b8345ef6a995436d1a64bddfb6e340ec3e315adf"
+    }
+  ]
+}

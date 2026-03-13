@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "vercel-speed-audit",
+  "displayName": "Vercel Speed Audit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771989503920,
+    "commit": "https://github.com/openclaw/skills/commit/18d489f3d07953efd641f5882cf1161a992220b5"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "luis2404123",
+  "slug": "cloudflare-bypass",
+  "displayName": "Cloudflare Bypass",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772547173437,
+    "commit": "https://github.com/openclaw/skills/commit/017f1c301bfe87ab4305b9fc10d1a551528a5039"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "luntanwang",
+  "slug": "ezrouter",
+  "displayName": "https://openrouter.ezsite.ai  - Unified LLM API — one key for Claude, GPT, Gemini. 2x credits, auto-failover, OpenAI-compatible.",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772421837003,
+    "commit": "https://github.com/openclaw/skills/commit/567b976ef39a59240c8b0d2df81845c73a159877"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "martinforsulu",
+  "slug": "neo-python-to-go-converter",
+  "displayName": "Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771970538002,
+    "commit": "https://github.com/openclaw/skills/commit/ec31d8198096837c0c75f4cb69e3f06b32c96e08"
+  },
+  "history": []
+}

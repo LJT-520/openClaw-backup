@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "home-buying",
+  "displayName": "Home Buying",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772307951037,
+    "commit": "https://github.com/openclaw/skills/commit/0d6de37f2f338f93e4d7379e026ff64e0e0836c7"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "dizaztuh",
+  "slug": "molt-market",
+  "displayName": "Molt Market",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1772406354836,
+    "commit": "https://github.com/openclaw/skills/commit/19035c1467db3f83e6992f95175679f7dbcdc41f"
+  },
+  "history": [
+    {
+      "version": "2.0.0",
+      "publishedAt": 1772371871891,
+      "commit": "https://github.com/openclaw/skills/commit/6fb7fd460a91206af3431b810ee6646338ed8fd6"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "codeblackhole1024",
+  "slug": "expense-tracker-v2",
+  "displayName": "Expense Tracker v2",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772550395321,
+    "commit": "https://github.com/openclaw/skills/commit/81be66495bd69f4bef4c3ec4178dbf5088bf71d0"
+  },
+  "history": []
+}

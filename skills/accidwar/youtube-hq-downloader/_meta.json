@@ -1,0 +1,17 @@
+{
+  "owner": "accidwar",
+  "slug": "youtube-hq-downloader",
+  "displayName": "Youtube Hq Downloader",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772424454194,
+    "commit": "https://github.com/openclaw/skills/commit/355c165131322c1a9ba50fcfb5d056147d5ffc78"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772424359885,
+      "commit": "https://github.com/openclaw/skills/commit/b16937243c143d13c13f0288ed6add894ac2958f"
+    }
+  ]
+}

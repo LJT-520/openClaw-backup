@@ -1,0 +1,11 @@
+{
+  "owner": "drewm33",
+  "slug": "ghostscore",
+  "displayName": "GhostScore",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772386960745,
+    "commit": "https://github.com/openclaw/skills/commit/db3a3a8b8d6ccda1b58e8385c41bdba99198d409"
+  },
+  "history": []
+}

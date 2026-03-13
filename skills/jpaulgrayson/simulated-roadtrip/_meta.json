@@ -1,0 +1,11 @@
+{
+  "owner": "jpaulgrayson",
+  "slug": "simulated-roadtrip",
+  "displayName": "Simulated Roadtrip",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772143227502,
+    "commit": "https://github.com/openclaw/skills/commit/463bb4876114e93937036860cd65911a84128cea"
+  },
+  "history": []
+}

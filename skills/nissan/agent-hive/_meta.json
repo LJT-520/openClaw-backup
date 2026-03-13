@@ -1,0 +1,17 @@
+{
+  "owner": "nissan",
+  "slug": "agent-hive",
+  "displayName": "Agent Hive",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1772399330815,
+    "commit": "https://github.com/openclaw/skills/commit/97297a2b63c840173f68bc380927212248e0082a"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772222495816,
+      "commit": "https://github.com/openclaw/skills/commit/086d5b1d9b820e59725285a099e077591bfa6672"
+    }
+  ]
+}

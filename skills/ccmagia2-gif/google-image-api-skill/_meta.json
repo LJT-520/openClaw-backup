@@ -1,0 +1,11 @@
+{
+  "owner": "ccmagia2-gif",
+  "slug": "google-image-api-skill",
+  "displayName": "google-image-api-skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772521212783,
+    "commit": "https://github.com/openclaw/skills/commit/ab5f7cb25a76b9b41746740391ad9a7a5f9853f8"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "lux-sp4rk",
+  "slug": "my-ai-familiar",
+  "displayName": "My AI Familiar",
+  "latest": {
+    "version": "1.2.2",
+    "publishedAt": 1772148645288,
+    "commit": "https://github.com/openclaw/skills/commit/b858241d66f1a5c5241ff508ef573e58ffcddff9"
+  },
+  "history": []
+}

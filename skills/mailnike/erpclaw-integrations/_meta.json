@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "erpclaw-integrations",
+  "displayName": "ERPClaw-Integrations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772121317088,
+    "commit": "https://github.com/openclaw/skills/commit/26ebfec92db45ef5590bc9242aa1a8721b38cbb6"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "leoking",
+  "slug": "image-translator",
+  "displayName": "Image Translator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772617447313,
+    "commit": "https://github.com/openclaw/skills/commit/2b4a01a04831bfe476eecef2df1636117fbf2cd6"
+  },
+  "history": []
+}

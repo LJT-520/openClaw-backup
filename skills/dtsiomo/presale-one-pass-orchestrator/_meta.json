@@ -1,0 +1,11 @@
+{
+  "owner": "dtsiomo",
+  "slug": "presale-one-pass-orchestrator",
+  "displayName": "Presale One-pass Orchestrator",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771739037636,
+    "commit": "https://github.com/openclaw/skills/commit/d97d0d499120be996e16f1c7d67bdc5a2a65241c"
+  },
+  "history": []
+}

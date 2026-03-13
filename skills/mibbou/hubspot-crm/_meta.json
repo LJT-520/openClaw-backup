@@ -1,0 +1,11 @@
+{
+  "owner": "mibbou",
+  "slug": "hubspot-crm",
+  "displayName": "Hubspot Crm",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771849196589,
+    "commit": "https://github.com/openclaw/skills/commit/4dbecd01d492effb61e2eb3bb8e920f56b3cb999"
+  },
+  "history": []
+}

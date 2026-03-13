@@ -1,0 +1,11 @@
+{
+  "owner": "gora050",
+  "slug": "shopify-integration",
+  "displayName": "Shopify",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772636561617,
+    "commit": "https://github.com/openclaw/skills/commit/85991df7e82b3f01ae0b55d2d6a7f8e54b081393"
+  },
+  "history": []
+}

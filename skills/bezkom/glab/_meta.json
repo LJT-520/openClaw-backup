@@ -1,0 +1,17 @@
+{
+  "owner": "bezkom",
+  "slug": "glab",
+  "displayName": "glab",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772309223990,
+    "commit": "https://github.com/openclaw/skills/commit/f68feb80a107a9cd4f0268211a0e42741ee761d0"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772305072850,
+      "commit": "https://github.com/openclaw/skills/commit/2ef9047d05036972ce13d3de71c660263bd3388a"
+    }
+  ]
+}

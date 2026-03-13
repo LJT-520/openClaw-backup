@@ -1,0 +1,11 @@
+{
+  "owner": "c1nderscript",
+  "slug": "mini-swe-agent",
+  "displayName": "mini-swe-agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772594266706,
+    "commit": "https://github.com/openclaw/skills/commit/2d352c6bc5404f5c3abfbcb5ff27ea50a341ebb6"
+  },
+  "history": []
+}

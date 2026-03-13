@@ -1,0 +1,11 @@
+{
+  "owner": "8cmblue-crypto",
+  "slug": "maihh-agent-connect",
+  "displayName": "maihh ai通讯录",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772103353061,
+    "commit": "https://github.com/openclaw/skills/commit/b0463b94e5908dd1bd5998047a1717c2c940c365"
+  },
+  "history": []
+}

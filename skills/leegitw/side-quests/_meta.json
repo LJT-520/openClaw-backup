@@ -1,0 +1,17 @@
+{
+  "owner": "leegitw",
+  "slug": "side-quests",
+  "displayName": "Side Quests",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771994943335,
+    "commit": "https://github.com/openclaw/skills/commit/c4bab0c98b3fb233e47ca7365b9dffcaa2f36452"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771985649577,
+      "commit": "https://github.com/openclaw/skills/commit/3eb030c09edd6d460bfc071adb31301f02eb5a48"
+    }
+  ]
+}

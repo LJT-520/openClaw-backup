@@ -1,0 +1,11 @@
+{
+  "owner": "dinstein",
+  "slug": "openclaw-ops",
+  "displayName": "OpenClaw Ops",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1772011554077,
+    "commit": "https://github.com/openclaw/skills/commit/2c8206053c09e688222b160550d1ffed9aee323d"
+  },
+  "history": []
+}

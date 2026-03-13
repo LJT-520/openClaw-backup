@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "serper-dev",
+  "displayName": "Serper Search",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772508451173,
+    "commit": "https://github.com/openclaw/skills/commit/f0dcffcd67b30b83b3b37e8f3cabc01e925528d4"
+  },
+  "history": []
+}

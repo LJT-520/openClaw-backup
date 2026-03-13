@@ -1,0 +1,11 @@
+{
+  "owner": "jensastrup",
+  "slug": "incidentio",
+  "displayName": "Incident.io",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771984974509,
+    "commit": "https://github.com/openclaw/skills/commit/cbbadc7f417916ef038922920d122b1dfdd6ba15"
+  },
+  "history": []
+}

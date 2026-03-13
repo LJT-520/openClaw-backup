@@ -1,0 +1,17 @@
+{
+  "owner": "jisuapi",
+  "slug": "geoconvert",
+  "displayName": "经纬度地址转换 - GEO & Address Conversion",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772534057014,
+    "commit": "https://github.com/openclaw/skills/commit/2b3255d668ce79744f0dba2d3df6df4ee6224e7d"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772522133927,
+      "commit": "https://github.com/openclaw/skills/commit/950133861a82a593b63e0127c62a03c16bf21f67"
+    }
+  ]
+}

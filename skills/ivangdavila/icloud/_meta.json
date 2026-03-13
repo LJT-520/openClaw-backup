@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "icloud",
+  "displayName": "iCloud",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772311216712,
+    "commit": "https://github.com/openclaw/skills/commit/6601d566d03a6b5f8d507301d65f79b78e776bb0"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "chunhualiao",
+  "slug": "skill-engineer",
+  "displayName": "Skill Engineer",
+  "latest": {
+    "version": "3.1.0",
+    "publishedAt": 1771694229341,
+    "commit": "https://github.com/openclaw/skills/commit/002eff147484a4f07fd06298caaae2fe08df3d86"
+  },
+  "history": [
+    {
+      "version": "3.0.1",
+      "publishedAt": 1771281781448,
+      "commit": "https://github.com/openclaw/skills/commit/2ecfa7fb864e050a142a77bdf59d1edbf9630314"
+    }
+  ]
+}

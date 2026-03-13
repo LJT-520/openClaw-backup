@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "groq-api",
+  "displayName": "Groq API Inference",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772234778322,
+    "commit": "https://github.com/openclaw/skills/commit/971e19a8f5c5ea3763858aaffb3139531a86e4d2"
+  },
+  "history": []
+}

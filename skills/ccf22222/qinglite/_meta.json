@@ -1,0 +1,17 @@
+{
+  "owner": "ccf22222",
+  "slug": "qinglite",
+  "displayName": "qinglite",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772589420350,
+    "commit": "https://github.com/openclaw/skills/commit/426d307c236d3c278434411221c39d1c4a63c639"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772588501978,
+      "commit": "https://github.com/openclaw/skills/commit/5684b623b52d534219f6cf9aadb7a8711ff6e230"
+    }
+  ]
+}

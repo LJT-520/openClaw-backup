@@ -1,0 +1,11 @@
+{
+  "owner": "boshenzh",
+  "slug": "localclaws",
+  "displayName": "LocalClaws",
+  "latest": {
+    "version": "0.2.0-beta.0",
+    "publishedAt": 1771793215521,
+    "commit": "https://github.com/openclaw/skills/commit/2c2af1d7b6a6ec4a92405da7c3f48f24b28756b5"
+  },
+  "history": []
+}

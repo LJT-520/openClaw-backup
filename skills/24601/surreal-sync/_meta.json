@@ -1,0 +1,27 @@
+{
+  "owner": "24601",
+  "slug": "surreal-sync",
+  "displayName": "surreal-sync",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772592476292,
+    "commit": "https://github.com/openclaw/skills/commit/3b7285b0c3346e82edbce4c512c7f890e0afc820"
+  },
+  "history": [
+    {
+      "version": "1.1.1",
+      "publishedAt": 1772212326155,
+      "commit": "https://github.com/openclaw/skills/commit/1affae076a78d001c51df7fbc0077fd29c3d4119"
+    },
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771969936056,
+      "commit": "https://github.com/openclaw/skills/commit/aa5fcb9e915a40ce7d10225debfe3321dd18b19e"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771793772745,
+      "commit": "https://github.com/openclaw/skills/commit/25351b69dedbdd5ab771c88050c659807d43ea43"
+    }
+  ]
+}

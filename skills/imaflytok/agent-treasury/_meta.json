@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "agent-treasury",
+  "displayName": "Agent Treasury",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772382979911,
+    "commit": "https://github.com/openclaw/skills/commit/fd3c35ac15b04bb8a2a3142fadbe58f282c3b3f5"
+  },
+  "history": []
+}

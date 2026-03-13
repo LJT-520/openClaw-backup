@@ -1,0 +1,11 @@
+{
+  "owner": "maxpetretta",
+  "slug": "reclaw",
+  "displayName": "Reclaw",
+  "latest": {
+    "version": "2026.2.23",
+    "publishedAt": 1771824778925,
+    "commit": "https://github.com/openclaw/skills/commit/002320d4237e89d2c8279d37d629466749ea7df8"
+  },
+  "history": []
+}

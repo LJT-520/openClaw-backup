@@ -1,0 +1,27 @@
+{
+  "owner": "muselinn",
+  "slug": "fis-architecture",
+  "displayName": "FIS Architecture",
+  "latest": {
+    "version": "3.2.11",
+    "publishedAt": 1771960287881,
+    "commit": "https://github.com/openclaw/skills/commit/3cc1a38d25983366738cc7f68c475f47bb31b0f3"
+  },
+  "history": [
+    {
+      "version": "3.2.7",
+      "publishedAt": 1771530949120,
+      "commit": "https://github.com/openclaw/skills/commit/1990e9dadf59a729e5930d539764fbf2bb824a07"
+    },
+    {
+      "version": "3.2.4-lite",
+      "publishedAt": 1771525144171,
+      "commit": "https://github.com/openclaw/skills/commit/11ee1963b79393279ab6a625385baa3d9c4c3297"
+    },
+    {
+      "version": "3.1.3",
+      "publishedAt": 1771406506332,
+      "commit": "https://github.com/openclaw/skills/commit/5a23402d572dd20f3c8e41a60e8c7eb87d889f5f"
+    }
+  ]
+}

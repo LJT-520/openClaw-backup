@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "authenticate-openant",
+  "displayName": "Authenticate Openant",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772375955401,
+    "commit": "https://github.com/openclaw/skills/commit/3319af59d762ccfdf2b574660c104431d61da238"
+  },
+  "history": []
+}

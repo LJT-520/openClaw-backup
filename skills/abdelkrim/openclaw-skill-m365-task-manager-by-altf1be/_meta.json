@@ -1,0 +1,11 @@
+{
+  "owner": "abdelkrim",
+  "slug": "openclaw-skill-m365-task-manager-by-altf1be",
+  "displayName": "Openclaw Skill M365 Task Manager",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1771946718912,
+    "commit": "https://github.com/openclaw/skills/commit/df29dd1576bf5b3d1c98f0edf38f67ede50c5fef"
+  },
+  "history": []
+}

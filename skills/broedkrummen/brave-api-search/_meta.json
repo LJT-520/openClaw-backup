@@ -1,0 +1,32 @@
+{
+  "owner": "broedkrummen",
+  "slug": "brave-api-search",
+  "displayName": "Brave Api Search",
+  "latest": {
+    "version": "3.0.2",
+    "publishedAt": 1772137338718,
+    "commit": "https://github.com/openclaw/skills/commit/0361a2183b072ce25e32ef00fe2e9b9a6157090f"
+  },
+  "history": [
+    {
+      "version": "2.1.2",
+      "publishedAt": 1772040844605,
+      "commit": "https://github.com/openclaw/skills/commit/b13940c103a6c24ae86f0107aacd1cff7a81ccdc"
+    },
+    {
+      "version": "2.1.1",
+      "publishedAt": 1771516007126,
+      "commit": "https://github.com/openclaw/skills/commit/aad43f25e3cb75a6b303069b5010209b8a3e68c2"
+    },
+    {
+      "version": "2.0.0",
+      "publishedAt": 1771515065697,
+      "commit": "https://github.com/openclaw/skills/commit/98e60156da9f236216b1b779bf53611949d8544f"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770974181710,
+      "commit": "https://github.com/openclaw/skills/commit/5f598711e92cc6231b14c23a40ab79bf51c98e94"
+    }
+  ]
+}

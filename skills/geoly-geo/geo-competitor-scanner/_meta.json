@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-competitor-scanner",
+  "displayName": "GEO Competitor Scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772265198167,
+    "commit": "https://github.com/openclaw/skills/commit/b7d406b3543d5b3495ca40dfb7459165bd2bc8f3"
+  },
+  "history": []
+}

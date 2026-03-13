@@ -1,0 +1,11 @@
+{
+  "owner": "collierking",
+  "slug": "catalystwatch",
+  "displayName": "CatalystWatch",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1771751765098,
+    "commit": "https://github.com/openclaw/skills/commit/b07234384adaf3f9c7374d23533a70595a0901fb"
+  },
+  "history": []
+}

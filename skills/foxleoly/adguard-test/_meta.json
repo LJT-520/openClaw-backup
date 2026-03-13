@@ -1,0 +1,11 @@
+{
+  "owner": "foxleoly",
+  "slug": "adguard-test",
+  "displayName": "Adguard Test",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1772016130059,
+    "commit": "https://github.com/openclaw/skills/commit/6c61187b93b5fc0a2169f3565e1e3528f4465420"
+  },
+  "history": []
+}

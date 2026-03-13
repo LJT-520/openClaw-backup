@@ -1,0 +1,11 @@
+{
+  "owner": "jessewaites",
+  "slug": "ruby-on-rails-gateway",
+  "displayName": "Ruby On Rails Gateway",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771870627929,
+    "commit": "https://github.com/openclaw/skills/commit/dae784985fd644ef6aaea2b60bb2762bb7cde382"
+  },
+  "history": []
+}

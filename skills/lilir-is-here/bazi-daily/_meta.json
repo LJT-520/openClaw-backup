@@ -1,0 +1,11 @@
+{
+  "owner": "lilir-is-here",
+  "slug": "bazi-daily",
+  "displayName": "Daily Bazi Analysis",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772621408107,
+    "commit": "https://github.com/openclaw/skills/commit/b3983bcda0179b05f90dc3e9deaad6fe06a1d8e9"
+  },
+  "history": []
+}

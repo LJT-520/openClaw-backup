@@ -1,0 +1,11 @@
+{
+  "owner": "blockchainhb",
+  "slug": "alibaba-supplier-outreach",
+  "displayName": "Alibaba Supplier Outreach",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771832680506,
+    "commit": "https://github.com/openclaw/skills/commit/a6729562099ca3f33b861fce2cd99b2706cfc8b3"
+  },
+  "history": []
+}

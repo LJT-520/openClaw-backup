@@ -1,0 +1,17 @@
+{
+  "owner": "dagangtj",
+  "slug": "fleet-comm",
+  "displayName": "Fleet Communication System",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772487333541,
+    "commit": "https://github.com/openclaw/skills/commit/bc198231931ac21d87e9a9b2949c4e18d5c6990d"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772282536180,
+      "commit": "https://github.com/openclaw/skills/commit/992bfa060df5a64daab2599426e5bc5ea7d664e3"
+    }
+  ]
+}

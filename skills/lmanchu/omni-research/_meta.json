@@ -1,0 +1,11 @@
+{
+  "owner": "lmanchu",
+  "slug": "omni-research",
+  "displayName": "Omni Research",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772112002450,
+    "commit": "https://github.com/openclaw/skills/commit/fa1801c705fc7ebddd5572244afcdd2face9af54"
+  },
+  "history": []
+}

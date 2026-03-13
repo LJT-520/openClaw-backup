@@ -1,0 +1,11 @@
+{
+  "owner": "ksswei",
+  "slug": "qq-mail-monitor",
+  "displayName": "Qq Mail Monitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772419789895,
+    "commit": "https://github.com/openclaw/skills/commit/b49e203cf901a36ae591c2a0750886056ed06188"
+  },
+  "history": []
+}

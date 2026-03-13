@@ -1,0 +1,11 @@
+{
+  "owner": "lkjsays",
+  "slug": "upbit",
+  "displayName": "Upbit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772216784848,
+    "commit": "https://github.com/openclaw/skills/commit/554f9d0f8364d3aab1ff345c5721a1bea017e5ee"
+  },
+  "history": []
+}

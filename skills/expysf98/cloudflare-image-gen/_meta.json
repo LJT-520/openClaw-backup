@@ -1,0 +1,11 @@
+{
+  "owner": "expysf98",
+  "slug": "cloudflare-image-gen",
+  "displayName": "Cloudflare Image Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771763140543,
+    "commit": "https://github.com/openclaw/skills/commit/8ea5d680b05f5615635bba9680b93600463b7e52"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "biuyx",
+  "slug": "copilot-cli",
+  "displayName": "Copilot CLI AI 代码分析",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772069108017,
+    "commit": "https://github.com/openclaw/skills/commit/4d32d8d182ada330ac327d0c98f4afcf1319f76e"
+  },
+  "history": []
+}

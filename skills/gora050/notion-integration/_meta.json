@@ -1,0 +1,11 @@
+{
+  "owner": "gora050",
+  "slug": "notion-integration",
+  "displayName": "Notion",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772622156849,
+    "commit": "https://github.com/openclaw/skills/commit/f5bc34dd2ba79750cddd88b109db89acb4264975"
+  },
+  "history": []
+}

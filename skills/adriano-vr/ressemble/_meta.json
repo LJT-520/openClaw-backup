@@ -1,0 +1,17 @@
+{
+  "owner": "adriano-vr",
+  "slug": "ressemble",
+  "displayName": "Ressemble TTS e STT",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771954042125,
+    "commit": "https://github.com/openclaw/skills/commit/7190d92f9fd6c2ef3801a356fe019c33a83a4c7a"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771876037146,
+      "commit": "https://github.com/openclaw/skills/commit/bfba510a2a3b791e1de3a7519ae9e23d31cc7a35"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "daaab",
+  "slug": "elevenlabs-phone-reminder-lite",
+  "displayName": "ElevenLabs Phone Reminder (Lite)",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772296397483,
+    "commit": "https://github.com/openclaw/skills/commit/924009d9fd794a164de765b946f4ebba0a05f140"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770098633141,
+      "commit": "https://github.com/clawdbot/skills/commit/fd8dfd464ef824a30fd7669b9a7a23b966219c1a"
+    }
+  ]
+}

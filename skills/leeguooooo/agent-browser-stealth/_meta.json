@@ -1,0 +1,17 @@
+{
+  "owner": "leeguooooo",
+  "slug": "agent-browser-stealth",
+  "displayName": "Agent Browser Stealth",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772439224782,
+    "commit": "https://github.com/openclaw/skills/commit/eab200e285361b822ca0ae5526c35d47d5175fa4"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771924192084,
+      "commit": "https://github.com/openclaw/skills/commit/5eb24641b235b9fdbcc9681e4330436baed86b49"
+    }
+  ]
+}

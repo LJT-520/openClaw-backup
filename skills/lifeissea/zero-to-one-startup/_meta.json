@@ -1,0 +1,17 @@
+{
+  "owner": "lifeissea",
+  "slug": "zero-to-one-startup",
+  "displayName": "Zero to One Startup",
+  "latest": {
+    "version": "0.7.23",
+    "publishedAt": 1771510038749,
+    "commit": "https://github.com/openclaw/skills/commit/ab37feb5a1345910f98423075581cdb7a40d4518"
+  },
+  "history": [
+    {
+      "version": "0.7.17",
+      "publishedAt": 1771495024813,
+      "commit": "https://github.com/openclaw/skills/commit/9533ea8b9ba3580183f7291f4468a20bcadd882d"
+    }
+  ]
+}

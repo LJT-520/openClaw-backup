@@ -1,0 +1,11 @@
+{
+  "owner": "danielblinker83-bot",
+  "slug": "image-studio",
+  "displayName": "Image Studio — AI Image Prompt System",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772100486968,
+    "commit": "https://github.com/openclaw/skills/commit/85feee7ed6f710676e3af812d5e808c57dce6fcb"
+  },
+  "history": []
+}

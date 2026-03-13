@@ -1,0 +1,17 @@
+{
+  "owner": "globalcaos",
+  "slug": "ai-humor-ultimate",
+  "displayName": "AI Humor Ultimate",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1771632145592,
+    "commit": "https://github.com/openclaw/skills/commit/c629c26e0c3d84f8c7fdf6601f91d1658a6ff4e8"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771130366003,
+      "commit": "https://github.com/openclaw/skills/commit/b431e89fc38ac104e7093e61c59120b3dff3a4ee"
+    }
+  ]
+}

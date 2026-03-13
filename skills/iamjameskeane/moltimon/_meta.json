@@ -1,0 +1,11 @@
+{
+  "owner": "iamjameskeane",
+  "slug": "moltimon",
+  "displayName": "Moltimon - The Molty Trading Card Game",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772022860521,
+    "commit": "https://github.com/openclaw/skills/commit/ab7e5b9a9dadcdd7ed1141932d26e900e05e8b33"
+  },
+  "history": []
+}

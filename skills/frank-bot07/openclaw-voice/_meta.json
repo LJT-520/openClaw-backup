@@ -1,0 +1,11 @@
+{
+  "owner": "frank-bot07",
+  "slug": "openclaw-voice",
+  "displayName": "openclaw-voice",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771576587954,
+    "commit": "https://github.com/openclaw/skills/commit/9803204cce6a513b5a5c92626eee3aa30c707d40"
+  },
+  "history": []
+}

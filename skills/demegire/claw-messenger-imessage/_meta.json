@@ -1,0 +1,11 @@
+{
+  "owner": "demegire",
+  "slug": "claw-messenger-imessage",
+  "displayName": "Claw Messenger - iMessage without a Mac",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771897442603,
+    "commit": "https://github.com/openclaw/skills/commit/b5d85dedf72ed87b288c96c5485ebb2ef4b29ccb"
+  },
+  "history": []
+}

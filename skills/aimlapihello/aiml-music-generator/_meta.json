@@ -1,0 +1,11 @@
+{
+  "owner": "aimlapihello",
+  "slug": "aiml-music-generator",
+  "displayName": "AIML Music Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772120949661,
+    "commit": "https://github.com/openclaw/skills/commit/e57efe3b13452db6c67fa3269d18ff52abf58139"
+  },
+  "history": []
+}

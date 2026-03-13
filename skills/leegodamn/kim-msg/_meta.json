@@ -1,0 +1,17 @@
+{
+  "owner": "leegodamn",
+  "slug": "kim-msg",
+  "displayName": "Kim Msg",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1772248168254,
+    "commit": "https://github.com/openclaw/skills/commit/c2ffa6d5f816f0d716aec6785a284368cccadd7f"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772245556720,
+      "commit": "https://github.com/openclaw/skills/commit/f71800077b24a526be2cdf45a8b3039e064d6886"
+    }
+  ]
+}

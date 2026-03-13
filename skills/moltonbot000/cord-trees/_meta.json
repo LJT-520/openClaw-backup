@@ -1,0 +1,17 @@
+{
+  "owner": "moltonbot000",
+  "slug": "cord-trees",
+  "displayName": "Cord Trees",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772121935978,
+    "commit": "https://github.com/openclaw/skills/commit/ef866d0622e915d2532b265719b59188d799cca2"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771688476140,
+      "commit": "https://github.com/openclaw/skills/commit/aa20d3f57d03952a8e1245b1773dec5af52c0523"
+    }
+  ]
+}

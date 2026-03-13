@@ -1,0 +1,27 @@
+{
+  "owner": "devlumuz",
+  "slug": "to-do",
+  "displayName": "To-Do",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772234789267,
+    "commit": "https://github.com/openclaw/skills/commit/92fcce0f167c3dd9c5dfd6c25b418ecde8a056a6"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772145485656,
+      "commit": "https://github.com/openclaw/skills/commit/a18d56b3176edc6962d372fe2533a636282447d3"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771968690776,
+      "commit": "https://github.com/openclaw/skills/commit/1a6a7b0a8e1e92b46bf79c1508b0d3d6afc8b200"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771896654769,
+      "commit": "https://github.com/openclaw/skills/commit/bc1d76759332f8cdaa6fb57d4fcd22818743c0b5"
+    }
+  ]
+}

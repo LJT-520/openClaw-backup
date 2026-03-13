@@ -1,0 +1,209 @@
+{
+  "apiVersion": "v1",
+  "kind": "AgentSkill",
+  "metadata": {
+    "name": "pixverse",
+    "version": "0.2.0",
+    "description": "Generate high-quality AI videos using PixVerse API - text-to-video, image-to-video, and video extension",
+    "author": "PixVerse"
+  },
+  "spec": {
+    "tools": [
+      {
+        "name": "gen_video",
+        "description": "Generate video from text prompt. Supports multiple resolutions (360p-1080p), aspect ratios (16:9, 9:16, 1:1, etc.), durations (5s/8s/10s, 1080p cannot use 10s), model versions (v5.5/v5.6), motion modes, and audio generation.",
+        "input": {
+          "type": "object",
+          "properties": {
+            "prompt": {
+              "type": "string",
+              "description": "Text description of the video to generate (max 2048 characters)"
+            },
+            "duration": {
+              "type": "number",
+              "description": "Video duration in seconds (5, 8, or 10; 1080p cannot use 10s)",
+              "default": 8,
+              "enum": [5, 8, 10]
+            },
+            "aspect_ratio": {
+              "type": "string",
+              "description": "Video aspect ratio",
+              "default": "16:9",
+              "enum": ["16:9", "9:16", "1:1", "4:3", "3:4"]
+            },
+            "resolution": {
+              "type": "string",
+              "description": "Video resolution",
+              "default": "720p",
+              "enum": ["360p", "540p", "720p", "1080p"]
+            },
+            "model": {
+              "type": "string",
+              "description": "AI model version",
+              "default": "v5.6",
+              "enum": ["v5.5", "v5.6"]
+            },
+            "motion_mode": {
+              "type": "string",
+              "description": "Motion speed mode (fast only available when duration=5 and quality!=1080p)",
+              "default": "normal",
+              "enum": ["normal", "fast"]
+            },
+            "negative_prompt": {
+              "type": "string",
+              "description": "Elements to exclude from the video"
+            },
+            "generate_audio": {
+              "type": "boolean",
+              "description": "Enable audio generation (only for v5.5/v5.6, enabled by default)",
+              "default": true
+            }
+          },
+          "required": ["prompt"]
+        },
+        "output": {
+          "type": "object",
+          "properties": {
+            "taskId": { "type": "string" },
+            "status": { "type": "string" },
+            "videoUrl": { "type": "string" }
+          }
+        },
+        "handler": {
+          "type": "cli",
+          "command": "node",
+          "args": ["dist/skill-wrapper.js", "gen_video", "{{input}}"]
+        }
+      },
+      {
+        "name": "img2video",
+        "description": "Generate video from image. Animates a static image with optional motion description, mode, aspect ratio, resolution, model selection, and audio generation.",
+        "input": {
+          "type": "object",
+          "properties": {
+            "image": {
+              "type": "string",
+              "description": "Path to image file or URL"
+            },
+            "prompt": {
+              "type": "string",
+              "description": "Optional text description of motion/animation",
+              "default": ""
+            },
+            "motion_mode": {
+              "type": "string",
+              "description": "Motion speed mode (fast only available when duration=5 and quality!=1080p)",
+              "default": "normal",
+              "enum": ["normal", "fast"]
+            },
+            "duration": {
+              "type": "number",
+              "description": "Video duration in seconds (5, 8, or 10; 1080p cannot use 10s)",
+              "default": 8,
+              "enum": [5, 8, 10]
+            },
+            "aspect_ratio": {
+              "type": "string",
+              "description": "Video aspect ratio",
+              "default": "16:9",
+              "enum": ["16:9", "9:16", "1:1", "4:3", "3:4"]
+            },
+            "resolution": {
+              "type": "string",
+              "description": "Video resolution",
+              "default": "720p",
+              "enum": ["360p", "540p", "720p", "1080p"]
+            },
+            "model": {
+              "type": "string",
+              "description": "AI model version",
+              "default": "v5.6",
+              "enum": ["v5.5", "v5.6"]
+            },
+            "generate_audio": {
+              "type": "boolean",
+              "description": "Enable audio generation (enabled by default)",
+              "default": true
+            }
+          },
+          "required": ["image"]
+        },
+        "output": {
+          "type": "object",
+          "properties": {
+            "taskId": { "type": "string" },
+            "status": { "type": "string" },
+            "videoUrl": { "type": "string" }
+          }
+        },
+        "handler": {
+          "type": "cli",
+          "command": "node",
+          "args": ["dist/skill-wrapper.js", "img2video", "{{input}}"]
+        }
+      },
+      {
+        "name": "extend_video",
+        "description": "Extend existing video duration. Accepts either a local video file path or a video ID from a previous generation. Uses v5.5 model (highest supported for extend).",
+        "input": {
+          "type": "object",
+          "properties": {
+            "video": {
+              "type": "string",
+              "description": "Path to video file (optional if video_id is provided)"
+            },
+            "video_id": {
+              "type": "string",
+              "description": "Video ID from a previous generation (optional if video file is provided)"
+            },
+            "extend_seconds": {
+              "type": "number",
+              "description": "Seconds to extend (5, 8, or 10; 1080p cannot use 10s)",
+              "default": 8,
+              "enum": [5, 8, 10]
+            },
+            "prompt": {
+              "type": "string",
+              "description": "Prompt to guide video extension",
+              "default": ""
+            },
+            "resolution": {
+              "type": "string",
+              "description": "Video resolution",
+              "default": "720p",
+              "enum": ["360p", "540p", "720p", "1080p"]
+            },
+            "model": {
+              "type": "string",
+              "description": "AI model version (extend supports up to v5.5)",
+              "default": "v5.5",
+              "enum": ["v5.5"]
+            },
+            "seed": {
+              "type": "number",
+              "description": "Random seed (0 - 2147483647)",
+              "default": 0
+            }
+          },
+          "required": []
+        },
+        "output": {
+          "type": "object",
+          "properties": {
+            "taskId": { "type": "string" },
+            "status": { "type": "string" },
+            "videoUrl": { "type": "string" }
+          }
+        },
+        "handler": {
+          "type": "cli",
+          "command": "node",
+          "args": ["dist/skill-wrapper.js", "extend_video", "{{input}}"]
+        }
+      }
+    ],
+    "env": {
+      "PIXVERSE_API_KEY": "${PIXVERSE_API_KEY}"
+    }
+  }
+}

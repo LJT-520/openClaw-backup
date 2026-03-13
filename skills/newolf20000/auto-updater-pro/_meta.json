@@ -1,0 +1,11 @@
+{
+  "owner": "newolf20000",
+  "slug": "auto-updater-pro",
+  "displayName": "Auto Updater Pro",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771733181187,
+    "commit": "https://github.com/openclaw/skills/commit/5fed03795d6159439526fea7198d922310cd96d9"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "marcus20232023",
+  "slug": "togetherai-tts",
+  "displayName": "Togetherai Tts",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771646605342,
+    "commit": "https://github.com/openclaw/skills/commit/4d5776936d6bfb0a843a52a1f29754cefeaa1bef"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771646579353,
+      "commit": "https://github.com/openclaw/skills/commit/17c85883740b67b97ba8216a6331ba1648fdb94b"
+    }
+  ]
+}

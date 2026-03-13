@@ -1,0 +1,11 @@
+{
+  "owner": "evolinkai",
+  "slug": "evolink-nano-banana-2",
+  "displayName": "Nano Banana 2 — AI Image Generation (Gemini 3.1 Flash Image, Google, Evolink)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772125899390,
+    "commit": "https://github.com/openclaw/skills/commit/7709b902181c17bba037b5f36fe7476bdf070241"
+  },
+  "history": []
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "devxoul",
+  "slug": "vibe-notion",
+  "displayName": "Vibe Notion",
+  "latest": {
+    "version": "0.8.1",
+    "publishedAt": 1772545150737,
+    "commit": "https://github.com/openclaw/skills/commit/fa0373c5184dd1644a850d04facd8bb0543b68cd"
+  },
+  "history": [
+    {
+      "version": "0.8.0",
+      "publishedAt": 1772339958021,
+      "commit": "https://github.com/openclaw/skills/commit/c0607587a81cb75c14d8ded2c4a0774cb19e780b"
+    },
+    {
+      "version": "0.6.0",
+      "publishedAt": 1771863728516,
+      "commit": "https://github.com/openclaw/skills/commit/8d561ad9154b7288b8d3d6382eb74844918e3118"
+    },
+    {
+      "version": "0.5.2",
+      "publishedAt": 1771771508802,
+      "commit": "https://github.com/openclaw/skills/commit/a76bbd5792637b63459d3ada3022b040d30969f3"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "mookim-eth",
+  "slug": "xclaw-skill",
+  "displayName": "xclaw-skill",
+  "latest": {
+    "version": "1.0.8",
+    "publishedAt": 1772355231217,
+    "commit": "https://github.com/openclaw/skills/commit/8e1f2ee8f33356b839d7de2debcfd63c42e5ae78"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1772243553664,
+      "commit": "https://github.com/openclaw/skills/commit/26944752a4430ba9cf4662f30e47b96a57c1d055"
+    }
+  ]
+}

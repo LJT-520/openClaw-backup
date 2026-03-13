@@ -1,0 +1,11 @@
+{
+  "owner": "lotfinity",
+  "slug": "local-openedai-tts",
+  "displayName": "OpenClaw Tailnet TTS Endpoint",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772563376390,
+    "commit": "https://github.com/openclaw/skills/commit/84f8cabba6b329cb53432ae67f9b94840af84909"
+  },
+  "history": []
+}

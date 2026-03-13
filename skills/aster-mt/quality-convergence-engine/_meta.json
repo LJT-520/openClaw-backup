@@ -1,0 +1,11 @@
+{
+  "owner": "aster-mt",
+  "slug": "quality-convergence-engine",
+  "displayName": "Quality Convergence Engine",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772616853720,
+    "commit": "https://github.com/openclaw/skills/commit/35b2093ef350e917323dd6c237869d30a136ae59"
+  },
+  "history": []
+}

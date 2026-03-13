@@ -1,0 +1,11 @@
+{
+  "owner": "maxleolee-eng",
+  "slug": "openclaw-sys-guardian-v4-1-resurrection",
+  "displayName": "Openclaw Sys Guardian V4.1 Resurrection",
+  "latest": {
+    "version": "4.1.0",
+    "publishedAt": 1772549337993,
+    "commit": "https://github.com/openclaw/skills/commit/3b259cff5849dc9b52735b705245ef1a556037c5"
+  },
+  "history": []
+}

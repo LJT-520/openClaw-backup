@@ -1,0 +1,11 @@
+{
+  "owner": "andreasnordenadler",
+  "slug": "cubistic-public-bots",
+  "displayName": "cubistic.com Painter Skill",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771850922167,
+    "commit": "https://github.com/openclaw/skills/commit/a916a2ad5b922fe2c223f5a6ebf9b46a4b02e082"
+  },
+  "history": []
+}

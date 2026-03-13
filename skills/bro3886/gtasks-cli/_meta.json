@@ -1,0 +1,17 @@
+{
+  "owner": "bro3886",
+  "slug": "gtasks-cli",
+  "displayName": "gtasks-cli",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772285785895,
+    "commit": "https://github.com/openclaw/skills/commit/a90a327c9423ce0edd27cd34a21e0fa9feae934a"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770273967553,
+      "commit": "https://github.com/clawdbot/skills/commit/3c3aff298492444b6f606a15e8de6d90ddf21da5"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "kghamilton89",
+  "slug": "brave-web-search",
+  "displayName": "Brave Web Search",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772077688603,
+    "commit": "https://github.com/openclaw/skills/commit/5154aa9c2471357699fd7e09aed653f51062dc71"
+  },
+  "history": []
+}

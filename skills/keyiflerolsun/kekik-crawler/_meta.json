@@ -1,0 +1,11 @@
+{
+  "owner": "keyiflerolsun",
+  "slug": "kekik-crawler",
+  "displayName": "Kekik Crawler",
+  "latest": {
+    "version": "0.1.0-rc1",
+    "publishedAt": 1772110733380,
+    "commit": "https://github.com/openclaw/skills/commit/f7de19bf3217149b49eb731c7e72e552a227256d"
+  },
+  "history": []
+}

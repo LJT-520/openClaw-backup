@@ -1,0 +1,11 @@
+{
+  "owner": "donovanpankratz-del",
+  "slug": "openclaw-cost-governor",
+  "displayName": "Cost Governor - Subagent Budget Control",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771996744202,
+    "commit": "https://github.com/openclaw/skills/commit/ceebd3e5a97bf507cef3b77fd3dadf0194a1c30f"
+  },
+  "history": []
+}

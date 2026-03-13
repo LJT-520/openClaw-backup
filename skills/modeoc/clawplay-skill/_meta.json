@@ -1,0 +1,27 @@
+{
+  "owner": "modeoc",
+  "slug": "clawplay-skill",
+  "displayName": "ClawPlay",
+  "latest": {
+    "version": "1.4.1",
+    "publishedAt": 1772522107547,
+    "commit": "https://github.com/openclaw/skills/commit/f2581a0bc4b83a3a56cd736dccfefa3ac3d69d6f"
+  },
+  "history": [
+    {
+      "version": "1.4.0",
+      "publishedAt": 1772503827153,
+      "commit": "https://github.com/openclaw/skills/commit/026371dad3d05eb01043134c09fcd6fb6ebba21d"
+    },
+    {
+      "version": "1.1.2",
+      "publishedAt": 1772495153866,
+      "commit": "https://github.com/openclaw/skills/commit/a751af7fad61dd3a355e3349e5d35c869a469619"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772494422102,
+      "commit": "https://github.com/openclaw/skills/commit/42d4149a023a4006c4de6e163e77d0d49d204ae8"
+    }
+  ]
+}

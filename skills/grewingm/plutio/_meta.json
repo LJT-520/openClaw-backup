@@ -1,0 +1,11 @@
+{
+  "owner": "grewingm",
+  "slug": "plutio",
+  "displayName": "Plutio",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772376173250,
+    "commit": "https://github.com/openclaw/skills/commit/e277ec5045e13586c34c62e39aa3fa982ddcc77e"
+  },
+  "history": []
+}

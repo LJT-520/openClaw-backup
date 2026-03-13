@@ -1,0 +1,5 @@
+{
+  "name": "feishu-chat",
+  "version": "1.1.0",
+  "description": "Complete Feishu messaging guide with renderMode configuration, @ mentions, and Markdown formatting"
+}

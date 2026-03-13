@@ -1,0 +1,11 @@
+{
+  "owner": "dagangtj",
+  "slug": "local-memory-search",
+  "displayName": "Local Memory Search",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772092856750,
+    "commit": "https://github.com/openclaw/skills/commit/6f0cf4d2b50be54abbf352d729f095210120028d"
+  },
+  "history": []
+}

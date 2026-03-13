@@ -1,0 +1,11 @@
+{
+  "owner": "alannetwork",
+  "slug": "clawtrade-bnb",
+  "displayName": "Clawtrade Bnb",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771478605916,
+    "commit": "https://github.com/openclaw/skills/commit/bd8588c4e55000df9dacfb1bae26a79e7d6bda6f"
+  },
+  "history": []
+}

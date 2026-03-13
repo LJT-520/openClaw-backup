@@ -1,0 +1,17 @@
+{
+  "owner": "deliciousbuding",
+  "slug": "xiaohongshu-skill",
+  "displayName": "小红书skill",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772171400721,
+    "commit": "https://github.com/openclaw/skills/commit/3614fc2aa03f6bb379b6727e5adc7c8c3567016c"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771854373203,
+      "commit": "https://github.com/openclaw/skills/commit/99b9cf011c7424d801948cbd909609914e89f2c4"
+    }
+  ]
+}

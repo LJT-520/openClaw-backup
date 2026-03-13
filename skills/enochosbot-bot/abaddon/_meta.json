@@ -1,0 +1,11 @@
+{
+  "owner": "enochosbot-bot",
+  "slug": "abaddon",
+  "displayName": "Abaddon",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771560859066,
+    "commit": "https://github.com/openclaw/skills/commit/eea7cf26582abcfb62ce53d68bef00b93e4695d5"
+  },
+  "history": []
+}

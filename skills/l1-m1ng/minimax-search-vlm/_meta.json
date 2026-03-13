@@ -1,0 +1,11 @@
+{
+  "owner": "l1-m1ng",
+  "slug": "minimax-search-vlm",
+  "displayName": "MiniMax Search & VLM",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772375154100,
+    "commit": "https://github.com/openclaw/skills/commit/a1deb9bf3f0bdf901880c25fe9bfd5fa1b59b9c6"
+  },
+  "history": []
+}

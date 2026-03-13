@@ -1,0 +1,17 @@
+{
+  "owner": "maverick-software",
+  "slug": "cloudflare-agent-tunnel",
+  "displayName": "Cloudflare Agent Tunnel",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772649205402,
+    "commit": "https://github.com/openclaw/skills/commit/1e58342145a01c6a985c50b817a40df59bb71e93"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772601408039,
+      "commit": "https://github.com/openclaw/skills/commit/736c4c78d087b58abaadf741d9867cb6edf91544"
+    }
+  ]
+}

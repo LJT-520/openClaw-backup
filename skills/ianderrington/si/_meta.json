@@ -1,0 +1,11 @@
+{
+  "owner": "ianderrington",
+  "slug": "si",
+  "displayName": "Supernal Interface CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772330042346,
+    "commit": "https://github.com/openclaw/skills/commit/f5ccd46db7e8da2799c688b874055c64c58d8a3c"
+  },
+  "history": []
+}

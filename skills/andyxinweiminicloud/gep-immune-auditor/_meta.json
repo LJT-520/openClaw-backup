@@ -1,0 +1,17 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "gep-immune-auditor",
+  "displayName": "GEP Immune Auditor",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771713908974,
+    "commit": "https://github.com/openclaw/skills/commit/637b5299ba995ee900bcc8869ea582b3a96b788b"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771711205155,
+      "commit": "https://github.com/openclaw/skills/commit/8a4d88590e8f05805035fb4793404e6e9f009ec2"
+    }
+  ]
+}

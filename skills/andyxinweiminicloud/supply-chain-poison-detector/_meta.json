@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "supply-chain-poison-detector",
+  "displayName": "Supply Chain Poison Detector",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771783780755,
+    "commit": "https://github.com/openclaw/skills/commit/0ec0b198143bed88220553720f9cefbb78b2acbe"
+  },
+  "history": []
+}

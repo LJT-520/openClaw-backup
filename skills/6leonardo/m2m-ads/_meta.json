@@ -1,0 +1,17 @@
+{
+  "owner": "6leonardo",
+  "slug": "m2m-ads",
+  "displayName": "M2M Classified Ads",
+  "latest": {
+    "version": "0.1.7",
+    "publishedAt": 1772620091823,
+    "commit": "https://github.com/openclaw/skills/commit/0660dc269ff0efaaa1de534d437c4da5eef4664e"
+  },
+  "history": [
+    {
+      "version": "0.1.6",
+      "publishedAt": 1772619810209,
+      "commit": "https://github.com/openclaw/skills/commit/619e0652aee9093ab8e4c5eac9860457d743eb82"
+    }
+  ]
+}

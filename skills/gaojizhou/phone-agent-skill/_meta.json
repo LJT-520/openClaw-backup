@@ -1,0 +1,11 @@
+{
+  "owner": "gaojizhou",
+  "slug": "phone-agent-skill",
+  "displayName": "Phone agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772583919266,
+    "commit": "https://github.com/openclaw/skills/commit/12ed44975c644ec830a4bdfa35cd3e6d8f4507f8"
+  },
+  "history": []
+}

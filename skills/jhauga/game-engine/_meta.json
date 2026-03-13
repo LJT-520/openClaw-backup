@@ -1,0 +1,11 @@
+{
+  "owner": "jhauga",
+  "slug": "game-engine",
+  "displayName": "Game Engine",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771820019380,
+    "commit": "https://github.com/openclaw/skills/commit/e873c52cb714e2eb7f578037cefb89303ab7825c"
+  },
+  "history": []
+}

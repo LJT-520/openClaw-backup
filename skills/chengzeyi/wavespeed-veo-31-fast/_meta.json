@@ -1,0 +1,11 @@
+{
+  "owner": "chengzeyi",
+  "slug": "wavespeed-veo-31-fast",
+  "displayName": "WaveSpeedAI Veo 3.1 Fast Video Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772523272509,
+    "commit": "https://github.com/openclaw/skills/commit/1ebc6788d40a66fd5da5339c547ac9f85fed3614"
+  },
+  "history": []
+}

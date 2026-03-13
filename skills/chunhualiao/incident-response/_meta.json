@@ -1,0 +1,11 @@
+{
+  "owner": "chunhualiao",
+  "slug": "incident-response",
+  "displayName": "Incident Response",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772643368366,
+    "commit": "https://github.com/openclaw/skills/commit/6bb6b8d26bbf3354cacb1f815ee313c9b56601ba"
+  },
+  "history": []
+}

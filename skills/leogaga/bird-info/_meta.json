@@ -1,0 +1,11 @@
+{
+  "owner": "leogaga",
+  "slug": "bird-info",
+  "displayName": "Bird Information",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772422706446,
+    "commit": "https://github.com/openclaw/skills/commit/d0b0273e4d47c64d6717cf50a12787babe387401"
+  },
+  "history": []
+}

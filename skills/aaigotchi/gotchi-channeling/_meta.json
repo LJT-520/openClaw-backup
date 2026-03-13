@@ -1,0 +1,11 @@
+{
+  "owner": "aaigotchi",
+  "slug": "gotchi-channeling",
+  "displayName": "Gotchi Channeling",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771648557060,
+    "commit": "https://github.com/openclaw/skills/commit/32270de1cdbe1e822a3a27c857c7a417c606a033"
+  },
+  "history": []
+}

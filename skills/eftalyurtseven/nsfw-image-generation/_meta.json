@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "nsfw-image-generation",
+  "displayName": "Nsfw Image Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772584189439,
+    "commit": "https://github.com/openclaw/skills/commit/3f389cb8de4877ca870a87995ffadf8e6ea4aad7"
+  },
+  "history": []
+}

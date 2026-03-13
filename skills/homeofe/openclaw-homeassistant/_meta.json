@@ -1,0 +1,17 @@
+{
+  "owner": "homeofe",
+  "slug": "openclaw-homeassistant",
+  "displayName": "Home Assistant",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772280888666,
+    "commit": "https://github.com/openclaw/skills/commit/6b4fe7d9c6876e5ae1b3d14e1cf1ea1bf0c4d4df"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771861881452,
+      "commit": "https://github.com/openclaw/skills/commit/3e42cd17e4ae090b302a9b4d80ab05ea4461acf5"
+    }
+  ]
+}

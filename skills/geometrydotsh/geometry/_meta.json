@@ -1,0 +1,11 @@
+{
+  "owner": "geometrydotsh",
+  "slug": "geometry",
+  "displayName": "Geometry",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771580959369,
+    "commit": "https://github.com/openclaw/skills/commit/02ea3ef1007b40967b24b2bad6052560d5496a94"
+  },
+  "history": []
+}

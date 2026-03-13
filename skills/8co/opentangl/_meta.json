@@ -1,0 +1,22 @@
+{
+  "owner": "8co",
+  "slug": "opentangl",
+  "displayName": "OpenTangl",
+  "latest": {
+    "version": "0.1.10",
+    "publishedAt": 1772111985240,
+    "commit": "https://github.com/openclaw/skills/commit/425261df239710e11df23eda1297b0a28de20efa"
+  },
+  "history": [
+    {
+      "version": "0.1.7",
+      "publishedAt": 1772000721951,
+      "commit": "https://github.com/openclaw/skills/commit/6ea12204ccea5226344b40021d33aa33ba4d6b86"
+    },
+    {
+      "version": "0.1.1",
+      "publishedAt": 1771970062205,
+      "commit": "https://github.com/openclaw/skills/commit/26fc60ebd26315d796f9d8c0655474f51ce64f1e"
+    }
+  ]
+}

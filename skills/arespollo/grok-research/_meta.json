@@ -1,0 +1,11 @@
+{
+  "owner": "arespollo",
+  "slug": "grok-research",
+  "displayName": "Grok Research",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771928772406,
+    "commit": "https://github.com/openclaw/skills/commit/097d0cd25ac2340033faba9c671031cf9304ab2c"
+  },
+  "history": []
+}

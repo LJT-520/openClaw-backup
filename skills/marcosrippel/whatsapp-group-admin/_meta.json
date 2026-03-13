@@ -1,0 +1,11 @@
+{
+  "owner": "marcosrippel",
+  "slug": "whatsapp-group-admin",
+  "displayName": "WhatsApp Group Admin",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771519328726,
+    "commit": "https://github.com/openclaw/skills/commit/3f5c3f0833630bc00891ba0a626e79ed266950da"
+  },
+  "history": []
+}

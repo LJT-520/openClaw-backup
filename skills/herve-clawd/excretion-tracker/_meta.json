@@ -1,0 +1,17 @@
+{
+  "owner": "herve-clawd",
+  "slug": "excretion-tracker",
+  "displayName": "Excretion Tracker",
+  "latest": {
+    "version": "0.4.0",
+    "publishedAt": 1772613929694,
+    "commit": "https://github.com/openclaw/skills/commit/7635db31699b15fb1c5eb38fd29dbb10d21d9bde"
+  },
+  "history": [
+    {
+      "version": "0.3.3",
+      "publishedAt": 1772379000752,
+      "commit": "https://github.com/openclaw/skills/commit/de164c6086dece1045a60f1bc4f8dee2aeaf98a6"
+    }
+  ]
+}

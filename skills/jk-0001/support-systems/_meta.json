@@ -1,0 +1,11 @@
+{
+  "owner": "jk-0001",
+  "slug": "support-systems",
+  "displayName": "Support Systems",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772430666420,
+    "commit": "https://github.com/openclaw/skills/commit/c005326cd0375b0b6ff9f20b9ce3ecbc238da06b"
+  },
+  "history": []
+}

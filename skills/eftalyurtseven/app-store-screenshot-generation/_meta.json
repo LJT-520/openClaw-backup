@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "app-store-screenshot-generation",
+  "displayName": "App Store Screenshot Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771575367154,
+    "commit": "https://github.com/openclaw/skills/commit/cef81820b34a61d349750dfe2fbfc59ef361cbba"
+  },
+  "history": []
+}

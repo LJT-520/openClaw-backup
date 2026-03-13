@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "leave-task",
+  "displayName": "Leave Task",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772365223540,
+    "commit": "https://github.com/openclaw/skills/commit/2addc3e414d3a4ac563de3bc551b509f62cfb072"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "bandwe",
+  "slug": "auto-researcher",
+  "displayName": "Auto Researcher",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772466543672,
+    "commit": "https://github.com/openclaw/skills/commit/676d324334e3c226391fd55d92c63ecf2f6eccbc"
+  },
+  "history": []
+}

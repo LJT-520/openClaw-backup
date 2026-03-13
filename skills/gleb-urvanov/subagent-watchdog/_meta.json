@@ -1,0 +1,11 @@
+{
+  "owner": "gleb-urvanov",
+  "slug": "subagent-watchdog",
+  "displayName": "Subagent Watchdog",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772551538239,
+    "commit": "https://github.com/openclaw/skills/commit/4b6eae6f5ddc8fcd3bd2df78c0e2334398a435fc"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "floor-plan-generation",
+  "displayName": "Floor Plan Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772390505901,
+    "commit": "https://github.com/openclaw/skills/commit/1124f725e9ca76a7e62a3322fa2ae464c1928b6b"
+  },
+  "history": []
+}

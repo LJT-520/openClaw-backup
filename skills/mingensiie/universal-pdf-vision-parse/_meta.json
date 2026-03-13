@@ -1,0 +1,11 @@
+{
+  "owner": "mingensiie",
+  "slug": "universal-pdf-vision-parse",
+  "displayName": "universal-pdf-vision-parser",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772500344550,
+    "commit": "https://github.com/openclaw/skills/commit/afc3ae9c40c1abe347128b3456ff586a8fbf2420"
+  },
+  "history": []
+}

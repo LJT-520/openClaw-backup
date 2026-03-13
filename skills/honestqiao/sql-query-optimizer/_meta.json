@@ -1,0 +1,11 @@
+{
+  "owner": "honestqiao",
+  "slug": "sql-query-optimizer",
+  "displayName": "SQL Query Optimizer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771733285741,
+    "commit": "https://github.com/openclaw/skills/commit/e96ff4a7b3a67551dab86ccdd88736127207ed43"
+  },
+  "history": []
+}

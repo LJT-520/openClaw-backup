@@ -1,0 +1,17 @@
+{
+  "owner": "didro",
+  "slug": "atlas-tracker",
+  "displayName": "Atlas Tracker",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772522616761,
+    "commit": "https://github.com/openclaw/skills/commit/9b28e9ae3f8190ffa895caf6ec2b4da50758a34b"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772226395070,
+      "commit": "https://github.com/openclaw/skills/commit/d96f282635ca529f594c650c35e0c338c7165390"
+    }
+  ]
+}

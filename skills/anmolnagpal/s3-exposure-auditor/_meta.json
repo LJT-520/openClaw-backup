@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "s3-exposure-auditor",
+  "displayName": "S3 Exposure Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772419929906,
+    "commit": "https://github.com/openclaw/skills/commit/aa72e4e299349e12ede0a85279ef64815b8b8822"
+  },
+  "history": []
+}

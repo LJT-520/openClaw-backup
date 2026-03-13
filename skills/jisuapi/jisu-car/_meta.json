@@ -1,0 +1,11 @@
+{
+  "owner": "jisuapi",
+  "slug": "jisu-car",
+  "displayName": "车型大全查询 - Car Models Inquiry",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772533332705,
+    "commit": "https://github.com/openclaw/skills/commit/433bbabb46ba1b80f2ed59f01ab2357eabcfcc96"
+  },
+  "history": []
+}

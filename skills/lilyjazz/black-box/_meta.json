@@ -1,0 +1,17 @@
+{
+  "owner": "lilyjazz",
+  "slug": "black-box",
+  "displayName": "black-box",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771700112889,
+    "commit": "https://github.com/openclaw/skills/commit/5688fdef6b1e080d641b820208d8862e3fc89149"
+  },
+  "history": [
+    {
+      "version": "0.0.1",
+      "publishedAt": 1771666161166,
+      "commit": "https://github.com/openclaw/skills/commit/f69007c426776f7e91f5d579083b32f1f8a6b2b2"
+    }
+  ]
+}

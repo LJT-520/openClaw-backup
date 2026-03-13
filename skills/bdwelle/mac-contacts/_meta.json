@@ -1,0 +1,11 @@
+{
+  "owner": "bdwelle",
+  "slug": "mac-contacts",
+  "displayName": "Apple Contacts",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772598328197,
+    "commit": "https://github.com/openclaw/skills/commit/bd29bc61019a0f05b2c5cd574ad7527f199ea00e"
+  },
+  "history": []
+}

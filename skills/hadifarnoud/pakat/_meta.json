@@ -1,0 +1,22 @@
+{
+  "owner": "hadifarnoud",
+  "slug": "pakat",
+  "displayName": "Pakat Email Marketing",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1771833011785,
+    "commit": "https://github.com/openclaw/skills/commit/f77166460c5a741a8d1f992d566f7e1f627632ac"
+  },
+  "history": [
+    {
+      "version": "1.1.1",
+      "publishedAt": 1771328171583,
+      "commit": "https://github.com/openclaw/skills/commit/d6a8f02b0f87eaae3434777778e989f10e54e6ea"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770048593742,
+      "commit": "https://github.com/clawdbot/skills/commit/9c7a27068491c44f3197fa63e9952fb5a8e506bd"
+    }
+  ]
+}

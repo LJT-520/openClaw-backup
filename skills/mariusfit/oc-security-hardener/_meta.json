@@ -1,0 +1,11 @@
+{
+  "owner": "mariusfit",
+  "slug": "oc-security-hardener",
+  "displayName": "Security Hardener",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771878031536,
+    "commit": "https://github.com/openclaw/skills/commit/bcfb1d2adaf6be7fa4b5c606c36cfc603adeab63"
+  },
+  "history": []
+}

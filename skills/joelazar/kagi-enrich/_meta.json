@@ -1,0 +1,11 @@
+{
+  "owner": "joelazar",
+  "slug": "kagi-enrich",
+  "displayName": "Kagi Enrich",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771686254460,
+    "commit": "https://github.com/openclaw/skills/commit/5c08fdc9e40fd18ea41efcdde3919ba5a5f8a309"
+  },
+  "history": []
+}

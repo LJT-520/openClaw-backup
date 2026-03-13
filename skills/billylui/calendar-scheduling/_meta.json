@@ -1,0 +1,32 @@
+{
+  "owner": "billylui",
+  "slug": "calendar-scheduling",
+  "displayName": "Calendar Scheduling",
+  "latest": {
+    "version": "0.5.0",
+    "publishedAt": 1772089596724,
+    "commit": "https://github.com/openclaw/skills/commit/0045e321aa34f8f6044094f01ce382d0bcbd6e0d"
+  },
+  "history": [
+    {
+      "version": "0.4.1",
+      "publishedAt": 1771844628825,
+      "commit": "https://github.com/openclaw/skills/commit/317499a094f940516ed30bcf178dc543459bf62a"
+    },
+    {
+      "version": "0.3.6",
+      "publishedAt": 1771830485035,
+      "commit": "https://github.com/openclaw/skills/commit/f5b13747bc7c8edefbbf2f87fdc9df8bf8d10fd2"
+    },
+    {
+      "version": "0.3.4",
+      "publishedAt": 1771818992785,
+      "commit": "https://github.com/openclaw/skills/commit/88749c191db2c05cb77632c822050fcd3a703898"
+    },
+    {
+      "version": "0.3.3",
+      "publishedAt": 1771770554728,
+      "commit": "https://github.com/openclaw/skills/commit/609706804c5c1673267f340463cbe491771b6e0b"
+    }
+  ]
+}

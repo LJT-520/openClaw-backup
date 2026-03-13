@@ -1,0 +1,11 @@
+{
+  "owner": "irreel",
+  "slug": "tax-filing",
+  "displayName": "tax-filing",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772653591194,
+    "commit": "https://github.com/openclaw/skills/commit/2ffc288d7986607762da78e7c4830cb395c44dd0"
+  },
+  "history": []
+}

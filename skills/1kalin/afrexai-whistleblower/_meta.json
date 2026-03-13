@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-whistleblower",
+  "displayName": "Whistleblower Ethics Hotline",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771782172709,
+    "commit": "https://github.com/openclaw/skills/commit/4970e3fa3f88f13c90a881a31691e63390c7b308"
+  },
+  "history": []
+}

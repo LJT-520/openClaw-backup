@@ -1,0 +1,11 @@
+{
+  "owner": "kjetilvaa",
+  "slug": "reef",
+  "displayName": "Reef Protocol",
+  "latest": {
+    "version": "0.2.15",
+    "publishedAt": 1771931970722,
+    "commit": "https://github.com/openclaw/skills/commit/0d9cf2993aa2bc0465e354c19f0c4600c798991d"
+  },
+  "history": []
+}

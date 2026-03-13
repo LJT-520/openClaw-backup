@@ -1,0 +1,11 @@
+{
+  "owner": "blockcloud",
+  "slug": "voiceskill123",
+  "displayName": "voiceskill123",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772369820855,
+    "commit": "https://github.com/openclaw/skills/commit/9c7d6b870e2a3c90678363c74132d9896da22ea9"
+  },
+  "history": []
+}

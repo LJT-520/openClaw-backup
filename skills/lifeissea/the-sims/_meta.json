@@ -1,0 +1,11 @@
+{
+  "owner": "lifeissea",
+  "slug": "the-sims",
+  "displayName": "The Sims",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1771685708498,
+    "commit": "https://github.com/openclaw/skills/commit/c098fdae7d8f489877cad60427abb267aa1eac4a"
+  },
+  "history": []
+}

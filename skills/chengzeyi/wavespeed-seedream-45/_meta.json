@@ -1,0 +1,11 @@
+{
+  "owner": "chengzeyi",
+  "slug": "wavespeed-seedream-45",
+  "displayName": "WaveSpeedAI Seedream 4.5 Image Generation/Editing",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772522969956,
+    "commit": "https://github.com/openclaw/skills/commit/da52af0111035b1b999a0af0ff96f61759388877"
+  },
+  "history": []
+}

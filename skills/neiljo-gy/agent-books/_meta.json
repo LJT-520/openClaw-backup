@@ -1,0 +1,17 @@
+{
+  "owner": "neiljo-gy",
+  "slug": "agent-books",
+  "displayName": "AgentBooks",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1772255346752,
+    "commit": "https://github.com/openclaw/skills/commit/26c576fa73602f1340bb72bd592c3404e278931a"
+  },
+  "history": [
+    {
+      "version": "0.1.2",
+      "publishedAt": 1772114575323,
+      "commit": "https://github.com/openclaw/skills/commit/da372780b407480c34ccbf2087ad451236dd5d4a"
+    }
+  ]
+}

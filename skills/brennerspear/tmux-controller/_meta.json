@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "tmux-controller",
+  "displayName": "Tmux",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772052092367,
+    "commit": "https://github.com/openclaw/skills/commit/2cbc0c2172addcbd339b0f5d6dcf20b112964011"
+  },
+  "history": []
+}

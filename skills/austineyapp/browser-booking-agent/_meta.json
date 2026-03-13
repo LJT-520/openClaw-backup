@@ -1,0 +1,11 @@
+{
+  "owner": "austineyapp",
+  "slug": "browser-booking-agent",
+  "displayName": "Browser Booking Agent",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772459724018,
+    "commit": "https://github.com/openclaw/skills/commit/2bcf03221eb9d28c5801636f3d8a763ac9530523"
+  },
+  "history": []
+}

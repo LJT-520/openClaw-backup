@@ -1,0 +1,11 @@
+{
+  "owner": "amateur0x1",
+  "slug": "my-mind-manager",
+  "displayName": "my-mind Manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772106168493,
+    "commit": "https://github.com/openclaw/skills/commit/c5be233b8f6f635ff9b7e02a4339fe241791a77a"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "delta-disclosure-auditor",
+  "displayName": "Delta Disclosure Auditor",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771988530746,
+    "commit": "https://github.com/openclaw/skills/commit/5c384cfb470f7bacd65c4a25f4121c4cd9dc63f6"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771843222948,
+      "commit": "https://github.com/openclaw/skills/commit/4ce4f85cf5e2e98add6b5d4c85d18d31b30a061d"
+    }
+  ]
+}

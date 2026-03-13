@@ -1,0 +1,11 @@
+{
+  "owner": "infoquest-byteplus",
+  "slug": "byted-infoquest-search",
+  "displayName": "InfoQuest Web Search",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772619716165,
+    "commit": "https://github.com/openclaw/skills/commit/e16d2f4bb5be220ce9876ec4cf39d9a5935a2852"
+  },
+  "history": []
+}

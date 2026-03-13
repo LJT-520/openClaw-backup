@@ -1,0 +1,17 @@
+{
+  "owner": "atlaspa",
+  "slug": "openclaw-reflect",
+  "displayName": "openclaw-reflect",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771860571230,
+    "commit": "https://github.com/openclaw/skills/commit/5b618cd7977a5bc2461a27cd0d7a1e41880e1f53"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771726020441,
+      "commit": "https://github.com/openclaw/skills/commit/c3a581dd34362509adef39fdd4334fd14273f7e8"
+    }
+  ]
+}

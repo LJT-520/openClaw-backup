@@ -1,0 +1,11 @@
+{
+  "owner": "li-hongmin",
+  "slug": "azure-doc-ocr",
+  "displayName": "Azure Document OCR",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771748409580,
+    "commit": "https://github.com/openclaw/skills/commit/0c11a418760d549cf93fdc1f541b2e7e22d1fe0b"
+  },
+  "history": []
+}

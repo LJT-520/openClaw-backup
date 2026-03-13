@@ -1,0 +1,11 @@
+{
+  "owner": "blake-lucas",
+  "slug": "n-central-admin",
+  "displayName": "N-central Admin",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772555267411,
+    "commit": "https://github.com/openclaw/skills/commit/1aa237dfef924a76ffc1cc4d8e9a216fb7bc34e5"
+  },
+  "history": []
+}

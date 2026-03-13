@@ -1,0 +1,11 @@
+{
+  "owner": "cohnen",
+  "slug": "shellbot-product-video",
+  "displayName": "Shellbot Product Video",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772640195811,
+    "commit": "https://github.com/openclaw/skills/commit/5638972e74259c65bb91896b0c39a46006e9f366"
+  },
+  "history": []
+}

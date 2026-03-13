@@ -1,0 +1,11 @@
+{
+  "owner": "asif2bd",
+  "slug": "openclaw-skill-lazy-loader",
+  "displayName": "OpenClaw Skill Lazy Loader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772243777460,
+    "commit": "https://github.com/openclaw/skills/commit/84bf488429926623c0172b43092625acdf4cfc2e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "feastfuyan",
+  "slug": "qqmail-sender",
+  "displayName": "Email Sender",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772547361742,
+    "commit": "https://github.com/openclaw/skills/commit/dd63f289a060a64111a43925244b88fa88a06b2b"
+  },
+  "history": []
+}

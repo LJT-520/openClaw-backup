@@ -1,0 +1,11 @@
+{
+  "owner": "brugillo",
+  "slug": "aice",
+  "displayName": "AICE — AI Confidence Engine",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1772563486935,
+    "commit": "https://github.com/openclaw/skills/commit/21790f24a1e3b97ab5d3c9b30c50ae8a9fd7c4e7"
+  },
+  "history": []
+}

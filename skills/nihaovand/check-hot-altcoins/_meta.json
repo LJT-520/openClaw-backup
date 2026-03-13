@@ -1,0 +1,11 @@
+{
+  "owner": "nihaovand",
+  "slug": "check-hot-altcoins",
+  "displayName": "查看每日热门山寨代币",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771943369656,
+    "commit": "https://github.com/openclaw/skills/commit/c92301e5d8d3fa0b9eb7234932fe966010c25bf0"
+  },
+  "history": []
+}

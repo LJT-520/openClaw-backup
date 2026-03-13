@@ -1,0 +1,11 @@
+{
+  "owner": "codeexplorer29",
+  "slug": "elytro-cli",
+  "displayName": "Elytro Smart Account CLI",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772176281772,
+    "commit": "https://github.com/openclaw/skills/commit/0458ae138d4853264886ea6df6f1b86bb9c9d020"
+  },
+  "history": []
+}

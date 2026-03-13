@@ -1,0 +1,17 @@
+{
+  "owner": "jiafar",
+  "slug": "amazon-scraper",
+  "displayName": "Amazon Scraper",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1772497777180,
+    "commit": "https://github.com/openclaw/skills/commit/371732a0f859139f8d1fc8aa94aca90aba64d938"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772275272790,
+      "commit": "https://github.com/openclaw/skills/commit/c845b8101cc412854ef3fa647069316d70993ff5"
+    }
+  ]
+}

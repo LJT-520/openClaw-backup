@@ -1,0 +1,11 @@
+{
+  "owner": "cryptocana",
+  "slug": "sales-closer",
+  "displayName": "Sales Closer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772213028453,
+    "commit": "https://github.com/openclaw/skills/commit/d2dd6fa07a989ae398b9f306a90fb8f2fcb6f800"
+  },
+  "history": []
+}

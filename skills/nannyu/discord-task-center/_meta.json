@@ -1,0 +1,11 @@
+{
+  "owner": "nannyu",
+  "slug": "discord-task-center",
+  "displayName": "Discord Task Center",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772383369181,
+    "commit": "https://github.com/openclaw/skills/commit/beb5f3a0749cfbc6cbee405b44afd1b744eb66ed"
+  },
+  "history": []
+}

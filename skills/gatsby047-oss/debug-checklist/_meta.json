@@ -1,0 +1,11 @@
+{
+  "owner": "gatsby047-oss",
+  "slug": "debug-checklist",
+  "displayName": "Debug Checklist - 系统化 Debug 检查清单",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772497468969,
+    "commit": "https://github.com/openclaw/skills/commit/776c34a9ecbde78c16856fbb51cc5d8560b6d5c5"
+  },
+  "history": []
+}

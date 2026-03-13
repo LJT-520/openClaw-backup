@@ -1,0 +1,17 @@
+{
+  "owner": "nihaovand",
+  "slug": "kite-agent-smart-wallet-permissionless-protocol-v2",
+  "displayName": "Kite Agent Smart Wallet Permissionless Protocol V2",
+  "latest": {
+    "version": "2.0.5",
+    "publishedAt": 1772031683574,
+    "commit": "https://github.com/openclaw/skills/commit/04c53366d8e11e58ac5bb76c98e28767f8675029"
+  },
+  "history": [
+    {
+      "version": "2.0.2",
+      "publishedAt": 1772031210362,
+      "commit": "https://github.com/openclaw/skills/commit/8438ff093b9e6c7a3fef7232cf1d0343dbbc7aeb"
+    }
+  ]
+}

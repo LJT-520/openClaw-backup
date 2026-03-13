@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "dataforseo",
+  "displayName": "DataForSEO",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772508354814,
+    "commit": "https://github.com/openclaw/skills/commit/bef09f7828f7698f06575bb08bd90f95b29122cd"
+  },
+  "history": []
+}

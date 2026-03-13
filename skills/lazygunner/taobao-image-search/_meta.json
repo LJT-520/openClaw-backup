@@ -1,0 +1,11 @@
+{
+  "owner": "lazygunner",
+  "slug": "taobao-image-search",
+  "displayName": "Taobao Image Search",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771641199066,
+    "commit": "https://github.com/openclaw/skills/commit/3ce815e54233c093776930b57d9b6a568253c773"
+  },
+  "history": []
+}

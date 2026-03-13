@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>时钟</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        .clock-container {
+            text-align: center;
+            color: white;
+        }
+        
+        .time {
+            font-size: 120px;
+            font-weight: 200;
+            letter-spacing: 10px;
+            text-shadow: 0 0 50px rgba(255,255,255,0.3);
+            font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+        
+        .date {
+            font-size: 32px;
+            margin-top: 20px;
+            color: rgba(255,255,255,0.7);
+            letter-spacing: 5px;
+        }
+        
+        .weekday {
+            font-size: 24px;
+            margin-top: 10px;
+            color: rgba(255,255,255,0.5);
+        }
+        
+        .seconds {
+            font-size: 60px;
+            color: rgba(255,255,255,0.4);
+            margin-left: 10px;
+        }
+        
+        .info {
+            position: fixed;
+            bottom: 30px;
+            color: rgba(255,255,255,0.3);
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="clock-container">
+        <div class="time">
+            <span id="hour">00</span><span id="minute">00</span><span class="seconds" id="second">00</span>
+        </div>
+        <div class="date" id="date">2026年3月5日</div>
+        <div class="weekday" id="weekday">星期四</div>
+    </div>
+    
+    <div class="info">OpenClaw 番茄时钟</div>
+
+    <script>
+        function updateTime() {
+            const now = new Date();
+            
+            const hour = String(now.getHours()).padStart(2, '0');
+            const minute = String(now.getMinutes()).padStart(2, '0');
+            const second = String(now.getSeconds()).padStart(2, '0');
+            
+            document.getElementById('hour').textContent = hour;
+            document.getElementById('minute').textContent = minute;
+            document.getElementById('second').textContent = second;
+            
+            const year = now.getFullYear();
+            const month = now.getMonth() + 1;
+            const day = now.getDate();
+            document.getElementById('date').textContent = `${year}年${month}月${day}日`;
+            
+            const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
+            document.getElementById('weekday').textContent = weekdays[now.getDay()];
+            
+            document.title = `${hour}:${minute}`;
+        }
+        
+        updateTime();
+        setInterval(updateTime, 1000);
+    </script>
+</body>
+</html>

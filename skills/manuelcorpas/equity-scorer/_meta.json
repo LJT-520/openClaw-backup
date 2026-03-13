@@ -1,0 +1,11 @@
+{
+  "owner": "manuelcorpas",
+  "slug": "equity-scorer",
+  "displayName": "Equity Scorer",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772258753208,
+    "commit": "https://github.com/openclaw/skills/commit/68cb6cd590e74b9fd72356ce7af03ef3f57b02ae"
+  },
+  "history": []
+}

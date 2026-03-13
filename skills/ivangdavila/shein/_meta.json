@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "shein",
+  "displayName": "Shein Shopping",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771545310058,
+    "commit": "https://github.com/openclaw/skills/commit/2d07ec7a07ad09af1961e1c27c11571071e8a610"
+  },
+  "history": []
+}

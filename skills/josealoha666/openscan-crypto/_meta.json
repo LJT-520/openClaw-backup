@@ -1,0 +1,11 @@
+{
+  "owner": "josealoha666",
+  "slug": "openscan-crypto",
+  "displayName": "OpenScan Crypto",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772204509591,
+    "commit": "https://github.com/openclaw/skills/commit/92f69011daf723133724a85c7d30050f62328bf2"
+  },
+  "history": []
+}

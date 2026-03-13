@@ -1,0 +1,11 @@
+{
+  "owner": "cyberash-dev",
+  "slug": "tg-mtproto-cli",
+  "displayName": "Telegram MTPROTO CLI",
+  "latest": {
+    "version": "0.1.4",
+    "publishedAt": 1771808819793,
+    "commit": "https://github.com/openclaw/skills/commit/a5e005bdf5eac350a53ded94785a68bba1649bf4"
+  },
+  "history": []
+}

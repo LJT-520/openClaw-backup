@@ -1,0 +1,11 @@
+{
+  "owner": "mrnsmh",
+  "slug": "openclaw-skill-r2-storage",
+  "displayName": "R2 Storage",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772156328083,
+    "commit": "https://github.com/openclaw/skills/commit/30c3462ba11bf45bc181a698503eaa3289369277"
+  },
+  "history": []
+}

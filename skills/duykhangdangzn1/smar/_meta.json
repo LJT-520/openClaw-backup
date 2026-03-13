@@ -1,0 +1,11 @@
+{
+  "owner": "duykhangdangzn1",
+  "slug": "smar",
+  "displayName": "smart_ocr",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771771515685,
+    "commit": "https://github.com/openclaw/skills/commit/08ca8e687019c4e5010f301a9c1152c3f7d8f1c0"
+  },
+  "history": []
+}

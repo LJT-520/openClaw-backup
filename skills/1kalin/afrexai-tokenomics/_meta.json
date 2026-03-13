@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-tokenomics",
+  "displayName": "Token Economics Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771699554847,
+    "commit": "https://github.com/openclaw/skills/commit/d42423c27c14e274e4b6fc28bdf0520f05f8592c"
+  },
+  "history": []
+}

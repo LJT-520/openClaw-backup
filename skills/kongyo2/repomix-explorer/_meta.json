@@ -1,0 +1,11 @@
+{
+  "owner": "kongyo2",
+  "slug": "repomix-explorer",
+  "displayName": "Repomix Explorer",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772341661667,
+    "commit": "https://github.com/openclaw/skills/commit/bd9f2267f22b95c978f9a5be0af9ef7224a35b66"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "alexfilatov",
+  "slug": "cofounder-im",
+  "displayName": "OpenClaw Cofounder Skill",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1772139538981,
+    "commit": "https://github.com/openclaw/skills/commit/b10f6f08ff337d10ae7486c948dd53d9d8a138de"
+  },
+  "history": []
+}

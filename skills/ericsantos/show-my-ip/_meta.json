@@ -1,0 +1,11 @@
+{
+  "owner": "ericsantos",
+  "slug": "show-my-ip",
+  "displayName": "Show My IP",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771616061063,
+    "commit": "https://github.com/openclaw/skills/commit/5de16f5f6abe36405a21465547c69c1d9f02aa83"
+  },
+  "history": []
+}

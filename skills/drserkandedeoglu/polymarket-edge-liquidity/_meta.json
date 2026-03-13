@@ -1,0 +1,11 @@
+{
+  "owner": "drserkandedeoglu",
+  "slug": "polymarket-edge-liquidity",
+  "displayName": "Polymarket Edge Liquidity",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772261826944,
+    "commit": "https://github.com/openclaw/skills/commit/494eda9b8b486f3dcbc452b3339a52d051ce90da"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "michael-stajer",
+  "slug": "hotbutter",
+  "displayName": "hotbutter voice chat",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772133454717,
+    "commit": "https://github.com/openclaw/skills/commit/2aa15cbd48bf5062362febe436e3c037b430e489"
+  },
+  "history": []
+}

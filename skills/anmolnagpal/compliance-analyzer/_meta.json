@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "compliance-analyzer",
+  "displayName": "Compliance Analyzer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772419917940,
+    "commit": "https://github.com/openclaw/skills/commit/8d190094967b8f2d7b6a4a09e2a5968d8d109d65"
+  },
+  "history": []
+}

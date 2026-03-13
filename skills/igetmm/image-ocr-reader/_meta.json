@@ -1,0 +1,11 @@
+{
+  "owner": "igetmm",
+  "slug": "image-ocr-reader",
+  "displayName": "Image OCR Reader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772504577638,
+    "commit": "https://github.com/openclaw/skills/commit/734accb9d0aeb9faadd244f89a6a6aeb702d5d3c"
+  },
+  "history": []
+}

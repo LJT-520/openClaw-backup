@@ -1,0 +1,11 @@
+{
+  "owner": "elmoyeldo",
+  "slug": "neomutt-commander",
+  "displayName": "Neomutt Commander",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772142549167,
+    "commit": "https://github.com/openclaw/skills/commit/5e32c446adb02605476c9693b41c18881363de06"
+  },
+  "history": []
+}

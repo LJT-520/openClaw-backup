@@ -1,0 +1,11 @@
+{
+  "owner": "bewareofddog",
+  "slug": "clawtime-setup",
+  "displayName": "ClawTime Setup",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771782904127,
+    "commit": "https://github.com/openclaw/skills/commit/b5ab5d6f1db5ed981f8c5d4ec2cbc6845f6b7ed1"
+  },
+  "history": []
+}

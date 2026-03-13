@@ -1,0 +1,11 @@
+{
+  "owner": "icloud-git",
+  "slug": "polymarket-edge",
+  "displayName": "Polymarket Edge",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772564118018,
+    "commit": "https://github.com/openclaw/skills/commit/0f42578759b152b1d6a8430f67c710868bf03b28"
+  },
+  "history": []
+}

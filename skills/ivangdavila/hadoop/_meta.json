@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "hadoop",
+  "displayName": "Hadoop",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772035896718,
+    "commit": "https://github.com/openclaw/skills/commit/97223dd152a9662d2c6d3044f26c37cc55e7ee0d"
+  },
+  "history": []
+}

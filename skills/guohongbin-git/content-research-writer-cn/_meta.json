@@ -1,0 +1,17 @@
+{
+  "owner": "guohongbin-git",
+  "slug": "content-research-writer-cn",
+  "displayName": "Content Research Writer Cn",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771605092479,
+    "commit": "https://github.com/openclaw/skills/commit/58329c0e339b5754a548b86ca3b2cee4f3b89cb2"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771309052868,
+      "commit": "https://github.com/openclaw/skills/commit/2cf531127c91db6ca83bdb74a17346ad7debc053"
+    }
+  ]
+}

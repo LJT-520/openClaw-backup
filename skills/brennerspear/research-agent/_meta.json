@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "research-agent",
+  "displayName": "Research",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772058288471,
+    "commit": "https://github.com/openclaw/skills/commit/f6e857dcc54ccd3c766f433f7959bd2c0dfca72b"
+  },
+  "history": []
+}

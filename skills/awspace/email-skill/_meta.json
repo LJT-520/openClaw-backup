@@ -1,0 +1,11 @@
+{
+  "owner": "awspace",
+  "slug": "email-skill",
+  "displayName": "Email",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772164810039,
+    "commit": "https://github.com/openclaw/skills/commit/5a3ccea8d1cfb002ca5087d5077d83a8e2a185f8"
+  },
+  "history": []
+}

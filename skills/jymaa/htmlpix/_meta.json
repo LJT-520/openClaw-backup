@@ -1,0 +1,11 @@
+{
+  "owner": "jymaa",
+  "slug": "htmlpix",
+  "displayName": "HTMLPix API",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1772601311474,
+    "commit": "https://github.com/openclaw/skills/commit/307a7c75aa65b29075934e3e63df8fd3189ffe96"
+  },
+  "history": []
+}

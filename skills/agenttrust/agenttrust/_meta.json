@@ -1,0 +1,11 @@
+{
+  "owner": "agenttrust",
+  "slug": "agenttrust",
+  "displayName": "A2A via AgentTrust",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772631073222,
+    "commit": "https://github.com/openclaw/skills/commit/dcbd01fe383818123f3a99d5a00baa1d830f3490"
+  },
+  "history": []
+}

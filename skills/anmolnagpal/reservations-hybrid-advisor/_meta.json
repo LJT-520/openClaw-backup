@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "reservations-hybrid-advisor",
+  "displayName": "Reservations Hybrid Advisor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772538263891,
+    "commit": "https://github.com/openclaw/skills/commit/dafeca6d66eb2142b6f03a004e936ffd6484145c"
+  },
+  "history": []
+}

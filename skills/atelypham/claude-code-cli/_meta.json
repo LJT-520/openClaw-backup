@@ -1,0 +1,11 @@
+{
+  "owner": "atelypham",
+  "slug": "claude-code-cli",
+  "displayName": "claude-code-cli",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772221010115,
+    "commit": "https://github.com/openclaw/skills/commit/34d38dc40d9414f29e1f940ec84138beeeed90c3"
+  },
+  "history": []
+}

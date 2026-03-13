@@ -1,0 +1,11 @@
+{
+  "owner": "hesselbom",
+  "slug": "asosuite",
+  "displayName": "ASO Suite",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772040055731,
+    "commit": "https://github.com/openclaw/skills/commit/bac773e8c42eb1c51b3d3b0e8115c3ba944108b4"
+  },
+  "history": []
+}

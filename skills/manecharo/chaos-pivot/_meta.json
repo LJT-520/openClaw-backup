@@ -1,0 +1,11 @@
+{
+  "owner": "manecharo",
+  "slug": "chaos-pivot",
+  "displayName": "Chaos pivot",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771491553856,
+    "commit": "https://github.com/openclaw/skills/commit/7ec6bc306fbf3e5b74e8a1f53d8083cde0c7bb50"
+  },
+  "history": []
+}

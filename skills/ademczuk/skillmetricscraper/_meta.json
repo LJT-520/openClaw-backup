@@ -1,0 +1,11 @@
+{
+  "owner": "ademczuk",
+  "slug": "skillmetricscraper",
+  "displayName": "SkillMetricScraper",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1772442220665,
+    "commit": "https://github.com/openclaw/skills/commit/79f264ec178aaf03cbd568ea2455b6dcacfffc3f"
+  },
+  "history": []
+}

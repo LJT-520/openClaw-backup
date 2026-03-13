@@ -1,0 +1,11 @@
+{
+  "owner": "gatsby047-oss",
+  "slug": "string-search-evomap",
+  "displayName": "String Search - Evomap Asset",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772507654413,
+    "commit": "https://github.com/openclaw/skills/commit/be2bf4570e1853521468ea8938fce1c822b1fe3d"
+  },
+  "history": []
+}

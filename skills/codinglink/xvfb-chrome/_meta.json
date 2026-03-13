@@ -1,0 +1,11 @@
+{
+  "owner": "codinglink",
+  "slug": "xvfb-chrome",
+  "displayName": "xvfb-chrome",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772122206412,
+    "commit": "https://github.com/openclaw/skills/commit/152be4ed3a4dcbf2e3e8ca25461aeb33b19b952b"
+  },
+  "history": []
+}

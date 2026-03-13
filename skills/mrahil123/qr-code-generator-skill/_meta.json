@@ -1,0 +1,11 @@
+{
+  "owner": "mrahil123",
+  "slug": "qr-code-generator-skill",
+  "displayName": "QR Code Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772001921714,
+    "commit": "https://github.com/openclaw/skills/commit/5b2fff870b4ef53ddeaea2399a35579d598c7d75"
+  },
+  "history": []
+}

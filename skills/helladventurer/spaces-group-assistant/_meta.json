@@ -1,0 +1,11 @@
+{
+  "owner": "helladventurer",
+  "slug": "spaces-group-assistant",
+  "displayName": "Spaces Group Assistant",
+  "latest": {
+    "version": "0.1.2",
+    "publishedAt": 1771355181779,
+    "commit": "https://github.com/openclaw/skills/commit/935d899b63c3de06a9595650f4f1cd876ee16326"
+  },
+  "history": []
+}

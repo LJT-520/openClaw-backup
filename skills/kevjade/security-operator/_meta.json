@@ -1,0 +1,17 @@
+{
+  "owner": "kevjade",
+  "slug": "security-operator",
+  "displayName": "Security Operator",
+  "latest": {
+    "version": "2.2.0",
+    "publishedAt": 1771691416466,
+    "commit": "https://github.com/openclaw/skills/commit/00c89f56495d804d3737b50e3eca4220dfc37652"
+  },
+  "history": [
+    {
+      "version": "2.0.0",
+      "publishedAt": 1771689338533,
+      "commit": "https://github.com/openclaw/skills/commit/107140b1ad32eb8a84461ccb3873fa0a0fe4c660"
+    }
+  ]
+}

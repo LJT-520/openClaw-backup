@@ -1,0 +1,22 @@
+{
+  "owner": "armandobrazil",
+  "slug": "humanod",
+  "displayName": "Humanod",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772534605269,
+    "commit": "https://github.com/openclaw/skills/commit/c897e09e7951b5797d7dbc347a818413aff3537d"
+  },
+  "history": [
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771593738789,
+      "commit": "https://github.com/openclaw/skills/commit/ab72baf4575082e0980618cdf259227303916b0c"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771350921342,
+      "commit": "https://github.com/openclaw/skills/commit/fa89052eaeb4631c4ae312f69f718e59fc3e9620"
+    }
+  ]
+}

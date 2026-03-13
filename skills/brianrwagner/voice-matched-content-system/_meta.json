@@ -1,0 +1,11 @@
+{
+  "owner": "brianrwagner",
+  "slug": "voice-matched-content-system",
+  "displayName": "Voice-Matched Content System",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771601407155,
+    "commit": "https://github.com/openclaw/skills/commit/8970690183e26d91b4a44382e299c57d602fdfb7"
+  },
+  "history": []
+}

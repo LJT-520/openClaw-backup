@@ -1,0 +1,11 @@
+{
+  "owner": "franklili3",
+  "slug": "local-mail-server",
+  "displayName": "Local Mail Server",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772616016384,
+    "commit": "https://github.com/openclaw/skills/commit/ed48a4cd7204831603e6af3b92fd5c1a848405e2"
+  },
+  "history": []
+}

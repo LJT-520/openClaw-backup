@@ -1,0 +1,22 @@
+{
+  "owner": "aviclaw",
+  "slug": "lighter",
+  "displayName": "Lighter",
+  "latest": {
+    "version": "2.0.1",
+    "publishedAt": 1772204367094,
+    "commit": "https://github.com/openclaw/skills/commit/ccdf45bfedd37f55ebdab9da8ff31a683fb68298"
+  },
+  "history": [
+    {
+      "version": "3.0.0",
+      "publishedAt": 1771479015897,
+      "commit": "https://github.com/openclaw/skills/commit/931590715160694639e1365ba861d4f15697f6b9"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771472057581,
+      "commit": "https://github.com/openclaw/skills/commit/e4d1faee278aa4b6cad433fbc1425bd6b1db7116"
+    }
+  ]
+}

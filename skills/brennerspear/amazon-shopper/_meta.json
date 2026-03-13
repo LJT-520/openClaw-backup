@@ -1,0 +1,11 @@
+{
+  "owner": "brennerspear",
+  "slug": "amazon-shopper",
+  "displayName": "Amazon Shopper",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772022409084,
+    "commit": "https://github.com/openclaw/skills/commit/727b31030791edcf2fe762b7636700a0a4b440ef"
+  },
+  "history": []
+}

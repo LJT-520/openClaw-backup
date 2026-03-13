@@ -1,0 +1,11 @@
+{
+  "owner": "jeremydouglaslaw-ui",
+  "slug": "mlb-daily-scores",
+  "displayName": "MLB Daily Scores",
+  "latest": {
+    "version": "1.0.13",
+    "publishedAt": 1772204469326,
+    "commit": "https://github.com/openclaw/skills/commit/0ff165854dae3c40c7d2de207be17caeb980ce4d"
+  },
+  "history": []
+}

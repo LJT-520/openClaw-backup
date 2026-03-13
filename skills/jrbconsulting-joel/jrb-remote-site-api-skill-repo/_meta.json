@@ -1,0 +1,11 @@
+{
+  "owner": "jrbconsulting-joel",
+  "slug": "jrb-remote-site-api-skill-repo",
+  "displayName": "Jrb Remote Site Api Skill Repo",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772170192110,
+    "commit": "https://github.com/openclaw/skills/commit/8d7f22948db824bba182f807dddcbfd27e601b33"
+  },
+  "history": []
+}

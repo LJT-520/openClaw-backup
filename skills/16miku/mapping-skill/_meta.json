@@ -1,0 +1,11 @@
+{
+  "owner": "16miku",
+  "slug": "mapping-skill",
+  "displayName": "奇绩Mapping工作流Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772638048642,
+    "commit": "https://github.com/openclaw/skills/commit/d98e339b7a380833902de2395b47a3ba4c0cbd72"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "evolinkai",
+  "slug": "evolink-image",
+  "displayName": "Evolink Image — AI Image Generation (GPT Image, Nano Banana 2, Seedream, GPT-4o)",
+  "latest": {
+    "version": "1.4.0",
+    "publishedAt": 1772126977478,
+    "commit": "https://github.com/openclaw/skills/commit/216359679e77eacd9c8ede8245230185104261be"
+  },
+  "history": [
+    {
+      "version": "1.3.4",
+      "publishedAt": 1772108334146,
+      "commit": "https://github.com/openclaw/skills/commit/9623be583c3ac4af4878b6c2c6333bb13d0bf83b"
+    }
+  ]
+}

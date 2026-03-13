@@ -1,0 +1,11 @@
+{
+  "owner": "ant-1984",
+  "slug": "send-message",
+  "displayName": "Send Message",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772374777530,
+    "commit": "https://github.com/openclaw/skills/commit/556e06fd4eaa91f370566abdd29b7642ba1875c1"
+  },
+  "history": []
+}

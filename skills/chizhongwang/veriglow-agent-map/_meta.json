@@ -1,0 +1,11 @@
+{
+  "owner": "chizhongwang",
+  "slug": "veriglow-agent-map",
+  "displayName": "VeriGlow Agent Map",
+  "latest": {
+    "version": "0.2.0",
+    "publishedAt": 1772675361863,
+    "commit": "https://github.com/openclaw/skills/commit/1d147abe1940c625e8f5b86d7e7ee3d3903685bd"
+  },
+  "history": []
+}

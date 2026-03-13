@@ -1,0 +1,11 @@
+{
+  "owner": "eldan445",
+  "slug": "payroll-oracle",
+  "displayName": "Payroll Oracle",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772016546081,
+    "commit": "https://github.com/openclaw/skills/commit/b5ae734ee898a40c1c07a397d8a8727badf0dda7"
+  },
+  "history": []
+}

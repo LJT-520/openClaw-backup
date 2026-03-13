@@ -1,0 +1,22 @@
+{
+  "owner": "jasonruan",
+  "slug": "agentxpay",
+  "displayName": "AgentXPay",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772200698171,
+    "commit": "https://github.com/openclaw/skills/commit/16b89bb03fe54160c696f6c60863453a7287f723"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1772028577314,
+      "commit": "https://github.com/openclaw/skills/commit/7346cdd972bcbc2205b2a883c489656712ee3147"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771928457078,
+      "commit": "https://github.com/openclaw/skills/commit/a1820555a9c75e7b07af9d6b778bbc503fdb9a51"
+    }
+  ]
+}

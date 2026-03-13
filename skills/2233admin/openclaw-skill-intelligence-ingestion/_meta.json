@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "openclaw-skill-intelligence-ingestion",
+  "displayName": "Openclaw Skill Intelligence Ingestion",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771842953611,
+    "commit": "https://github.com/openclaw/skills/commit/db8a4d68311b0760099d21a5332e76b5664c151e"
+  },
+  "history": []
+}

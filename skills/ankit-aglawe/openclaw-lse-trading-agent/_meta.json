@@ -1,0 +1,11 @@
+{
+  "owner": "ankit-aglawe",
+  "slug": "openclaw-lse-trading-agent",
+  "displayName": "Lse Trading Agent",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772628880082,
+    "commit": "https://github.com/openclaw/skills/commit/907d39930e6a417ccee3eff0c317ba6fb162faae"
+  },
+  "history": []
+}

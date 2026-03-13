@@ -1,0 +1,11 @@
+{
+  "owner": "jwl1992",
+  "slug": "audio-editor",
+  "displayName": "Audio Editor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772272286585,
+    "commit": "https://github.com/openclaw/skills/commit/84030ae43e113611b97ffc9ad795a37d13396bf2"
+  },
+  "history": []
+}

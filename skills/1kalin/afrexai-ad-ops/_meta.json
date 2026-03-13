@@ -1,0 +1,17 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-ad-ops",
+  "displayName": "Ad Ops & Cross-Channel Advertising Agent",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771782207305,
+    "commit": "https://github.com/openclaw/skills/commit/ee4803032e50cb0a39eae2d715b92f40975e6cf8"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771526638533,
+      "commit": "https://github.com/openclaw/skills/commit/aed8a734c2e757ff51358ec7cedc21b05670ed49"
+    }
+  ]
+}

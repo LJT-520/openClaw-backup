@@ -1,0 +1,11 @@
+{
+  "owner": "mupengi-bot",
+  "slug": "autonomy-gate",
+  "displayName": "autonomy-gate",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772292780325,
+    "commit": "https://github.com/openclaw/skills/commit/72f143acd9b693673777c7cbc83e2cd59e970e55"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "membranedev",
+  "slug": "slack-integration",
+  "displayName": "Slack",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772585086262,
+    "commit": "https://github.com/openclaw/skills/commit/66521aa760f1431f72bdbf8ff666e3975258b63a"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772580660006,
+      "commit": "https://github.com/openclaw/skills/commit/0c432a3ddf80e7a78e998198e81147495e3dfdc1"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "spot-strategy",
+  "displayName": "Spot Strategy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772359584271,
+    "commit": "https://github.com/openclaw/skills/commit/b6321e37499c26d4611bd5c730f9cec23d1dc701"
+  },
+  "history": []
+}

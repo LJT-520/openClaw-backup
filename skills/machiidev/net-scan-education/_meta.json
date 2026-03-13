@@ -1,0 +1,11 @@
+{
+  "owner": "machiidev",
+  "slug": "net-scan-education",
+  "displayName": "Net Scan Education",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771680755246,
+    "commit": "https://github.com/openclaw/skills/commit/4e5dadf9663388e9bbc1cb01a4b28203b63dd42f"
+  },
+  "history": []
+}

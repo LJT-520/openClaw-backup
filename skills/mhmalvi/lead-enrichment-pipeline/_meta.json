@@ -1,0 +1,17 @@
+{
+  "owner": "mhmalvi",
+  "slug": "lead-enrichment-pipeline",
+  "displayName": "Lead Enrichment Pipeline",
+  "latest": {
+    "version": "1.2.3",
+    "publishedAt": 1772563454306,
+    "commit": "https://github.com/openclaw/skills/commit/7aa73dafef67fbffb3e9552a566058e79fc1bb0f"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1772550479042,
+      "commit": "https://github.com/openclaw/skills/commit/9d81913b1dd5b753c81b7986b9b34251e0748d4d"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "huilingp",
+  "slug": "intent-guardian",
+  "displayName": "Intent Guardian",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772117568311,
+    "commit": "https://github.com/openclaw/skills/commit/6bb3bebdf014d056da74f4e13ebe463422f0f18d"
+  },
+  "history": []
+}

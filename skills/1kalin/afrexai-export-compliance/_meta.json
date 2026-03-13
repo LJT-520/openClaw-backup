@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-export-compliance",
+  "displayName": "Export Compliance & Trade Controls",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771785856280,
+    "commit": "https://github.com/openclaw/skills/commit/df069787134e7fdae775422e14ec6ceb80ce6f64"
+  },
+  "history": []
+}

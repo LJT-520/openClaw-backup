@@ -1,0 +1,47 @@
+{
+  "owner": "googlarz",
+  "slug": "proactive-claw",
+  "displayName": "Proactive Claw",
+  "latest": {
+    "version": "1.2.32",
+    "publishedAt": 1771845148189,
+    "commit": "https://github.com/openclaw/skills/commit/18a82cd6272d87c32b08656e079a9a4bf0367e5e"
+  },
+  "history": [
+    {
+      "version": "1.2.18",
+      "publishedAt": 1771785918859,
+      "commit": "https://github.com/openclaw/skills/commit/9962f4e2fb73c81def680be2e82de2b67c1b2c29"
+    },
+    {
+      "version": "1.2.13",
+      "publishedAt": 1771768356818,
+      "commit": "https://github.com/openclaw/skills/commit/310ace92300b85f9b2167c8215ed50f7788e777f"
+    },
+    {
+      "version": "1.2.12",
+      "publishedAt": 1771767578407,
+      "commit": "https://github.com/openclaw/skills/commit/1ac8d4f53ff2854b8b0bba9d100017310584f5a5"
+    },
+    {
+      "version": "1.2.3",
+      "publishedAt": 1771661838266,
+      "commit": "https://github.com/openclaw/skills/commit/b95d61c75cb756553bf6a65400450cc069540683"
+    },
+    {
+      "version": "1.2.1",
+      "publishedAt": 1771659806043,
+      "commit": "https://github.com/openclaw/skills/commit/05781c6fee2b5b1ee250e229d8580498948590de"
+    },
+    {
+      "version": "1.1.9",
+      "publishedAt": 1771596037836,
+      "commit": "https://github.com/openclaw/skills/commit/7b94e295106d1ba163ad2ff6076e0a2fb88cd854"
+    },
+    {
+      "version": "1.1.7",
+      "publishedAt": 1771594883362,
+      "commit": "https://github.com/openclaw/skills/commit/7126679c1e204a8cf74c27540f8198a12c302609"
+    }
+  ]
+}

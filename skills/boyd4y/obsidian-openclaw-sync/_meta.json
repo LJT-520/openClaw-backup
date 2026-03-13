@@ -1,0 +1,17 @@
+{
+  "owner": "boyd4y",
+  "slug": "obsidian-openclaw-sync",
+  "displayName": "Obsidian Openclaw Sync",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772417031787,
+    "commit": "https://github.com/openclaw/skills/commit/ba5093d7dc95d85060e341d5eae8266019f78965"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772361350612,
+      "commit": "https://github.com/openclaw/skills/commit/031317fbbaea6a6a08a21fe3cd5f3c9ac296ed72"
+    }
+  ]
+}

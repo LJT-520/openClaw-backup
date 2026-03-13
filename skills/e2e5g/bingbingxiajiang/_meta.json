@@ -1,0 +1,17 @@
+{
+  "owner": "e2e5g",
+  "slug": "bingbingxiajiang",
+  "displayName": "蜂兵虾将",
+  "latest": {
+    "version": "1.4.1",
+    "publishedAt": 1772506974925,
+    "commit": "https://github.com/openclaw/skills/commit/ee2c334746efd466c5973f0ca90c9874e1990255"
+  },
+  "history": [
+    {
+      "version": "2.0.0",
+      "publishedAt": 1772163811749,
+      "commit": "https://github.com/openclaw/skills/commit/0bf2fc073dc08b38e5b81473d492d20578995225"
+    }
+  ]
+}

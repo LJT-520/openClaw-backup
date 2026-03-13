@@ -1,0 +1,17 @@
+{
+  "owner": "byungkyu",
+  "slug": "granola-api",
+  "displayName": "Granola",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772498428529,
+    "commit": "https://github.com/openclaw/skills/commit/107cdb7a0c8b1c540fc6221f2b20c54db0b16188"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771935255154,
+      "commit": "https://github.com/openclaw/skills/commit/0c403666441645209396015f3242f582738b2233"
+    }
+  ]
+}

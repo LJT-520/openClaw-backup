@@ -1,0 +1,11 @@
+{
+  "owner": "dennisooki",
+  "slug": "opensubtitles",
+  "displayName": "OpenSubtitles Read-only",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772164943995,
+    "commit": "https://github.com/openclaw/skills/commit/2655955a49e3b12128dc2131179624007b23ba2c"
+  },
+  "history": []
+}

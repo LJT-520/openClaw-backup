@@ -1,0 +1,11 @@
+{
+  "owner": "davfd",
+  "slug": "goyfiles-epstein",
+  "displayName": "Epstein Detective",
+  "latest": {
+    "version": "6.5.1",
+    "publishedAt": 1771992620014,
+    "commit": "https://github.com/openclaw/skills/commit/df4d157bedbdb6025d4b5c7ff5535bbe991e08f1"
+  },
+  "history": []
+}

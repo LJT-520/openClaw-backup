@@ -1,0 +1,17 @@
+{
+  "owner": "luigi08001",
+  "slug": "gmail-to-outlook",
+  "displayName": "Gmail To Outlook",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771501864182,
+    "commit": "https://github.com/openclaw/skills/commit/f0b96cdf99bd92683d0285b342a66e5252efb35f"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771349181258,
+      "commit": "https://github.com/openclaw/skills/commit/70b473396e7a54906c0d85d5e1c617c2872c20bc"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "anbeime",
+  "slug": "video-creation-suite",
+  "displayName": "视频创作",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772334282243,
+    "commit": "https://github.com/openclaw/skills/commit/9af281497421346db4dfe85fdfbf103005e6ca5d"
+  },
+  "history": []
+}

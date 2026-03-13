@@ -1,0 +1,11 @@
+{
+  "owner": "arplus",
+  "slug": "teamagent",
+  "displayName": "TeamAgent",
+  "latest": {
+    "version": "1.0.13",
+    "publishedAt": 1772185723440,
+    "commit": "https://github.com/openclaw/skills/commit/442f341bd75e1758d27951f87613e46783ecf9a6"
+  },
+  "history": []
+}

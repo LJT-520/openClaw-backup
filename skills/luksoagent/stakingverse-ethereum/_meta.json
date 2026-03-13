@@ -1,0 +1,11 @@
+{
+  "owner": "luksoagent",
+  "slug": "stakingverse-ethereum",
+  "displayName": "Stakingverse Ethereum",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771514132820,
+    "commit": "https://github.com/openclaw/skills/commit/aeb0534c71b47f25c3a49ede9c744800870135d0"
+  },
+  "history": []
+}

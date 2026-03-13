@@ -1,0 +1,11 @@
+{
+  "owner": "chordlini",
+  "slug": "dwnldr",
+  "displayName": "Dwnldr",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771576570801,
+    "commit": "https://github.com/openclaw/skills/commit/01c34a0f642d68e0fc134467fb2f97635f2da343"
+  },
+  "history": []
+}

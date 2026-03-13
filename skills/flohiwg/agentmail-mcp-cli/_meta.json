@@ -1,0 +1,11 @@
+{
+  "owner": "flohiwg",
+  "slug": "agentmail-mcp-cli",
+  "displayName": "AgentMail MCP CLI",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772193805993,
+    "commit": "https://github.com/openclaw/skills/commit/819afd95607277303d305c9d3d40093db3e28d5a"
+  },
+  "history": []
+}

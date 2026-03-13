@@ -1,0 +1,11 @@
+{
+  "owner": "mariusfit",
+  "slug": "service-watchdog",
+  "displayName": "Service Watchdog",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771952023893,
+    "commit": "https://github.com/openclaw/skills/commit/d0eda928b0f278118828ab33a0db465cc1fbcf8e"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "manuelfelipearias",
+  "slug": "mcp-colombia",
+  "displayName": "MCP Colombia",
+  "latest": {
+    "version": "1.0.9",
+    "publishedAt": 1772424233213,
+    "commit": "https://github.com/openclaw/skills/commit/8c805e8dabec012de2a7e56da78ae558cff8d898"
+  },
+  "history": [
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771982661861,
+      "commit": "https://github.com/openclaw/skills/commit/a31bb1402196b4b60c11918860dbd38d930418a6"
+    }
+  ]
+}

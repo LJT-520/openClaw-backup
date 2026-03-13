@@ -1,0 +1,17 @@
+{
+  "owner": "bevanding",
+  "slug": "web3-investor",
+  "displayName": "Web3 Investor",
+  "latest": {
+    "version": "0.2.2",
+    "publishedAt": 1772623315892,
+    "commit": "https://github.com/openclaw/skills/commit/82b73c383d797f27169fe55638f22cbf17bf4c9a"
+  },
+  "history": [
+    {
+      "version": "0.1.0-demo",
+      "publishedAt": 1772536273560,
+      "commit": "https://github.com/openclaw/skills/commit/8dbab623579dbdb21fdaa4dedbefdf5e13c83da5"
+    }
+  ]
+}

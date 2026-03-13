@@ -1,0 +1,22 @@
+{
+  "owner": "bolander72",
+  "slug": "imessage-voice-reply",
+  "displayName": "iMessage Voice Reply",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772171705614,
+    "commit": "https://github.com/openclaw/skills/commit/22f76c9cc256ec2160d71bcf42218855ccf68a07"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772083853604,
+      "commit": "https://github.com/openclaw/skills/commit/2c922670a05e6450490eea85ec559332d3f0e0ab"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771643429904,
+      "commit": "https://github.com/openclaw/skills/commit/9e9244188376ef1ae731db90e41034be47562e36"
+    }
+  ]
+}

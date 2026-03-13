@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-building-permits",
+  "displayName": "Building Permit & Construction Permitting",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771978456601,
+    "commit": "https://github.com/openclaw/skills/commit/9cc0e6a1d32ddac57c0322d261682f457789cd35"
+  },
+  "history": []
+}

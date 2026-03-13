@@ -1,0 +1,11 @@
+{
+  "owner": "makforce",
+  "slug": "browser-use-1-0-0",
+  "displayName": "Browser Use 1.0.0",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771795806607,
+    "commit": "https://github.com/openclaw/skills/commit/477c37d073109afd8821bf1a7885b917a76799c5"
+  },
+  "history": []
+}

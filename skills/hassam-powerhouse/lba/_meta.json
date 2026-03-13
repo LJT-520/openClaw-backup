@@ -1,0 +1,11 @@
+{
+  "owner": "hassam-powerhouse",
+  "slug": "lba",
+  "displayName": "LBA",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772067934521,
+    "commit": "https://github.com/openclaw/skills/commit/faa111e16883762f990b4aa0ac4eed7c48f51219"
+  },
+  "history": []
+}

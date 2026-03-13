@@ -1,0 +1,11 @@
+{
+  "owner": "asif2bd",
+  "slug": "openclaw-tour-planner",
+  "displayName": "OpenCLAW Tour Planner",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772243072099,
+    "commit": "https://github.com/openclaw/skills/commit/318e56d6207496ee248586cad69fa48c6553dab7"
+  },
+  "history": []
+}

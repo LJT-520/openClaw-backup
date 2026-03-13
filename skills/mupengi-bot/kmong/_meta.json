@@ -1,0 +1,11 @@
+{
+  "owner": "mupengi-bot",
+  "slug": "kmong",
+  "displayName": "kmong",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772292825000,
+    "commit": "https://github.com/openclaw/skills/commit/bd7d5826587236092d3875aaf550b9a6a7c6767e"
+  },
+  "history": []
+}

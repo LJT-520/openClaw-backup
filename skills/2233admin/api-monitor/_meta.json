@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "api-monitor",
+  "displayName": "API配额监控与手动切换",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771818398972,
+    "commit": "https://github.com/openclaw/skills/commit/8a29ac8599538187a3dbff0430a379bbf7197590"
+  },
+  "history": []
+}

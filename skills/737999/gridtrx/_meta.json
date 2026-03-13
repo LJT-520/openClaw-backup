@@ -1,0 +1,17 @@
+{
+  "owner": "737999",
+  "slug": "gridtrx",
+  "displayName": "GridTRX",
+  "latest": {
+    "version": "0.1.20",
+    "publishedAt": 1772552909157,
+    "commit": "https://github.com/openclaw/skills/commit/8b693c482fc40661ef5f564f7b25081ccd43046c"
+  },
+  "history": [
+    {
+      "version": "0.1.17",
+      "publishedAt": 1772478208883,
+      "commit": "https://github.com/openclaw/skills/commit/0a49423d061c8fe75d09694e5e9b8d93f2e1f67e"
+    }
+  ]
+}

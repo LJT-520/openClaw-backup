@@ -1,0 +1,17 @@
+{
+  "owner": "nickfiorani",
+  "slug": "fundamental-stock-analysis",
+  "displayName": "Fundamental Stock Analysis",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772061333556,
+    "commit": "https://github.com/openclaw/skills/commit/24ccd446500a57fa8bd847cc6b94fab1e4986eef"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771537513651,
+      "commit": "https://github.com/openclaw/skills/commit/2070edaa2e039bc02b0dcb07c6c522bbc68c9766"
+    }
+  ]
+}

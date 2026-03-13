@@ -1,0 +1,11 @@
+{
+  "owner": "aniebyl",
+  "slug": "olo-sec-scanner",
+  "displayName": "SEC Filing Scanner for M&A",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772423650784,
+    "commit": "https://github.com/openclaw/skills/commit/4a542e5b2056f2958269419c039d3ecf6fdd95c7"
+  },
+  "history": []
+}

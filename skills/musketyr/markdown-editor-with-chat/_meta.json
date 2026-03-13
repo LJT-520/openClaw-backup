@@ -1,0 +1,17 @@
+{
+  "owner": "musketyr",
+  "slug": "markdown-editor-with-chat",
+  "displayName": "Markdown Editor With Chat",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1771777782582,
+    "commit": "https://github.com/openclaw/skills/commit/3d8b82aec134d9f7243b5f3f1f5fe907badd7fd1"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771766882081,
+      "commit": "https://github.com/openclaw/skills/commit/6fa37c0dac6a7045e692d16b5304326497b49418"
+    }
+  ]
+}

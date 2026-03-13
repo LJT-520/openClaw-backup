@@ -1,0 +1,27 @@
+{
+  "owner": "jdrhyne",
+  "slug": "context-recovery",
+  "displayName": "Context Recovery",
+  "latest": {
+    "version": "1.2.2",
+    "publishedAt": 1772258477063,
+    "commit": "https://github.com/openclaw/skills/commit/348b88c5a07af108d47eb002f09c99f94433149e"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1772253019639,
+      "commit": "https://github.com/openclaw/skills/commit/81f21206fd87e437c678ee869837d8662233d173"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1770352565944,
+      "commit": "https://github.com/openclaw/skills/commit/5afbe35ea34f04b2009c995337a5aa68ddd53cbf"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1769388499984,
+      "commit": "https://github.com/clawdbot/skills/commit/c6bbf8f937d036cf2384ccbe73333db7745f43a8"
+    }
+  ]
+}

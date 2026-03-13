@@ -1,0 +1,11 @@
+{
+  "owner": "nabilrehman",
+  "slug": "clawdoctor",
+  "displayName": "ClawDoctor",
+  "latest": {
+    "version": "4.0.0",
+    "publishedAt": 1771838234070,
+    "commit": "https://github.com/openclaw/skills/commit/4cb9c768b0f35d6cd394e9511e3f719816680143"
+  },
+  "history": []
+}

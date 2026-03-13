@@ -1,0 +1,17 @@
+{
+  "owner": "admin4giter",
+  "slug": "tor-browser",
+  "displayName": "Tor Browser Automation",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1771603044424,
+    "commit": "https://github.com/openclaw/skills/commit/f1d71ac489223d6e942d62935444392cc4beeb0a"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771582566656,
+      "commit": "https://github.com/openclaw/skills/commit/4b19d76cc6e62ea60d7da6a89e9ff8ffdfddac0f"
+    }
+  ]
+}

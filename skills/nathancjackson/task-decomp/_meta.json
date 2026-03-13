@@ -1,0 +1,11 @@
+{
+  "owner": "nathancjackson",
+  "slug": "task-decomp",
+  "displayName": "Task Decomposition",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772559397368,
+    "commit": "https://github.com/openclaw/skills/commit/c8426a9ae2006e4521accc8cbc1932cb4de98578"
+  },
+  "history": []
+}

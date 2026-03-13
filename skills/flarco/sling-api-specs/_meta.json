@@ -1,0 +1,11 @@
+{
+  "owner": "flarco",
+  "slug": "sling-api-specs",
+  "displayName": "Slingdata.io API Spec",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772130377030,
+    "commit": "https://github.com/openclaw/skills/commit/b86014c4025771ecebd5b6121cb396e8090c0831"
+  },
+  "history": []
+}

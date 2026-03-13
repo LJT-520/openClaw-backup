@@ -1,0 +1,11 @@
+{
+  "owner": "e421083458",
+  "slug": "jarvis-tts",
+  "displayName": "Jarvis Tts",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771705960557,
+    "commit": "https://github.com/openclaw/skills/commit/093d5b5fc744c48d845493c3cd0083368faf68fd"
+  },
+  "history": []
+}

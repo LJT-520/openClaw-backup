@@ -1,0 +1,11 @@
+{
+  "owner": "muninn-huginn",
+  "slug": "sendme-skill",
+  "displayName": "Sendme",
+  "latest": {
+    "version": "0.1.4",
+    "publishedAt": 1771743595916,
+    "commit": "https://github.com/openclaw/skills/commit/8588a7119aad2df9054fd4d992703908c1aa8297"
+  },
+  "history": []
+}

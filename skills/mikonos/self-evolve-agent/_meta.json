@@ -1,0 +1,11 @@
+{
+  "owner": "mikonos",
+  "slug": "self-evolve-agent",
+  "displayName": "Self Evolve",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1772188342202,
+    "commit": "https://github.com/openclaw/skills/commit/15403b0cc94f2da68405e79f12c1a2b1556304de"
+  },
+  "history": []
+}

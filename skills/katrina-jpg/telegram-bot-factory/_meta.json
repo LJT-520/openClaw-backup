@@ -1,0 +1,11 @@
+{
+  "owner": "katrina-jpg",
+  "slug": "telegram-bot-factory",
+  "displayName": "Telegram Bot Factory",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771543949196,
+    "commit": "https://github.com/openclaw/skills/commit/dc5c3c5457538c723bff895b62481959b77bcf27"
+  },
+  "history": []
+}

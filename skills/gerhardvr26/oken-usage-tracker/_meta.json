@@ -1,0 +1,11 @@
+{
+  "owner": "gerhardvr26",
+  "slug": "oken-usage-tracker",
+  "displayName": "Token Usage Tracker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772307046120,
+    "commit": "https://github.com/openclaw/skills/commit/db41fdd63aea733ae7ed4150c19799c170ca0565"
+  },
+  "history": []
+}

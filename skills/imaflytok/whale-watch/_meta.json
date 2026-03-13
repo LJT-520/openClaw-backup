@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "whale-watch",
+  "displayName": "Whale Watch",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772379017444,
+    "commit": "https://github.com/openclaw/skills/commit/5b8821c75fbc34338d8b18cbd387cd014af688fa"
+  },
+  "history": []
+}

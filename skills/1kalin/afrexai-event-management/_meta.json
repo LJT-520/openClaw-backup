@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-event-management",
+  "displayName": "Event Management",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771608297196,
+    "commit": "https://github.com/openclaw/skills/commit/13ccc5aa6828bb304077d576b7ac9d554fde060b"
+  },
+  "history": []
+}

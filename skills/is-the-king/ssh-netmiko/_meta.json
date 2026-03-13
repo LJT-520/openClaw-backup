@@ -1,0 +1,11 @@
+{
+  "owner": "is-the-king",
+  "slug": "ssh-netmiko",
+  "displayName": "netmiko ssh",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772060658818,
+    "commit": "https://github.com/openclaw/skills/commit/6d123de58c199456d7f26719c1c6f70d7e00bb76"
+  },
+  "history": []
+}

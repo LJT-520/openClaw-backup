@@ -1,0 +1,11 @@
+{
+  "owner": "gs431047",
+  "slug": "voice2text",
+  "displayName": "Voice2text",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772391757921,
+    "commit": "https://github.com/openclaw/skills/commit/71282c15780ad48d818f3f222002a7eee725e748"
+  },
+  "history": []
+}

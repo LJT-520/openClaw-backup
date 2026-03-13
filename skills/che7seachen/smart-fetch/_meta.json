@@ -1,0 +1,11 @@
+{
+  "owner": "che7seachen",
+  "slug": "smart-fetch",
+  "displayName": "Smart Fetch",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1771896301415,
+    "commit": "https://github.com/openclaw/skills/commit/cc9d0da86c8e3380e1f50682c204ee058c1eb10b"
+  },
+  "history": []
+}

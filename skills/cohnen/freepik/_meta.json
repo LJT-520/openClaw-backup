@@ -1,0 +1,17 @@
+{
+  "owner": "cohnen",
+  "slug": "freepik",
+  "displayName": "Freepik",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772188296452,
+    "commit": "https://github.com/openclaw/skills/commit/3d0a35ac6216ca90b0ac51a95b5f2d4883819e59"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771406795962,
+      "commit": "https://github.com/openclaw/skills/commit/f09dd6f27f3be4031998728c494d96afdb566f78"
+    }
+  ]
+}

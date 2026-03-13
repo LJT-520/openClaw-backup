@@ -1,0 +1,11 @@
+{
+  "owner": "digidai",
+  "slug": "pm-agent",
+  "displayName": "Product Manager",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772555181756,
+    "commit": "https://github.com/openclaw/skills/commit/b99cc90d27d0fcd5e9e44cf20099ddebf04dadfa"
+  },
+  "history": []
+}

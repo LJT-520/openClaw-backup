@@ -1,0 +1,11 @@
+{
+  "owner": "killgfat",
+  "slug": "apktool",
+  "displayName": "Apktool",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1772264359485,
+    "commit": "https://github.com/openclaw/skills/commit/d24a2bea34ab6f4c5914431d37d2c04d8a4a73d8"
+  },
+  "history": []
+}

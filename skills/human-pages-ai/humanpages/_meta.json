@@ -1,0 +1,11 @@
+{
+  "owner": "human-pages-ai",
+  "slug": "humanpages",
+  "displayName": "Human Pages",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772098312910,
+    "commit": "https://github.com/openclaw/skills/commit/a5e4233cf425ad210529da89a718d27a519014a2"
+  },
+  "history": []
+}

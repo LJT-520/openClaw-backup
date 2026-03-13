@@ -1,0 +1,22 @@
+{
+  "owner": "nicolas-m-design",
+  "slug": "continuous-user-research",
+  "displayName": "Continuous User Research",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772637510354,
+    "commit": "https://github.com/openclaw/skills/commit/faa618671ea2e0d4a2c2de8920069a702b0b6cc3"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1772624838100,
+      "commit": "https://github.com/openclaw/skills/commit/71cf163e80bd71a577a191076b23625f15f9953c"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772624695311,
+      "commit": "https://github.com/openclaw/skills/commit/89e87b1f170ebea0efd3fc82d52d76da942d8017"
+    }
+  ]
+}

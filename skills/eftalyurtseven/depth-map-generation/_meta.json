@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "depth-map-generation",
+  "displayName": "Depth Map Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771595283111,
+    "commit": "https://github.com/openclaw/skills/commit/ce5e08d5e49307b7a0af34bc0021960f9c943776"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "godzff",
+  "slug": "feishu-voice-lobster",
+  "displayName": "飞书语音",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771862802363,
+    "commit": "https://github.com/openclaw/skills/commit/59f3b40f9098a2b1e1946d0bd391a3ca8f7d0237"
+  },
+  "history": []
+}

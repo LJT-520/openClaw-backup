@@ -1,0 +1,27 @@
+{
+  "owner": "abdullah4ai",
+  "slug": "apple-developer-toolkit",
+  "displayName": "Apple Developer Toolkit",
+  "latest": {
+    "version": "1.260225.3",
+    "publishedAt": 1772024910167,
+    "commit": "https://github.com/openclaw/skills/commit/7b8bb02804c384409231395185fb7dc880f5eceb"
+  },
+  "history": [
+    {
+      "version": "4.0.0",
+      "publishedAt": 1771791686937,
+      "commit": "https://github.com/openclaw/skills/commit/6fb9145a0de9422b6024f2bdba3544f4a953fe66"
+    },
+    {
+      "version": "1.3.5",
+      "publishedAt": 1771755575931,
+      "commit": "https://github.com/openclaw/skills/commit/f94d0c8dcdf242382eba9244686770c6a3b34865"
+    },
+    {
+      "version": "3.0.0",
+      "publishedAt": 1771683401087,
+      "commit": "https://github.com/openclaw/skills/commit/e1f50afc20acaeebaca82ba71b7062ba2daa15c7"
+    }
+  ]
+}

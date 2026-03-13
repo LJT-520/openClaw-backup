@@ -1,0 +1,11 @@
+{
+  "owner": "brandonwadepackard-cell",
+  "slug": "domain-email-forwarding",
+  "displayName": "Domain Email Forwarding",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771920483689,
+    "commit": "https://github.com/openclaw/skills/commit/5e1dd2ce553fed7a9b2d46fa5675688d71142c3b"
+  },
+  "history": []
+}

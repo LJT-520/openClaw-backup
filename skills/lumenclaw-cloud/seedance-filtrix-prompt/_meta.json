@@ -1,0 +1,11 @@
+{
+  "owner": "lumenclaw-cloud",
+  "slug": "seedance-filtrix-prompt",
+  "displayName": "SeaDance Filtrix Prompting",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771921351611,
+    "commit": "https://github.com/openclaw/skills/commit/31db1460ad384885cf4a7b6cdf9ff2659b4a20a2"
+  },
+  "history": []
+}

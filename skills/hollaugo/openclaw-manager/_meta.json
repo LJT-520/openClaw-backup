@@ -1,0 +1,11 @@
+{
+  "owner": "hollaugo",
+  "slug": "openclaw-manager",
+  "displayName": "Openclaw Manager",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772174636860,
+    "commit": "https://github.com/openclaw/skills/commit/796870c5d8ce1590ceb964f7ae2a9ee505550edf"
+  },
+  "history": []
+}

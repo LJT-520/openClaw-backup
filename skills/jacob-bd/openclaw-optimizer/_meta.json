@@ -1,0 +1,11 @@
+{
+  "owner": "jacob-bd",
+  "slug": "openclaw-optimizer",
+  "displayName": "Openclaw Optimizer",
+  "latest": {
+    "version": "1.16.1",
+    "publishedAt": 1772299694338,
+    "commit": "https://github.com/openclaw/skills/commit/1308d36894a3faac9b5a3d8d82bd1e1a9e389fc2"
+  },
+  "history": []
+}

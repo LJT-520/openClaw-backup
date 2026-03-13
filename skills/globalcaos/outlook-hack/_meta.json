@@ -1,0 +1,27 @@
+{
+  "owner": "globalcaos",
+  "slug": "outlook-hack",
+  "displayName": "Outlook Hack",
+  "latest": {
+    "version": "5.0.0",
+    "publishedAt": 1771959955521,
+    "commit": "https://github.com/openclaw/skills/commit/4189d6cbc539b424a1088be22774482ef9a2b83d"
+  },
+  "history": [
+    {
+      "version": "3.0.0",
+      "publishedAt": 1771795386011,
+      "commit": "https://github.com/openclaw/skills/commit/9e5d7b3da03e481c1ee59c59283544173af4aec9"
+    },
+    {
+      "version": "2.6.0",
+      "publishedAt": 1771630495402,
+      "commit": "https://github.com/openclaw/skills/commit/e45018bc2d90e92932cfda8953c850a2233c1e11"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771118255011,
+      "commit": "https://github.com/openclaw/skills/commit/260563e7384cc0715d5a7283f625afd296057e2f"
+    }
+  ]
+}

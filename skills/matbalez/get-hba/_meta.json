@@ -1,0 +1,17 @@
+{
+  "owner": "matbalez",
+  "slug": "get-hba",
+  "displayName": "Get a clank.money Human Bitcoin Address",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772056951042,
+    "commit": "https://github.com/openclaw/skills/commit/4ae4aef9aed263afe0e4fa89145360ea05208fd3"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771878559205,
+      "commit": "https://github.com/openclaw/skills/commit/c085dedff84baae243f2e2b054e6a17cea6b3a7e"
+    }
+  ]
+}

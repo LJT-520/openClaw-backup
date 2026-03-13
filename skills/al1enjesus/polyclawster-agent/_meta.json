@@ -1,0 +1,11 @@
+{
+  "owner": "al1enjesus",
+  "slug": "polyclawster-agent",
+  "displayName": "Polyclawster Agent",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772561188832,
+    "commit": "https://github.com/openclaw/skills/commit/049aa44b01db66c1138dd7ae4706dbb3e181ea2f"
+  },
+  "history": []
+}

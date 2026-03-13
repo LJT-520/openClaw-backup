@@ -1,0 +1,11 @@
+{
+  "owner": "anbring",
+  "slug": "summary",
+  "displayName": "test-summary",
+  "latest": {
+    "version": "0.0.1",
+    "publishedAt": 1772273148699,
+    "commit": "https://github.com/openclaw/skills/commit/b02f363c2be40dc211c0f77cb19b3e8c70378100"
+  },
+  "history": []
+}

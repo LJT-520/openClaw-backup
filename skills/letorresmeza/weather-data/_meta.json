@@ -1,0 +1,11 @@
+{
+  "owner": "letorresmeza",
+  "slug": "weather-data",
+  "displayName": "Weather Data API",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771886678957,
+    "commit": "https://github.com/openclaw/skills/commit/44d42b71ba6d2ef16f680ace757563b92a7e596d"
+  },
+  "history": []
+}

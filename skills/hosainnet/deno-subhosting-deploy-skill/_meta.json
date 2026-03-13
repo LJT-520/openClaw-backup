@@ -1,0 +1,11 @@
+{
+  "owner": "hosainnet",
+  "slug": "deno-subhosting-deploy-skill",
+  "displayName": "Deno Deploy",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772208377187,
+    "commit": "https://github.com/openclaw/skills/commit/b2698ff2b8eccb0dc0bccb60d7e2d80204f0ccce"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "katrina-jpg",
+  "slug": "automated-tweet-scheduler",
+  "displayName": "Automated Tweet Scheduler",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771544216292,
+    "commit": "https://github.com/openclaw/skills/commit/9d9fe026fc7be375138bd73a1b9c23b58999f5fe"
+  },
+  "history": []
+}

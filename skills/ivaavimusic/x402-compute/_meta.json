@@ -1,0 +1,27 @@
+{
+  "owner": "ivaavimusic",
+  "slug": "x402-compute",
+  "displayName": "x402 Compute",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1771595637206,
+    "commit": "https://github.com/openclaw/skills/commit/7e7d7562aa012098b318b12bf6c891692e520e52"
+  },
+  "history": [
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771568164816,
+      "commit": "https://github.com/openclaw/skills/commit/97339ef249c309d91e2bb74cf7761945d7b82be3"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771448399420,
+      "commit": "https://github.com/openclaw/skills/commit/bf044993461c66df1cf45697e8a1fec027c0ae3b"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771417324727,
+      "commit": "https://github.com/openclaw/skills/commit/209a0b46186fe18e683d2e97d30db29917c269f9"
+    }
+  ]
+}

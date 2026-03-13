@@ -1,0 +1,11 @@
+{
+  "owner": "basilanathan",
+  "slug": "pet-sitter-intake",
+  "displayName": "Pet Sitter Intake Form Generator",
+  "latest": {
+    "version": "5.0.1",
+    "publishedAt": 1772614790305,
+    "commit": "https://github.com/openclaw/skills/commit/0c6ff1367e768c8e9d0ef3a77ac18ee7ffeacd4f"
+  },
+  "history": []
+}

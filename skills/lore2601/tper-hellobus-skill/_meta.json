@@ -1,0 +1,11 @@
+{
+  "owner": "lore2601",
+  "slug": "tper-hellobus-skill",
+  "displayName": "tper-hellobus",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1772309836242,
+    "commit": "https://github.com/openclaw/skills/commit/0d88429a635208f5f6fcda09fd4a417def73d433"
+  },
+  "history": []
+}

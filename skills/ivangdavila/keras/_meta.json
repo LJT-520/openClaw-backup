@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "keras",
+  "displayName": "Keras",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771989010141,
+    "commit": "https://github.com/openclaw/skills/commit/ff220dfbf32fb0d46d4efd69c68b619e33024102"
+  },
+  "history": []
+}

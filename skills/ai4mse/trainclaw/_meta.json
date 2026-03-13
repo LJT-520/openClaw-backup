@@ -1,0 +1,11 @@
+{
+  "owner": "ai4mse",
+  "slug": "trainclaw",
+  "displayName": "TrainClaw",
+  "latest": {
+    "version": "0.0.3",
+    "publishedAt": 1772207146891,
+    "commit": "https://github.com/openclaw/skills/commit/74a1973515e2b97587dda9ebf1b37dadcc111a0a"
+  },
+  "history": []
+}

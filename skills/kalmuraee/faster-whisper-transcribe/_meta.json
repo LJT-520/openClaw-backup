@@ -1,0 +1,11 @@
+{
+  "owner": "kalmuraee",
+  "slug": "faster-whisper-transcribe",
+  "displayName": "Faster Whisper Transcription",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771708412043,
+    "commit": "https://github.com/openclaw/skills/commit/187bace70f888448d4dbdaf4d95e2b9db3eecbec"
+  },
+  "history": []
+}

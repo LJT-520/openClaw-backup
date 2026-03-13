@@ -1,0 +1,11 @@
+{
+  "owner": "clarezoe",
+  "slug": "close-loop",
+  "displayName": "Close Loop",
+  "latest": {
+    "version": "2.1.1",
+    "publishedAt": 1771871942808,
+    "commit": "https://github.com/openclaw/skills/commit/2581382bf8c1e20b1c8222c1bfd4cbe34def8099"
+  },
+  "history": []
+}

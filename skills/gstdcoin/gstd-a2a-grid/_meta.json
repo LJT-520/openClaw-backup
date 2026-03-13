@@ -1,0 +1,32 @@
+{
+  "owner": "gstdcoin",
+  "slug": "gstd-a2a-grid",
+  "displayName": "Free-API-Grid-gstd",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772570929338,
+    "commit": "https://github.com/openclaw/skills/commit/a97124a5bb018647487adb9db12d715cf7f50787"
+  },
+  "history": [
+    {
+      "version": "1.0.5",
+      "publishedAt": 1772290493044,
+      "commit": "https://github.com/openclaw/skills/commit/931a0c10e1ff5f05b536c5df3c77d01d8670120d"
+    },
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771890811685,
+      "commit": "https://github.com/openclaw/skills/commit/ad8a572fc23c415c307b382df752e9854e8cacb8"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771722783048,
+      "commit": "https://github.com/openclaw/skills/commit/f7d4766b7aa4cf619c2796c4c91d7ffc4064ff4c"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771441387165,
+      "commit": "https://github.com/openclaw/skills/commit/abd527d8649541333a18d40cf25bfe8a3a4e06c8"
+    }
+  ]
+}

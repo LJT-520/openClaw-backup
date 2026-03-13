@@ -1,0 +1,11 @@
+{
+  "owner": "anothertempore",
+  "slug": "book-multi-lens",
+  "displayName": "Book Multi Lens",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772547785864,
+    "commit": "https://github.com/openclaw/skills/commit/34f0ba0e25c6c5dfb307c9bbb9c13d3e050c5ca4"
+  },
+  "history": []
+}

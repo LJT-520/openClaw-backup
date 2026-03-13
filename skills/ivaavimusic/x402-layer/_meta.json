@@ -1,0 +1,32 @@
+{
+  "owner": "ivaavimusic",
+  "slug": "x402-layer",
+  "displayName": "x402 Singularity Layer",
+  "latest": {
+    "version": "1.2.1",
+    "publishedAt": 1772198367315,
+    "commit": "https://github.com/openclaw/skills/commit/3d3ecd54870aec0ac240022be7d838eb735c467d"
+  },
+  "history": [
+    {
+      "version": "1.1.3",
+      "publishedAt": 1771962136752,
+      "commit": "https://github.com/openclaw/skills/commit/b44a62a37abe0642acee90c311876d5a9c7d4f8c"
+    },
+    {
+      "version": "1.1.2",
+      "publishedAt": 1771143071918,
+      "commit": "https://github.com/openclaw/skills/commit/af1c9c601f6f06ab1dd91ecf00a556119c13f0aa"
+    },
+    {
+      "version": "1.1.1",
+      "publishedAt": 1771097168959,
+      "commit": "https://github.com/openclaw/skills/commit/c1a11f7d27f1d0ad48b485203636a7feaf79d600"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1769772508801,
+      "commit": "https://github.com/clawdbot/skills/commit/13d6fa2f7dc652ac7459c2ce70ee6a941675cb6e"
+    }
+  ]
+}

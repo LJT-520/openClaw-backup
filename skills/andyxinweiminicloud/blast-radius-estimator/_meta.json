@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "blast-radius-estimator",
+  "displayName": "Blast Radius Estimator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771735836632,
+    "commit": "https://github.com/openclaw/skills/commit/42e89e56d63ab61c67b0891c4679833853a11b48"
+  },
+  "history": []
+}

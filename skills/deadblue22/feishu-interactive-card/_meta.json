@@ -1,0 +1,11 @@
+{
+  "owner": "deadblue22",
+  "slug": "feishu-interactive-card",
+  "displayName": "Feishu Interactive Card",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772605574749,
+    "commit": "https://github.com/openclaw/skills/commit/7fb35a5d61c6675a82a2e8ec1af9f70117c34f03"
+  },
+  "history": []
+}

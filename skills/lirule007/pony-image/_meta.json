@@ -1,0 +1,11 @@
+{
+  "owner": "lirule007",
+  "slug": "pony-image",
+  "displayName": "pony-image",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771858404227,
+    "commit": "https://github.com/openclaw/skills/commit/564c1ee226bdacb140d9c516f7ed4d5b3f8ddb3f"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "luis2404123",
+  "slug": "smma-agency-proxy",
+  "displayName": "SMMA Agency Proxy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772636140913,
+    "commit": "https://github.com/openclaw/skills/commit/61055fa56bbaca04c0ec7580d1b6eb3bc75ad4b4"
+  },
+  "history": []
+}

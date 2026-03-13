@@ -1,0 +1,11 @@
+{
+  "owner": "guifav",
+  "slug": "qa-gate-vercel",
+  "displayName": "Qa Gate Vercel",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772046609626,
+    "commit": "https://github.com/openclaw/skills/commit/6a8fcd75257f138ab83ab18819048f30ebac54e7"
+  },
+  "history": []
+}

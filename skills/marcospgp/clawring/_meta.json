@@ -1,0 +1,17 @@
+{
+  "owner": "marcospgp",
+  "slug": "clawring",
+  "displayName": "clawr.ing",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772036089215,
+    "commit": "https://github.com/openclaw/skills/commit/8a02393e8614407160d1efc2466c396877f683a1"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772014814443,
+      "commit": "https://github.com/openclaw/skills/commit/ecce7394dbbba5924ca32d5c0eb1da76dfcd7db4"
+    }
+  ]
+}

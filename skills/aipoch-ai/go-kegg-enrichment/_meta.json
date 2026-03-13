@@ -1,0 +1,11 @@
+{
+  "owner": "aipoch-ai",
+  "slug": "go-kegg-enrichment",
+  "displayName": "GO/KEGG Enrichment",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772260540556,
+    "commit": "https://github.com/openclaw/skills/commit/fbbdb623f7e7f6eff3e03408c9caed5b83ef1f22"
+  },
+  "history": []
+}

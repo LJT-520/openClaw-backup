@@ -1,0 +1,11 @@
+{
+  "owner": "linus995",
+  "slug": "hot-topic-finder",
+  "displayName": "Hot Topic Finder",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772463167181,
+    "commit": "https://github.com/openclaw/skills/commit/c33cce72d82edb0899f0e28660e0fcf7baaeef37"
+  },
+  "history": []
+}

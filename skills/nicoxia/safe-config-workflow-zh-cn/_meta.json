@@ -1,0 +1,11 @@
+{
+  "owner": "nicoxia",
+  "slug": "safe-config-workflow-zh-cn",
+  "displayName": "Safe Config Workflow",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772123904256,
+    "commit": "https://github.com/openclaw/skills/commit/99bf2d46dabba79376822db0f74ab071d1b57266"
+  },
+  "history": []
+}

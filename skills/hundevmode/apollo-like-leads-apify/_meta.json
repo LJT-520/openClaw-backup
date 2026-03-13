@@ -1,0 +1,11 @@
+{
+  "owner": "hundevmode",
+  "slug": "apollo-like-leads-apify",
+  "displayName": "Apollo Like Leads Apify",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772264914878,
+    "commit": "https://github.com/openclaw/skills/commit/603eb90a777b0183e30461b502ca53a5b9a92907"
+  },
+  "history": []
+}

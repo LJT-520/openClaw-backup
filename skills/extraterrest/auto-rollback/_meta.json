@@ -1,0 +1,11 @@
+{
+  "owner": "extraterrest",
+  "slug": "auto-rollback",
+  "displayName": "Auto Rollback",
+  "latest": {
+    "version": "1.1.1-alpha.2",
+    "publishedAt": 1772373965254,
+    "commit": "https://github.com/openclaw/skills/commit/7b1d2eb1dc312ecb58b08b2554a94781abab1df1"
+  },
+  "history": []
+}

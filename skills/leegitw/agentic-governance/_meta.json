@@ -1,0 +1,22 @@
+{
+  "owner": "leegitw",
+  "slug": "agentic-governance",
+  "displayName": "Agentic Governance",
+  "latest": {
+    "version": "1.3.0",
+    "publishedAt": 1771895239532,
+    "commit": "https://github.com/openclaw/skills/commit/34185e85c15fd44db525c432a2b6f465357e287f"
+  },
+  "history": [
+    {
+      "version": "1.2.0",
+      "publishedAt": 1771540578939,
+      "commit": "https://github.com/openclaw/skills/commit/e71e2eb46cd12ba262aadc982c56fe4ea73146be"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771469350269,
+      "commit": "https://github.com/openclaw/skills/commit/cec2947299a5cc13bd36f269853ec542f839d1f6"
+    }
+  ]
+}

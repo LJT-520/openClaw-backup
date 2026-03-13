@@ -1,0 +1,11 @@
+{
+  "owner": "andrelandgraf",
+  "slug": "neon-postgres",
+  "displayName": "Neon Postgres",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772156102911,
+    "commit": "https://github.com/openclaw/skills/commit/8061e0ba95b86251776824398917c8447a0e3fa2"
+  },
+  "history": []
+}

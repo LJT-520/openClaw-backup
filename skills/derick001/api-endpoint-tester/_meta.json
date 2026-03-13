@@ -1,0 +1,17 @@
+{
+  "owner": "derick001",
+  "slug": "api-endpoint-tester",
+  "displayName": "API Endpoint Tester",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772460105523,
+    "commit": "https://github.com/openclaw/skills/commit/9eb60b29742f6281c529aa85a1969e5d6494c419"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772114648128,
+      "commit": "https://github.com/openclaw/skills/commit/336595d89df44b6bd176c198ad18d91c507443e7"
+    }
+  ]
+}

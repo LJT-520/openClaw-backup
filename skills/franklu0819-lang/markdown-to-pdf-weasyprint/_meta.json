@@ -1,0 +1,11 @@
+{
+  "owner": "franklu0819-lang",
+  "slug": "markdown-to-pdf-weasyprint",
+  "displayName": "Md2pdf",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771638561760,
+    "commit": "https://github.com/openclaw/skills/commit/3ade467386dcea7c73200d36c3173d3f47af408e"
+  },
+  "history": []
+}

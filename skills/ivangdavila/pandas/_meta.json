@@ -1,0 +1,17 @@
+{
+  "owner": "ivangdavila",
+  "slug": "pandas",
+  "displayName": "Pandas",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772061906110,
+    "commit": "https://github.com/openclaw/skills/commit/39b4c4ddf1b59e1b4062f60620ccc42c88b43d3f"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771979787901,
+      "commit": "https://github.com/openclaw/skills/commit/761bbc02a6fcf9f78d599c2675830961e24443b0"
+    }
+  ]
+}

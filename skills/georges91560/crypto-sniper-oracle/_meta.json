@@ -1,0 +1,11 @@
+{
+  "owner": "georges91560",
+  "slug": "crypto-sniper-oracle",
+  "displayName": "Crypto Sniper Oracle",
+  "latest": {
+    "version": "3.3.0",
+    "publishedAt": 1772156619681,
+    "commit": "https://github.com/openclaw/skills/commit/7570649bc50b8074a6155fd6bacbe672e93fcda3"
+  },
+  "history": []
+}

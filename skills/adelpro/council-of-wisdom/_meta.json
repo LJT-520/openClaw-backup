@@ -1,0 +1,11 @@
+{
+  "owner": "adelpro",
+  "slug": "council-of-wisdom",
+  "displayName": "Council of Wisdom",
+  "latest": {
+    "version": "1.3.1",
+    "publishedAt": 1772216134836,
+    "commit": "https://github.com/openclaw/skills/commit/66358914944df143b9ceb931545719f3ddf01e02"
+  },
+  "history": []
+}

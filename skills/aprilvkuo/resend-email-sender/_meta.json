@@ -1,0 +1,11 @@
+{
+  "owner": "aprilvkuo",
+  "slug": "resend-email-sender",
+  "displayName": "Resend Email Sender",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772524920323,
+    "commit": "https://github.com/openclaw/skills/commit/2647ac3462c7bbbda9a1e16a93539a5ce9f5fcc2"
+  },
+  "history": []
+}

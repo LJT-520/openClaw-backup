@@ -1,0 +1,11 @@
+{
+  "owner": "luke-deltadesk",
+  "slug": "elevenlabs-calls",
+  "displayName": "Elevenlabs Calls",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772593461122,
+    "commit": "https://github.com/openclaw/skills/commit/1677e288281daac90245ba4dfeca1e8ac32c92f7"
+  },
+  "history": []
+}

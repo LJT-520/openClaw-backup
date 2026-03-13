@@ -1,0 +1,11 @@
+{
+  "owner": "briantanthony",
+  "slug": "vaibot-guard",
+  "displayName": "Vaibot Guard",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1772595371892,
+    "commit": "https://github.com/openclaw/skills/commit/031cdfde4a5b251d4a9ae68ab8eba112354e656b"
+  },
+  "history": []
+}

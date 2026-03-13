@@ -1,0 +1,11 @@
+{
+  "owner": "flywhale-666",
+  "slug": "doc",
+  "displayName": "Doc",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772540379556,
+    "commit": "https://github.com/openclaw/skills/commit/dd5a43db6c4460cb3dbb2f2947c15ce971179588"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mangopudding",
+  "slug": "grc-agent-soc2-quality-review",
+  "displayName": "GRC-Agent | SOC 2 Quality Review",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771568963480,
+    "commit": "https://github.com/openclaw/skills/commit/e6e766c5528852470c8f3f4a302898200ed810c4"
+  },
+  "history": []
+}

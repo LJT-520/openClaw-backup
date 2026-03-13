@@ -1,0 +1,11 @@
+{
+  "owner": "benmillerat",
+  "slug": "youtube-archiver",
+  "displayName": "YouTube Archiver",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772038924278,
+    "commit": "https://github.com/openclaw/skills/commit/59564f9671e8b8fc13353fc036e0030a156e7585"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jfarcand",
+  "slug": "mirroir",
+  "displayName": "Mirroir",
+  "latest": {
+    "version": "0.13.0",
+    "publishedAt": 1771385691853,
+    "commit": "https://github.com/openclaw/skills/commit/10cf828d7847f0e99fcecc53849219b1ca00dc79"
+  },
+  "history": []
+}

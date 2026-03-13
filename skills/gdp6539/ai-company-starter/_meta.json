@@ -1,0 +1,17 @@
+{
+  "owner": "gdp6539",
+  "slug": "ai-company-starter",
+  "displayName": "AI Company Starter",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772556385001,
+    "commit": "https://github.com/openclaw/skills/commit/0374a3541868ca6c8ce5b390259e3a7b4bc22b64"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772555514649,
+      "commit": "https://github.com/openclaw/skills/commit/76b12a45854c31ba5c35ad943df172f9a8577269"
+    }
+  ]
+}

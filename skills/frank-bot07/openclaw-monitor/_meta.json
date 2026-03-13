@@ -1,0 +1,11 @@
+{
+  "owner": "frank-bot07",
+  "slug": "openclaw-monitor",
+  "displayName": "openclaw-monitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771576554880,
+    "commit": "https://github.com/openclaw/skills/commit/2340bdc4ed3d934d028acec3b1d8b5a42ec88b53"
+  },
+  "history": []
+}

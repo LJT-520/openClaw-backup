@@ -1,0 +1,22 @@
+{
+  "owner": "f-liva",
+  "slug": "ynab-api",
+  "displayName": "Ynab Api",
+  "latest": {
+    "version": "2.1.1",
+    "publishedAt": 1771752228914,
+    "commit": "https://github.com/openclaw/skills/commit/cf4ab96c2e15be53dd75bff17e52c7e16184e9c4"
+  },
+  "history": [
+    {
+      "version": "2.1.0",
+      "publishedAt": 1771675327209,
+      "commit": "https://github.com/openclaw/skills/commit/4dc00abd10a0e7b84801973622df60c08f2d0ff7"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771671608298,
+      "commit": "https://github.com/openclaw/skills/commit/5bc79493be3cb19651226ae6fc323a1908824dc1"
+    }
+  ]
+}

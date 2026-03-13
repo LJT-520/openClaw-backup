@@ -1,0 +1,17 @@
+{
+  "owner": "davida-ps",
+  "slug": "clawsec-nanoclaw",
+  "displayName": "clawsec-nanoclaw",
+  "latest": {
+    "version": "0.0.2",
+    "publishedAt": 1772440338190,
+    "commit": "https://github.com/openclaw/skills/commit/b3f71cd59163731f39e16b9022850a6f446253d1"
+  },
+  "history": [
+    {
+      "version": "0.0.1",
+      "publishedAt": 1772014844583,
+      "commit": "https://github.com/openclaw/skills/commit/eb8693b94c6f1d23840c91b6a6df24185a566906"
+    }
+  ]
+}

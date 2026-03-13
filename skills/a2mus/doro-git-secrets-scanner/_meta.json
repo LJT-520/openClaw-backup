@@ -1,0 +1,11 @@
+{
+  "owner": "a2mus",
+  "slug": "doro-git-secrets-scanner",
+  "displayName": "Doro Git Secrets Scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772001803473,
+    "commit": "https://github.com/openclaw/skills/commit/7243fadffee22bdb2da7783166ddf4be7a897227"
+  },
+  "history": []
+}

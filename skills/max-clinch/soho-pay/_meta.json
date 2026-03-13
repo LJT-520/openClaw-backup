@@ -1,0 +1,11 @@
+{
+  "owner": "max-clinch",
+  "slug": "soho-pay",
+  "displayName": "Soho",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771876131919,
+    "commit": "https://github.com/openclaw/skills/commit/1e37d8e4d9c6b64fc32bbf2cbaf26195313efe2d"
+  },
+  "history": []
+}

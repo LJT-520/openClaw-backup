@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "secrets-scanner",
+  "displayName": "Secrets Scanner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772419935347,
+    "commit": "https://github.com/openclaw/skills/commit/4befb0dff5d09d681599d1714ddb2ed48f46da9a"
+  },
+  "history": []
+}

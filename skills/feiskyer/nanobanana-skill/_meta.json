@@ -1,0 +1,11 @@
+{
+  "owner": "feiskyer",
+  "slug": "nanobanana-skill",
+  "displayName": "Nanobanana Skill",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772248030468,
+    "commit": "https://github.com/openclaw/skills/commit/08ef26da24a57666faa0d0a814116aa39bd9f795"
+  },
+  "history": []
+}

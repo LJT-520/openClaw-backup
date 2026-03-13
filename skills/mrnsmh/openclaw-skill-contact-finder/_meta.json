@@ -1,0 +1,11 @@
+{
+  "owner": "mrnsmh",
+  "slug": "openclaw-skill-contact-finder",
+  "displayName": "Contact Finder",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772156486077,
+    "commit": "https://github.com/openclaw/skills/commit/b9f48d788cb5850300c6c807a3671045a5a95125"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "ivangdavila",
+  "slug": "cdo",
+  "displayName": "CDO / Chief Data Officer",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771595068323,
+    "commit": "https://github.com/openclaw/skills/commit/add41926d91e1bdf28da846cc88e2587a911c07a"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770990791246,
+      "commit": "https://github.com/openclaw/skills/commit/b7f7a476ce0de0231492413f1b16f7208d5eef78"
+    }
+  ]
+}

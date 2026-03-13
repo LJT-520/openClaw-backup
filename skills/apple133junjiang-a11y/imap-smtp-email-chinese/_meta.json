@@ -1,0 +1,11 @@
+{
+  "owner": "apple133junjiang-a11y",
+  "slug": "imap-smtp-email-chinese",
+  "displayName": "imap-smtp-email-chinese",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772162388685,
+    "commit": "https://github.com/openclaw/skills/commit/397c23feb57f0d305e91f9203f0d5e9102edfe07"
+  },
+  "history": []
+}

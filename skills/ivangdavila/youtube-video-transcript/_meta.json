@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "youtube-video-transcript",
+  "displayName": "YouTube Video Transcript",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772061127978,
+    "commit": "https://github.com/openclaw/skills/commit/688224b2742c46542bfb6a7724dac53ef90d8424"
+  },
+  "history": []
+}

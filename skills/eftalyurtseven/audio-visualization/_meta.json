@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "audio-visualization",
+  "displayName": "Audio Visualization",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771579271442,
+    "commit": "https://github.com/openclaw/skills/commit/95df4e940a9d57a3bd3507419828a93fb3f58a95"
+  },
+  "history": []
+}

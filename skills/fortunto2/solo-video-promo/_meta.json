@@ -1,0 +1,11 @@
+{
+  "owner": "fortunto2",
+  "slug": "solo-video-promo",
+  "displayName": "Video Promo",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771711668997,
+    "commit": "https://github.com/openclaw/skills/commit/4f9dbd22c00b14fac715e7d84ced4d8688368eb5"
+  },
+  "history": []
+}

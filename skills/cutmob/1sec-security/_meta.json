@@ -1,0 +1,22 @@
+{
+  "owner": "cutmob",
+  "slug": "1sec-security",
+  "displayName": "1-SEC: All-in-One Cybersecurity for AI Agent Hosts",
+  "latest": {
+    "version": "0.4.15",
+    "publishedAt": 1771925775668,
+    "commit": "https://github.com/openclaw/skills/commit/12fd9ff44935aced063c701520bdb311edfbba99"
+  },
+  "history": [
+    {
+      "version": "0.4.13",
+      "publishedAt": 1771858255346,
+      "commit": "https://github.com/openclaw/skills/commit/d6cdc7a54a233a54c03f763bc085f10515d384ee"
+    },
+    {
+      "version": "0.4.11",
+      "publishedAt": 1771764467097,
+      "commit": "https://github.com/openclaw/skills/commit/e84159431e9e54839fb973cf34a5cfea770eec1a"
+    }
+  ]
+}

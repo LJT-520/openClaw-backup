@@ -1,0 +1,17 @@
+{
+  "owner": "ningtoba",
+  "slug": "pc-assistant",
+  "displayName": "Pc Assistant",
+  "latest": {
+    "version": "1.2.4",
+    "publishedAt": 1772439579445,
+    "commit": "https://github.com/openclaw/skills/commit/741004181ad9c2282e427684e51a6c92cf40a9ef"
+  },
+  "history": [
+    {
+      "version": "1.2.3",
+      "publishedAt": 1772096285828,
+      "commit": "https://github.com/openclaw/skills/commit/1447b780cd80fa5cd0df5e174bc9d9cd03e9df0b"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "martc03",
+  "slug": "gov-safety-recalls",
+  "displayName": "US Safety Recalls",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772183775447,
+    "commit": "https://github.com/openclaw/skills/commit/ecb2d9b458234a065312f5b87b5fced5166d6648"
+  },
+  "history": []
+}

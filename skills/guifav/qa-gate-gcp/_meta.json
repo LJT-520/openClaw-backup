@@ -1,0 +1,11 @@
+{
+  "owner": "guifav",
+  "slug": "qa-gate-gcp",
+  "displayName": "QA Gate Google Cloud Platform",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772046593064,
+    "commit": "https://github.com/openclaw/skills/commit/e2fe4a37729777f2bce4d91c51775d77babea793"
+  },
+  "history": []
+}

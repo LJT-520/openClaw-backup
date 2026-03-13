@@ -1,0 +1,22 @@
+{
+  "owner": "alexanderliteplo",
+  "slug": "rentahuman",
+  "displayName": "Rentahuman",
+  "latest": {
+    "version": "1.4.2",
+    "publishedAt": 1772438660251,
+    "commit": "https://github.com/openclaw/skills/commit/501faf0d023f54166a0a6f67441aa3fb3a0c006c"
+  },
+  "history": [
+    {
+      "version": "1.4.1",
+      "publishedAt": 1772316164700,
+      "commit": "https://github.com/openclaw/skills/commit/9b6cff3e1811cc4b9686f59137ca9566976fe8ef"
+    },
+    {
+      "version": "1.4.0",
+      "publishedAt": 1771987952920,
+      "commit": "https://github.com/openclaw/skills/commit/80c7a21becacd1bbbfd1f1a11072d46da15fdd7a"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "claudiodrusus",
+  "slug": "shelly-social-media-scheduler",
+  "displayName": "Social Media Scheduler",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771785439120,
+    "commit": "https://github.com/openclaw/skills/commit/e969ef61d962b82a1d0b0eb0329880a3d15366e3"
+  },
+  "history": []
+}

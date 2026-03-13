@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-knowledge-management",
+  "displayName": "Knowledge Management System",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771525506799,
+    "commit": "https://github.com/openclaw/skills/commit/ce5fa2d263d2ee8af66db260fa28c57f67746e13"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "bisbeebucky",
+  "slug": "hledger",
+  "displayName": "Hledger",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772300230082,
+    "commit": "https://github.com/openclaw/skills/commit/c3d8a3f12a9699899f1a7afeb10378375b8f79d9"
+  },
+  "history": []
+}

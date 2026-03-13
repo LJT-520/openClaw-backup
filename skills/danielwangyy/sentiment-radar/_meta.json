@@ -1,0 +1,11 @@
+{
+  "owner": "danielwangyy",
+  "slug": "sentiment-radar",
+  "displayName": "Sentiment Radar",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772028554710,
+    "commit": "https://github.com/openclaw/skills/commit/66a751462685eb1a10e45e14994eb3a195866484"
+  },
+  "history": []
+}

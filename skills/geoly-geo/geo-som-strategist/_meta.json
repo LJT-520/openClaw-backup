@@ -1,0 +1,11 @@
+{
+  "owner": "geoly-geo",
+  "slug": "geo-som-strategist",
+  "displayName": "Share of Model Strategist",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772265806306,
+    "commit": "https://github.com/openclaw/skills/commit/c81d3f425481556269e1d7aeb780ce84d8fcef3c"
+  },
+  "history": []
+}

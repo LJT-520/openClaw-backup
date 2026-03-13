@@ -1,0 +1,11 @@
+{
+  "owner": "eftalyurtseven",
+  "slug": "comic-panel-generation",
+  "displayName": "Comic Panel Generation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772339653518,
+    "commit": "https://github.com/openclaw/skills/commit/1c7c8ac7424791051e4c71a664c200201fe2b637"
+  },
+  "history": []
+}

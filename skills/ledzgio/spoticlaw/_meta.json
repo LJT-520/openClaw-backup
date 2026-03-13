@@ -1,0 +1,27 @@
+{
+  "owner": "ledzgio",
+  "slug": "spoticlaw",
+  "displayName": "SpotiClaw",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1771806709801,
+    "commit": "https://github.com/openclaw/skills/commit/106cbef1f31b96406dc2e0d744fe38041e471c5f"
+  },
+  "history": [
+    {
+      "version": "1.0.4",
+      "publishedAt": 1771806058681,
+      "commit": "https://github.com/openclaw/skills/commit/81fa5e91e6f2fbf362c0b61af6117b31863a943f"
+    },
+    {
+      "version": "1.0.2",
+      "publishedAt": 1771600631102,
+      "commit": "https://github.com/openclaw/skills/commit/34e597cd8022b423af97942f8ffb290219ba716e"
+    },
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771577954657,
+      "commit": "https://github.com/openclaw/skills/commit/03f8e787154a36337df7ef24a5c2ded475512646"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "atoship-dev",
+  "slug": "atoship",
+  "displayName": "Atoship",
+  "latest": {
+    "version": "1.0.8",
+    "publishedAt": 1771613787624,
+    "commit": "https://github.com/openclaw/skills/commit/0a8404098e207d991d865eb4fb320d54d4f23646"
+  },
+  "history": [
+    {
+      "version": "1.0.6",
+      "publishedAt": 1771582143891,
+      "commit": "https://github.com/openclaw/skills/commit/17bf8707b78f16db96751088cb8efee83bfc8f03"
+    },
+    {
+      "version": "1.0.5",
+      "publishedAt": 1771396206891,
+      "commit": "https://github.com/openclaw/skills/commit/b1e3459a4199f560aaf2d5acd07754f695bf1bcc"
+    },
+    {
+      "version": "1.0.3",
+      "publishedAt": 1771395807336,
+      "commit": "https://github.com/openclaw/skills/commit/baeb3fa226b9e3edb6da124d6c1a0d9dea869946"
+    }
+  ]
+}

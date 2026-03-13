@@ -1,0 +1,11 @@
+{
+  "owner": "asif2bd",
+  "slug": "voiceclaw",
+  "displayName": "VoiceClaw",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772203550157,
+    "commit": "https://github.com/openclaw/skills/commit/d9fd3726c478264910b49beed20658e6ba57e263"
+  },
+  "history": []
+}

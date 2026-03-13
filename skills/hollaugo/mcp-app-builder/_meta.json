@@ -1,0 +1,11 @@
+{
+  "owner": "hollaugo",
+  "slug": "mcp-app-builder",
+  "displayName": "Mcp App Builder",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772174926683,
+    "commit": "https://github.com/openclaw/skills/commit/97760bf2c074a9ed0d3c7101e4d8d820e73ba4a6"
+  },
+  "history": []
+}

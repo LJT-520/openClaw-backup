@@ -1,0 +1,11 @@
+{
+  "owner": "brycexbt",
+  "slug": "secret-safe",
+  "displayName": "Secret's Safe",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772049118737,
+    "commit": "https://github.com/openclaw/skills/commit/f2e459dcb46f3ca23b08642faa91d6057dc84a66"
+  },
+  "history": []
+}

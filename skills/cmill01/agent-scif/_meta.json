@@ -1,0 +1,11 @@
+{
+  "owner": "cmill01",
+  "slug": "agent-scif",
+  "displayName": "Agent SCIF",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772680528099,
+    "commit": "https://github.com/openclaw/skills/commit/fa33cc1e9a3a2d7b92f489814029b158d30d487c"
+  },
+  "history": []
+}

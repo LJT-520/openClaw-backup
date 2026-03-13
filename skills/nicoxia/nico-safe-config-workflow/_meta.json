@@ -1,0 +1,11 @@
+{
+  "owner": "nicoxia",
+  "slug": "nico-safe-config-workflow",
+  "displayName": "安全配置流程 (Nico)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772122058028,
+    "commit": "https://github.com/openclaw/skills/commit/997ff199920a8fdf01e302d3d3a5047d11cf50f9"
+  },
+  "history": []
+}

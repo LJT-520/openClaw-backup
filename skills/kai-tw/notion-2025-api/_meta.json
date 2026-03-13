@@ -1,0 +1,11 @@
+{
+  "owner": "kai-tw",
+  "slug": "notion-2025-api",
+  "displayName": "Notion 2025 API Skill",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772516254076,
+    "commit": "https://github.com/openclaw/skills/commit/e4bff685b5b8a4a3c696ebac0ea5077b5ee8296a"
+  },
+  "history": []
+}

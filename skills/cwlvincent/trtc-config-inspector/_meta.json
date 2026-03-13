@@ -1,0 +1,11 @@
+{
+  "owner": "cwlvincent",
+  "slug": "trtc-config-inspector",
+  "displayName": "trtc-config-inspector",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772001385899,
+    "commit": "https://github.com/openclaw/skills/commit/01c6b16f96a92b8ffbfae5ab3ee170c0ba44a449"
+  },
+  "history": []
+}

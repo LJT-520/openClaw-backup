@@ -1,0 +1,11 @@
+{
+  "owner": "nissan",
+  "slug": "analyst-watchdog",
+  "displayName": "Analyst Watchdog",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772399016317,
+    "commit": "https://github.com/openclaw/skills/commit/e6b041da7d13512643356be0f59b37310215d7cd"
+  },
+  "history": []
+}

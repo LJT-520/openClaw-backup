@@ -1,0 +1,11 @@
+{
+  "owner": "evolinkai",
+  "slug": "oc-skill-router",
+  "displayName": "Evolink Router — Smart LLM Routing (Claude, GPT, Gemini, DeepSeek, Kimi)",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1772565688336,
+    "commit": "https://github.com/openclaw/skills/commit/97484ee249b9c3bbd410ff5030a364848de66ce5"
+  },
+  "history": []
+}

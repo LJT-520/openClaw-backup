@@ -1,0 +1,11 @@
+{
+  "owner": "g4dr",
+  "slug": "instant-client-audit-report",
+  "displayName": "Instant Client Audit Report Generator — Close Deals Before the First Call",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772239194451,
+    "commit": "https://github.com/openclaw/skills/commit/cbf4ea0478c90f6f2b929f087c4015414b0fb530"
+  },
+  "history": []
+}

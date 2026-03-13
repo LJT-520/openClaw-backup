@@ -1,0 +1,11 @@
+{
+  "owner": "npfaerber",
+  "slug": "community-intel",
+  "displayName": "Community Intel",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772274668985,
+    "commit": "https://github.com/openclaw/skills/commit/51f674d79801230bad2f98e854a7df82925defad"
+  },
+  "history": []
+}

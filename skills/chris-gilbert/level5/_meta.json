@@ -1,0 +1,11 @@
+{
+  "owner": "chris-gilbert",
+  "slug": "level5",
+  "displayName": "Level5 - Your Agent Can Pay For Itself",
+  "latest": {
+    "version": "1.6.2",
+    "publishedAt": 1772671201732,
+    "commit": "https://github.com/openclaw/skills/commit/b88840d6ce9cf4b25c37116d02dfc4606dee97f3"
+  },
+  "history": []
+}

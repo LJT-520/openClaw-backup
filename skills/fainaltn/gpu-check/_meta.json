@@ -1,0 +1,11 @@
+{
+  "owner": "fainaltn",
+  "slug": "gpu-check",
+  "displayName": "Gpu Check",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772248005659,
+    "commit": "https://github.com/openclaw/skills/commit/6a4a144a7ecd3ad337a2b1b243d9d6dfbfe5a714"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "cutthemustard",
+  "slug": "cs-verify",
+  "displayName": "Clawhub Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771839455616,
+    "commit": "https://github.com/openclaw/skills/commit/eeca1bba4ccc7bf88d96b36e4395e0586fc31b10"
+  },
+  "history": []
+}

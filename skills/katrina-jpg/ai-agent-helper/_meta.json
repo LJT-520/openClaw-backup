@@ -1,0 +1,11 @@
+{
+  "owner": "katrina-jpg",
+  "slug": "ai-agent-helper",
+  "displayName": "AI Agent Helper",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771511716748,
+    "commit": "https://github.com/openclaw/skills/commit/ff32c03da35696c0c65e9153f7e21fd4dfcff676"
+  },
+  "history": []
+}

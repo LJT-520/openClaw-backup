@@ -1,0 +1,11 @@
+{
+  "owner": "luksoagent",
+  "slug": "lukso-expert",
+  "displayName": "Lukso Expert",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771514073546,
+    "commit": "https://github.com/openclaw/skills/commit/9f9ffc3024521e60602ef81679eeb59b0afe2cc3"
+  },
+  "history": []
+}

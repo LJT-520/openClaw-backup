@@ -1,0 +1,17 @@
+{
+  "owner": "jvsteiner",
+  "slug": "vector-skill",
+  "displayName": "UniMarket P2P Marketplace",
+  "latest": {
+    "version": "0.1.8",
+    "publishedAt": 1772302823961,
+    "commit": "https://github.com/openclaw/skills/commit/5f643ae2c15eff71c4bccd63fc707bc24d799352"
+  },
+  "history": [
+    {
+      "version": "0.1.7",
+      "publishedAt": 1771341962081,
+      "commit": "https://github.com/openclaw/skills/commit/a1d477f6e92a59267b0ce25c493a1187859a30d1"
+    }
+  ]
+}

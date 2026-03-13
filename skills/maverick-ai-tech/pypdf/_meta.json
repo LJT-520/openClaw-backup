@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-ai-tech",
+  "slug": "pypdf",
+  "displayName": "pypdf",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772205247889,
+    "commit": "https://github.com/openclaw/skills/commit/1f82d7c5fb4e4fbed8c9e4a037c7dc757c49b9f6"
+  },
+  "history": []
+}

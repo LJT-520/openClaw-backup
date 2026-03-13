@@ -1,0 +1,17 @@
+{
+  "owner": "codeninja23",
+  "slug": "native-stripe",
+  "displayName": "Native Stripe",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771928297259,
+    "commit": "https://github.com/openclaw/skills/commit/de492c2cd6c5aa6bc004df8ac18bb422cb080b9d"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771793083375,
+      "commit": "https://github.com/openclaw/skills/commit/18b2de670c21113b7a4a2d6c0021361eb88b1a01"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "lirenweim",
+  "slug": "word-to-pdf",
+  "displayName": "word-to-pdf",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772114639675,
+    "commit": "https://github.com/openclaw/skills/commit/8b0518adc84236205f8d43d0fdae7d30f7ee20bf"
+  },
+  "history": []
+}

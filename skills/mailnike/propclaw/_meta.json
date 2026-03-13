@@ -1,0 +1,11 @@
+{
+  "owner": "mailnike",
+  "slug": "propclaw",
+  "displayName": "PropClaw - Built on ERPClaw with double-entry GL, FCRA-compliant screening, and state-specific late fees",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772474815588,
+    "commit": "https://github.com/openclaw/skills/commit/36ba25221bd909dc5cabf1c2ad5cab85cc4f41e5"
+  },
+  "history": []
+}

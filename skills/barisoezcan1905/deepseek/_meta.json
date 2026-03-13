@@ -1,0 +1,11 @@
+{
+  "owner": "barisoezcan1905",
+  "slug": "deepseek",
+  "displayName": "DeepSeep Intergration",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771691256439,
+    "commit": "https://github.com/openclaw/skills/commit/09468f1ab5904252fea8f42869ee73a3432063b1"
+  },
+  "history": []
+}

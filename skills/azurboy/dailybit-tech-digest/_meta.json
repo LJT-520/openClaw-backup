@@ -1,0 +1,11 @@
+{
+  "owner": "azurboy",
+  "slug": "dailybit-tech-digest",
+  "displayName": "DailyBit — AI Tech Daily Digest",
+  "latest": {
+    "version": "2.5.0",
+    "publishedAt": 1772349049892,
+    "commit": "https://github.com/openclaw/skills/commit/d3d17ceda32774d89d03704d64009b1729c9d2d0"
+  },
+  "history": []
+}

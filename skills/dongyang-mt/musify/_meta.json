@@ -1,0 +1,11 @@
+{
+  "owner": "dongyang-mt",
+  "slug": "musify",
+  "displayName": "Musify MooreThreads",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772638599201,
+    "commit": "https://github.com/openclaw/skills/commit/6c75b8811c77bfe254954894c13ffde229006559"
+  },
+  "history": []
+}

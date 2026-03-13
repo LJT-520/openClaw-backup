@@ -1,0 +1,11 @@
+{
+  "owner": "largetool",
+  "slug": "uptef-4d-compression-smart-router",
+  "displayName": "UPTEF 4D Compression + Smart Router",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771919350175,
+    "commit": "https://github.com/openclaw/skills/commit/5b18024c53e9e6f9028a13865f7aae2d897665be"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "ibiza",
+  "displayName": "Ibiza",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772653985810,
+    "commit": "https://github.com/openclaw/skills/commit/b112f8eeb437b1911ac50be091127b293f2361a4"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "adeel-powerhouse",
+  "slug": "slack-controller",
+  "displayName": "Slack Controller",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772042271353,
+    "commit": "https://github.com/openclaw/skills/commit/de1189f5ad1af9f92696dbf393ca5760d8031061"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "dagangtj",
+  "slug": "ai-customer-service",
+  "displayName": "AI Customer Service KB Builder",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772183740335,
+    "commit": "https://github.com/openclaw/skills/commit/86bced32b20439d8aa66fdd28e5e6dfdcf5c7d68"
+  },
+  "history": []
+}

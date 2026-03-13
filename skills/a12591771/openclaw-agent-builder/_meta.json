@@ -1,0 +1,11 @@
+{
+  "owner": "a12591771",
+  "slug": "openclaw-agent-builder",
+  "displayName": "Openclaw Agent Builder",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772260856178,
+    "commit": "https://github.com/openclaw/skills/commit/e473961706e9ec6b2bcb3471977c85a2374355da"
+  },
+  "history": []
+}

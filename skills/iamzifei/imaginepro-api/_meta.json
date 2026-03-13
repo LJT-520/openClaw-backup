@@ -1,0 +1,11 @@
+{
+  "owner": "iamzifei",
+  "slug": "imaginepro-api",
+  "displayName": "ImaginePro AI Image Generation API",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771752772446,
+    "commit": "https://github.com/openclaw/skills/commit/d89aac589bff9d45a8bea47a8846cf4d4e293d32"
+  },
+  "history": []
+}

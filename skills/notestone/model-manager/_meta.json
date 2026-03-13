@@ -1,0 +1,27 @@
+{
+  "owner": "notestone",
+  "slug": "model-manager",
+  "displayName": "OpenClaw Model Manager",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1772339172272,
+    "commit": "https://github.com/openclaw/skills/commit/89983a877dfcd2e0bbd9c017a8442f944f23eedb"
+  },
+  "history": [
+    {
+      "version": "1.4.1",
+      "publishedAt": 1772110522779,
+      "commit": "https://github.com/openclaw/skills/commit/83c9db1e34ba2b038c77cd9c4ec1069b1f68e2c1"
+    },
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771988482317,
+      "commit": "https://github.com/openclaw/skills/commit/7211fd99991946e937ec3c3deeb324b41d30cf5e"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771872359879,
+      "commit": "https://github.com/openclaw/skills/commit/e960d99123840b5c09c5405802a4804bcdf9a3e7"
+    }
+  ]
+}

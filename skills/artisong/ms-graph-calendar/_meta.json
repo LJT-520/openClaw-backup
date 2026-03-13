@@ -1,0 +1,11 @@
+{
+  "owner": "artisong",
+  "slug": "ms-graph-calendar",
+  "displayName": "Ms Graph Calendar",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772337721873,
+    "commit": "https://github.com/openclaw/skills/commit/6992682cd2810a3d07723173752f7ff4a7524f36"
+  },
+  "history": []
+}

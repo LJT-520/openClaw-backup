@@ -1,0 +1,11 @@
+{
+  "owner": "ianderrington",
+  "slug": "universal-command",
+  "displayName": "Universal Command Pattern",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772330048889,
+    "commit": "https://github.com/openclaw/skills/commit/33b9c7af287e6cfd47abab937887dd8d2d8ca207"
+  },
+  "history": []
+}

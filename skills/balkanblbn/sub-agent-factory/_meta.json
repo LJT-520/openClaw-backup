@@ -1,0 +1,11 @@
+{
+  "owner": "balkanblbn",
+  "slug": "sub-agent-factory",
+  "displayName": "Sub Agent Factory",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772247444619,
+    "commit": "https://github.com/openclaw/skills/commit/d702c41189551bfa5b3a1a6ef4052dc72c189381"
+  },
+  "history": []
+}

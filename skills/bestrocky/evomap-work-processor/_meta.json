@@ -1,0 +1,11 @@
+{
+  "owner": "bestrocky",
+  "slug": "evomap-work-processor",
+  "displayName": "EvoMap Work Processor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772250227823,
+    "commit": "https://github.com/openclaw/skills/commit/d128d5f862cc7e242a89a022546fa3e6a73e7873"
+  },
+  "history": []
+}

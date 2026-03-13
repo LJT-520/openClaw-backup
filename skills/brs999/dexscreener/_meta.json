@@ -1,0 +1,11 @@
+{
+  "owner": "brs999",
+  "slug": "dexscreener",
+  "displayName": "Dexscreener API",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771867945518,
+    "commit": "https://github.com/openclaw/skills/commit/89bf320bb209a674b8f8f312933e481bcdbf54a3"
+  },
+  "history": []
+}

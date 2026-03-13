@@ -1,0 +1,11 @@
+{
+  "owner": "maverick-software",
+  "slug": "openclaw-vps-hardening",
+  "displayName": "OpenClaw VPS Server Hardening",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772602671017,
+    "commit": "https://github.com/openclaw/skills/commit/37146d44ba0e8afeb767f7927f9ab78752f8eb14"
+  },
+  "history": []
+}

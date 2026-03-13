@@ -1,0 +1,11 @@
+{
+  "owner": "hacklyc",
+  "slug": "download-anything",
+  "displayName": "Download Anything",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1771611661109,
+    "commit": "https://github.com/openclaw/skills/commit/177b5f2648aeaa6b2f78273d0364e587dd17607c"
+  },
+  "history": []
+}

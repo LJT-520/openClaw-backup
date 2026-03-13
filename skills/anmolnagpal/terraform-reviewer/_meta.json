@@ -1,0 +1,11 @@
+{
+  "owner": "anmolnagpal",
+  "slug": "terraform-reviewer",
+  "displayName": "Terraform Reviewer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772538238626,
+    "commit": "https://github.com/openclaw/skills/commit/71c83f3d149b9571aa5d35c8f1e31cc9ad576025"
+  },
+  "history": []
+}

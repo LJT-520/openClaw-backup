@@ -1,0 +1,11 @@
+{
+  "owner": "lknezic",
+  "slug": "reddit-research",
+  "displayName": "Reddit Research",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771578704303,
+    "commit": "https://github.com/openclaw/skills/commit/adc83cc333299d004e0893def53c6e5cb3be0fb4"
+  },
+  "history": []
+}

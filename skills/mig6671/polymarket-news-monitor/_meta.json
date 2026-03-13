@@ -1,0 +1,11 @@
+{
+  "owner": "mig6671",
+  "slug": "polymarket-news-monitor",
+  "displayName": "Polymarket News Monitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771683577107,
+    "commit": "https://github.com/openclaw/skills/commit/fede1be78a8ada14a192bcabba1c6495c05c7c7a"
+  },
+  "history": []
+}

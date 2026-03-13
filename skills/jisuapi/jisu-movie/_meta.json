@@ -1,0 +1,17 @@
+{
+  "owner": "jisuapi",
+  "slug": "jisu-movie",
+  "displayName": "电影影讯查询 - Movie & News Inquiry",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772533916735,
+    "commit": "https://github.com/openclaw/skills/commit/2b4681b8e681c6b0af28fdb7a6f9123c80ac6266"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772522031514,
+      "commit": "https://github.com/openclaw/skills/commit/68608c817f14b50a00fb1ad6b6b4546e53da090a"
+    }
+  ]
+}

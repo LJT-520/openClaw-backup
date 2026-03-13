@@ -1,0 +1,11 @@
+{
+  "owner": "clarityprotocol",
+  "slug": "clarity-submit",
+  "displayName": "Clarity Submit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772055687724,
+    "commit": "https://github.com/openclaw/skills/commit/fe5ea5f4c92e2ae088e860a0e74cc3aba6081148"
+  },
+  "history": []
+}

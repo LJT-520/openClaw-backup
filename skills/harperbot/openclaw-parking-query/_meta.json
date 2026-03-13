@@ -1,0 +1,11 @@
+{
+  "owner": "harperbot",
+  "slug": "openclaw-parking-query",
+  "displayName": "台灣即時停車查詢",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772600794261,
+    "commit": "https://github.com/openclaw/skills/commit/ea3ecceeb15b566ab7ae10a45aa1fb7721b44a89"
+  },
+  "history": []
+}

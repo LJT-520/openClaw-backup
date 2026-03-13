@@ -1,0 +1,22 @@
+{
+  "owner": "hzrky",
+  "slug": "cann-review",
+  "displayName": "Cann Review",
+  "latest": {
+    "version": "3.2.0",
+    "publishedAt": 1772620226058,
+    "commit": "https://github.com/openclaw/skills/commit/52db6151f00bdb5b43b2fd55d1c21ce89fe72387"
+  },
+  "history": [
+    {
+      "version": "3.0.0",
+      "publishedAt": 1772590200717,
+      "commit": "https://github.com/openclaw/skills/commit/1a2bb3684acd06a424869e04e15a00c01390dfb4"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772458814243,
+      "commit": "https://github.com/openclaw/skills/commit/2b0b2f2614772c706fd13794dba05d8ec9bab45c"
+    }
+  ]
+}

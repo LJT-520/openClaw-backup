@@ -1,0 +1,11 @@
+{
+  "owner": "agentandbot-design",
+  "slug": "dil",
+  "displayName": "ABL.ONE Protocol",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771749662277,
+    "commit": "https://github.com/openclaw/skills/commit/11302da58231b6fa3e11f9bda067f00b664a12ba"
+  },
+  "history": []
+}

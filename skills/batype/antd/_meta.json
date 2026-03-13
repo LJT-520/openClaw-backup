@@ -1,0 +1,11 @@
+{
+  "owner": "batype",
+  "slug": "antd",
+  "displayName": "Antd",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772207218961,
+    "commit": "https://github.com/openclaw/skills/commit/fc3a257c3251646f7a1cc2c092e9db64df915d19"
+  },
+  "history": []
+}

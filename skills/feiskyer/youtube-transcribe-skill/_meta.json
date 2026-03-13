@@ -1,0 +1,11 @@
+{
+  "owner": "feiskyer",
+  "slug": "youtube-transcribe-skill",
+  "displayName": "Youtube Transcribe Skill",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772247889664,
+    "commit": "https://github.com/openclaw/skills/commit/04f1c9387c26514c17fc84b4253a8d4e3eb619cb"
+  },
+  "history": []
+}

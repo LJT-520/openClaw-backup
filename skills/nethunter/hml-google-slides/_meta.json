@@ -1,0 +1,11 @@
+{
+  "owner": "nethunter",
+  "slug": "hml-google-slides",
+  "displayName": "HML Google Slides",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772509243908,
+    "commit": "https://github.com/openclaw/skills/commit/a8cfe178a52f6edd87471a7c8d0b8381438d7ab0"
+  },
+  "history": []
+}

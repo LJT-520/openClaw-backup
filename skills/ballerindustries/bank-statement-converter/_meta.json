@@ -1,0 +1,11 @@
+{
+  "owner": "ballerindustries",
+  "slug": "bank-statement-converter",
+  "displayName": "Bank Statement Converter",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772256218536,
+    "commit": "https://github.com/openclaw/skills/commit/59dddf79906cfb456bb664505a924b745a1f3f4d"
+  },
+  "history": []
+}

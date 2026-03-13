@@ -1,0 +1,17 @@
+{
+  "owner": "aaa2531349",
+  "slug": "ai-news-daily",
+  "displayName": "ai-news-daily-v1.0.4",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772544339347,
+    "commit": "https://github.com/openclaw/skills/commit/f0c35eb60aaabdf57e092a6fe49efe0e48e6a288"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772249338027,
+      "commit": "https://github.com/openclaw/skills/commit/adfe0c296ea6b8921cc3503f96131215302d333b"
+    }
+  ]
+}

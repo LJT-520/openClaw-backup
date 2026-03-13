@@ -1,0 +1,11 @@
+{
+  "owner": "extraterrest",
+  "slug": "agentrelay",
+  "displayName": "Agentrelay",
+  "latest": {
+    "version": "1.0.1-alpha.3",
+    "publishedAt": 1772249709224,
+    "commit": "https://github.com/openclaw/skills/commit/fce78dcec4f8cbd9f140e13bb684962a999ae320"
+  },
+  "history": []
+}

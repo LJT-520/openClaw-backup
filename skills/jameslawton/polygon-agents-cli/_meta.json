@@ -1,0 +1,17 @@
+{
+  "owner": "jameslawton",
+  "slug": "polygon-agents-cli",
+  "displayName": "Polygon Agents CLI",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772619459524,
+    "commit": "https://github.com/openclaw/skills/commit/89d05bd336d57d0e37798cfcc4c7465635a08b2d"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1772196819121,
+      "commit": "https://github.com/openclaw/skills/commit/a92dffd79ffeabf39a2ecefda289bd436b248016"
+    }
+  ]
+}

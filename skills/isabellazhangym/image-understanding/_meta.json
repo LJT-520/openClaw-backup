@@ -1,0 +1,17 @@
+{
+  "owner": "isabellazhangym",
+  "slug": "image-understanding",
+  "displayName": "image-understanding",
+  "latest": {
+    "version": "0.0.4",
+    "publishedAt": 1772456773428,
+    "commit": "https://github.com/openclaw/skills/commit/1c1b2bdaf1074a288b6cd4b3f2fff4e574c95204"
+  },
+  "history": [
+    {
+      "version": "0.0.1",
+      "publishedAt": 1772452278906,
+      "commit": "https://github.com/openclaw/skills/commit/2830f0ced77d78fd0b4b5cbf5411bfb73f347d17"
+    }
+  ]
+}

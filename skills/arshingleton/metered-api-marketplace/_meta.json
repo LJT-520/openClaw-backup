@@ -1,0 +1,11 @@
+{
+  "owner": "arshingleton",
+  "slug": "metered-api-marketplace",
+  "displayName": "Metered API Marketplace",
+  "latest": {
+    "version": "0.1.3",
+    "publishedAt": 1772160548824,
+    "commit": "https://github.com/openclaw/skills/commit/dc7357b5640851b4efccfdc2b38588bcb2d7b656"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "fabbe1999",
+  "slug": "qualia-skill",
+  "displayName": "Train Robotic AI Models using Qualia",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772388455421,
+    "commit": "https://github.com/openclaw/skills/commit/9dec44f3074139e1510c33c42dbe7509ecafb977"
+  },
+  "history": []
+}

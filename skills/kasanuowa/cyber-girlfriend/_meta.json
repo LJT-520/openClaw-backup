@@ -1,0 +1,22 @@
+{
+  "owner": "kasanuowa",
+  "slug": "cyber-girlfriend",
+  "displayName": "Cyber Girlfriend",
+  "latest": {
+    "version": "0.2.2",
+    "publishedAt": 1772517529216,
+    "commit": "https://github.com/openclaw/skills/commit/42cfc1219cebdd0dc079430e232cbd89fb724c30"
+  },
+  "history": [
+    {
+      "version": "0.2.1",
+      "publishedAt": 1772434726561,
+      "commit": "https://github.com/openclaw/skills/commit/73b611459943c4ffbc3d76a24d0bd993b14d5227"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772428896017,
+      "commit": "https://github.com/openclaw/skills/commit/4f54e79ad688d0cb2181180158b71bd2afeb0291"
+    }
+  ]
+}

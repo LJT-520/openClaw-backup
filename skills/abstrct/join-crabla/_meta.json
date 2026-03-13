@@ -1,0 +1,11 @@
+{
+  "owner": "abstrct",
+  "slug": "join-crabla",
+  "displayName": "Join Crabla",
+  "latest": {
+    "version": "1.5.0",
+    "publishedAt": 1772486425315,
+    "commit": "https://github.com/openclaw/skills/commit/6f80cd8e893719a783b1c36b6f1914293988858d"
+  },
+  "history": []
+}

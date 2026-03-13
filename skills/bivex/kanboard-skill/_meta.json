@@ -1,0 +1,11 @@
+{
+  "owner": "bivex",
+  "slug": "kanboard-skill",
+  "displayName": "Kanboard Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771804415310,
+    "commit": "https://github.com/openclaw/skills/commit/97d4903f4f8eefa83b81e5d8c8b0b9bdfdb0e34c"
+  },
+  "history": []
+}

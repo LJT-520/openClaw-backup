@@ -1,0 +1,11 @@
+{
+  "owner": "aohoyo",
+  "slug": "aliyun-oss-skill",
+  "displayName": "Aliyun OSS Storage Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772409068368,
+    "commit": "https://github.com/openclaw/skills/commit/7e54d13cd891843b8130f4b718afcd5fd6278d90"
+  },
+  "history": []
+}

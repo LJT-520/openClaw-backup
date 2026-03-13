@@ -1,0 +1,17 @@
+{
+  "owner": "aliramw",
+  "slug": "dingtalk-ai-table",
+  "displayName": "Dingtalk Ai Table",
+  "latest": {
+    "version": "0.3.7",
+    "publishedAt": 1772426488219,
+    "commit": "https://github.com/openclaw/skills/commit/a90e6e063574ed6661dbcf86e282eccb1707b461"
+  },
+  "history": [
+    {
+      "version": "0.3.5",
+      "publishedAt": 1772268732870,
+      "commit": "https://github.com/openclaw/skills/commit/711c89b50fd894af186afa1030bdeb7d695db732"
+    }
+  ]
+}

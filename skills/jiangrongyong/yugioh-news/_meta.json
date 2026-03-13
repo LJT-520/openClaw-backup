@@ -1,0 +1,11 @@
+{
+  "owner": "jiangrongyong",
+  "slug": "yugioh-news",
+  "displayName": "游戏王日版新闻每日总结",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771855938689,
+    "commit": "https://github.com/openclaw/skills/commit/1887003345bfb2b491f80808484e0d06a89e7f33"
+  },
+  "history": []
+}

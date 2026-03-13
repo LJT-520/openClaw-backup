@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "suno",
+  "displayName": "Suno",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772143398337,
+    "commit": "https://github.com/openclaw/skills/commit/068b0dd7d4d630b8cb8c23dde669f7f78e225905"
+  },
+  "history": []
+}

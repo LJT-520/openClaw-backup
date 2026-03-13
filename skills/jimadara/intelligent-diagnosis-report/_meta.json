@@ -1,0 +1,11 @@
+{
+  "owner": "jimadara",
+  "slug": "intelligent-diagnosis-report",
+  "displayName": "创建智能诊断报告",
+  "latest": {
+    "version": "1.0.11",
+    "publishedAt": 1772454361926,
+    "commit": "https://github.com/openclaw/skills/commit/fd77ed35a46154d6f1d869f9348e1c31b2230f17"
+  },
+  "history": []
+}

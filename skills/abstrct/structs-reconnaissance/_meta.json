@@ -1,0 +1,11 @@
+{
+  "owner": "abstrct",
+  "slug": "structs-reconnaissance",
+  "displayName": "Structs Reconnaissance",
+  "latest": {
+    "version": "1.1.0",
+    "publishedAt": 1772479262700,
+    "commit": "https://github.com/openclaw/skills/commit/0bb9ccec091be154aa881fbb3fdf590286ded3da"
+  },
+  "history": []
+}

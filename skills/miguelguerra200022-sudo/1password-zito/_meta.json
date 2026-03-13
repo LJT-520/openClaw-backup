@@ -1,0 +1,11 @@
+{
+  "owner": "miguelguerra200022-sudo",
+  "slug": "1password-zito",
+  "displayName": "1password",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772275730712,
+    "commit": "https://github.com/openclaw/skills/commit/9d82dfb7d27b5b3d0faf652aa493ce17282156dd"
+  },
+  "history": []
+}

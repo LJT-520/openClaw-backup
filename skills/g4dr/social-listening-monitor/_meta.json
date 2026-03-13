@@ -1,0 +1,11 @@
+{
+  "owner": "g4dr",
+  "slug": "social-listening-monitor",
+  "displayName": "Social Listening & Brand Reputation Monitor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772136639871,
+    "commit": "https://github.com/openclaw/skills/commit/448b8410c6b12e9622a6b986dc65d47c80fd5e98"
+  },
+  "history": []
+}

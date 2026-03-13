@@ -1,0 +1,11 @@
+{
+  "owner": "mithri-claws",
+  "slug": "clawlife",
+  "displayName": "ClawLife",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771718415290,
+    "commit": "https://github.com/openclaw/skills/commit/345950ccc65c0c4d840eb09e5fa90fef86cf787a"
+  },
+  "history": []
+}

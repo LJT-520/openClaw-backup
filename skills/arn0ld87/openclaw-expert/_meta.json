@@ -1,0 +1,11 @@
+{
+  "owner": "arn0ld87",
+  "slug": "openclaw-expert",
+  "displayName": "Openclaw Expert",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772273452004,
+    "commit": "https://github.com/openclaw/skills/commit/1c43acfa3eabd96271809ddddb67e0df79cb60fb"
+  },
+  "history": []
+}

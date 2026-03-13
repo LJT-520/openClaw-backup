@@ -1,0 +1,17 @@
+{
+  "owner": "jeane-li",
+  "slug": "laiye-doc-processing",
+  "displayName": "laiye-doc-processing",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772597665792,
+    "commit": "https://github.com/openclaw/skills/commit/f183a378a0b3e3c00fb6c342b851bd412317284c"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772270473897,
+      "commit": "https://github.com/openclaw/skills/commit/4ea2729c624d5eb45a8a4226ff235ed9bcf42dd3"
+    }
+  ]
+}

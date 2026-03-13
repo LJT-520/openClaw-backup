@@ -1,0 +1,17 @@
+{
+  "owner": "chebyte",
+  "slug": "niche-hunter-app-store",
+  "displayName": "Niche Hunter App Store",
+  "latest": {
+    "version": "0.1.4",
+    "publishedAt": 1772314615791,
+    "commit": "https://github.com/openclaw/skills/commit/d0f3205351b865e9ae0714ef3df2916af1ab4a24"
+  },
+  "history": [
+    {
+      "version": "0.1.1",
+      "publishedAt": 1772312783970,
+      "commit": "https://github.com/openclaw/skills/commit/dcf7afac22d051dc8485aa1ea96c7eafd75f58a2"
+    }
+  ]
+}

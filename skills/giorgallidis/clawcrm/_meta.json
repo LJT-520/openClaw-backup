@@ -1,0 +1,22 @@
+{
+  "owner": "giorgallidis",
+  "slug": "clawcrm",
+  "displayName": "Clawcrm",
+  "latest": {
+    "version": "1.0.7",
+    "publishedAt": 1772207632460,
+    "commit": "https://github.com/openclaw/skills/commit/461500ac2e255d431e428e11761fb0dd7948803f"
+  },
+  "history": [
+    {
+      "version": "1.0.6",
+      "publishedAt": 1772068749567,
+      "commit": "https://github.com/openclaw/skills/commit/47eee34a4d9d996715ef3320b2056c3670b2eb14"
+    },
+    {
+      "version": "0.1.0",
+      "publishedAt": 1771639702744,
+      "commit": "https://github.com/openclaw/skills/commit/738bf1ba303f11073817c0a50ab59ddc42ed84c8"
+    }
+  ]
+}

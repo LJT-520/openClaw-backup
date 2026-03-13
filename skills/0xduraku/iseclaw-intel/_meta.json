@@ -1,0 +1,11 @@
+{
+  "owner": "0xduraku",
+  "slug": "iseclaw-intel",
+  "displayName": "Iseclaw Intel",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772317242351,
+    "commit": "https://github.com/openclaw/skills/commit/ecaa99bc17fe0533f9bc5a2f137ecac9233623c3"
+  },
+  "history": []
+}

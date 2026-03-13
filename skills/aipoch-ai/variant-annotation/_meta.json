@@ -1,0 +1,11 @@
+{
+  "owner": "aipoch-ai",
+  "slug": "variant-annotation",
+  "displayName": "Variant Annotation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772265678991,
+    "commit": "https://github.com/openclaw/skills/commit/52d401338498f79e668d230ff8b3bbb844d8582e"
+  },
+  "history": []
+}

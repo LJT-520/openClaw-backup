@@ -1,0 +1,11 @@
+{
+  "owner": "0x-professor",
+  "slug": "docs-pipeline-automation",
+  "displayName": "Docs Pipeline Automation",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772136462712,
+    "commit": "https://github.com/openclaw/skills/commit/786684a60a552061c215b2a4a4652b89ce91c342"
+  },
+  "history": []
+}

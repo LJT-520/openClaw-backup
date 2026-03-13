@@ -1,0 +1,11 @@
+{
+  "owner": "leowing",
+  "slug": "programming-assistant",
+  "displayName": "Programming Assistant",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772518591162,
+    "commit": "https://github.com/openclaw/skills/commit/3ceefbf31204e72857b3ffdcca19db89685306c2"
+  },
+  "history": []
+}

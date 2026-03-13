@@ -1,0 +1,11 @@
+{
+  "owner": "jackkuo666",
+  "slug": "google-scholar-search-skill",
+  "displayName": "Google Scholar Search Skill",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772155069883,
+    "commit": "https://github.com/openclaw/skills/commit/adf88327c0851029cb95de7db9940833300dd60c"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "marcosrippel",
+  "slug": "whatsapp-forward",
+  "displayName": "WhatsApp Forward",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771519279496,
+    "commit": "https://github.com/openclaw/skills/commit/e7a359c0994ae63ef4480581717fc2343b52a0f8"
+  },
+  "history": []
+}

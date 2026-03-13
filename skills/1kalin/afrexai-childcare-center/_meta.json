@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-childcare-center",
+  "displayName": "Childcare Center Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772256079210,
+    "commit": "https://github.com/openclaw/skills/commit/cb49d1b362a3abc529f8d44c3199c040582c7704"
+  },
+  "history": []
+}

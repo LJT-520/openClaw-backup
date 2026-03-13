@@ -1,0 +1,11 @@
+{
+  "owner": "2233admin",
+  "slug": "cloudflare-mcp",
+  "displayName": "Cloudflare Mcp",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771842392718,
+    "commit": "https://github.com/openclaw/skills/commit/05e5da883a3cdfbb43b2bea3db3aa1186e20bc82"
+  },
+  "history": []
+}

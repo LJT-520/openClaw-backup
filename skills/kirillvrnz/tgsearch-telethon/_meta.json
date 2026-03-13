@@ -1,0 +1,11 @@
+{
+  "owner": "kirillvrnz",
+  "slug": "tgsearch-telethon",
+  "displayName": "Tgsearch Telethon",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772410571847,
+    "commit": "https://github.com/openclaw/skills/commit/fd36261d903551dede5b425324c185e6bfc87c7a"
+  },
+  "history": []
+}

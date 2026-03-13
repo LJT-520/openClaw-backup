@@ -1,0 +1,11 @@
+{
+  "owner": "gblockchainnetwork",
+  "slug": "ollama-model-tuner",
+  "displayName": "Ollama Model Tuner",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771598495700,
+    "commit": "https://github.com/openclaw/skills/commit/15ac120fd8506ae72cb2edb73f614372afba5143"
+  },
+  "history": []
+}

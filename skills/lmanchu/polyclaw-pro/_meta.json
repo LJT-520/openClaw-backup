@@ -1,0 +1,11 @@
+{
+  "owner": "lmanchu",
+  "slug": "polyclaw-pro",
+  "displayName": "PolyClaw Pro",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772113461423,
+    "commit": "https://github.com/openclaw/skills/commit/f3472123ce73ad7f1b3f081c8aaa94cfef78e2dc"
+  },
+  "history": []
+}

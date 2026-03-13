@@ -1,0 +1,11 @@
+{
+  "owner": "moonrailgun",
+  "slug": "tianji",
+  "displayName": "Tianji",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772465888315,
+    "commit": "https://github.com/openclaw/skills/commit/a76fd47db9f3789b52125423aed8d0f53403b5fd"
+  },
+  "history": []
+}

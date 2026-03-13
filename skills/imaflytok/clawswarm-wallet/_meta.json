@@ -1,0 +1,11 @@
+{
+  "owner": "imaflytok",
+  "slug": "clawswarm-wallet",
+  "displayName": "ClawSwarm Agent Wallet",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772476449353,
+    "commit": "https://github.com/openclaw/skills/commit/5d6992f8a5626b3ac61f903073dbae15f419213a"
+  },
+  "history": []
+}

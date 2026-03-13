@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-restaurant-ops",
+  "displayName": "Restaurant Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772072123207,
+    "commit": "https://github.com/openclaw/skills/commit/1f1c5ec921e2f25632c1ac759f12f9ed94f1459a"
+  },
+  "history": []
+}

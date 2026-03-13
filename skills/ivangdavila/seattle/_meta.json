@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "seattle",
+  "displayName": "Seattle",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771539824162,
+    "commit": "https://github.com/openclaw/skills/commit/cac70d743997ffdaa0f18fe07a8df086d7f353fa"
+  },
+  "history": []
+}

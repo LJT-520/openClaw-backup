@@ -1,0 +1,11 @@
+{
+  "owner": "fan31415",
+  "slug": "company-search",
+  "displayName": "company-search",
+  "latest": {
+    "version": "2.0.4",
+    "publishedAt": 1772081825471,
+    "commit": "https://github.com/openclaw/skills/commit/6140b829072a7e82f691d0bc9b29f18e6d044fba"
+  },
+  "history": []
+}

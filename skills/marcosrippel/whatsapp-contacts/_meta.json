@@ -1,0 +1,11 @@
+{
+  "owner": "marcosrippel",
+  "slug": "whatsapp-contacts",
+  "displayName": "WhatsApp Contacts",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771519226659,
+    "commit": "https://github.com/openclaw/skills/commit/dd0aff0976228300becf568966133004795411a9"
+  },
+  "history": []
+}

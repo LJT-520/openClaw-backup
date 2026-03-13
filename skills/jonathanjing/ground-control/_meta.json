@@ -1,0 +1,17 @@
+{
+  "owner": "jonathanjing",
+  "slug": "ground-control",
+  "displayName": "ground-control",
+  "latest": {
+    "version": "0.3.5",
+    "publishedAt": 1772584311143,
+    "commit": "https://github.com/openclaw/skills/commit/cb39aaead58faae671d3ed8e72f21de1e2d83d63"
+  },
+  "history": [
+    {
+      "version": "0.2.2",
+      "publishedAt": 1772488799936,
+      "commit": "https://github.com/openclaw/skills/commit/afbb55994ec7a27ec098464d10a2829cf3ab315c"
+    }
+  ]
+}

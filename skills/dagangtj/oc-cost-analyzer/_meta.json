@@ -1,0 +1,11 @@
+{
+  "owner": "dagangtj",
+  "slug": "oc-cost-analyzer",
+  "displayName": "OC Cost Analyzer",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772080005380,
+    "commit": "https://github.com/openclaw/skills/commit/f27790bc09dd39e2543e104169c5a2f96ea01b5f"
+  },
+  "history": []
+}

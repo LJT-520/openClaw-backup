@@ -1,0 +1,11 @@
+{
+  "owner": "blackshady1130-jpg",
+  "slug": "ai-review",
+  "displayName": "AI-review",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771932087974,
+    "commit": "https://github.com/openclaw/skills/commit/d9a5ba6fc7da956ded8d79a581f29bb4c63a1c8c"
+  },
+  "history": []
+}

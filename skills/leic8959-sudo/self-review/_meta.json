@@ -1,0 +1,11 @@
+{
+  "owner": "leic8959-sudo",
+  "slug": "self-review",
+  "displayName": "Self Review",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771700845611,
+    "commit": "https://github.com/openclaw/skills/commit/8a9ac8475fe28aac9e056dc369e1843ce786e150"
+  },
+  "history": []
+}

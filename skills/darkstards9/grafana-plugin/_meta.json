@@ -1,0 +1,11 @@
+{
+  "owner": "darkstards9",
+  "slug": "grafana-plugin",
+  "displayName": "Grafana Plugin",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771705319942,
+    "commit": "https://github.com/openclaw/skills/commit/fc851125de82a87dbb0cd6d0d5d81989894d25fb"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "aadipapp",
+  "slug": "mac-power-tools",
+  "displayName": "MacPowerTools",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772436332196,
+    "commit": "https://github.com/openclaw/skills/commit/6f6f13af1c4b2e8d12d20e58a86e0477b1af1f92"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771388164924,
+      "commit": "https://github.com/openclaw/skills/commit/27823d2c9d28f9d41ae2be2ce0b24acf3cb203c4"
+    }
+  ]
+}

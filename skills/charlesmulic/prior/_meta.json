@@ -1,0 +1,52 @@
+{
+  "owner": "charlesmulic",
+  "slug": "prior",
+  "displayName": "Prior Openclaw",
+  "latest": {
+    "version": "0.5.3",
+    "publishedAt": 1772493143555,
+    "commit": "https://github.com/openclaw/skills/commit/8a98d00e4910574bf5fdd6f52e80b4db918994a2"
+  },
+  "history": [
+    {
+      "version": "0.5.1",
+      "publishedAt": 1772338300894,
+      "commit": "https://github.com/openclaw/skills/commit/26dcf3560768c9c612dd08eb078609baadc7cbc2"
+    },
+    {
+      "version": "0.4.3",
+      "publishedAt": 1772257643298,
+      "commit": "https://github.com/openclaw/skills/commit/4340f9a963540a5be833c91282cf37c60c64236f"
+    },
+    {
+      "version": "0.3.0",
+      "publishedAt": 1772141415099,
+      "commit": "https://github.com/openclaw/skills/commit/834cd9cdb160d96ff613e0f5c8a3be0ea959bcbb"
+    },
+    {
+      "version": "0.2.9",
+      "publishedAt": 1771989983778,
+      "commit": "https://github.com/openclaw/skills/commit/14bd64c0406808c2c461744888668082acb6d7d4"
+    },
+    {
+      "version": "0.3.2",
+      "publishedAt": 1771817285546,
+      "commit": "https://github.com/openclaw/skills/commit/9956d77fee7f1e97650b37953e9dcab65afdb06a"
+    },
+    {
+      "version": "0.2.6",
+      "publishedAt": 1771693335982,
+      "commit": "https://github.com/openclaw/skills/commit/d17c6c1d0c5cfccca346151f95046030bfd7d856"
+    },
+    {
+      "version": "0.2.1",
+      "publishedAt": 1771612514933,
+      "commit": "https://github.com/openclaw/skills/commit/bbb9088c25da48dac6a839b3cd5cc005dcc6aacc"
+    },
+    {
+      "version": "0.1.9",
+      "publishedAt": 1771457655301,
+      "commit": "https://github.com/openclaw/skills/commit/27cbe90a7642df7d014946135b53becc60d1f60c"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jisuapi",
+  "slug": "vehiclelimit",
+  "displayName": "车辆尾号限行 - Vehicle License Plate Number Restriction",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772608507405,
+    "commit": "https://github.com/openclaw/skills/commit/049b750784f5ab57f2cec75cc6e677057dc1bcc6"
+  },
+  "history": []
+}

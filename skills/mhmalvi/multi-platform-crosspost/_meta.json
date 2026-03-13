@@ -1,0 +1,17 @@
+{
+  "owner": "mhmalvi",
+  "slug": "multi-platform-crosspost",
+  "displayName": "Multi-Platform Cross-Post Pipeline",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1772550467681,
+    "commit": "https://github.com/openclaw/skills/commit/70744f98beda2f2a91e6f25dd62e120725a7156d"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1772545014775,
+      "commit": "https://github.com/openclaw/skills/commit/b6354b323f58b6dbc4dc842b546181f6080b4be0"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "gyifei",
+  "slug": "weather-query-ll",
+  "displayName": "天气查询小技能",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772282373340,
+    "commit": "https://github.com/openclaw/skills/commit/bc10cee344c135214891d2d5e8a6be29c077c168"
+  },
+  "history": []
+}

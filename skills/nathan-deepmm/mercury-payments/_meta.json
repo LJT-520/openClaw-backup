@@ -1,0 +1,17 @@
+{
+  "owner": "nathan-deepmm",
+  "slug": "mercury-payments",
+  "displayName": "Mercury Payments",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772434909267,
+    "commit": "https://github.com/openclaw/skills/commit/ff498a2fd61aa1eb118180c12a9368cebe76769a"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771369205610,
+      "commit": "https://github.com/openclaw/skills/commit/e973335541ea2e6028307b5aa0bc9760233b858e"
+    }
+  ]
+}

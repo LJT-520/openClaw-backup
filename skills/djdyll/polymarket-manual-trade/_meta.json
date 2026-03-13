@@ -1,0 +1,11 @@
+{
+  "owner": "djdyll",
+  "slug": "polymarket-manual-trade",
+  "displayName": "Polymarket Manual Trade",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1772362081531,
+    "commit": "https://github.com/openclaw/skills/commit/7c350282e1eb3c88bf9687ca9b50a14bfe936874"
+  },
+  "history": []
+}

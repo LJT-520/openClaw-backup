@@ -1,0 +1,17 @@
+{
+  "owner": "codiicode",
+  "slug": "fortuna",
+  "displayName": "Fortuna Lottery",
+  "latest": {
+    "version": "1.2.0",
+    "publishedAt": 1771924956679,
+    "commit": "https://github.com/openclaw/skills/commit/41b2dc33ae11bc0f4c56318e5234af52d9a9b577"
+  },
+  "history": [
+    {
+      "version": "1.1.0",
+      "publishedAt": 1771702545668,
+      "commit": "https://github.com/openclaw/skills/commit/cdedd3ff6e2c305ddd7a3d4753ce1679ba95bd0b"
+    }
+  ]
+}

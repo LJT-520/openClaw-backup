@@ -1,0 +1,22 @@
+{
+  "owner": "ivangdavila",
+  "slug": "cco",
+  "displayName": "CCO / Chief Customer Officer",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1772057863532,
+    "commit": "https://github.com/openclaw/skills/commit/f31a73c7fed6bbf218a5f88f526a51220da012dd"
+  },
+  "history": [
+    {
+      "version": "1.0.1",
+      "publishedAt": 1771594644613,
+      "commit": "https://github.com/openclaw/skills/commit/85c178152e0f925ed89837368ca1c4a1785fd1a8"
+    },
+    {
+      "version": "1.0.0",
+      "publishedAt": 1770995572149,
+      "commit": "https://github.com/openclaw/skills/commit/2fd951c4cf882a70cc5cbf5c239cbe87b8e253bf"
+    }
+  ]
+}

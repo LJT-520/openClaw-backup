@@ -1,0 +1,11 @@
+{
+  "owner": "luckisnow",
+  "slug": "weather-checker",
+  "displayName": "Weather Checker",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772013560535,
+    "commit": "https://github.com/openclaw/skills/commit/5f42c9e5a0588116bddba3b13b8f9930d315088b"
+  },
+  "history": []
+}

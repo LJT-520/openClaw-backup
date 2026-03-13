@@ -1,0 +1,11 @@
+{
+  "owner": "felipetruman",
+  "slug": "antfarm-cli",
+  "displayName": "Antfarm Cli",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771896943175,
+    "commit": "https://github.com/openclaw/skills/commit/509c0594b065e2578e12ab22d508e0b9dcbc6f74"
+  },
+  "history": []
+}

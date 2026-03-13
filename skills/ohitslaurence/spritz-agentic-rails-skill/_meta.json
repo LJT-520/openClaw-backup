@@ -1,0 +1,17 @@
+{
+  "owner": "ohitslaurence",
+  "slug": "spritz-agentic-rails-skill",
+  "displayName": "Spritz Fiat Rails",
+  "latest": {
+    "version": "0.1.1",
+    "publishedAt": 1772029627212,
+    "commit": "https://github.com/openclaw/skills/commit/a2647ce1133b90c89afa90411dab4b2ee3a31689"
+  },
+  "history": [
+    {
+      "version": "0.1.0",
+      "publishedAt": 1772029387362,
+      "commit": "https://github.com/openclaw/skills/commit/487b8765f96b45c010aa1dc07a60cf014b38236d"
+    }
+  ]
+}

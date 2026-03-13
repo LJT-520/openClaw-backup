@@ -1,0 +1,17 @@
+{
+  "owner": "kirchlive",
+  "slug": "self",
+  "displayName": "Self",
+  "latest": {
+    "version": "1.1.1",
+    "publishedAt": 1771724918109,
+    "commit": "https://github.com/openclaw/skills/commit/82d16343dfc3fa77f2a2205db8ddcdc4b4b1c192"
+  },
+  "history": [
+    {
+      "version": "1.0.2",
+      "publishedAt": 1770665181581,
+      "commit": "https://github.com/openclaw/skills/commit/30bd0cfb78ddeedb2c80cc3d0f13a8b3616baad8"
+    }
+  ]
+}

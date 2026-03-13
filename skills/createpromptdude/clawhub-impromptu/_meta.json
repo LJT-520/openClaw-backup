@@ -1,0 +1,11 @@
+{
+  "owner": "createpromptdude",
+  "slug": "clawhub-impromptu",
+  "displayName": "Impromptu",
+  "latest": {
+    "version": "3.0.0",
+    "publishedAt": 1771996460101,
+    "commit": "https://github.com/openclaw/skills/commit/92c3e7c71377aa3d547caa5b4d350068eaf57916"
+  },
+  "history": []
+}

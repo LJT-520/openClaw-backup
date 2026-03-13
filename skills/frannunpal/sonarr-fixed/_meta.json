@@ -1,0 +1,11 @@
+{
+  "owner": "frannunpal",
+  "slug": "sonarr-fixed",
+  "displayName": "Sonarr Fixed",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771933701406,
+    "commit": "https://github.com/openclaw/skills/commit/a9f6a719f28a7f2d13041fa6e4edff8b86b34dae"
+  },
+  "history": []
+}

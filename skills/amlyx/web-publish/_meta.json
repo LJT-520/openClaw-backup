@@ -1,0 +1,11 @@
+{
+  "owner": "amlyx",
+  "slug": "web-publish",
+  "displayName": "Web Publish",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771947783589,
+    "commit": "https://github.com/openclaw/skills/commit/d1e134b3ec4f9663d684cc8fd8765e2fe3534460"
+  },
+  "history": []
+}

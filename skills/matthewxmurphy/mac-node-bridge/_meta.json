@@ -1,0 +1,11 @@
+{
+  "owner": "matthewxmurphy",
+  "slug": "mac-node-bridge",
+  "displayName": "Mac Node Bridge",
+  "latest": {
+    "version": "0.6.0",
+    "publishedAt": 1772640126902,
+    "commit": "https://github.com/openclaw/skills/commit/b72c94c0330a9b095d4e4b1b523a116df57fdef6"
+  },
+  "history": []
+}

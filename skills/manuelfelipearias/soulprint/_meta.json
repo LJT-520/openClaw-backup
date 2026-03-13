@@ -1,0 +1,27 @@
+{
+  "owner": "manuelfelipearias",
+  "slug": "soulprint",
+  "displayName": "Soulprint",
+  "latest": {
+    "version": "1.0.25",
+    "publishedAt": 1772424237942,
+    "commit": "https://github.com/openclaw/skills/commit/4a21437a48fff9c97d5ce4b4d306ceb06cbcf964"
+  },
+  "history": [
+    {
+      "version": "1.0.23",
+      "publishedAt": 1772337589492,
+      "commit": "https://github.com/openclaw/skills/commit/de47833cb326f9f491a67b12270d69fc12ee9827"
+    },
+    {
+      "version": "1.0.17",
+      "publishedAt": 1771990839771,
+      "commit": "https://github.com/openclaw/skills/commit/853da6a53f8a30819c036984cefcdb6c995d83a3"
+    },
+    {
+      "version": "1.0.12",
+      "publishedAt": 1771966947646,
+      "commit": "https://github.com/openclaw/skills/commit/b9dc2f04b6d171e8c58a09a554a6fcf9329c0c47"
+    }
+  ]
+}

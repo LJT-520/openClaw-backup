@@ -1,0 +1,11 @@
+{
+  "owner": "austinmao",
+  "slug": "airtable-participants",
+  "displayName": "Airtable Participants",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771942774600,
+    "commit": "https://github.com/openclaw/skills/commit/7e8bc4e0f71b3cadd170779726aab81a6681632d"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mouzhi",
+  "slug": "wecom-doc-fetcher",
+  "displayName": "WeChat Work Doc Fetcher",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771757404828,
+    "commit": "https://github.com/openclaw/skills/commit/dbbd6fe7a3903376e9d125a2710eb592d10785a7"
+  },
+  "history": []
+}

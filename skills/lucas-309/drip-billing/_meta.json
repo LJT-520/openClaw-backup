@@ -1,0 +1,11 @@
+{
+  "owner": "lucas-309",
+  "slug": "drip-billing",
+  "displayName": "Drip Billing",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772594942330,
+    "commit": "https://github.com/openclaw/skills/commit/4db63d17512d2012f5ec0b584ad7ba1f74cd0af0"
+  },
+  "history": []
+}

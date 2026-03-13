@@ -1,0 +1,11 @@
+{
+  "owner": "g4dr",
+  "slug": "web-browser-automation",
+  "displayName": "Web Automation & Browser Workflows",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772537514997,
+    "commit": "https://github.com/openclaw/skills/commit/5142d90bf32003790edb7bb903638f7f9e04195c"
+  },
+  "history": []
+}

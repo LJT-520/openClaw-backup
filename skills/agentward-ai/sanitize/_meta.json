@@ -1,0 +1,11 @@
+{
+  "owner": "agentward-ai",
+  "slug": "sanitize",
+  "displayName": "AgentWard Sanitize",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772073238724,
+    "commit": "https://github.com/openclaw/skills/commit/761997cbef03946dae1c734d493b3310fd5f99eb"
+  },
+  "history": []
+}

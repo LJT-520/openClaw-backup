@@ -1,0 +1,11 @@
+{
+  "owner": "fffdz",
+  "slug": "tianyi-self-upgrade",
+  "displayName": "Self-Upgrade (Tianyi)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772319096247,
+    "commit": "https://github.com/openclaw/skills/commit/ac12e784214cefd8313c3754e6dca78eef8b8454"
+  },
+  "history": []
+}

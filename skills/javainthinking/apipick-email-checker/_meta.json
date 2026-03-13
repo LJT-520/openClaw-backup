@@ -1,0 +1,11 @@
+{
+  "owner": "javainthinking",
+  "slug": "apipick-email-checker",
+  "displayName": "Email check and vaildation",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771755983268,
+    "commit": "https://github.com/openclaw/skills/commit/1bfd00b97578b9c832c6f4ea94f90b70bb31d3b3"
+  },
+  "history": []
+}

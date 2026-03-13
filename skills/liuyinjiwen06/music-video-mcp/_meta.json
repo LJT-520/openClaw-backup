@@ -1,0 +1,11 @@
+{
+  "owner": "liuyinjiwen06",
+  "slug": "music-video-mcp",
+  "displayName": "Music Video Generator",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772220737670,
+    "commit": "https://github.com/openclaw/skills/commit/7712bd39fde55e92752d883eadac29496d62c91d"
+  },
+  "history": []
+}

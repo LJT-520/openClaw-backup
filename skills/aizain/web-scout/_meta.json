@@ -1,0 +1,11 @@
+{
+  "owner": "aizain",
+  "slug": "web-scout",
+  "displayName": "Web Scout",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772181392708,
+    "commit": "https://github.com/openclaw/skills/commit/dbf631d193ee84732bb9404619e4304ba79cc587"
+  },
+  "history": []
+}

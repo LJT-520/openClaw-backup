@@ -1,0 +1,17 @@
+{
+  "owner": "mattlab69",
+  "slug": "ark-v1-core",
+  "displayName": "ARK — Adaptive Regulative Kriptos (V1 Declarative)",
+  "latest": {
+    "version": "1.1.2",
+    "publishedAt": 1771588717011,
+    "commit": "https://github.com/openclaw/skills/commit/4041182aec142c2024f48a17c227a2ceba482c40"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771499329338,
+      "commit": "https://github.com/openclaw/skills/commit/3e3679cd88b453c11e537591b8aa5f5321ead987"
+    }
+  ]
+}

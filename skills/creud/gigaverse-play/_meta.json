@@ -1,0 +1,11 @@
+{
+  "owner": "creud",
+  "slug": "gigaverse-play",
+  "displayName": "gigaverse",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771551028146,
+    "commit": "https://github.com/openclaw/skills/commit/14f32aa4fdd8f0d460b3987d12675e8ff58af7bb"
+  },
+  "history": []
+}

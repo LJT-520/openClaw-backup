@@ -1,0 +1,11 @@
+{
+  "owner": "moroiser",
+  "slug": "moltbook-user",
+  "displayName": "Moltbook User | Moltbook 用户",
+  "latest": {
+    "version": "1.0.5",
+    "publishedAt": 1772482228000,
+    "commit": "https://github.com/openclaw/skills/commit/cb7be0dd1ab5d827644bb75bf0c31fecf9b65f6d"
+  },
+  "history": []
+}

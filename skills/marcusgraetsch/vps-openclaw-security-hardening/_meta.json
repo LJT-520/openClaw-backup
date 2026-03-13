@@ -1,0 +1,11 @@
+{
+  "owner": "marcusgraetsch",
+  "slug": "vps-openclaw-security-hardening",
+  "displayName": "Vps Openclaw Security Hardening",
+  "latest": {
+    "version": "1.0.6",
+    "publishedAt": 1771587149174,
+    "commit": "https://github.com/openclaw/skills/commit/4b7576f1aede11d236367e429af352a042d717d4"
+  },
+  "history": []
+}

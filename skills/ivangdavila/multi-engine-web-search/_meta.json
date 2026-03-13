@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "multi-engine-web-search",
+  "displayName": "Multi-Engine Web Search",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772655868689,
+    "commit": "https://github.com/openclaw/skills/commit/7f90330948b092b5bcbb8ad91732e27ab39f08e6"
+  },
+  "history": []
+}

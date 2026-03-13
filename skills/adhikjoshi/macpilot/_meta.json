@@ -1,0 +1,11 @@
+{
+  "owner": "adhikjoshi",
+  "slug": "macpilot",
+  "displayName": "MacPilot :  Control macOS using CLI",
+  "latest": {
+    "version": "0.7.0",
+    "publishedAt": 1772654443212,
+    "commit": "https://github.com/openclaw/skills/commit/8666adb6dbf89d5d6bc756b5ef4ee939e8040a52"
+  },
+  "history": []
+}

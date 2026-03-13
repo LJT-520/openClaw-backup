@@ -1,0 +1,11 @@
+{
+  "owner": "mattvalenta",
+  "slug": "pls-url-to-markdown",
+  "displayName": "PLS URL to Markdown",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771810391383,
+    "commit": "https://github.com/openclaw/skills/commit/b0b86981b3a886345b104675740f26ade28a64b2"
+  },
+  "history": []
+}

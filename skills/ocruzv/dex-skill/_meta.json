@@ -1,0 +1,11 @@
+{
+  "owner": "ocruzv",
+  "slug": "dex-skill",
+  "displayName": "Dex",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772576610182,
+    "commit": "https://github.com/openclaw/skills/commit/bd55d054352d4d132c01f1c8071e19c36ef16070"
+  },
+  "history": []
+}

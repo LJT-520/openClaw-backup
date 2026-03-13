@@ -1,0 +1,11 @@
+{
+  "owner": "aiwithabidi",
+  "slug": "clearbit",
+  "displayName": "Clearbit",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772064257325,
+    "commit": "https://github.com/openclaw/skills/commit/91b37c6785ccf53230a6156f403de2e8242a0e06"
+  },
+  "history": []
+}

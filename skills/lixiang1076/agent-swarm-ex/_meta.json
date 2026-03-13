@@ -1,0 +1,11 @@
+{
+  "owner": "lixiang1076",
+  "slug": "agent-swarm-ex",
+  "displayName": "Agent Swarm - 多智能体集群编排",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772617684158,
+    "commit": "https://github.com/openclaw/skills/commit/a76c5e8f22a50fb34b36c0775a1ccb78bfd8218e"
+  },
+  "history": []
+}

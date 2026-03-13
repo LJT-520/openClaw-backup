@@ -1,0 +1,11 @@
+{
+  "owner": "frankausberlin",
+  "slug": "fastplaywright",
+  "displayName": "FastPlayWright Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772028848217,
+    "commit": "https://github.com/openclaw/skills/commit/450de63d39049e41c1e997d105364a54ad802753"
+  },
+  "history": []
+}

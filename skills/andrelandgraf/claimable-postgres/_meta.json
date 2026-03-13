@@ -1,0 +1,11 @@
+{
+  "owner": "andrelandgraf",
+  "slug": "claimable-postgres",
+  "displayName": "Claimable Postgres",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772259270799,
+    "commit": "https://github.com/openclaw/skills/commit/a97ee85f2504dffc0e018bf1bfc9494d8173b3b1"
+  },
+  "history": []
+}

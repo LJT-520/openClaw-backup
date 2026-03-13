@@ -1,0 +1,11 @@
+{
+  "owner": "hurcannansen",
+  "slug": "nansen-wallet",
+  "displayName": "Nansen Wallet",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772626311942,
+    "commit": "https://github.com/openclaw/skills/commit/73bc2b02073aa22ab4bdd881a2d50cd17f9d32bd"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "apple-calendar-macos",
+  "displayName": "Apple Calendar (MacOS)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772468630892,
+    "commit": "https://github.com/openclaw/skills/commit/565fc82f95ef23f9c8ef7726813e11ba1c7ee745"
+  },
+  "history": []
+}

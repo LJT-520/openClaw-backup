@@ -1,0 +1,11 @@
+{
+  "owner": "fffdz",
+  "slug": "survival-manager",
+  "displayName": "Survival Manager",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772318924849,
+    "commit": "https://github.com/openclaw/skills/commit/8ce7006b9339c1f6cfc63e7ec0906c891db06a58"
+  },
+  "history": []
+}

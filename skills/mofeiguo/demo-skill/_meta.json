@@ -1,0 +1,11 @@
+{
+  "owner": "mofeiguo",
+  "slug": "demo-skill",
+  "displayName": "demo-skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772609271459,
+    "commit": "https://github.com/openclaw/skills/commit/10ea6e26c7de9945eb78af12a8bac5913a61a6f3"
+  },
+  "history": []
+}

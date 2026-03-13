@@ -1,0 +1,11 @@
+{
+  "owner": "idkwhodatis",
+  "slug": "ddgs",
+  "displayName": "ddgs (DuckDuckGo Search)",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771980885958,
+    "commit": "https://github.com/openclaw/skills/commit/41c886d0e4a290a4387f89298a90536d409abde7"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "googleworkspace-bot",
+  "slug": "gws-admin-reports",
+  "displayName": "Gws Admin Reports",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772665470067,
+    "commit": "https://github.com/openclaw/skills/commit/59dd7799c8e8f5c65efc12b371ee71db6ec80abb"
+  },
+  "history": []
+}

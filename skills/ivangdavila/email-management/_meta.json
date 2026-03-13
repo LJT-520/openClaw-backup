@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "email-management",
+  "displayName": "Email Management",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772307718743,
+    "commit": "https://github.com/openclaw/skills/commit/16384e51da04a62c1d859e936442a8f6f83e78c3"
+  },
+  "history": []
+}

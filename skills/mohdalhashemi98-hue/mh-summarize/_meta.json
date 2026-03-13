@@ -1,0 +1,11 @@
+{
+  "owner": "mohdalhashemi98-hue",
+  "slug": "mh-summarize",
+  "displayName": "MH summarize",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771957092270,
+    "commit": "https://github.com/openclaw/skills/commit/ef4e803a9420a16ec079f065bfa01e0a667a923d"
+  },
+  "history": []
+}

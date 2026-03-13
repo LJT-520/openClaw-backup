@@ -1,0 +1,11 @@
+{
+  "owner": "edsoneras",
+  "slug": "clinico-geral",
+  "displayName": "Clinico Geral",
+  "latest": {
+    "version": "1.0.20",
+    "publishedAt": 1772423652862,
+    "commit": "https://github.com/openclaw/skills/commit/67ad83a2848886b3a234cbb15512a685fff3a24e"
+  },
+  "history": []
+}

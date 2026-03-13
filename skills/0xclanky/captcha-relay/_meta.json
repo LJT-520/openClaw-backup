@@ -1,0 +1,17 @@
+{
+  "owner": "0xclanky",
+  "slug": "captcha-relay",
+  "displayName": "Captcha Relay",
+  "latest": {
+    "version": "2.1.0",
+    "publishedAt": 1771894394530,
+    "commit": "https://github.com/openclaw/skills/commit/06fbb1d4f1690109a6a68f4eed6df548dfbd2c71"
+  },
+  "history": [
+    {
+      "version": "2.0.0",
+      "publishedAt": 1771783259471,
+      "commit": "https://github.com/openclaw/skills/commit/f9d427e793b9a394330f787420981308f22f7e2b"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "clawplaza",
+  "slug": "clawwork-genesis",
+  "displayName": "ClawWork Genesis",
+  "latest": {
+    "version": "8.0.1",
+    "publishedAt": 1772172577848,
+    "commit": "https://github.com/openclaw/skills/commit/7d59b8969a709dc32a9929ce17f8ddd12d413be2"
+  },
+  "history": [
+    {
+      "version": "6.1.1",
+      "publishedAt": 1771571785766,
+      "commit": "https://github.com/openclaw/skills/commit/43d5e138d3441129749f2d383c128dc57500e4eb"
+    }
+  ]
+}

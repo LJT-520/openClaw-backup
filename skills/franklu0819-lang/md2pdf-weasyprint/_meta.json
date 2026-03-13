@@ -1,0 +1,11 @@
+{
+  "owner": "franklu0819-lang",
+  "slug": "md2pdf-weasyprint",
+  "displayName": "Md2pdf WeasyPrint",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771697470434,
+    "commit": "https://github.com/openclaw/skills/commit/35a9428a8c171a6fd3042a082a959d46ce553083"
+  },
+  "history": []
+}

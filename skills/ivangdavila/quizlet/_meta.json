@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "quizlet",
+  "displayName": "Quizlet",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772553133879,
+    "commit": "https://github.com/openclaw/skills/commit/64e0ac3499937f942501046e7035c34a69bab400"
+  },
+  "history": []
+}

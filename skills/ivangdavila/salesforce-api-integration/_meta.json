@@ -1,0 +1,11 @@
+{
+  "owner": "ivangdavila",
+  "slug": "salesforce-api-integration",
+  "displayName": "Salesforce API Integration",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1771936996104,
+    "commit": "https://github.com/openclaw/skills/commit/4b8ec2b3d9d1ef940875acc281fed91792f555ee"
+  },
+  "history": []
+}

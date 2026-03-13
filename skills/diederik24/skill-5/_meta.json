@@ -1,0 +1,11 @@
+{
+  "owner": "diederik24",
+  "slug": "skill-5",
+  "displayName": "Video Generator",
+  "latest": {
+    "version": "0.1.0",
+    "publishedAt": 1772011764683,
+    "commit": "https://github.com/openclaw/skills/commit/fcec475f8101b7e4a978afe38a5fc0e4789d0102"
+  },
+  "history": []
+}

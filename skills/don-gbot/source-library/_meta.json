@@ -1,0 +1,11 @@
+{
+  "owner": "don-gbot",
+  "slug": "source-library",
+  "displayName": "Source Library",
+  "latest": {
+    "version": "2.1.1",
+    "publishedAt": 1771711731934,
+    "commit": "https://github.com/openclaw/skills/commit/0ff1c01681d1a166c5211884e17c4c7afbec8530"
+  },
+  "history": []
+}

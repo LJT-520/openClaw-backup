@@ -1,0 +1,11 @@
+{
+  "owner": "g4dr",
+  "slug": "tiktok-trend-radar",
+  "displayName": "Automated TikTok & Instagram Trend Radar",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772102908797,
+    "commit": "https://github.com/openclaw/skills/commit/0ee4932b576ed4eee5feb200523f67fee28de7f1"
+  },
+  "history": []
+}

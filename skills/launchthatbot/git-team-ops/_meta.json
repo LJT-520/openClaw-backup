@@ -1,0 +1,11 @@
+{
+  "owner": "launchthatbot",
+  "slug": "git-team-ops",
+  "displayName": "Git Team Ops",
+  "latest": {
+    "version": "0.1.5",
+    "publishedAt": 1772567292281,
+    "commit": "https://github.com/openclaw/skills/commit/a15020f597e7f15b37aa0479ab12824c82a3082f"
+  },
+  "history": []
+}

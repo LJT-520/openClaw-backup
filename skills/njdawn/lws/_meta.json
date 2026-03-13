@@ -1,0 +1,11 @@
+{
+  "owner": "njdawn",
+  "slug": "lws",
+  "displayName": "Local Wallet Standard",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772250780928,
+    "commit": "https://github.com/openclaw/skills/commit/e42fea80258459993d2d288a71fbce6ecab40f5a"
+  },
+  "history": []
+}

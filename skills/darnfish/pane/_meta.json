@@ -1,0 +1,11 @@
+{
+  "owner": "darnfish",
+  "slug": "pane",
+  "displayName": "Pane",
+  "latest": {
+    "version": "1.0.3",
+    "publishedAt": 1772338819526,
+    "commit": "https://github.com/openclaw/skills/commit/2be02f13190531ad8c5a0809ee71e6543e4838b8"
+  },
+  "history": []
+}

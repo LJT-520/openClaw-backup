@@ -1,0 +1,47 @@
+{
+  "owner": "efe-arv",
+  "slug": "sigil-security",
+  "displayName": "Skill",
+  "latest": {
+    "version": "4.2.1",
+    "publishedAt": 1772104549935,
+    "commit": "https://github.com/openclaw/skills/commit/4f3ed2fb6c01314b6d3d39ec3c731edc961072f0"
+  },
+  "history": [
+    {
+      "version": "4.0.1",
+      "publishedAt": 1772048318313,
+      "commit": "https://github.com/openclaw/skills/commit/186942855677726b44aa7bbcc789302a45c29791"
+    },
+    {
+      "version": "4.0.0",
+      "publishedAt": 1772047805439,
+      "commit": "https://github.com/openclaw/skills/commit/cd9749c3eab623eb0c3227716a6db8ae641d58f2"
+    },
+    {
+      "version": "2.3.1",
+      "publishedAt": 1772031469325,
+      "commit": "https://github.com/openclaw/skills/commit/79e365234dd8125fa075925f874d06e54f4595a4"
+    },
+    {
+      "version": "2.1.1",
+      "publishedAt": 1772026989655,
+      "commit": "https://github.com/openclaw/skills/commit/6b2a2cec18e26c50cf4a4b4a2ca72f959432b509"
+    },
+    {
+      "version": "1.4.0",
+      "publishedAt": 1771270186726,
+      "commit": "https://github.com/openclaw/skills/commit/d528bef3ba4d6c6ca4cfa278c1858df723454ae6"
+    },
+    {
+      "version": "1.0.9",
+      "publishedAt": 1771169612060,
+      "commit": "https://github.com/openclaw/skills/commit/564ef7597f802fa0aa5b26f61030c668fadd600c"
+    },
+    {
+      "version": "1.0.8",
+      "publishedAt": 1771077864945,
+      "commit": "https://github.com/openclaw/skills/commit/a1eac39fed0354b4f19c88a696dd32622888b61b"
+    }
+  ]
+}

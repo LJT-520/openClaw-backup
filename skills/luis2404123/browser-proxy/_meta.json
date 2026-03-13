@@ -1,0 +1,11 @@
+{
+  "owner": "luis2404123",
+  "slug": "browser-proxy",
+  "displayName": "Browser Proxy",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772554336501,
+    "commit": "https://github.com/openclaw/skills/commit/fff49106d69eeccbd7dc582970e8cc6fb2dd7380"
+  },
+  "history": []
+}

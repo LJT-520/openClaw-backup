@@ -1,0 +1,11 @@
+{
+  "owner": "andyxinweiminicloud",
+  "slug": "skill-dependency-chain-auditor",
+  "displayName": "Skill Dependency Chain Auditor",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771856891773,
+    "commit": "https://github.com/openclaw/skills/commit/7bdf88ee017f840f701a6bb7abcddf47afe93d8e"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "1kalin",
+  "slug": "afrexai-hvac",
+  "displayName": "HVAC Business Operations",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772315000726,
+    "commit": "https://github.com/openclaw/skills/commit/b575ed1beda1cc1c4dd9dc15ec26200cccb10566"
+  },
+  "history": []
+}

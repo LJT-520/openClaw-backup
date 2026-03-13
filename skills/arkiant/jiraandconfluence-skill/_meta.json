@@ -1,0 +1,11 @@
+{
+  "owner": "arkiant",
+  "slug": "jiraandconfluence-skill",
+  "displayName": "Jiraandconfluence Skill",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771844207340,
+    "commit": "https://github.com/openclaw/skills/commit/433a7ca86bcd0d24febce19eb23282ec5a1bf5bf"
+  },
+  "history": []
+}

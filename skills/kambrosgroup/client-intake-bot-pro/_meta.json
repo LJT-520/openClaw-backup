@@ -1,0 +1,11 @@
+{
+  "owner": "kambrosgroup",
+  "slug": "client-intake-bot-pro",
+  "displayName": "Client Intake Bot Pro",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771814848498,
+    "commit": "https://github.com/openclaw/skills/commit/895cbbdfd24da5e137f40ccc2e94594c5835f0d6"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "blake-lucas",
+  "slug": "signal",
+  "displayName": "Signal",
+  "latest": {
+    "version": "1.0.2",
+    "publishedAt": 1771879671516,
+    "commit": "https://github.com/openclaw/skills/commit/bad41f0b4e8e728607f050c467ef9da4cd9ee1d2"
+  },
+  "history": []
+}

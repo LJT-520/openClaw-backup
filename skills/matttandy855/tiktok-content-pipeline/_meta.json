@@ -1,0 +1,11 @@
+{
+  "owner": "matttandy855",
+  "slug": "tiktok-content-pipeline",
+  "displayName": "TikTok Content Pipeline",
+  "latest": {
+    "version": "1.0.4",
+    "publishedAt": 1772236839443,
+    "commit": "https://github.com/openclaw/skills/commit/9d874a99e1b90d0456609d5f52e54d518fde5632"
+  },
+  "history": []
+}

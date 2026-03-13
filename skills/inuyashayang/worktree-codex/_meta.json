@@ -1,0 +1,17 @@
+{
+  "owner": "inuyashayang",
+  "slug": "worktree-codex",
+  "displayName": "Worktree Codex Parallel",
+  "latest": {
+    "version": "1.1.4",
+    "publishedAt": 1772529106894,
+    "commit": "https://github.com/openclaw/skills/commit/789eef64e8e5ce082ce7de9da38fb50dc5bfd9dc"
+  },
+  "history": [
+    {
+      "version": "1.0.3",
+      "publishedAt": 1772526891193,
+      "commit": "https://github.com/openclaw/skills/commit/0ada12e6d18e438e3d7ded25162e67c65dbb4ed7"
+    }
+  ]
+}

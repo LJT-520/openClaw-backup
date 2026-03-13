@@ -1,0 +1,11 @@
+{
+  "owner": "mohdalhashemi98-hue",
+  "slug": "mh-1password",
+  "displayName": "MH 1password",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771938839269,
+    "commit": "https://github.com/openclaw/skills/commit/a15974120ba47d8cb622715571b53701a0d8a90f"
+  },
+  "history": []
+}

@@ -1,0 +1,17 @@
+{
+  "owner": "leadingot",
+  "slug": "opusflame-deep-research",
+  "displayName": "OpusFlame Deep Research",
+  "latest": {
+    "version": "2.0.0",
+    "publishedAt": 1771994042570,
+    "commit": "https://github.com/openclaw/skills/commit/eda5feaa2f5d4f33e302671f35db94f24f978f2c"
+  },
+  "history": [
+    {
+      "version": "1.0.0",
+      "publishedAt": 1771873116347,
+      "commit": "https://github.com/openclaw/skills/commit/5b3b8ebc1e4b50275c56f2fa12ba8f23f70c53ab"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "mupengi-bot",
+  "slug": "hwp-reader",
+  "displayName": "hwp-reader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772292818716,
+    "commit": "https://github.com/openclaw/skills/commit/1cf24371147d4c5ce7114298a12f7d4ad18cf01a"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "jackeven02",
+  "slug": "email-reader",
+  "displayName": "Email Reader",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1771938949063,
+    "commit": "https://github.com/openclaw/skills/commit/ad6fbecb80a854a220baa347d40260c640b70a9d"
+  },
+  "history": []
+}

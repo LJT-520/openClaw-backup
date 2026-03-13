@@ -1,0 +1,11 @@
+{
+  "owner": "mhmalvi",
+  "slug": "google-sheets-reporting",
+  "displayName": "Google Sheets Reporting",
+  "latest": {
+    "version": "1.0.1",
+    "publishedAt": 1772560388139,
+    "commit": "https://github.com/openclaw/skills/commit/a5d5f2c729a3c9c5ed149c25ce4895b854a8b05d"
+  },
+  "history": []
+}

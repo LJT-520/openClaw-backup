@@ -1,0 +1,11 @@
+{
+  "owner": "mrsarac",
+  "slug": "rune-prompt-amplification",
+  "displayName": "RUNE Prompt Amplification",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772311016828,
+    "commit": "https://github.com/openclaw/skills/commit/cdf57ac0c884233c13c70880566ea7bc72d74fef"
+  },
+  "history": []
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "flynndavid",
+  "slug": "paywall-upgrade-designer",
+  "displayName": "Paywall Upgrade Designer",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772522554232,
+    "commit": "https://github.com/openclaw/skills/commit/de4227d1c9e492b970466711601ede5f789a877f"
+  },
+  "history": []
+}
